@@ -248,7 +248,8 @@ body[data-theme="dusk"] .ic-moon { display: none; }
   align-self: flex-end; padding-bottom: 7px;
 }
 .col-filter { max-width: 440px; margin: 0 0 22px; padding: 11px 18px; }
-.col-filter input { font-size: 15.5px; }
+/* 16px minimum: iOS Safari auto-zooms on focus for anything smaller */
+.col-filter input { font-size: 16px; }
 
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(252px, 1fr)); gap: 12px; }
 
@@ -519,14 +520,35 @@ body[data-view="trans"] .seg-row { margin-bottom: 24px; }
 /* ───────────────── responsive ───────────────── */
 
 @media (max-width: 780px) {
+  /* side-by-side collapses to stacked */
   body[data-view="side"] .seg-row { display: block; }
   body[data-view="side"] .seg-row::before { display: none; }
   body[data-view="side"] .pali {
     border-left: 2.5px solid color-mix(in srgb, var(--accent) 38%, transparent);
     padding-left: 16px; margin-bottom: 12px;
   }
-  .toolbar { flex-wrap: wrap; }
-  .tb-center { order: 3; width: 100%; justify-content: flex-start; overflow-x: auto; }
+
+  /* toolbar: two rows (view-mode control gets its own full-width row),
+     and it scrolls away with the page to give reading room back */
+  .toolbar { position: static; flex-wrap: wrap; gap: 8px; padding: 10px 16px 12px; }
+  .tb-center { order: 3; flex: 1 0 100%; }
+  .seg { width: 100%; }
+  .seg button { flex: 1; padding: 8px 6px; }
+  .tb-icon { padding: 8px 11px; }
+  .tb-right { margin-left: auto; }
+
+  /* shelf arrows are pointless on touch — rows swipe natively */
+  .shelf-nav { display: none; }
+
   .hero { padding-top: 46px; }
-  .sheet-card { max-height: 56vh; }
+  .page { padding-top: 26px; }
+  .sheet { padding: 0 10px calc(10px + env(safe-area-inset-bottom)); }
+  .sheet-card { max-height: 58vh; }
 }
+
+/* ───────────────── touch refinements ───────────────── */
+
+button, .w { -webkit-tap-highlight-color: transparent; }
+.w:active { background: var(--accent-wash); }
+.card:active { transform: scale(.985); }
+.shelf-row { overscroll-behavior-x: contain; }
