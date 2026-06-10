@@ -517,8 +517,13 @@ body[data-view="trans"] .seg-row { margin-bottom: 24px; }
   padding-inline-start: 14px;
 }
 
-/* Farsi text inside the definition sheet */
-.sheet-body [lang="fa"] { font-family: var(--fa-font); line-height: 1.9; }
+/* Farsi entries in the definition sheet: the whole entry is one RTL block
+   (labels included) so it mirrors the English layout; Pāli stays LTR via
+   <bdi>. Letter-spacing is dropped — it breaks joined Persian script. */
+.sheet-body .entry.fa { font-family: var(--fa-font); line-height: 1.9; }
+.sheet-body .entry.fa .sheet-sec { letter-spacing: 0; font-size: 12.5px; }
+.sheet-body .entry.fa .sheet-word { font-family: var(--display); }
+.sheet-body .sheet-nf[lang="fa"] { font-family: var(--fa-font); line-height: 1.9; }
 .sheet-nf { font-size: 15px; color: var(--ink-2); font-style: italic; margin: 10px 0 0; }
 .sheet-glossnote { font-size: 14px; color: var(--ink-2); margin: 14px 0 0; padding-top: 12px; border-top: 1px dashed var(--line); }
 .sheet-glossnote b { font-style: italic; color: var(--pali); }

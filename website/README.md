@@ -5,6 +5,10 @@ full-text search, and tap-to-define Pāli vocabulary.
 
 **Live site:** https://flippydippy.github.io/suttaloka/
 
+**Format reference:** every hand-edited format (sutta markdown, both
+dictionaries, blurbs/chapters, and the definition-sheet layout contract) is
+specified in [FORMATS.md](FORMATS.md).
+
 ## Run it locally
 
 ```bash

@@ -431,6 +431,12 @@
     fa: { hw: "سرواژه:", bd: "ساختار واژه", gx: "در سنت گوئنکا", gl: "در واژه‌نامه‌ی این سوتا" },
   };
 
+  // Wrap Latin/Pāli runs (incl. √ roots and references like "AN 10.60") in
+  // LTR isolates so they don't get reordered inside right-to-left Persian
+  // text — without this, "√vid" renders as "vid√". Plain text only.
+  const LATIN_RUN = /[A-Za-z√0-9ĀĪŪṀṄÑṬḌṆḶāīūṁṅñṭḍṇḷ][A-Za-z√0-9.’'\- ĀĪŪṀṄÑṬḌṆḶāīūṁṅñṭḍṇḷ]*[A-Za-z√0-9ĀĪŪṀṄÑṬḌṆḶāīūṁṅñṭḍṇḷ]|[A-Za-z√0-9]/g;
+  const faText = (s) => esc(s).replace(LATIN_RUN, '<bdi dir="ltr">$&</bdi>');
+
   function renderEntryHTML(res) {
     const { token, headword, glossHit } = res;
     const isFa = document.body.dataset.lang === "fa";
@@ -438,26 +444,29 @@
     // fallback to English for anything not yet translated)
     const faEntry = isFa && headword ? DICT_FA[headword] : null;
     const entry = res.entry && faEntry ? Object.assign({}, res.entry, faEntry) : res.entry;
-    const L = SHEET_L10N[faEntry || (isFa && !res.entry) ? "fa" : "en"] || SHEET_L10N.en;
-    const rtl = faEntry ? ' dir="rtl" lang="fa"' : ' dir="auto"';
+    const useFa = !!faEntry || (isFa && !res.entry);
+    const L = SHEET_L10N[useFa ? "fa" : "en"];
+    // the whole sheet renders in ONE direction so labels, text, and bullets
+    // line up the same way the English sheet does — Pāli stays LTR via <bdi>
+    const text = useFa ? faText : esc;
 
-    let html = `<h3 class="sheet-word">${esc(token)}`;
+    let html = `<h3 class="sheet-word"><bdi dir="ltr">${esc(token)}</bdi>`;
     if (headword && fold(headword) !== fold(token))
-      html += ` <span class="hw">${L.hw} <i>${esc(headword)}</i></span>`;
+      html += ` <span class="hw">${L.hw} <i><bdi dir="ltr">${esc(headword)}</bdi></i></span>`;
     html += `</h3>`;
 
     if (entry) {
-      if (entry.gram) html += `<p class="sheet-gram"${rtl}>${esc(entry.gram)}</p>`;
-      html += `<p class="sheet-meaning"${rtl}>${esc(entry.meaning)}</p>`;
-      if (entry.summary) html += `<p class="sheet-summary"${rtl}>${esc(entry.summary)}</p>`;
+      if (entry.gram) html += `<p class="sheet-gram">${text(entry.gram)}</p>`;
+      html += `<p class="sheet-meaning">${text(entry.meaning)}</p>`;
+      if (entry.summary) html += `<p class="sheet-summary">${text(entry.summary)}</p>`;
       if (entry.breakdown && entry.breakdown.length) {
         html += `<p class="sheet-sec">${L.bd}</p><ul class="bd-list">` +
-          entry.breakdown.map(([p, d]) => `<li${rtl}><b dir="ltr">${esc(p)}</b> — ${esc(d)}</li>`).join("") +
+          entry.breakdown.map(([p, d]) => `<li><b dir="ltr">${esc(p)}</b> — ${text(d)}</li>`).join("") +
           `</ul>`;
       }
       if (entry.goenka) {
         html += `<p class="sheet-sec">${L.gx}</p>
-                 <p class="sheet-gx"${rtl}>${esc(entry.goenka)}</p>`;
+                 <p class="sheet-gx">${text(entry.goenka)}</p>`;
       }
     }
 
@@ -465,16 +474,18 @@
     // or (in Farsi mode without a translated entry) the Farsi rendering
     if (glossHit && (!entry || fold(glossHit.word) !== fold(headword || "") ||
         (isFa && !faEntry))) {
-      html += `<p class="sheet-glossnote" dir="auto">${L.gl} — <b>${esc(glossHit.word)}</b>: ${glossHit.gloss}${glossHit.goenka ? ` <span class="g-gx">${glossHit.goenka}</span>` : ""}</p>`;
+      html += `<p class="sheet-glossnote">${L.gl} — <b><bdi dir="ltr">${esc(glossHit.word)}</bdi></b>: ${glossHit.gloss}${glossHit.goenka ? ` <span class="g-gx">${glossHit.goenka}</span>` : ""}</p>`;
     }
 
     if (!entry && glossHit) {
-      // glossary-only entry: surface it prominently
-      html = `<h3 class="sheet-word">${esc(token)} <span class="hw">${L.hw} <i>${esc(glossHit.word)}</i></span></h3>
-        <p class="sheet-meaning" dir="auto">${glossHit.gloss}</p>` +
-        (glossHit.goenka ? `<p class="sheet-sec">${L.gx}</p><p class="sheet-gx" dir="auto">${glossHit.goenka}</p>` : "");
+      // glossary-only entry: same layout as a full entry, minus the
+      // sections the glossary doesn't have
+      html = `<h3 class="sheet-word"><bdi dir="ltr">${esc(token)}</bdi> <span class="hw">${L.hw} <i><bdi dir="ltr">${esc(glossHit.word)}</bdi></i></span></h3>
+        <p class="sheet-meaning">${glossHit.gloss}</p>` +
+        (glossHit.goenka ? `<p class="sheet-sec">${L.gx}</p><p class="sheet-gx">${glossHit.goenka}</p>` : "");
     }
-    return html;
+
+    return `<div class="entry${useFa ? " fa" : ""}"${useFa ? ' dir="rtl" lang="fa"' : ""}>${html}</div>`;
   }
 
   function openSheetFor(el) {
