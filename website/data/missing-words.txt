@@ -1,0 +1,1091 @@
+paripūreti	47	AN 10.61, AN 10.62
+Ko	36	AN 10.61, AN 10.62, Iti 22
+vadāmi	35	AN 10.61, AN 10.62
+cāhāro	35	AN 10.61, AN 10.62
+vacanīyaṁ	35	AN 10.61, AN 10.62
+paripūrenti	32	AN 10.61, AN 10.62
+paripūrā	30	AN 10.61, AN 10.62
+etadahosi	26	SN 12.4, Ud 8.5, Iti 22
+nu	23	SN 12.4, Iti 22
+kimhi	22	SN 12.4
+ahu	22	SN 12.4
+paripūro	21	AN 10.61, AN 10.62
+pe	18	SN 12.2, SN 12.3, SN 12.4, AN 10.60, AN 10.62, Ud 8.5, Ud 8.7
+paripūraṁ	18	AN 10.61, AN 10.62
+sikkhati	16	AN 10.60
+Evametassa	13	SN 12.2, SN 12.3, SN 12.4, AN 10.61, AN 10.62, Ud 1.1, Ud 1.1, 1.2, 1.3
+evañca	12	AN 10.61, AN 10.62
+yaṁ	11	MN 21, SN 12.2, AN 10.60, Kp 9, Ud 8.5
+kiṁpaccayā	11	SN 12.4
+pāripūri	10	AN 10.61, AN 10.62
+kevalassa	9	SN 12.2, SN 12.3, SN 12.4, Ud 1.1, Ud 1.1, 1.2, 1.3
+assasissāmī’ti	8	AN 10.60
+passasissāmī’ti	8	AN 10.60
+evametissā	8	AN 10.61, AN 10.62
+āmantesi	8	Ud 8.5
+Variant	7	MN 21, AN 10.61, AN 10.62
+paripūrāni	7	AN 10.61, AN 10.62
+viditvā	7	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
+kammāraputto	7	Ud 8.5
+āyasmatā	7	Ud 8.5, Ud 8.7
+dīgharattaṁ	6	MN 21, Iti 14, Iti 15, Iti 22
+bj	6	AN 10.61
+sya-all	6	AN 10.61
+pts1ed	6	AN 10.61
+sāhāre	6	AN 10.61, AN 10.62
+anāhāre	6	AN 10.61, AN 10.62
+Tīṇipāhaṁ	6	AN 10.61, AN 10.62
+pabbatakandarapadarasākhā	6	AN 10.61, AN 10.62
+kunnadiyo	6	AN 10.61, AN 10.62
+mahānadiyo	6	AN 10.61, AN 10.62
+velāyaṁ	6	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
+udānaṁ	6	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
+udānesi	6	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
+kammāraputtassa	6	Ud 8.5
+catugguṇaṁ	6	Ud 8.5
+nadī	6	Ud 8.5
+kammāraputtena	6	Ud 8.5
+Tatthetaṁ	6	Iti 2, Iti 7, Iti 14, Iti 15, Iti 22, Iti 24
+tamhā	5	SN 12.2, AN 10.60, Ud 1.1, Ud 1.1, 1.2, 1.3
+pubbe	5	SN 12.4, AN 10.61, AN 10.62, Sn 2.4 / Kp 5
+yadidaṁ	5	AN 10.60, Ud 1.1, Ud 1.1, 1.2, 1.3, Iti 22
+ye	5	AN 10.60, Kp 9, Iti 14
+udakaṁ	5	AN 10.61, AN 10.62, Ud 8.5
+vuṭṭhahitvā	5	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.9
+sūkaramaddavaṁ	5	Ud 8.5
+paṭissutvā	5	Ud 8.5
+pānīyaṁ	5	Ud 8.5
+upacitaṁ	5	Ud 8.5
+nāgasamālo	5	Ud 8.7
+sādhukaṁ	4	SN 12.2, SN 12.3, Ud 1.1, Ud 1.1, 1.2, 1.3
+Yā	4	SN 12.2, Sn 2.4 / Kp 5
+tamhi	4	SN 12.2
+Chayime	4	SN 12.2
+aññāṇaṁ	4	SN 12.2
+sabbasaṅkhāresu	4	AN 10.60
+nādhivāseti	4	AN 10.60
+vinodeti	4	AN 10.60
+byantīkaroti	4	AN 10.60
+anabhāvaṁ	4	AN 10.60
+gameti	4	AN 10.60
+Dīghaṁ	4	AN 10.60
+Rassaṁ	4	AN 10.60
+Passambhayaṁ	4	AN 10.60
+imā	4	AN 10.60
+sāhārāni	4	AN 10.61, AN 10.62
+anāhārāni	4	AN 10.61, AN 10.62
+uparipabbate	4	AN 10.61, AN 10.62
+thullaphusitake	4	AN 10.61, AN 10.62
+vassante	4	AN 10.61, AN 10.62
+yathāninnaṁ	4	AN 10.61, AN 10.62
+pavattamānaṁ	4	AN 10.61, AN 10.62
+kusobbhe	4	AN 10.61, AN 10.62
+mahāsobbhe	4	AN 10.61, AN 10.62
+mahāsamuddassa	4	AN 10.61, AN 10.62
+sāgarassa	4	AN 10.61, AN 10.62
+rattiyā	4	Sn 2.4 / Kp 5, Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.5
+yassa	4	Sn 2.4 / Kp 5, Ud 8.5
+kathāya	4	Ud 8.4, Ud 8.5
+bhikkhusaṅghena	4	Ud 8.5
+kammāraputtaṁ	4	Ud 8.5
+paṭiyattaṁ	4	Ud 8.5
+iṅgha	4	Ud 8.5
+saṅghāṭiṁ	4	Ud 8.5
+satthā	4	Ud 8.5
+piṇḍapātaṁ	4	Ud 8.5
+pantho	4	Ud 8.7
+gacchāmā”ti	4	Ud 8.7
+sandhāvanti	4	Iti 14, Iti 15
+corā	3	MN 21, Ud 8.7
+idañca	3	SN 12.2
+nāma	3	SN 12.4, Ud 8.5, Ud 8.9
+Catutthaṁ	3	SN 12.4, Iti 14, Iti 24
+Sace	3	AN 10.60, Iti 24
+anabhiratasaññā	3	AN 10.60
+anicchāsaññā	3	AN 10.60
+paṇītaṁ	3	AN 10.60, Ud 8.5
+Pañcapāhaṁ	3	AN 10.61
+Kusobbhā	3	AN 10.61, AN 10.62
+mahāsobbhā	3	AN 10.61, AN 10.62
+mahāsamuddaṁ	3	AN 10.61, AN 10.62
+sāgaraṁ	3	AN 10.61, AN 10.62
+bhāvaye	3	Kp 9, Iti 22
+accayena	3	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.5
+Yato	3	Ud 1.1, Ud 1.1, 1.2, 1.3, Iti 24
+mahatā	3	Ud 8.5
+Tatra	3	Ud 8.5, Iti 22
+sudaṁ	3	Ud 8.5, Iti 22
+bhattaṁ	3	Ud 8.5
+pakkāmi	3	Ud 8.5, Ud 8.7
+khādanīyaṁ	3	Ud 8.5
+bhojanīyaṁ	3	Ud 8.5
+sandati	3	Ud 8.5
+tatiyampi	3	Ud 8.5, Ud 8.7
+cakkacchinnā	3	Ud 8.5
+parittā	3	Ud 8.5
+luḷitā	3	Ud 8.5
+āvilā	3	Ud 8.5
+sandamānā	3	Ud 8.5
+upasaṅkamante	3	Ud 8.5
+acchā	3	Ud 8.5
+vippasannā	3	Ud 8.5
+anāvilā	3	Ud 8.5
+tattha	3	Ud 8.5, Iti 7
+āvuso	3	Ud 8.5
+paribhuñjitvā	3	Ud 8.5
+antarāmagge	3	Ud 8.7
+mallaputto	3	Ud 8.9
+vehāsaṁ	3	Ud 8.9
+abbhuggantvā	3	Ud 8.9
+ākāse	3	Ud 8.9
+antalikkhe	3	Ud 8.9
+pallaṅkena	3	Ud 8.9
+nisīditvā	3	Ud 8.9
+samāpajjitvā	3	Ud 8.9
+jhāyamānassa	3	Ud 8.9
+ḍayhamānassa	3	Ud 8.9
+neva	3	Ud 8.9
+chārikā	3	Ud 8.9
+nivutā	3	Iti 14
+pajā	3	Iti 14
+tatrāpi	2	MN 21
+yo	2	MN 21, Iti 7
+sikkhitabbaṁ	2	MN 21
+viharissāma	2	MN 21
+cetasā	2	MN 21
+pharitvā	2	MN 21
+Imañca	2	MN 21
+ovādaṁ	2	MN 21
+abhikkhaṇaṁ	2	MN 21
+desessāmi	2	SN 12.2, SN 12.3
+suṇātha	2	SN 12.2, SN 12.3
+karotha	2	SN 12.2, SN 12.3
+bhāsissāmī”ti	2	SN 12.2, SN 12.3
+paccassosuṁ	2	SN 12.2, SN 12.3
+sattanikāye	2	SN 12.2
+bhedo	2	SN 12.2
+Tayome	2	SN 12.2
+nāmaṁ	2	SN 12.2
+tveva	2	SN 12.2, SN 12.3
+nissaraṇaṁ	2	SN 12.4
+hidaṁ	2	SN 12.4
+ananussutesu	2	SN 12.4
+āloko	2	SN 12.4
+yenāyasmā	2	AN 10.60
+panetaṁ	2	AN 10.60
+uddhaṁ	2	AN 10.60, Kp 9
+adho	2	AN 10.60, Kp 9
+pittaṁ	2	AN 10.60
+lohitaṁ	2	AN 10.60
+seyyathidaṁ	2	AN 10.60, Iti 22
+sabbasaṅkhārasamatho	2	AN 10.60
+sabbūpadhippaṭinissaggo	2	AN 10.60
+taṇhākkhayo	2	AN 10.60
+cetaso	2	AN 10.60, Ud 8.4
+assasanto	2	AN 10.60
+assasāmī’ti	2	AN 10.60
+passasanto	2	AN 10.60
+passasāmī’ti	2	AN 10.60
+Sabbakāyapaṭisaṁvedī	2	AN 10.60
+kāyasaṅkhāraṁ	2	AN 10.60
+Pītipaṭisaṁvedī	2	AN 10.60
+Sukhapaṭisaṁvedī	2	AN 10.60
+Cittasaṅkhārapaṭisaṁvedī	2	AN 10.60
+cittasaṅkhāraṁ	2	AN 10.60
+Cittapaṭisaṁvedī	2	AN 10.60
+paṭinissaggānupassī	2	AN 10.60
+Yamakavagga	2	AN 10.61, AN 10.62
+Purimā	2	AN 10.61, AN 10.62
+koṭi	2	AN 10.61, AN 10.62
+ito	2	AN 10.61, AN 10.62
+nāhosi	2	AN 10.61, AN 10.62
+pacchā	2	AN 10.61, AN 10.62
+samabhavī’ti	2	AN 10.61, AN 10.62
+Evañcetaṁ	2	AN 10.61, AN 10.62
+idappaccayā	2	AN 10.61, AN 10.62
+galagalāyante	2	AN 10.61
+mr	2	AN 10.61
+Sattapāhaṁ	2	AN 10.61, AN 10.62
+sattannaṁ	2	AN 10.61, AN 10.62
+Cattāropāhaṁ	2	AN 10.61, AN 10.62
+pāripūrī”ti	2	AN 10.61, AN 10.62
+assaddhammassavanaṁ	2	AN 10.62
+devatā	2	Sn 2.4 / Kp 5
+saṅgaho	2	Sn 2.4 / Kp 5
+Kālena	2	Sn 2.4 / Kp 5
+dassanaṁ	2	Sn 2.4 / Kp 5
+padaṃ	2	Kp 9, Ud 8.5
+sukhitattā	2	Kp 9
+avidūre	2	Kp 9, Ud 8.5
+Mānasaṃ	2	Kp 9
+aparimānaṃ	2	Kp 9
+najjā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+tīre	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+bodhirukkhamūle	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+paṭhamābhisambuddho	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+sattāhaṁ	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+ekapallaṅkena	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+sattāhassa	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+yāmaṁ	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+manasākāsi	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+imassuppādā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+Yadā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+have	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+pātubhavanti	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+jhāyato	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+kaṅkhā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+vapayanti	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+sahetudhamman”ti	2	Ud 1.1, Ud 1.1, 1.2, 1.3
+mallesu	2	Ud 8.5
+cārikaṁ	2	Ud 8.5
+caramāno	2	Ud 8.5
+pāvāyaṁ	2	Ud 8.5
+Adhivāsesi	2	Ud 8.5
+padakkhiṇaṁ	2	Ud 8.5, Ud 8.9
+kālaṁ	2	Ud 8.5, Ud 8.9
+āsane	2	Ud 8.5
+Nisajja	2	Ud 8.5
+panaññaṁ	2	Ud 8.5
+bhikkhusaṅghaṁ	2	Ud 8.5
+parivisi	2	Ud 8.5
+avasiṭṭhaṁ	2	Ud 8.5
+sobbhe	2	Ud 8.5
+uṭṭhāyāsanā	2	Ud 8.5, Ud 8.9
+bhuñjitvā	2	Ud 8.5
+paññāpehi	2	Ud 8.5
+kilantosmi	2	Ud 8.5
+paññāpesi	2	Ud 8.5
+āhara	2	Ud 8.5
+pipāsitosmi	2	Ud 8.5
+pivissāmī”ti	2	Ud 8.5
+kukudhā	2	Ud 8.5
+Dutiyampi	2	Ud 8.5, Ud 8.7
+acchariyaṁ	2	Ud 8.5
+vata	2	Ud 8.5
+bho	2	Ud 8.5
+abbhutaṁ	2	Ud 8.5
+mahiddhikatā	2	Ud 8.5
+mahānubhāvatā	2	Ud 8.5
+Ayañhi	2	Ud 8.5
+Pattena	2	Ud 8.5, Ud 8.7
+Pivatu	2	Ud 8.5
+kukudhaṁ	2	Ud 8.5
+nhatvā	2	Ud 8.5
+pivitvā	2	Ud 8.5
+ambavanaṁ	2	Ud 8.5
+cundakaṁ	2	Ud 8.5
+cundaka	2	Ud 8.5
+cundako	2	Ud 8.5
+tattheva	2	Ud 8.5, Ud 8.7
+sukilantarūpo	2	Ud 8.5
+pacchimaṁ	2	Ud 8.5
+Cundassānanda	2	Ud 8.5
+vippaṭisāro	2	Ud 8.5
+Sammukhā	2	Ud 8.5
+piṇḍapātā	2	Ud 8.5
+samasamaphalā	2	Ud 8.5
+samasamavipākā	2	Ud 8.5
+ativiya	2	Ud 8.5
+aññehi	2	Ud 8.5
+piṇḍapātehi	2	Ud 8.5
+mahapphalatarā	2	Ud 8.5
+mahānisaṁsatarā	2	Ud 8.5
+Yañca	2	Ud 8.5
+pāpakaṁ	2	Ud 8.5, Ud 8.7
+Pañcamaṁ	2	Ud 8.5, Iti 15
+nāgasamālaṁ	2	Ud 8.7
+nāgasamāla	2	Ud 8.7
+panthena	2	Ud 8.7
+nikkhamitvā	2	Ud 8.7
+hatthehi	2	Ud 8.7
+pādehi	2	Ud 8.7
+ākoṭesuṁ	2	Ud 8.7
+pattañca	2	Ud 8.7
+bhindiṁsu	2	Ud 8.7
+Sattamaṁ	2	Ud 8.7, Iti 7
+mallaputtassa	2	Ud 8.9
+parinibbutassa	2	Ud 8.9
+sarīrassa	2	Ud 8.9
+paññāyittha	2	Ud 8.9
+masi	2	Ud 8.9
+Sa	2	Iti 7, Iti 24
+aññaṁ	2	Iti 14, Iti 15
+samanupassāmi	2	Iti 14, Iti 15
+saṁyuttā	2	Iti 15
+panāhaṁ	2	Iti 22
+kappe	2	Iti 22
+homi	2	Iti 22
+phalaṁ	2	Iti 22
+vipāko	2	Iti 22
+yenāhaṁ	2	Iti 22
+etarahi	2	Iti 22
+evaṁmahiddhiko	2	Iti 22
+mahā	2	Iti 24
+vepullo	2	Iti 24
+pabbato	2	Iti 24
+Ubhatodaṇḍakena	1	MN 21
+cepi	1	MN 21
+kakacena	1	MN 21
+ocarakā	1	MN 21
+aṅgamaṅgāni	1	MN 21
+okanteyyuṁ	1	MN 21
+padūseyya	1	MN 21
+sāsanakaro	1	MN 21
+ceva	1	MN 21
+vipariṇataṁ	1	MN 21
+pāpikaṁ	1	MN 21
+vācaṁ	1	MN 21
+nicchāressāma	1	MN 21
+hitānukampī	1	MN 21
+dosantarā	1	MN 21
+Tañca	1	MN 21
+puggalaṁ	1	MN 21
+tadārammaṇañca	1	MN 21
+sabbāvantaṁ	1	MN 21
+vipulena	1	MN 21
+mahaggatena	1	MN 21
+appamāṇena	1	MN 21
+averena	1	MN 21
+abyābajjhena	1	MN 21
+viharissāmā’ti	1	MN 21
+Evañhi	1	MN 21
+kareyyātha	1	MN 21
+imañce	1	MN 21
+vacanapathaṁ	1	MN 21
+aṇuṁ	1	MN 21
+thūlaṁ	1	MN 21
+nādhivāseyyāthā”ti	1	MN 21
+hetaṁ	1	MN 21
+Tasmātiha	1	MN 21
+manasikarotha	1	MN 21
+hitāya	1	MN 21
+Idamavoca	1	MN 21
+Attamanā	1	MN 21
+abhinandunti	1	MN 21
+vibhajissāmi	1	SN 12.2
+jīraṇatā	1	SN 12.2
+khaṇḍiccaṁ	1	SN 12.2
+pāliccaṁ	1	SN 12.2
+valittacatā	1	SN 12.2
+āyuno	1	SN 12.2
+saṁhāni	1	SN 12.2
+paripāko	1	SN 12.2
+sattanikāyā	1	SN 12.2
+cuti	1	SN 12.2
+cavanatā	1	SN 12.2
+antaradhānaṁ	1	SN 12.2
+kālakiriyā	1	SN 12.2
+kaḷevarassa	1	SN 12.2
+nikkhepo	1	SN 12.2
+ayañca	1	SN 12.2
+sañjāti	1	SN 12.2
+okkanti	1	SN 12.2
+abhinibbatti	1	SN 12.2
+pātubhāvo	1	SN 12.2
+paṭilābho	1	SN 12.2
+kāmabhavo	1	SN 12.2
+rūpabhavo	1	SN 12.2
+arūpabhavo	1	SN 12.2
+Cattārimāni	1	SN 12.2
+kāmupādānaṁ	1	SN 12.2
+diṭṭhupādānaṁ	1	SN 12.2
+sīlabbatupādānaṁ	1	SN 12.2
+attavādupādānaṁ	1	SN 12.2
+rūpataṇhā	1	SN 12.2
+saddataṇhā	1	SN 12.2
+gandhataṇhā	1	SN 12.2
+rasatahā	1	SN 12.2
+phoṭṭhabbataṇhā	1	SN 12.2
+dhammataṇhā	1	SN 12.2
+cakkhusamphassajā	1	SN 12.2
+sotasamphassajā	1	SN 12.2
+ghānasamphassajā	1	SN 12.2
+jivhāsamphassajā	1	SN 12.2
+kāyasamphassajā	1	SN 12.2
+manosamphassajā	1	SN 12.2
+cakkhusamphasso	1	SN 12.2
+sotasamphasso	1	SN 12.2
+ghānasamphasso	1	SN 12.2
+jivhāsamphasso	1	SN 12.2
+kāyasamphasso	1	SN 12.2
+manosamphasso	1	SN 12.2
+Cakkhāyatanaṁ	1	SN 12.2
+sotāyatanaṁ	1	SN 12.2
+ghānāyatanaṁ	1	SN 12.2
+jivhāyatanaṁ	1	SN 12.2
+kāyāyatanaṁ	1	SN 12.2
+manāyatanaṁ	1	SN 12.2
+catunnañca	1	SN 12.2
+cakkhuviññāṇaṁ	1	SN 12.2
+sotaviññāṇaṁ	1	SN 12.2
+ghānaviññāṇaṁ	1	SN 12.2
+jivhāviññāṇaṁ	1	SN 12.2
+kāyaviññāṇaṁ	1	SN 12.2
+manoviññāṇaṁ	1	SN 12.2
+Kateme	1	SN 12.2
+kāyasaṅkhāro	1	SN 12.2
+vacīsaṅkhāro	1	SN 12.2
+cittasaṅkhāro	1	SN 12.2
+dukkhasamudaye	1	SN 12.2
+dukkhanirodhe	1	SN 12.2
+dukkhanirodhagāminiyā	1	SN 12.2
+pubbeva	1	SN 12.4
+sambodhā	1	SN 12.4
+anabhisambuddhassa	1	SN 12.4
+kicchaṁ	1	SN 12.4
+vatāyaṁ	1	SN 12.4
+āpanno	1	SN 12.4
+jāyati	1	SN 12.4
+jīyati	1	SN 12.4
+mīyati	1	SN 12.4
+cavati	1	SN 12.4
+upapajjati	1	SN 12.4
+panimassa	1	SN 12.4
+nappajānāti	1	SN 12.4
+Kudāssu	1	SN 12.4
+paññāyissati	1	SN 12.4
+Sattannampi	1	SN 12.4
+vitthāretabbo	1	SN 12.4
+upādāyā”ti	1	AN 10.60
+paṭippassambheyya	1	AN 10.60
+saddā	1	AN 10.60
+gandhā	1	AN 10.60
+rasā	1	AN 10.60
+phoṭṭhabbā	1	AN 10.60
+pādatalā	1	AN 10.60
+kesamatthakā	1	AN 10.60
+tacapariyantaṁ	1	AN 10.60
+pūraṁ	1	AN 10.60
+nānāppakārassa	1	AN 10.60
+asucino	1	AN 10.60
+paccavekkhati	1	AN 10.60
+kesā	1	AN 10.60
+lomā	1	AN 10.60
+nakhā	1	AN 10.60
+dantā	1	AN 10.60
+taco	1	AN 10.60
+maṁsaṁ	1	AN 10.60
+nhāru	1	AN 10.60
+aṭṭhi	1	AN 10.60
+aṭṭhimiñjaṁ	1	AN 10.60
+vakkaṁ	1	AN 10.60
+hadayaṁ	1	AN 10.60
+yakanaṁ	1	AN 10.60
+kilomakaṁ	1	AN 10.60
+pihakaṁ	1	AN 10.60
+papphāsaṁ	1	AN 10.60
+antaṁ	1	AN 10.60
+antaguṇaṁ	1	AN 10.60
+udariyaṁ	1	AN 10.60
+karīsaṁ	1	AN 10.60
+semhaṁ	1	AN 10.60
+pubbo	1	AN 10.60
+sedo	1	AN 10.60
+medo	1	AN 10.60
+vasā	1	AN 10.60
+kheḷo	1	AN 10.60
+siṅghāṇikā	1	AN 10.60
+lasikā	1	AN 10.60
+muttan’ti	1	AN 10.60
+bahudukkho	1	AN 10.60
+bahuādīnavo	1	AN 10.60
+vividhā	1	AN 10.60
+cakkhurogo	1	AN 10.60
+sotarogo	1	AN 10.60
+ghānarogo	1	AN 10.60
+jivhārogo	1	AN 10.60
+kāyarogo	1	AN 10.60
+sīsarogo	1	AN 10.60
+kaṇṇarogo	1	AN 10.60
+mukharogo	1	AN 10.60
+dantarogo	1	AN 10.60
+oṭṭharogo	1	AN 10.60
+kāso	1	AN 10.60
+sāso	1	AN 10.60
+pināso	1	AN 10.60
+ḍāho	1	AN 10.60
+kucchirogo	1	AN 10.60
+mucchā	1	AN 10.60
+pakkhandikā	1	AN 10.60
+sūlā	1	AN 10.60
+visūcikā	1	AN 10.60
+kuṭṭhaṁ	1	AN 10.60
+gaṇḍo	1	AN 10.60
+kilāso	1	AN 10.60
+soso	1	AN 10.60
+apamāro	1	AN 10.60
+daddu	1	AN 10.60
+kaṇḍu	1	AN 10.60
+kacchu	1	AN 10.60
+nakhasā	1	AN 10.60
+vitacchikā	1	AN 10.60
+madhumeho	1	AN 10.60
+aṁsā	1	AN 10.60
+piḷakā	1	AN 10.60
+bhagandalā	1	AN 10.60
+pittasamuṭṭhānā	1	AN 10.60
+semhasamuṭṭhānā	1	AN 10.60
+vātasamuṭṭhānā	1	AN 10.60
+sannipātikā	1	AN 10.60
+utupariṇāmajā	1	AN 10.60
+visamaparihārajā	1	AN 10.60
+opakkamikā	1	AN 10.60
+kammavipākajā	1	AN 10.60
+sītaṁ	1	AN 10.60
+uṇhaṁ	1	AN 10.60
+jighacchā	1	AN 10.60
+pipāsā	1	AN 10.60
+uccāro	1	AN 10.60
+passāvo’ti	1	AN 10.60
+ādīnavānupassī	1	AN 10.60
+kāmavitakkaṁ	1	AN 10.60
+byāpādavitakkaṁ	1	AN 10.60
+vihiṁsāvitakkaṁ	1	AN 10.60
+Uppannuppanne	1	AN 10.60
+pāpake	1	AN 10.60
+akusale	1	AN 10.60
+adhiṭṭhānābhinivesānusayā	1	AN 10.60
+anupādiyanto	1	AN 10.60
+aṭṭīyati	1	AN 10.60
+harāyati	1	AN 10.60
+jigucchati	1	AN 10.60
+pallaṅkaṁ	1	AN 10.60
+ābhujitvā	1	AN 10.60
+ujuṁ	1	AN 10.60
+paṇidhāya	1	AN 10.60
+parimukhaṁ	1	AN 10.60
+upaṭṭhapetvā	1	AN 10.60
+assasati	1	AN 10.60
+passasati	1	AN 10.60
+Abhippamodayaṁ	1	AN 10.60
+samādahaṁ	1	AN 10.60
+vimocayaṁ	1	AN 10.60
+paṭippassambheyyā”ti	1	AN 10.60
+santike	1	AN 10.60
+uggahetvā	1	AN 10.60
+abhāsi	1	AN 10.60
+paṭippassambhi	1	AN 10.60
+Vuṭṭhahi	1	AN 10.60
+cāyasmā	1	AN 10.60
+pahīno	1	AN 10.60
+panāyasmato	1	AN 10.60
+Dasamaṁ	1	AN 10.60
+Sacittavaggo	1	AN 10.60
+Tassuddānaṁ	1	AN 10.60
+Parihāno	1	AN 10.60
+pabbajitaṁ	1	AN 10.60
+pahaṁ	1	AN 10.61
+kussubbhe	1	AN 10.61
+kusubbhe	1	AN 10.61
+kusombhe	1	AN 10.61
+mahāsombhe	1	AN 10.61
+paripreti	1	AN 10.61
+Taṇhāsutta	1	AN 10.62
+csp1ed	1	AN 10.62
+csp2ed	1	AN 10.62
+nīvaraṇepāhaṁ	1	AN 10.62
+tiṇṇannaṁ	1	AN 10.62
+Assaddhammassavanampāhaṁ	1	AN 10.62
+tiṇannaṁ	1	AN 10.62
+paripro	1	AN 10.62
+aññatarā	1	Sn 2.4 / Kp 5
+abhikkantāya	1	Sn 2.4 / Kp 5
+abhikkantavaṇṇā	1	Sn 2.4 / Kp 5
+kevalakappaṁ	1	Sn 2.4 / Kp 5
+obhāsetvā	1	Sn 2.4 / Kp 5
+aṭṭhāsi	1	Sn 2.4 / Kp 5
+gāthāya	1	Sn 2.4 / Kp 5
+ajjhabhāsi	1	Sn 2.4 / Kp 5
+Bahū	1	Sn 2.4 / Kp 5
+manussā	1	Sn 2.4 / Kp 5
+acintayuṁ	1	Sn 2.4 / Kp 5
+Ākaṅkhamānā	1	Sn 2.4 / Kp 5
+sotthānaṁ	1	Sn 2.4 / Kp 5
+brūhi	1	Sn 2.4 / Kp 5
+Asevanā	1	Sn 2.4 / Kp 5
+bālānaṁ	1	Sn 2.4 / Kp 5
+paṇḍitānañca	1	Sn 2.4 / Kp 5
+sevanā	1	Sn 2.4 / Kp 5
+Pūjā	1	Sn 2.4 / Kp 5
+pūjaneyyānaṁ	1	Sn 2.4 / Kp 5
+Patirūpadesavāso	1	Sn 2.4 / Kp 5
+katapuññatā	1	Sn 2.4 / Kp 5
+Attasammāpaṇidhi	1	Sn 2.4 / Kp 5
+Bāhusaccañca	1	Sn 2.4 / Kp 5
+sippañca	1	Sn 2.4 / Kp 5
+susikkhito	1	Sn 2.4 / Kp 5
+Subhāsitā	1	Sn 2.4 / Kp 5
+vācā	1	Sn 2.4 / Kp 5
+Mātāpituupaṭṭhānaṁ	1	Sn 2.4 / Kp 5
+puttadārassa	1	Sn 2.4 / Kp 5
+Anākulā	1	Sn 2.4 / Kp 5
+kammantā	1	Sn 2.4 / Kp 5
+Dānañca	1	Sn 2.4 / Kp 5
+ñātakānañca	1	Sn 2.4 / Kp 5
+Anavajjāni	1	Sn 2.4 / Kp 5
+Āratī	1	Sn 2.4 / Kp 5
+viratī	1	Sn 2.4 / Kp 5
+pāpā	1	Sn 2.4 / Kp 5
+majjapānā	1	Sn 2.4 / Kp 5
+saṁyamo	1	Sn 2.4 / Kp 5
+Gāravo	1	Sn 2.4 / Kp 5
+nivāto	1	Sn 2.4 / Kp 5
+kataññutā	1	Sn 2.4 / Kp 5
+dhammassavanaṁ	1	Sn 2.4 / Kp 5
+Khantī	1	Sn 2.4 / Kp 5
+sovacassatā	1	Sn 2.4 / Kp 5
+samaṇānañca	1	Sn 2.4 / Kp 5
+dhammasākacchā	1	Sn 2.4 / Kp 5
+Tapo	1	Sn 2.4 / Kp 5
+ariyasaccāna	1	Sn 2.4 / Kp 5
+Phuṭṭhassa	1	Sn 2.4 / Kp 5
+kampati	1	Sn 2.4 / Kp 5
+Asokaṁ	1	Sn 2.4 / Kp 5
+virajaṁ	1	Sn 2.4 / Kp 5
+khemaṁ	1	Sn 2.4 / Kp 5
+Etādisāni	1	Sn 2.4 / Kp 5
+katvāna	1	Sn 2.4 / Kp 5
+maparājitā	1	Sn 2.4 / Kp 5
+sotthiṁ	1	Sn 2.4 / Kp 5
+Karaṇīyamatthakusalena	1	Kp 9
+taṃ	1	Kp 9
+abhisamecca	1	Kp 9
+Sakko	1	Kp 9
+ujū	1	Kp 9
+suhujū	1	Kp 9
+Sūvaco	1	Kp 9
+c’assa	1	Kp 9
+mudu	1	Kp 9
+anatimānī	1	Kp 9
+Santussako	1	Kp 9
+subharo	1	Kp 9
+Appakicco	1	Kp 9
+sallahukavuttī	1	Kp 9
+Santindriyo	1	Kp 9
+nipako	1	Kp 9
+Appagabbho	1	Kp 9
+kulesu	1	Kp 9
+ananugiddho	1	Kp 9
+khuddaṃ	1	Kp 9
+samācare	1	Kp 9
+kiñci	1	Kp 9
+viññū	1	Kp 9
+pare	1	Kp 9
+upavadeyyuṃ	1	Kp 9
+Sukhino	1	Kp 9
+khemino	1	Kp 9
+keci	1	Kp 9
+pāṇabhūtatthi	1	Kp 9
+Tasā	1	Kp 9
+thāvarā	1	Kp 9
+anavasesā	1	Kp 9
+Dīghā	1	Kp 9
+mahantā	1	Kp 9
+rassakā	1	Kp 9
+aṇukathūlā	1	Kp 9
+adiṭṭhā	1	Kp 9
+dūre	1	Kp 9
+vasanti	1	Kp 9
+sambhavesī	1	Kp 9
+paro	1	Kp 9
+paraṃ	1	Kp 9
+nikubbetha	1	Kp 9
+Nātimaññetha	1	Kp 9
+katthaci	1	Kp 9
+naṃ	1	Kp 9
+kañci	1	Kp 9
+Byārosanā	1	Kp 9
+paṭighasaññā	1	Kp 9
+Nāññamaññassa	1	Kp 9
+dukkhamiccheyya	1	Kp 9
+Mātā	1	Kp 9
+niyaṃ	1	Kp 9
+puttaṃ	1	Kp 9
+Āyusā	1	Kp 9
+ekaputtamanurakkhe	1	Kp 9
+Evam	1	Kp 9
+sabbabhūtesū	1	Kp 9
+lokasmiṃ	1	Kp 9
+tiriyañca	1	Kp 9
+Asambādhaṃ	1	Kp 9
+averaṃ	1	Kp 9
+asapattaṃ	1	Kp 9
+Tiṭṭhaṃ	1	Kp 9
+caraṃ	1	Kp 9
+Sayāno	1	Kp 9
+yavāt’assa	1	Kp 9
+vigatamiddho	1	Kp 9
+Etaṃ	1	Kp 9
+satiṃ	1	Kp 9
+adhiṭṭheyya	1	Kp 9
+vihāraṃ	1	Kp 9
+idhamāhu	1	Kp 9
+Diṭṭhiñca	1	Kp 9
+anupagamma	1	Kp 9
+dassanena	1	Kp 9
+sampanno	1	Kp 9
+Kāmesu	1	Kp 9
+vineyya	1	Kp 9
+gedhaṃ	1	Kp 9
+gabbhaseyyaṃ	1	Kp 9
+punaretī	1	Kp 9
+vimuttisukhapaṭisaṁvedī	1	Ud 1.1
+samādhimhā	1	Ud 1.1
+anulomaṁ	1	Ud 1.1
+avijjāpaccayā	1	Ud 1.1
+viññāṇapaccayā	1	Ud 1.1
+saḷāyatanapaccayā	1	Ud 1.1
+phassapaccayā	1	Ud 1.1
+upādānapaccayā	1	Ud 1.1
+bhavapaccayā	1	Ud 1.1
+jātipaccayā	1	Ud 1.1
+sandasseti	1	Ud 8.4
+samādapeti	1	Ud 8.4
+samuttejeti	1	Ud 8.4
+sampahaṁseti	1	Ud 8.4
+Tedha	1	Ud 8.4
+aṭṭhiṁ	1	Ud 8.4
+samannāharitvā	1	Ud 8.4
+ohitasotā	1	Ud 8.4
+suṇanti	1	Ud 8.4
+Nissitassa	1	Ud 8.4
+anissitassa	1	Ud 8.4
+āgatigati	1	Ud 8.4
+Āgatigatiyā	1	Ud 8.4
+cutūpapāto	1	Ud 8.4
+Cutūpapāte	1	Ud 8.4
+nevidha	1	Ud 8.4
+huraṁ	1	Ud 8.4
+ubhayamantarena	1	Ud 8.4
+Esevanto	1	Ud 8.4
+pāvā	1	Ud 8.5
+tadavasari	1	Ud 8.5
+ambavane	1	Ud 8.5
+Assosi	1	Ud 8.5
+kira	1	Ud 8.5
+pāvaṁ	1	Ud 8.5
+anuppatto	1	Ud 8.5
+ambavane”ti	1	Ud 8.5
+sandassesi	1	Ud 8.5
+samādapesi	1	Ud 8.5
+samuttejesi	1	Ud 8.5
+sampahaṁsesi	1	Ud 8.5
+sandassito	1	Ud 8.5
+samādapito	1	Ud 8.5
+samuttejito	1	Ud 8.5
+sampahaṁsito	1	Ud 8.5
+adhivāsetu	1	Ud 8.5
+svātanāya	1	Ud 8.5
+bhikkhusaṅghenā”ti	1	Ud 8.5
+tuṇhībhāvena	1	Ud 8.5
+adhivāsanaṁ	1	Ud 8.5
+uṭṭhāyāsan	1	Ud 8.5
+sake	1	Ud 8.5
+nivesane	1	Ud 8.5
+paṭiyādāpetvā	1	Ud 8.5
+pahūtañca	1	Ud 8.5
+ārocāpesi	1	Ud 8.5
+kālo	1	Ud 8.5
+niṭṭhitaṁ	1	Ud 8.5
+bhattan”ti	1	Ud 8.5
+pubbaṇhasamayaṁ	1	Ud 8.5
+nivāsetvā	1	Ud 8.5
+pattacīvaramādāya	1	Ud 8.5
+nivesanaṁ	1	Ud 8.5
+paññatte	1	Ud 8.5
+maṁ	1	Ud 8.5
+parivisa	1	Ud 8.5
+parivisā”ti	1	Ud 8.5
+nikhaṇāhi	1	Ud 8.5
+passāmi	1	Ud 8.5
+samārake	1	Ud 8.5
+pajāya	1	Ud 8.5
+sadevamanussāya	1	Ud 8.5
+paribhuttaṁ	1	Ud 8.5
+sammā	1	Ud 8.5
+pariṇāmaṁ	1	Ud 8.5
+gaccheyya	1	Ud 8.5
+aññatra	1	Ud 8.5
+nikhaṇitvā	1	Ud 8.5
+sandassetvā	1	Ud 8.5
+samādapetvā	1	Ud 8.5
+samuttejetvā	1	Ud 8.5
+sampahaṁsetvā	1	Ud 8.5
+bhuttāvissa	1	Ud 8.5
+kharo	1	Ud 8.5
+uppajji	1	Ud 8.5
+Lohitapakkhandikā	1	Ud 8.5
+pabāḷhā	1	Ud 8.5
+vattanti	1	Ud 8.5
+māraṇantikā	1	Ud 8.5
+suda	1	Ud 8.5
+avihaññamāno	1	Ud 8.5
+āyāmānanda	1	Ud 8.5
+kusinārā	1	Ud 8.5
+tenupasaṅkamissāmā”ti	1	Ud 8.5
+paccassosi	1	Ud 8.5
+kammārassāti	1	Ud 8.5
+samphusī	1	Ud 8.5
+dhīro	1	Ud 8.5
+pabāḷhaṁ	1	Ud 8.5
+māraṇantikaṁ	1	Ud 8.5
+Bhuttassa	1	Ud 8.5
+sūkaramaddavena	1	Ud 8.5
+Byādhippabāḷho	1	Ud 8.5
+satthuno	1	Ud 8.5
+Viriccamāno	1	Ud 8.5
+Gacchāmahaṁ	1	Ud 8.5
+kusināraṁ	1	Ud 8.5
+nagaran”ti	1	Ud 8.5
+okkamma	1	Ud 8.5
+aññataraṁ	1	Ud 8.5
+nisīdissāmī”ti	1	Ud 8.5
+pañatte	1	Ud 8.5
+idāni	1	Ud 8.5
+pañcamattāni	1	Ud 8.5
+sakaṭasatāni	1	Ud 8.5
+atikkantāni	1	Ud 8.5
+cakkacchinnaṁ	1	Ud 8.5
+parittaṁ	1	Ud 8.5
+luḷitaṁ	1	Ud 8.5
+āvilaṁ	1	Ud 8.5
+acchodakā	1	Ud 8.5
+sātodakā	1	Ud 8.5
+sītodakā	1	Ud 8.5
+setodakā	1	Ud 8.5
+supatitthā	1	Ud 8.5
+ramaṇīyā	1	Ud 8.5
+Ettha	1	Ud 8.5
+pānīyañca	1	Ud 8.5
+pivissati	1	Ud 8.5
+gattāni	1	Ud 8.5
+sītīkarissatī”ti	1	Ud 8.5
+pattaṁ	1	Ud 8.5
+gahetvā	1	Ud 8.5
+sandatī”ti	1	Ud 8.5
+ādāya	1	Ud 8.5
+pānīyan”ti	1	Ud 8.5
+apāyi	1	Ud 8.5
+nadiṁ	1	Ud 8.5
+ajjhogāhetvā	1	Ud 8.5
+paccuttaritvā	1	Ud 8.5
+nipajjissāmī”ti	1	Ud 8.5
+dakkhiṇena	1	Ud 8.5
+passena	1	Ud 8.5
+sīhaseyyaṁ	1	Ud 8.5
+kappesi	1	Ud 8.5
+pāde	1	Ud 8.5
+accādhāya	1	Ud 8.5
+uṭṭhānasaññaṁ	1	Ud 8.5
+karitvā	1	Ud 8.5
+purato	1	Ud 8.5
+Gantvāna	1	Ud 8.5
+nadikaṁ	1	Ud 8.5
+Acchodakaṁ	1	Ud 8.5
+sātudakaṁ	1	Ud 8.5
+vippasannaṁ	1	Ud 8.5
+Ogāhi	1	Ud 8.5
+appaṭimodha	1	Ud 8.5
+cudatāri	1	Ud 8.5
+Purakkhato	1	Ud 8.5
+bhikkhugaṇassa	1	Ud 8.5
+majjhe	1	Ud 8.5
+Upāgami	1	Ud 8.5
+mahesi	1	Ud 8.5
+Āmantayi	1	Ud 8.5
+santhara	1	Ud 8.5
+nipajjaṁ	1	Ud 8.5
+codito	1	Ud 8.5
+bhāvitattena	1	Ud 8.5
+santhari	1	Ud 8.5
+khippameva	1	Ud 8.5
+Nipajji	1	Ud 8.5
+Cundopi	1	Ud 8.5
+pamukhe	1	Ud 8.5
+panānanda	1	Ud 8.5
+koci	1	Ud 8.5
+vippaṭisāraṁ	1	Ud 8.5
+upadaheyya	1	Ud 8.5
+alābhā	1	Ud 8.5
+dulladdhaṁ	1	Ud 8.5
+parinibbuto’ti	1	Ud 8.5
+paṭivinodetabbo	1	Ud 8.5
+lābhā	1	Ud 8.5
+suladdhaṁ	1	Ud 8.5
+parinibbuto	1	Ud 8.5
+paṭiggahitaṁ	1	Ud 8.5
+dveme	1	Ud 8.5
+anuttaraṁ	1	Ud 8.5
+sammāsambodhiṁ	1	Ud 8.5
+abhisambujjhati	1	Ud 8.5
+anupādisesāya	1	Ud 8.5
+nibbānadhātuyā	1	Ud 8.5
+parinibbāyati	1	Ud 8.5
+Āyusaṁvattanikaṁ	1	Ud 8.5
+vaṇṇasaṁvattanikaṁ	1	Ud 8.5
+sukhasaṁvattanikaṁ	1	Ud 8.5
+saggasaṁvattanikaṁ	1	Ud 8.5
+yasasaṁvattanikaṁ	1	Ud 8.5
+ādhipateyyasaṁvattanikaṁ	1	Ud 8.5
+upacitan’ti	1	Ud 8.5
+paṭivinodetabbo”ti	1	Ud 8.5
+Dadato	1	Ud 8.5
+puññaṁ	1	Ud 8.5
+pavaḍḍhati	1	Ud 8.5
+Saṁyamato	1	Ud 8.5
+veraṁ	1	Ud 8.5
+cīyati	1	Ud 8.5
+Kusalo	1	Ud 8.5
+jahāti	1	Ud 8.5
+Rāgadosamohakkhayā	1	Ud 8.5
+sanibbuto”ti	1	Ud 8.5
+kosalesu	1	Ud 8.7
+addhānamaggappaṭipanno	1	Ud 8.7
+nāgasamālena	1	Ud 8.7
+Addasā	1	Ud 8.7
+dvidhāpathaṁ	1	Ud 8.7
+Disvāna	1	Ud 8.7
+pattacīvaraṁ	1	Ud 8.7
+chamāyaṁ	1	Ud 8.7
+nikkhipitvā	1	Ud 8.7
+pattacīvaran”ti	1	Ud 8.7
+ngasamālassa	1	Ud 8.7
+vipphālesuṁ	1	Ud 8.7
+bhinnena	1	Ud 8.7
+vipphālitāya	1	Ud 8.7
+vipphālesun”ti	1	Ud 8.7
+caramekato	1	Ud 8.7
+vasaṁ	1	Ud 8.7
+Misso	1	Ud 8.7
+aññajanena	1	Ud 8.7
+Vidvā	1	Ud 8.7
+pajahāti	1	Ud 8.7
+Koñco	1	Ud 8.7
+khīrapakova	1	Ud 8.7
+ninnagan”ti	1	Ud 8.7
+veḷuvane	1	Ud 8.9
+kalandakanivāpe	1	Ud 8.9
+dāni	1	Ud 8.9
+Yassadāni	1	Ud 8.9
+maññasī”ti	1	Ud 8.9
+parinibbāyi	1	Ud 8.9
+sappissa	1	Ud 8.9
+telassa	1	Ud 8.9
+masīti	1	Ud 8.9
+Abhedi	1	Ud 8.9
+sītibhaviṁsu	1	Ud 8.9
+Vūpasamiṁsu	1	Ud 8.9
+atthamāgamā”ti	1	Ud 8.9
+Navamaṁ	1	Ud 8.9
+duṭṭhāse	1	Iti 2
+avirājayaṁ	1	Iti 7
+appajahaṁ	1	Iti 7
+abhabbo	1	Iti 7
+dukkhakkhayāya	1	Iti 7
+bhabbo	1	Iti 7
+dukkhakkhayāyā”ti	1	Iti 7
+rajjati	1	Iti 7
+ve	1	Iti 7
+ekanīvaraṇampi	1	Iti 14
+Natthañño	1	Iti 14
+ekadhammopi	1	Iti 14
+yenevaṁ	1	Iti 14
+ahorattaṁ	1	Iti 14
+āvutā	1	Iti 14
+pahantvāna	1	Iti 14
+padālayuṁ	1	Iti 14
+hetu	1	Iti 14
+ekasaṁyojanampi	1	Iti 15
+puriso	1	Iti 15
+dīghamaddhāna	1	Iti 15
+Itthabhāvaññathābhāvaṁ	1	Iti 15
+nātivattati	1	Iti 15
+Etamādīnavaṁ	1	Iti 15
+Vītataṇho	1	Iti 15
+paribbaje”ti	1	Iti 15
+bhāyittha	1	Iti 22
+Sukhassetaṁ	1	Iti 22
+adhivacanaṁ	1	Iti 22
+iṭṭhassa	1	Iti 22
+kantassa	1	Iti 22
+piyassa	1	Iti 22
+manāpassa	1	Iti 22
+Abhijānāmi	1	Iti 22
+katānaṁ	1	Iti 22
+iṭṭhaṁ	1	Iti 22
+kantaṁ	1	Iti 22
+piyaṁ	1	Iti 22
+manāpaṁ	1	Iti 22
+vipākaṁ	1	Iti 22
+paccanubhūtaṁ	1	Iti 22
+vassāni	1	Iti 22
+bhāvetvā	1	Iti 22
+saṁvaṭṭavivaṭṭakappe	1	Iti 22
+nayimaṁ	1	Iti 22
+punarāgamāsiṁ	1	Iti 22
+Saṁvaṭṭamāne	1	Iti 22
+ābhassarūpago	1	Iti 22
+vivaṭṭamāne	1	Iti 22
+suññaṁ	1	Iti 22
+brahmavimānaṁ	1	Iti 22
+upapajjāmi	1	Iti 22
+mahābrahmā	1	Iti 22
+abhibhū	1	Iti 22
+anabhibhūto	1	Iti 22
+aññadatthudaso	1	Iti 22
+vasavattī	1	Iti 22
+Chattiṁsakkhattuṁ	1	Iti 22
+devānamindo	1	Iti 22
+anekasatakkhattuṁ	1	Iti 22
+rājā	1	Iti 22
+dhammiko	1	Iti 22
+dhammarājā	1	Iti 22
+cāturanto	1	Iti 22
+vijitāvī	1	Iti 22
+janapadatthāvariyappatto	1	Iti 22
+sattaratanasamannāgato	1	Iti 22
+vādo	1	Iti 22
+padesarajjassa	1	Iti 22
+evaṁmahānubhāvo’ti	1	Iti 22
+evaṁmahānubhāvoti	1	Iti 22
+saññamassā’”ti	1	Iti 22
+sikkheyya	1	Iti 22
+āyataggaṁ	1	Iti 22
+sukhudrayaṁ	1	Iti 22
+samacariyañca	1	Iti 22
+Ete	1	Iti 22
+bhāvayitvā	1	Iti 22
+sukhasamuddaye	1	Iti 22
+Abyāpajjaṁ	1	Iti 22
+sukhaṁ	1	Iti 22
+paṇḍito	1	Iti 22
+upapajjatī”ti	1	Iti 22
+Ekapuggalassa	1	Iti 24
+sandhāvato	1	Iti 24
+aṭṭhikaṅkalo	1	Iti 24
+aṭṭhipuñjo	1	Iti 24
+aṭṭhirāsi	1	Iti 24
+saṁhārako	1	Iti 24
+sambhatañca	1	Iti 24
+vinasseyyā”ti	1	Iti 24
+Ekassekena	1	Iti 24
+puggalassaṭṭhisañcayo	1	Iti 24
+pabbatasamo	1	Iti 24
+rāsi	1	Iti 24
+mahesinā	1	Iti 24
+akkhāto	1	Iti 24
+Uttaro	1	Iti 24
+gijjhakūṭassa	1	Iti 24
+magadhānaṁ	1	Iti 24
+giribbaje	1	Iti 24
+sammappaññāya	1	Iti 24
+dukkhasamuppādaṁ	1	Iti 24
+atikkamaṁ	1	Iti 24
+Ariyañcaṭṭhaṅgikaṁ	1	Iti 24
+dukkhūpasamagāminaṁ	1	Iti 24
+sattakkhattuṁ	1	Iti 24
+paramaṁ	1	Iti 24
+sandhāvitvāna	1	Iti 24
+puggalo	1	Iti 24
+Dukkhassantakaro	1	Iti 24
+sabbasaṁyojanakkhayā”ti	1	Iti 24
