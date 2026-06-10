@@ -423,40 +423,56 @@
   const sheet = $("#sheet");
   let sheetSeq = 0;
 
+  const DICT_FA = window.PALI_DICT_FA || {};
+
+  // sheet UI labels per language
+  const SHEET_L10N = {
+    en: { hw: "headword:", bd: "Morphological breakdown", gx: "Goenka tradition context", gl: "In this sutta's glossary" },
+    fa: { hw: "سرواژه:", bd: "ساختار واژه", gx: "در سنت گوئنکا", gl: "در واژه‌نامه‌ی این سوتا" },
+  };
+
   function renderEntryHTML(res) {
-    const { token, headword, entry, glossHit } = res;
+    const { token, headword, glossHit } = res;
+    const isFa = document.body.dataset.lang === "fa";
+    // in Farsi mode, overlay the Persian translation of the entry (per-field
+    // fallback to English for anything not yet translated)
+    const faEntry = isFa && headword ? DICT_FA[headword] : null;
+    const entry = res.entry && faEntry ? Object.assign({}, res.entry, faEntry) : res.entry;
+    const L = SHEET_L10N[faEntry || (isFa && !res.entry) ? "fa" : "en"] || SHEET_L10N.en;
+    const rtl = faEntry ? ' dir="rtl" lang="fa"' : ' dir="auto"';
+
     let html = `<h3 class="sheet-word">${esc(token)}`;
     if (headword && fold(headword) !== fold(token))
-      html += ` <span class="hw">headword: <i>${esc(headword)}</i></span>`;
+      html += ` <span class="hw">${L.hw} <i>${esc(headword)}</i></span>`;
     html += `</h3>`;
 
     if (entry) {
-      if (entry.gram) html += `<p class="sheet-gram">${esc(entry.gram)}</p>`;
-      html += `<p class="sheet-meaning">${esc(entry.meaning)}</p>`;
-      if (entry.summary) html += `<p class="sheet-summary">${esc(entry.summary)}</p>`;
+      if (entry.gram) html += `<p class="sheet-gram"${rtl}>${esc(entry.gram)}</p>`;
+      html += `<p class="sheet-meaning"${rtl}>${esc(entry.meaning)}</p>`;
+      if (entry.summary) html += `<p class="sheet-summary"${rtl}>${esc(entry.summary)}</p>`;
       if (entry.breakdown && entry.breakdown.length) {
-        html += `<p class="sheet-sec">Morphological breakdown</p><ul class="bd-list">` +
-          entry.breakdown.map(([p, d]) => `<li><b>${esc(p)}</b> — ${esc(d)}</li>`).join("") +
+        html += `<p class="sheet-sec">${L.bd}</p><ul class="bd-list">` +
+          entry.breakdown.map(([p, d]) => `<li${rtl}><b dir="ltr">${esc(p)}</b> — ${esc(d)}</li>`).join("") +
           `</ul>`;
       }
       if (entry.goenka) {
-        html += `<p class="sheet-sec">Goenka tradition context</p>
-                 <p class="sheet-gx">${esc(entry.goenka)}</p>`;
+        html += `<p class="sheet-sec">${L.gx}</p>
+                 <p class="sheet-gx"${rtl}>${esc(entry.goenka)}</p>`;
       }
     }
 
     // show the sutta's own gloss when it adds something: a different headword,
-    // or (in Farsi mode) the Farsi rendering alongside the English entry
+    // or (in Farsi mode without a translated entry) the Farsi rendering
     if (glossHit && (!entry || fold(glossHit.word) !== fold(headword || "") ||
-        document.body.dataset.lang === "fa")) {
-      html += `<p class="sheet-glossnote" dir="auto">In this sutta's glossary — <b>${esc(glossHit.word)}</b>: ${glossHit.gloss}${glossHit.goenka ? ` <span class="g-gx">${glossHit.goenka}</span>` : ""}</p>`;
+        (isFa && !faEntry))) {
+      html += `<p class="sheet-glossnote" dir="auto">${L.gl} — <b>${esc(glossHit.word)}</b>: ${glossHit.gloss}${glossHit.goenka ? ` <span class="g-gx">${glossHit.goenka}</span>` : ""}</p>`;
     }
 
     if (!entry && glossHit) {
       // glossary-only entry: surface it prominently
-      html = `<h3 class="sheet-word">${esc(token)} <span class="hw">headword: <i>${esc(glossHit.word)}</i></span></h3>
+      html = `<h3 class="sheet-word">${esc(token)} <span class="hw">${L.hw} <i>${esc(glossHit.word)}</i></span></h3>
         <p class="sheet-meaning" dir="auto">${glossHit.gloss}</p>` +
-        (glossHit.goenka ? `<p class="sheet-sec">Goenka tradition context</p><p class="sheet-gx" dir="auto">${glossHit.goenka}</p>` : "");
+        (glossHit.goenka ? `<p class="sheet-sec">${L.gx}</p><p class="sheet-gx" dir="auto">${glossHit.goenka}</p>` : "");
     }
     return html;
   }
@@ -472,9 +488,12 @@
 
     let html;
     if (!res.found) {
-      html = `<h3 class="sheet-word">${esc(res.token)}</h3>
-        <p class="sheet-nf">Not in the dictionary yet. Pāli words are heavily inflected —
-        try tapping a shorter, related word, or check the sutta's glossary below the text.</p>`;
+      const nf = document.body.dataset.lang === "fa"
+        ? `<p class="sheet-nf" dir="rtl" lang="fa">این واژه هنوز در واژه‌نامه نیست. واژه‌های پالی صرف‌های فراوان دارند —
+           واژه‌ای کوتاه‌تر و هم‌خانواده را لمس کنید، یا واژه‌نامه‌ی پایین متن را ببینید.</p>`
+        : `<p class="sheet-nf">Not in the dictionary yet. Pāli words are heavily inflected —
+           try tapping a shorter, related word, or check the sutta's glossary below the text.</p>`;
+      html = `<h3 class="sheet-word">${esc(res.token)}</h3>` + nf;
     } else {
       html = renderEntryHTML(res);
     }

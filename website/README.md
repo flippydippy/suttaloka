@@ -126,7 +126,8 @@ compounds).
 | :--- | :--- |
 | `index.html`, `styles.css`, `app.js` | the site |
 | `data/suttas.js` | generated from the markdown — don't edit by hand |
-| `data/dictionary.js` | hand-authored Pāli dictionary |
+| `data/dictionary.js` | hand-authored Pāli dictionary (English) |
+| `data/dictionary-fa.js` | Persian translations of the dictionary, same headword keys; entries missing here fall back to English in the sheet |
 | `data/meta.js` | hand-authored collection/sutta blurbs + chapter tables |
 | `build.py` | markdown → `data/suttas.js` |
 | `serve.js` | tiny static server for local preview |
