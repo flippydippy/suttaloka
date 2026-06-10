@@ -3,14 +3,46 @@
 A static website for reading the suttas with Pāli and translation side by side,
 full-text search, and tap-to-define Pāli vocabulary.
 
+**Live site:** https://flippydippy.github.io/suttaloka/
+
 ## Run it locally
 
 ```bash
 node website/serve.js          # then open http://localhost:8741
 ```
 
-(or any static server — `npx serve website`, etc. It's plain HTML/CSS/JS,
-no build step, so you can also host it on GitHub Pages / Netlify as-is.)
+(or any static server — `npx serve website`, etc. It's plain HTML/CSS/JS
+with no server-side build step.)
+
+## Publishing
+
+The site is hosted on GitHub Pages from the public repo
+[flippydippy/suttaloka](https://github.com/flippydippy/suttaloka).
+A GitHub Actions workflow (`.github/workflows/pages.yml`) publishes the
+`website/` folder automatically on every push to `main` — there is nothing
+to configure or click; the site updates about a minute after a push.
+
+The full routine after adding or editing a sutta (or the dictionary,
+blurbs, styles — anything):
+
+```bash
+python3 website/build.py                  # regenerate data/suttas.js from the markdown
+node website/serve.js                     # optional: preview at http://localhost:8741
+git add -A && git commit -m "Add Iti 16"  # commit (describe what changed)
+git push                                  # → deploys automatically
+```
+
+Notes:
+
+- `build.py` is the step people forget: the site reads the generated
+  `data/suttas.js`, so markdown edits don't appear until you rebuild.
+- Check the deploy if needed at
+  https://github.com/flippydippy/suttaloka/actions — each push shows up as
+  a "Deploy site to GitHub Pages" run.
+- The repo is **public** (required for free GitHub Pages): everything
+  committed — markdown sources, PDFs — is visible to anyone.
+- A custom domain can be attached later under the repo's
+  Settings → Pages; hosting stays free.
 
 ## Features
 
