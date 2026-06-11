@@ -1,1091 +1,797 @@
-paripūreti	47	AN 10.61, AN 10.62
-Ko	36	AN 10.61, AN 10.62, Iti 22
-vadāmi	35	AN 10.61, AN 10.62
-cāhāro	35	AN 10.61, AN 10.62
-vacanīyaṁ	35	AN 10.61, AN 10.62
-paripūrenti	32	AN 10.61, AN 10.62
-paripūrā	30	AN 10.61, AN 10.62
-etadahosi	26	SN 12.4, Ud 8.5, Iti 22
-nu	23	SN 12.4, Iti 22
-kimhi	22	SN 12.4
-ahu	22	SN 12.4
-paripūro	21	AN 10.61, AN 10.62
-pe	18	SN 12.2, SN 12.3, SN 12.4, AN 10.60, AN 10.62, Ud 8.5, Ud 8.7
-paripūraṁ	18	AN 10.61, AN 10.62
-sikkhati	16	AN 10.60
-Evametassa	13	SN 12.2, SN 12.3, SN 12.4, AN 10.61, AN 10.62, Ud 1.1, Ud 1.1, 1.2, 1.3
-evañca	12	AN 10.61, AN 10.62
-yaṁ	11	MN 21, SN 12.2, AN 10.60, Kp 9, Ud 8.5
-kiṁpaccayā	11	SN 12.4
-pāripūri	10	AN 10.61, AN 10.62
-kevalassa	9	SN 12.2, SN 12.3, SN 12.4, Ud 1.1, Ud 1.1, 1.2, 1.3
-assasissāmī’ti	8	AN 10.60
-passasissāmī’ti	8	AN 10.60
-evametissā	8	AN 10.61, AN 10.62
-āmantesi	8	Ud 8.5
-Variant	7	MN 21, AN 10.61, AN 10.62
-paripūrāni	7	AN 10.61, AN 10.62
-viditvā	7	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
-kammāraputto	7	Ud 8.5
-āyasmatā	7	Ud 8.5, Ud 8.7
-dīgharattaṁ	6	MN 21, Iti 14, Iti 15, Iti 22
-bj	6	AN 10.61
-sya-all	6	AN 10.61
-pts1ed	6	AN 10.61
-sāhāre	6	AN 10.61, AN 10.62
-anāhāre	6	AN 10.61, AN 10.62
-Tīṇipāhaṁ	6	AN 10.61, AN 10.62
-pabbatakandarapadarasākhā	6	AN 10.61, AN 10.62
-kunnadiyo	6	AN 10.61, AN 10.62
-mahānadiyo	6	AN 10.61, AN 10.62
-velāyaṁ	6	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
-udānaṁ	6	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
-udānesi	6	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9
-kammāraputtassa	6	Ud 8.5
-catugguṇaṁ	6	Ud 8.5
-nadī	6	Ud 8.5
-kammāraputtena	6	Ud 8.5
-Tatthetaṁ	6	Iti 2, Iti 7, Iti 14, Iti 15, Iti 22, Iti 24
-tamhā	5	SN 12.2, AN 10.60, Ud 1.1, Ud 1.1, 1.2, 1.3
-pubbe	5	SN 12.4, AN 10.61, AN 10.62, Sn 2.4 / Kp 5
-yadidaṁ	5	AN 10.60, Ud 1.1, Ud 1.1, 1.2, 1.3, Iti 22
-ye	5	AN 10.60, Kp 9, Iti 14
-udakaṁ	5	AN 10.61, AN 10.62, Ud 8.5
-vuṭṭhahitvā	5	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.9
-sūkaramaddavaṁ	5	Ud 8.5
-paṭissutvā	5	Ud 8.5
-pānīyaṁ	5	Ud 8.5
-upacitaṁ	5	Ud 8.5
-nāgasamālo	5	Ud 8.7
-sādhukaṁ	4	SN 12.2, SN 12.3, Ud 1.1, Ud 1.1, 1.2, 1.3
-Yā	4	SN 12.2, Sn 2.4 / Kp 5
-tamhi	4	SN 12.2
-Chayime	4	SN 12.2
-aññāṇaṁ	4	SN 12.2
-sabbasaṅkhāresu	4	AN 10.60
-nādhivāseti	4	AN 10.60
-vinodeti	4	AN 10.60
-byantīkaroti	4	AN 10.60
-anabhāvaṁ	4	AN 10.60
-gameti	4	AN 10.60
-Dīghaṁ	4	AN 10.60
-Rassaṁ	4	AN 10.60
-Passambhayaṁ	4	AN 10.60
-imā	4	AN 10.60
-sāhārāni	4	AN 10.61, AN 10.62
-anāhārāni	4	AN 10.61, AN 10.62
-uparipabbate	4	AN 10.61, AN 10.62
-thullaphusitake	4	AN 10.61, AN 10.62
-vassante	4	AN 10.61, AN 10.62
-yathāninnaṁ	4	AN 10.61, AN 10.62
-pavattamānaṁ	4	AN 10.61, AN 10.62
-kusobbhe	4	AN 10.61, AN 10.62
-mahāsobbhe	4	AN 10.61, AN 10.62
-mahāsamuddassa	4	AN 10.61, AN 10.62
-sāgarassa	4	AN 10.61, AN 10.62
-rattiyā	4	Sn 2.4 / Kp 5, Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.5
-yassa	4	Sn 2.4 / Kp 5, Ud 8.5
-kathāya	4	Ud 8.4, Ud 8.5
-bhikkhusaṅghena	4	Ud 8.5
-kammāraputtaṁ	4	Ud 8.5
-paṭiyattaṁ	4	Ud 8.5
-iṅgha	4	Ud 8.5
-saṅghāṭiṁ	4	Ud 8.5
-satthā	4	Ud 8.5
-piṇḍapātaṁ	4	Ud 8.5
-pantho	4	Ud 8.7
-gacchāmā”ti	4	Ud 8.7
-sandhāvanti	4	Iti 14, Iti 15
-corā	3	MN 21, Ud 8.7
-idañca	3	SN 12.2
-nāma	3	SN 12.4, Ud 8.5, Ud 8.9
-Catutthaṁ	3	SN 12.4, Iti 14, Iti 24
-Sace	3	AN 10.60, Iti 24
-anabhiratasaññā	3	AN 10.60
-anicchāsaññā	3	AN 10.60
-paṇītaṁ	3	AN 10.60, Ud 8.5
-Pañcapāhaṁ	3	AN 10.61
-Kusobbhā	3	AN 10.61, AN 10.62
-mahāsobbhā	3	AN 10.61, AN 10.62
-mahāsamuddaṁ	3	AN 10.61, AN 10.62
-sāgaraṁ	3	AN 10.61, AN 10.62
-bhāvaye	3	Kp 9, Iti 22
-accayena	3	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.5
-Yato	3	Ud 1.1, Ud 1.1, 1.2, 1.3, Iti 24
-mahatā	3	Ud 8.5
-Tatra	3	Ud 8.5, Iti 22
-sudaṁ	3	Ud 8.5, Iti 22
-bhattaṁ	3	Ud 8.5
-pakkāmi	3	Ud 8.5, Ud 8.7
-khādanīyaṁ	3	Ud 8.5
-bhojanīyaṁ	3	Ud 8.5
-sandati	3	Ud 8.5
-tatiyampi	3	Ud 8.5, Ud 8.7
-cakkacchinnā	3	Ud 8.5
-parittā	3	Ud 8.5
-luḷitā	3	Ud 8.5
-āvilā	3	Ud 8.5
-sandamānā	3	Ud 8.5
-upasaṅkamante	3	Ud 8.5
-acchā	3	Ud 8.5
-vippasannā	3	Ud 8.5
-anāvilā	3	Ud 8.5
-tattha	3	Ud 8.5, Iti 7
-āvuso	3	Ud 8.5
-paribhuñjitvā	3	Ud 8.5
-antarāmagge	3	Ud 8.7
-mallaputto	3	Ud 8.9
-vehāsaṁ	3	Ud 8.9
-abbhuggantvā	3	Ud 8.9
-ākāse	3	Ud 8.9
-antalikkhe	3	Ud 8.9
-pallaṅkena	3	Ud 8.9
-nisīditvā	3	Ud 8.9
-samāpajjitvā	3	Ud 8.9
-jhāyamānassa	3	Ud 8.9
-ḍayhamānassa	3	Ud 8.9
-neva	3	Ud 8.9
-chārikā	3	Ud 8.9
-nivutā	3	Iti 14
-pajā	3	Iti 14
-tatrāpi	2	MN 21
-yo	2	MN 21, Iti 7
-sikkhitabbaṁ	2	MN 21
-viharissāma	2	MN 21
-cetasā	2	MN 21
-pharitvā	2	MN 21
-Imañca	2	MN 21
-ovādaṁ	2	MN 21
-abhikkhaṇaṁ	2	MN 21
-desessāmi	2	SN 12.2, SN 12.3
-suṇātha	2	SN 12.2, SN 12.3
-karotha	2	SN 12.2, SN 12.3
-bhāsissāmī”ti	2	SN 12.2, SN 12.3
-paccassosuṁ	2	SN 12.2, SN 12.3
-sattanikāye	2	SN 12.2
-bhedo	2	SN 12.2
-Tayome	2	SN 12.2
-nāmaṁ	2	SN 12.2
-tveva	2	SN 12.2, SN 12.3
-nissaraṇaṁ	2	SN 12.4
-hidaṁ	2	SN 12.4
-ananussutesu	2	SN 12.4
-āloko	2	SN 12.4
-yenāyasmā	2	AN 10.60
-panetaṁ	2	AN 10.60
-uddhaṁ	2	AN 10.60, Kp 9
-adho	2	AN 10.60, Kp 9
-pittaṁ	2	AN 10.60
-lohitaṁ	2	AN 10.60
-seyyathidaṁ	2	AN 10.60, Iti 22
-sabbasaṅkhārasamatho	2	AN 10.60
-sabbūpadhippaṭinissaggo	2	AN 10.60
-taṇhākkhayo	2	AN 10.60
-cetaso	2	AN 10.60, Ud 8.4
-assasanto	2	AN 10.60
-assasāmī’ti	2	AN 10.60
-passasanto	2	AN 10.60
-passasāmī’ti	2	AN 10.60
-Sabbakāyapaṭisaṁvedī	2	AN 10.60
-kāyasaṅkhāraṁ	2	AN 10.60
-Pītipaṭisaṁvedī	2	AN 10.60
-Sukhapaṭisaṁvedī	2	AN 10.60
-Cittasaṅkhārapaṭisaṁvedī	2	AN 10.60
-cittasaṅkhāraṁ	2	AN 10.60
-Cittapaṭisaṁvedī	2	AN 10.60
-paṭinissaggānupassī	2	AN 10.60
-Yamakavagga	2	AN 10.61, AN 10.62
-Purimā	2	AN 10.61, AN 10.62
-koṭi	2	AN 10.61, AN 10.62
-ito	2	AN 10.61, AN 10.62
-nāhosi	2	AN 10.61, AN 10.62
-pacchā	2	AN 10.61, AN 10.62
-samabhavī’ti	2	AN 10.61, AN 10.62
-Evañcetaṁ	2	AN 10.61, AN 10.62
-idappaccayā	2	AN 10.61, AN 10.62
-galagalāyante	2	AN 10.61
-mr	2	AN 10.61
-Sattapāhaṁ	2	AN 10.61, AN 10.62
-sattannaṁ	2	AN 10.61, AN 10.62
-Cattāropāhaṁ	2	AN 10.61, AN 10.62
-pāripūrī”ti	2	AN 10.61, AN 10.62
-assaddhammassavanaṁ	2	AN 10.62
-devatā	2	Sn 2.4 / Kp 5
-saṅgaho	2	Sn 2.4 / Kp 5
-Kālena	2	Sn 2.4 / Kp 5
-dassanaṁ	2	Sn 2.4 / Kp 5
-padaṃ	2	Kp 9, Ud 8.5
-sukhitattā	2	Kp 9
-avidūre	2	Kp 9, Ud 8.5
-Mānasaṃ	2	Kp 9
-aparimānaṃ	2	Kp 9
-najjā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-tīre	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-bodhirukkhamūle	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-paṭhamābhisambuddho	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-sattāhaṁ	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-ekapallaṅkena	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-sattāhassa	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-yāmaṁ	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-manasākāsi	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-imassuppādā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-Yadā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-have	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-pātubhavanti	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-jhāyato	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-kaṅkhā	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-vapayanti	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-sahetudhamman”ti	2	Ud 1.1, Ud 1.1, 1.2, 1.3
-mallesu	2	Ud 8.5
-cārikaṁ	2	Ud 8.5
-caramāno	2	Ud 8.5
-pāvāyaṁ	2	Ud 8.5
-Adhivāsesi	2	Ud 8.5
-padakkhiṇaṁ	2	Ud 8.5, Ud 8.9
-kālaṁ	2	Ud 8.5, Ud 8.9
-āsane	2	Ud 8.5
-Nisajja	2	Ud 8.5
-panaññaṁ	2	Ud 8.5
-bhikkhusaṅghaṁ	2	Ud 8.5
-parivisi	2	Ud 8.5
-avasiṭṭhaṁ	2	Ud 8.5
-sobbhe	2	Ud 8.5
-uṭṭhāyāsanā	2	Ud 8.5, Ud 8.9
-bhuñjitvā	2	Ud 8.5
-paññāpehi	2	Ud 8.5
-kilantosmi	2	Ud 8.5
-paññāpesi	2	Ud 8.5
-āhara	2	Ud 8.5
-pipāsitosmi	2	Ud 8.5
-pivissāmī”ti	2	Ud 8.5
-kukudhā	2	Ud 8.5
-Dutiyampi	2	Ud 8.5, Ud 8.7
-acchariyaṁ	2	Ud 8.5
-vata	2	Ud 8.5
-bho	2	Ud 8.5
-abbhutaṁ	2	Ud 8.5
-mahiddhikatā	2	Ud 8.5
-mahānubhāvatā	2	Ud 8.5
-Ayañhi	2	Ud 8.5
-Pattena	2	Ud 8.5, Ud 8.7
-Pivatu	2	Ud 8.5
-kukudhaṁ	2	Ud 8.5
-nhatvā	2	Ud 8.5
-pivitvā	2	Ud 8.5
-ambavanaṁ	2	Ud 8.5
-cundakaṁ	2	Ud 8.5
-cundaka	2	Ud 8.5
-cundako	2	Ud 8.5
-tattheva	2	Ud 8.5, Ud 8.7
-sukilantarūpo	2	Ud 8.5
-pacchimaṁ	2	Ud 8.5
-Cundassānanda	2	Ud 8.5
-vippaṭisāro	2	Ud 8.5
-Sammukhā	2	Ud 8.5
-piṇḍapātā	2	Ud 8.5
-samasamaphalā	2	Ud 8.5
-samasamavipākā	2	Ud 8.5
-ativiya	2	Ud 8.5
-aññehi	2	Ud 8.5
-piṇḍapātehi	2	Ud 8.5
-mahapphalatarā	2	Ud 8.5
-mahānisaṁsatarā	2	Ud 8.5
-Yañca	2	Ud 8.5
-pāpakaṁ	2	Ud 8.5, Ud 8.7
-Pañcamaṁ	2	Ud 8.5, Iti 15
-nāgasamālaṁ	2	Ud 8.7
-nāgasamāla	2	Ud 8.7
-panthena	2	Ud 8.7
-nikkhamitvā	2	Ud 8.7
-hatthehi	2	Ud 8.7
-pādehi	2	Ud 8.7
-ākoṭesuṁ	2	Ud 8.7
-pattañca	2	Ud 8.7
-bhindiṁsu	2	Ud 8.7
-Sattamaṁ	2	Ud 8.7, Iti 7
-mallaputtassa	2	Ud 8.9
-parinibbutassa	2	Ud 8.9
-sarīrassa	2	Ud 8.9
-paññāyittha	2	Ud 8.9
-masi	2	Ud 8.9
-Sa	2	Iti 7, Iti 24
-aññaṁ	2	Iti 14, Iti 15
-samanupassāmi	2	Iti 14, Iti 15
-saṁyuttā	2	Iti 15
-panāhaṁ	2	Iti 22
-kappe	2	Iti 22
-homi	2	Iti 22
-phalaṁ	2	Iti 22
-vipāko	2	Iti 22
-yenāhaṁ	2	Iti 22
-etarahi	2	Iti 22
-evaṁmahiddhiko	2	Iti 22
-mahā	2	Iti 24
-vepullo	2	Iti 24
-pabbato	2	Iti 24
-Ubhatodaṇḍakena	1	MN 21
-cepi	1	MN 21
-kakacena	1	MN 21
-ocarakā	1	MN 21
-aṅgamaṅgāni	1	MN 21
-okanteyyuṁ	1	MN 21
-padūseyya	1	MN 21
-sāsanakaro	1	MN 21
-ceva	1	MN 21
-vipariṇataṁ	1	MN 21
-pāpikaṁ	1	MN 21
-vācaṁ	1	MN 21
-nicchāressāma	1	MN 21
-hitānukampī	1	MN 21
-dosantarā	1	MN 21
-Tañca	1	MN 21
-puggalaṁ	1	MN 21
-tadārammaṇañca	1	MN 21
-sabbāvantaṁ	1	MN 21
-vipulena	1	MN 21
-mahaggatena	1	MN 21
-appamāṇena	1	MN 21
-averena	1	MN 21
-abyābajjhena	1	MN 21
-viharissāmā’ti	1	MN 21
-Evañhi	1	MN 21
-kareyyātha	1	MN 21
-imañce	1	MN 21
-vacanapathaṁ	1	MN 21
-aṇuṁ	1	MN 21
-thūlaṁ	1	MN 21
-nādhivāseyyāthā”ti	1	MN 21
-hetaṁ	1	MN 21
-Tasmātiha	1	MN 21
-manasikarotha	1	MN 21
-hitāya	1	MN 21
-Idamavoca	1	MN 21
-Attamanā	1	MN 21
-abhinandunti	1	MN 21
-vibhajissāmi	1	SN 12.2
-jīraṇatā	1	SN 12.2
-khaṇḍiccaṁ	1	SN 12.2
-pāliccaṁ	1	SN 12.2
-valittacatā	1	SN 12.2
-āyuno	1	SN 12.2
-saṁhāni	1	SN 12.2
-paripāko	1	SN 12.2
-sattanikāyā	1	SN 12.2
-cuti	1	SN 12.2
-cavanatā	1	SN 12.2
-antaradhānaṁ	1	SN 12.2
-kālakiriyā	1	SN 12.2
-kaḷevarassa	1	SN 12.2
-nikkhepo	1	SN 12.2
-ayañca	1	SN 12.2
-sañjāti	1	SN 12.2
-okkanti	1	SN 12.2
-abhinibbatti	1	SN 12.2
-pātubhāvo	1	SN 12.2
-paṭilābho	1	SN 12.2
-kāmabhavo	1	SN 12.2
-rūpabhavo	1	SN 12.2
-arūpabhavo	1	SN 12.2
-Cattārimāni	1	SN 12.2
-kāmupādānaṁ	1	SN 12.2
-diṭṭhupādānaṁ	1	SN 12.2
-sīlabbatupādānaṁ	1	SN 12.2
-attavādupādānaṁ	1	SN 12.2
-rūpataṇhā	1	SN 12.2
-saddataṇhā	1	SN 12.2
-gandhataṇhā	1	SN 12.2
-rasatahā	1	SN 12.2
-phoṭṭhabbataṇhā	1	SN 12.2
-dhammataṇhā	1	SN 12.2
-cakkhusamphassajā	1	SN 12.2
-sotasamphassajā	1	SN 12.2
-ghānasamphassajā	1	SN 12.2
-jivhāsamphassajā	1	SN 12.2
-kāyasamphassajā	1	SN 12.2
-manosamphassajā	1	SN 12.2
-cakkhusamphasso	1	SN 12.2
-sotasamphasso	1	SN 12.2
-ghānasamphasso	1	SN 12.2
-jivhāsamphasso	1	SN 12.2
-kāyasamphasso	1	SN 12.2
-manosamphasso	1	SN 12.2
-Cakkhāyatanaṁ	1	SN 12.2
-sotāyatanaṁ	1	SN 12.2
-ghānāyatanaṁ	1	SN 12.2
-jivhāyatanaṁ	1	SN 12.2
-kāyāyatanaṁ	1	SN 12.2
-manāyatanaṁ	1	SN 12.2
-catunnañca	1	SN 12.2
-cakkhuviññāṇaṁ	1	SN 12.2
-sotaviññāṇaṁ	1	SN 12.2
-ghānaviññāṇaṁ	1	SN 12.2
-jivhāviññāṇaṁ	1	SN 12.2
-kāyaviññāṇaṁ	1	SN 12.2
-manoviññāṇaṁ	1	SN 12.2
-Kateme	1	SN 12.2
-kāyasaṅkhāro	1	SN 12.2
-vacīsaṅkhāro	1	SN 12.2
-cittasaṅkhāro	1	SN 12.2
-dukkhasamudaye	1	SN 12.2
-dukkhanirodhe	1	SN 12.2
-dukkhanirodhagāminiyā	1	SN 12.2
-pubbeva	1	SN 12.4
-sambodhā	1	SN 12.4
-anabhisambuddhassa	1	SN 12.4
-kicchaṁ	1	SN 12.4
-vatāyaṁ	1	SN 12.4
-āpanno	1	SN 12.4
-jāyati	1	SN 12.4
-jīyati	1	SN 12.4
-mīyati	1	SN 12.4
-cavati	1	SN 12.4
-upapajjati	1	SN 12.4
-panimassa	1	SN 12.4
-nappajānāti	1	SN 12.4
-Kudāssu	1	SN 12.4
-paññāyissati	1	SN 12.4
-Sattannampi	1	SN 12.4
-vitthāretabbo	1	SN 12.4
-upādāyā”ti	1	AN 10.60
-paṭippassambheyya	1	AN 10.60
-saddā	1	AN 10.60
-gandhā	1	AN 10.60
-rasā	1	AN 10.60
-phoṭṭhabbā	1	AN 10.60
-pādatalā	1	AN 10.60
-kesamatthakā	1	AN 10.60
-tacapariyantaṁ	1	AN 10.60
-pūraṁ	1	AN 10.60
-nānāppakārassa	1	AN 10.60
-asucino	1	AN 10.60
-paccavekkhati	1	AN 10.60
-kesā	1	AN 10.60
-lomā	1	AN 10.60
-nakhā	1	AN 10.60
-dantā	1	AN 10.60
-taco	1	AN 10.60
-maṁsaṁ	1	AN 10.60
-nhāru	1	AN 10.60
-aṭṭhi	1	AN 10.60
-aṭṭhimiñjaṁ	1	AN 10.60
-vakkaṁ	1	AN 10.60
-hadayaṁ	1	AN 10.60
-yakanaṁ	1	AN 10.60
-kilomakaṁ	1	AN 10.60
-pihakaṁ	1	AN 10.60
-papphāsaṁ	1	AN 10.60
-antaṁ	1	AN 10.60
-antaguṇaṁ	1	AN 10.60
-udariyaṁ	1	AN 10.60
-karīsaṁ	1	AN 10.60
-semhaṁ	1	AN 10.60
-pubbo	1	AN 10.60
-sedo	1	AN 10.60
-medo	1	AN 10.60
-vasā	1	AN 10.60
-kheḷo	1	AN 10.60
-siṅghāṇikā	1	AN 10.60
-lasikā	1	AN 10.60
-muttan’ti	1	AN 10.60
-bahudukkho	1	AN 10.60
-bahuādīnavo	1	AN 10.60
-vividhā	1	AN 10.60
-cakkhurogo	1	AN 10.60
-sotarogo	1	AN 10.60
-ghānarogo	1	AN 10.60
-jivhārogo	1	AN 10.60
-kāyarogo	1	AN 10.60
-sīsarogo	1	AN 10.60
-kaṇṇarogo	1	AN 10.60
-mukharogo	1	AN 10.60
-dantarogo	1	AN 10.60
-oṭṭharogo	1	AN 10.60
-kāso	1	AN 10.60
-sāso	1	AN 10.60
-pināso	1	AN 10.60
-ḍāho	1	AN 10.60
-kucchirogo	1	AN 10.60
-mucchā	1	AN 10.60
-pakkhandikā	1	AN 10.60
-sūlā	1	AN 10.60
-visūcikā	1	AN 10.60
-kuṭṭhaṁ	1	AN 10.60
-gaṇḍo	1	AN 10.60
-kilāso	1	AN 10.60
-soso	1	AN 10.60
-apamāro	1	AN 10.60
-daddu	1	AN 10.60
-kaṇḍu	1	AN 10.60
-kacchu	1	AN 10.60
-nakhasā	1	AN 10.60
-vitacchikā	1	AN 10.60
-madhumeho	1	AN 10.60
-aṁsā	1	AN 10.60
-piḷakā	1	AN 10.60
-bhagandalā	1	AN 10.60
-pittasamuṭṭhānā	1	AN 10.60
-semhasamuṭṭhānā	1	AN 10.60
-vātasamuṭṭhānā	1	AN 10.60
-sannipātikā	1	AN 10.60
-utupariṇāmajā	1	AN 10.60
-visamaparihārajā	1	AN 10.60
-opakkamikā	1	AN 10.60
-kammavipākajā	1	AN 10.60
-sītaṁ	1	AN 10.60
-uṇhaṁ	1	AN 10.60
-jighacchā	1	AN 10.60
-pipāsā	1	AN 10.60
-uccāro	1	AN 10.60
-passāvo’ti	1	AN 10.60
-ādīnavānupassī	1	AN 10.60
-kāmavitakkaṁ	1	AN 10.60
-byāpādavitakkaṁ	1	AN 10.60
-vihiṁsāvitakkaṁ	1	AN 10.60
-Uppannuppanne	1	AN 10.60
-pāpake	1	AN 10.60
-akusale	1	AN 10.60
-adhiṭṭhānābhinivesānusayā	1	AN 10.60
-anupādiyanto	1	AN 10.60
-aṭṭīyati	1	AN 10.60
-harāyati	1	AN 10.60
-jigucchati	1	AN 10.60
-pallaṅkaṁ	1	AN 10.60
-ābhujitvā	1	AN 10.60
-ujuṁ	1	AN 10.60
-paṇidhāya	1	AN 10.60
-parimukhaṁ	1	AN 10.60
-upaṭṭhapetvā	1	AN 10.60
-assasati	1	AN 10.60
-passasati	1	AN 10.60
-Abhippamodayaṁ	1	AN 10.60
-samādahaṁ	1	AN 10.60
-vimocayaṁ	1	AN 10.60
-paṭippassambheyyā”ti	1	AN 10.60
-santike	1	AN 10.60
-uggahetvā	1	AN 10.60
-abhāsi	1	AN 10.60
-paṭippassambhi	1	AN 10.60
-Vuṭṭhahi	1	AN 10.60
-cāyasmā	1	AN 10.60
-pahīno	1	AN 10.60
-panāyasmato	1	AN 10.60
-Dasamaṁ	1	AN 10.60
-Sacittavaggo	1	AN 10.60
-Tassuddānaṁ	1	AN 10.60
-Parihāno	1	AN 10.60
-pabbajitaṁ	1	AN 10.60
-pahaṁ	1	AN 10.61
-kussubbhe	1	AN 10.61
-kusubbhe	1	AN 10.61
-kusombhe	1	AN 10.61
-mahāsombhe	1	AN 10.61
-paripreti	1	AN 10.61
-Taṇhāsutta	1	AN 10.62
-csp1ed	1	AN 10.62
-csp2ed	1	AN 10.62
-nīvaraṇepāhaṁ	1	AN 10.62
-tiṇṇannaṁ	1	AN 10.62
-Assaddhammassavanampāhaṁ	1	AN 10.62
-tiṇannaṁ	1	AN 10.62
-paripro	1	AN 10.62
-aññatarā	1	Sn 2.4 / Kp 5
-abhikkantāya	1	Sn 2.4 / Kp 5
-abhikkantavaṇṇā	1	Sn 2.4 / Kp 5
-kevalakappaṁ	1	Sn 2.4 / Kp 5
-obhāsetvā	1	Sn 2.4 / Kp 5
-aṭṭhāsi	1	Sn 2.4 / Kp 5
-gāthāya	1	Sn 2.4 / Kp 5
-ajjhabhāsi	1	Sn 2.4 / Kp 5
-Bahū	1	Sn 2.4 / Kp 5
-manussā	1	Sn 2.4 / Kp 5
-acintayuṁ	1	Sn 2.4 / Kp 5
-Ākaṅkhamānā	1	Sn 2.4 / Kp 5
-sotthānaṁ	1	Sn 2.4 / Kp 5
-brūhi	1	Sn 2.4 / Kp 5
-Asevanā	1	Sn 2.4 / Kp 5
-bālānaṁ	1	Sn 2.4 / Kp 5
-paṇḍitānañca	1	Sn 2.4 / Kp 5
-sevanā	1	Sn 2.4 / Kp 5
-Pūjā	1	Sn 2.4 / Kp 5
-pūjaneyyānaṁ	1	Sn 2.4 / Kp 5
-Patirūpadesavāso	1	Sn 2.4 / Kp 5
-katapuññatā	1	Sn 2.4 / Kp 5
-Attasammāpaṇidhi	1	Sn 2.4 / Kp 5
-Bāhusaccañca	1	Sn 2.4 / Kp 5
-sippañca	1	Sn 2.4 / Kp 5
-susikkhito	1	Sn 2.4 / Kp 5
-Subhāsitā	1	Sn 2.4 / Kp 5
-vācā	1	Sn 2.4 / Kp 5
-Mātāpituupaṭṭhānaṁ	1	Sn 2.4 / Kp 5
-puttadārassa	1	Sn 2.4 / Kp 5
-Anākulā	1	Sn 2.4 / Kp 5
-kammantā	1	Sn 2.4 / Kp 5
-Dānañca	1	Sn 2.4 / Kp 5
-ñātakānañca	1	Sn 2.4 / Kp 5
-Anavajjāni	1	Sn 2.4 / Kp 5
-Āratī	1	Sn 2.4 / Kp 5
-viratī	1	Sn 2.4 / Kp 5
-pāpā	1	Sn 2.4 / Kp 5
-majjapānā	1	Sn 2.4 / Kp 5
-saṁyamo	1	Sn 2.4 / Kp 5
-Gāravo	1	Sn 2.4 / Kp 5
-nivāto	1	Sn 2.4 / Kp 5
-kataññutā	1	Sn 2.4 / Kp 5
-dhammassavanaṁ	1	Sn 2.4 / Kp 5
-Khantī	1	Sn 2.4 / Kp 5
-sovacassatā	1	Sn 2.4 / Kp 5
-samaṇānañca	1	Sn 2.4 / Kp 5
-dhammasākacchā	1	Sn 2.4 / Kp 5
-Tapo	1	Sn 2.4 / Kp 5
-ariyasaccāna	1	Sn 2.4 / Kp 5
-Phuṭṭhassa	1	Sn 2.4 / Kp 5
-kampati	1	Sn 2.4 / Kp 5
-Asokaṁ	1	Sn 2.4 / Kp 5
-virajaṁ	1	Sn 2.4 / Kp 5
-khemaṁ	1	Sn 2.4 / Kp 5
-Etādisāni	1	Sn 2.4 / Kp 5
-katvāna	1	Sn 2.4 / Kp 5
-maparājitā	1	Sn 2.4 / Kp 5
-sotthiṁ	1	Sn 2.4 / Kp 5
-Karaṇīyamatthakusalena	1	Kp 9
-taṃ	1	Kp 9
-abhisamecca	1	Kp 9
-Sakko	1	Kp 9
-ujū	1	Kp 9
-suhujū	1	Kp 9
-Sūvaco	1	Kp 9
-c’assa	1	Kp 9
-mudu	1	Kp 9
-anatimānī	1	Kp 9
-Santussako	1	Kp 9
-subharo	1	Kp 9
-Appakicco	1	Kp 9
-sallahukavuttī	1	Kp 9
-Santindriyo	1	Kp 9
-nipako	1	Kp 9
-Appagabbho	1	Kp 9
-kulesu	1	Kp 9
-ananugiddho	1	Kp 9
-khuddaṃ	1	Kp 9
-samācare	1	Kp 9
-kiñci	1	Kp 9
-viññū	1	Kp 9
-pare	1	Kp 9
-upavadeyyuṃ	1	Kp 9
-Sukhino	1	Kp 9
-khemino	1	Kp 9
-keci	1	Kp 9
-pāṇabhūtatthi	1	Kp 9
-Tasā	1	Kp 9
-thāvarā	1	Kp 9
-anavasesā	1	Kp 9
-Dīghā	1	Kp 9
-mahantā	1	Kp 9
-rassakā	1	Kp 9
-aṇukathūlā	1	Kp 9
-adiṭṭhā	1	Kp 9
-dūre	1	Kp 9
-vasanti	1	Kp 9
-sambhavesī	1	Kp 9
-paro	1	Kp 9
-paraṃ	1	Kp 9
-nikubbetha	1	Kp 9
-Nātimaññetha	1	Kp 9
-katthaci	1	Kp 9
-naṃ	1	Kp 9
-kañci	1	Kp 9
-Byārosanā	1	Kp 9
-paṭighasaññā	1	Kp 9
-Nāññamaññassa	1	Kp 9
-dukkhamiccheyya	1	Kp 9
-Mātā	1	Kp 9
-niyaṃ	1	Kp 9
-puttaṃ	1	Kp 9
-Āyusā	1	Kp 9
-ekaputtamanurakkhe	1	Kp 9
-Evam	1	Kp 9
-sabbabhūtesū	1	Kp 9
-lokasmiṃ	1	Kp 9
-tiriyañca	1	Kp 9
-Asambādhaṃ	1	Kp 9
-averaṃ	1	Kp 9
-asapattaṃ	1	Kp 9
-Tiṭṭhaṃ	1	Kp 9
-caraṃ	1	Kp 9
-Sayāno	1	Kp 9
-yavāt’assa	1	Kp 9
-vigatamiddho	1	Kp 9
-Etaṃ	1	Kp 9
-satiṃ	1	Kp 9
-adhiṭṭheyya	1	Kp 9
-vihāraṃ	1	Kp 9
-idhamāhu	1	Kp 9
-Diṭṭhiñca	1	Kp 9
-anupagamma	1	Kp 9
-dassanena	1	Kp 9
-sampanno	1	Kp 9
-Kāmesu	1	Kp 9
-vineyya	1	Kp 9
-gedhaṃ	1	Kp 9
-gabbhaseyyaṃ	1	Kp 9
-punaretī	1	Kp 9
-vimuttisukhapaṭisaṁvedī	1	Ud 1.1
-samādhimhā	1	Ud 1.1
-anulomaṁ	1	Ud 1.1
-avijjāpaccayā	1	Ud 1.1
-viññāṇapaccayā	1	Ud 1.1
-saḷāyatanapaccayā	1	Ud 1.1
-phassapaccayā	1	Ud 1.1
-upādānapaccayā	1	Ud 1.1
-bhavapaccayā	1	Ud 1.1
-jātipaccayā	1	Ud 1.1
-sandasseti	1	Ud 8.4
-samādapeti	1	Ud 8.4
-samuttejeti	1	Ud 8.4
-sampahaṁseti	1	Ud 8.4
-Tedha	1	Ud 8.4
-aṭṭhiṁ	1	Ud 8.4
-samannāharitvā	1	Ud 8.4
-ohitasotā	1	Ud 8.4
-suṇanti	1	Ud 8.4
-Nissitassa	1	Ud 8.4
-anissitassa	1	Ud 8.4
-āgatigati	1	Ud 8.4
-Āgatigatiyā	1	Ud 8.4
-cutūpapāto	1	Ud 8.4
-Cutūpapāte	1	Ud 8.4
-nevidha	1	Ud 8.4
-huraṁ	1	Ud 8.4
-ubhayamantarena	1	Ud 8.4
-Esevanto	1	Ud 8.4
-pāvā	1	Ud 8.5
-tadavasari	1	Ud 8.5
-ambavane	1	Ud 8.5
-Assosi	1	Ud 8.5
-kira	1	Ud 8.5
-pāvaṁ	1	Ud 8.5
-anuppatto	1	Ud 8.5
-ambavane”ti	1	Ud 8.5
-sandassesi	1	Ud 8.5
-samādapesi	1	Ud 8.5
-samuttejesi	1	Ud 8.5
-sampahaṁsesi	1	Ud 8.5
-sandassito	1	Ud 8.5
-samādapito	1	Ud 8.5
-samuttejito	1	Ud 8.5
-sampahaṁsito	1	Ud 8.5
-adhivāsetu	1	Ud 8.5
-svātanāya	1	Ud 8.5
-bhikkhusaṅghenā”ti	1	Ud 8.5
-tuṇhībhāvena	1	Ud 8.5
-adhivāsanaṁ	1	Ud 8.5
-uṭṭhāyāsan	1	Ud 8.5
-sake	1	Ud 8.5
-nivesane	1	Ud 8.5
-paṭiyādāpetvā	1	Ud 8.5
-pahūtañca	1	Ud 8.5
-ārocāpesi	1	Ud 8.5
-kālo	1	Ud 8.5
-niṭṭhitaṁ	1	Ud 8.5
-bhattan”ti	1	Ud 8.5
-pubbaṇhasamayaṁ	1	Ud 8.5
-nivāsetvā	1	Ud 8.5
-pattacīvaramādāya	1	Ud 8.5
-nivesanaṁ	1	Ud 8.5
-paññatte	1	Ud 8.5
-maṁ	1	Ud 8.5
-parivisa	1	Ud 8.5
-parivisā”ti	1	Ud 8.5
-nikhaṇāhi	1	Ud 8.5
-passāmi	1	Ud 8.5
-samārake	1	Ud 8.5
-pajāya	1	Ud 8.5
-sadevamanussāya	1	Ud 8.5
-paribhuttaṁ	1	Ud 8.5
-sammā	1	Ud 8.5
-pariṇāmaṁ	1	Ud 8.5
-gaccheyya	1	Ud 8.5
-aññatra	1	Ud 8.5
-nikhaṇitvā	1	Ud 8.5
-sandassetvā	1	Ud 8.5
-samādapetvā	1	Ud 8.5
-samuttejetvā	1	Ud 8.5
-sampahaṁsetvā	1	Ud 8.5
-bhuttāvissa	1	Ud 8.5
-kharo	1	Ud 8.5
-uppajji	1	Ud 8.5
-Lohitapakkhandikā	1	Ud 8.5
-pabāḷhā	1	Ud 8.5
-vattanti	1	Ud 8.5
-māraṇantikā	1	Ud 8.5
-suda	1	Ud 8.5
-avihaññamāno	1	Ud 8.5
-āyāmānanda	1	Ud 8.5
-kusinārā	1	Ud 8.5
-tenupasaṅkamissāmā”ti	1	Ud 8.5
-paccassosi	1	Ud 8.5
-kammārassāti	1	Ud 8.5
-samphusī	1	Ud 8.5
-dhīro	1	Ud 8.5
-pabāḷhaṁ	1	Ud 8.5
-māraṇantikaṁ	1	Ud 8.5
-Bhuttassa	1	Ud 8.5
-sūkaramaddavena	1	Ud 8.5
-Byādhippabāḷho	1	Ud 8.5
-satthuno	1	Ud 8.5
-Viriccamāno	1	Ud 8.5
-Gacchāmahaṁ	1	Ud 8.5
-kusināraṁ	1	Ud 8.5
-nagaran”ti	1	Ud 8.5
-okkamma	1	Ud 8.5
-aññataraṁ	1	Ud 8.5
-nisīdissāmī”ti	1	Ud 8.5
-pañatte	1	Ud 8.5
-idāni	1	Ud 8.5
-pañcamattāni	1	Ud 8.5
-sakaṭasatāni	1	Ud 8.5
-atikkantāni	1	Ud 8.5
-cakkacchinnaṁ	1	Ud 8.5
-parittaṁ	1	Ud 8.5
-luḷitaṁ	1	Ud 8.5
-āvilaṁ	1	Ud 8.5
-acchodakā	1	Ud 8.5
-sātodakā	1	Ud 8.5
-sītodakā	1	Ud 8.5
-setodakā	1	Ud 8.5
-supatitthā	1	Ud 8.5
-ramaṇīyā	1	Ud 8.5
-Ettha	1	Ud 8.5
-pānīyañca	1	Ud 8.5
-pivissati	1	Ud 8.5
-gattāni	1	Ud 8.5
-sītīkarissatī”ti	1	Ud 8.5
-pattaṁ	1	Ud 8.5
-gahetvā	1	Ud 8.5
-sandatī”ti	1	Ud 8.5
-ādāya	1	Ud 8.5
-pānīyan”ti	1	Ud 8.5
-apāyi	1	Ud 8.5
-nadiṁ	1	Ud 8.5
-ajjhogāhetvā	1	Ud 8.5
-paccuttaritvā	1	Ud 8.5
-nipajjissāmī”ti	1	Ud 8.5
-dakkhiṇena	1	Ud 8.5
-passena	1	Ud 8.5
-sīhaseyyaṁ	1	Ud 8.5
-kappesi	1	Ud 8.5
-pāde	1	Ud 8.5
-accādhāya	1	Ud 8.5
-uṭṭhānasaññaṁ	1	Ud 8.5
-karitvā	1	Ud 8.5
-purato	1	Ud 8.5
-Gantvāna	1	Ud 8.5
-nadikaṁ	1	Ud 8.5
-Acchodakaṁ	1	Ud 8.5
-sātudakaṁ	1	Ud 8.5
-vippasannaṁ	1	Ud 8.5
-Ogāhi	1	Ud 8.5
-appaṭimodha	1	Ud 8.5
-cudatāri	1	Ud 8.5
-Purakkhato	1	Ud 8.5
-bhikkhugaṇassa	1	Ud 8.5
-majjhe	1	Ud 8.5
-Upāgami	1	Ud 8.5
-mahesi	1	Ud 8.5
-Āmantayi	1	Ud 8.5
-santhara	1	Ud 8.5
-nipajjaṁ	1	Ud 8.5
-codito	1	Ud 8.5
-bhāvitattena	1	Ud 8.5
-santhari	1	Ud 8.5
-khippameva	1	Ud 8.5
-Nipajji	1	Ud 8.5
-Cundopi	1	Ud 8.5
-pamukhe	1	Ud 8.5
-panānanda	1	Ud 8.5
-koci	1	Ud 8.5
-vippaṭisāraṁ	1	Ud 8.5
-upadaheyya	1	Ud 8.5
-alābhā	1	Ud 8.5
-dulladdhaṁ	1	Ud 8.5
-parinibbuto’ti	1	Ud 8.5
-paṭivinodetabbo	1	Ud 8.5
-lābhā	1	Ud 8.5
-suladdhaṁ	1	Ud 8.5
-parinibbuto	1	Ud 8.5
-paṭiggahitaṁ	1	Ud 8.5
-dveme	1	Ud 8.5
-anuttaraṁ	1	Ud 8.5
-sammāsambodhiṁ	1	Ud 8.5
-abhisambujjhati	1	Ud 8.5
-anupādisesāya	1	Ud 8.5
-nibbānadhātuyā	1	Ud 8.5
-parinibbāyati	1	Ud 8.5
-Āyusaṁvattanikaṁ	1	Ud 8.5
-vaṇṇasaṁvattanikaṁ	1	Ud 8.5
-sukhasaṁvattanikaṁ	1	Ud 8.5
-saggasaṁvattanikaṁ	1	Ud 8.5
-yasasaṁvattanikaṁ	1	Ud 8.5
-ādhipateyyasaṁvattanikaṁ	1	Ud 8.5
-upacitan’ti	1	Ud 8.5
-paṭivinodetabbo”ti	1	Ud 8.5
-Dadato	1	Ud 8.5
-puññaṁ	1	Ud 8.5
-pavaḍḍhati	1	Ud 8.5
-Saṁyamato	1	Ud 8.5
-veraṁ	1	Ud 8.5
-cīyati	1	Ud 8.5
-Kusalo	1	Ud 8.5
-jahāti	1	Ud 8.5
-Rāgadosamohakkhayā	1	Ud 8.5
-sanibbuto”ti	1	Ud 8.5
-kosalesu	1	Ud 8.7
-addhānamaggappaṭipanno	1	Ud 8.7
-nāgasamālena	1	Ud 8.7
-Addasā	1	Ud 8.7
-dvidhāpathaṁ	1	Ud 8.7
-Disvāna	1	Ud 8.7
-pattacīvaraṁ	1	Ud 8.7
-chamāyaṁ	1	Ud 8.7
-nikkhipitvā	1	Ud 8.7
-pattacīvaran”ti	1	Ud 8.7
-ngasamālassa	1	Ud 8.7
-vipphālesuṁ	1	Ud 8.7
-bhinnena	1	Ud 8.7
-vipphālitāya	1	Ud 8.7
-vipphālesun”ti	1	Ud 8.7
-caramekato	1	Ud 8.7
-vasaṁ	1	Ud 8.7
-Misso	1	Ud 8.7
-aññajanena	1	Ud 8.7
-Vidvā	1	Ud 8.7
-pajahāti	1	Ud 8.7
-Koñco	1	Ud 8.7
-khīrapakova	1	Ud 8.7
-ninnagan”ti	1	Ud 8.7
-veḷuvane	1	Ud 8.9
-kalandakanivāpe	1	Ud 8.9
-dāni	1	Ud 8.9
-Yassadāni	1	Ud 8.9
-maññasī”ti	1	Ud 8.9
-parinibbāyi	1	Ud 8.9
-sappissa	1	Ud 8.9
-telassa	1	Ud 8.9
-masīti	1	Ud 8.9
-Abhedi	1	Ud 8.9
-sītibhaviṁsu	1	Ud 8.9
-Vūpasamiṁsu	1	Ud 8.9
-atthamāgamā”ti	1	Ud 8.9
-Navamaṁ	1	Ud 8.9
-duṭṭhāse	1	Iti 2
-avirājayaṁ	1	Iti 7
-appajahaṁ	1	Iti 7
-abhabbo	1	Iti 7
-dukkhakkhayāya	1	Iti 7
-bhabbo	1	Iti 7
-dukkhakkhayāyā”ti	1	Iti 7
-rajjati	1	Iti 7
-ve	1	Iti 7
-ekanīvaraṇampi	1	Iti 14
-Natthañño	1	Iti 14
-ekadhammopi	1	Iti 14
-yenevaṁ	1	Iti 14
-ahorattaṁ	1	Iti 14
-āvutā	1	Iti 14
-pahantvāna	1	Iti 14
-padālayuṁ	1	Iti 14
-hetu	1	Iti 14
-ekasaṁyojanampi	1	Iti 15
-puriso	1	Iti 15
-dīghamaddhāna	1	Iti 15
-Itthabhāvaññathābhāvaṁ	1	Iti 15
-nātivattati	1	Iti 15
-Etamādīnavaṁ	1	Iti 15
-Vītataṇho	1	Iti 15
-paribbaje”ti	1	Iti 15
-bhāyittha	1	Iti 22
-Sukhassetaṁ	1	Iti 22
-adhivacanaṁ	1	Iti 22
-iṭṭhassa	1	Iti 22
-kantassa	1	Iti 22
-piyassa	1	Iti 22
-manāpassa	1	Iti 22
-Abhijānāmi	1	Iti 22
-katānaṁ	1	Iti 22
-iṭṭhaṁ	1	Iti 22
-kantaṁ	1	Iti 22
-piyaṁ	1	Iti 22
-manāpaṁ	1	Iti 22
-vipākaṁ	1	Iti 22
-paccanubhūtaṁ	1	Iti 22
-vassāni	1	Iti 22
-bhāvetvā	1	Iti 22
-saṁvaṭṭavivaṭṭakappe	1	Iti 22
-nayimaṁ	1	Iti 22
-punarāgamāsiṁ	1	Iti 22
-Saṁvaṭṭamāne	1	Iti 22
-ābhassarūpago	1	Iti 22
-vivaṭṭamāne	1	Iti 22
-suññaṁ	1	Iti 22
-brahmavimānaṁ	1	Iti 22
-upapajjāmi	1	Iti 22
-mahābrahmā	1	Iti 22
-abhibhū	1	Iti 22
-anabhibhūto	1	Iti 22
-aññadatthudaso	1	Iti 22
-vasavattī	1	Iti 22
-Chattiṁsakkhattuṁ	1	Iti 22
-devānamindo	1	Iti 22
-anekasatakkhattuṁ	1	Iti 22
-rājā	1	Iti 22
-dhammiko	1	Iti 22
-dhammarājā	1	Iti 22
-cāturanto	1	Iti 22
-vijitāvī	1	Iti 22
-janapadatthāvariyappatto	1	Iti 22
-sattaratanasamannāgato	1	Iti 22
-vādo	1	Iti 22
-padesarajjassa	1	Iti 22
-evaṁmahānubhāvo’ti	1	Iti 22
-evaṁmahānubhāvoti	1	Iti 22
-saññamassā’”ti	1	Iti 22
-sikkheyya	1	Iti 22
-āyataggaṁ	1	Iti 22
-sukhudrayaṁ	1	Iti 22
-samacariyañca	1	Iti 22
-Ete	1	Iti 22
-bhāvayitvā	1	Iti 22
-sukhasamuddaye	1	Iti 22
-Abyāpajjaṁ	1	Iti 22
-sukhaṁ	1	Iti 22
-paṇḍito	1	Iti 22
-upapajjatī”ti	1	Iti 22
-Ekapuggalassa	1	Iti 24
-sandhāvato	1	Iti 24
-aṭṭhikaṅkalo	1	Iti 24
-aṭṭhipuñjo	1	Iti 24
-aṭṭhirāsi	1	Iti 24
-saṁhārako	1	Iti 24
-sambhatañca	1	Iti 24
-vinasseyyā”ti	1	Iti 24
-Ekassekena	1	Iti 24
-puggalassaṭṭhisañcayo	1	Iti 24
-pabbatasamo	1	Iti 24
-rāsi	1	Iti 24
-mahesinā	1	Iti 24
-akkhāto	1	Iti 24
-Uttaro	1	Iti 24
-gijjhakūṭassa	1	Iti 24
-magadhānaṁ	1	Iti 24
-giribbaje	1	Iti 24
-sammappaññāya	1	Iti 24
-dukkhasamuppādaṁ	1	Iti 24
-atikkamaṁ	1	Iti 24
-Ariyañcaṭṭhaṅgikaṁ	1	Iti 24
-dukkhūpasamagāminaṁ	1	Iti 24
-sattakkhattuṁ	1	Iti 24
-paramaṁ	1	Iti 24
-sandhāvitvāna	1	Iti 24
-puggalo	1	Iti 24
-Dukkhassantakaro	1	Iti 24
-sabbasaṁyojanakkhayā”ti	1	Iti 24
+form	count	suttas	gloss	headword
+Ko	36	AN 10.61, AN 10.62, Iti 22	who? what? (interrogative)	ka
+vadāmi	35	AN 10.61, AN 10.62	I say	vadati
+cāhāro	35	AN 10.61, AN 10.62	and the nutriment (ca + āhāro)	āhāra
+vacanīyaṁ	35	AN 10.61, AN 10.62	should be the answer, to be said	vacanīya
+paripūrā	30	AN 10.61, AN 10.62	complete, fulfilled	paripūra
+etadahosi	26	SN 12.4, Ud 8.5, Iti 22	this (thought) occurred (etad + ahosi)	hoti
+nu	23	SN 12.4, Iti 22	(interrogative particle) indeed?	nu
+kimhi	22	SN 12.4	in what? when what exists? (loc.)	ka
+paripūro	21	AN 10.61, AN 10.62	complete, fulfilled (nom. m.)	paripūra
+pe	18	SN 12.2, SN 12.3, SN 12.4, AN 10.60, AN 10.62, Ud 8.5, Ud 8.7	… and so on (ellipsis marker, peyyāla)	peyyāla
+paripūraṁ	18	AN 10.61, AN 10.62	complete, fulfilled (acc./nom. nt.)	paripūra
+sikkhati	16	AN 10.60	he trains	sikkhati
+Evametassa	13	SN 12.2, SN 12.3, SN 12.4, AN 10.61, AN 10.62, Ud 1.1, Ud 1.1, 1.2, 1.3	thus of this (evaṁ + etassa)	eta
+evañca	12	AN 10.61, AN 10.62	and thus (evaṁ + ca)	evaṁ
+yaṁ	11	MN 21, SN 12.2, AN 10.60, Kp 9, Ud 8.5	which, that (rel. pron.)	ya
+kiṁpaccayā	11	SN 12.4	from what condition? (kiṁ + paccayā)	paccaya
+pāripūri	10	AN 10.61, AN 10.62	fulfilment, completion	pāripūrī
+kevalassa	9	SN 12.2, SN 12.3, SN 12.4, Ud 1.1, Ud 1.1, 1.2, 1.3	of the whole, entire	kevala
+assasissāmī’ti	8	AN 10.60	'I shall breathe in' (quote)	assasati
+passasissāmī’ti	8	AN 10.60	'I shall breathe out' (quote)	passasati
+evametissā	8	AN 10.61, AN 10.62	thus of this (f.) (evaṁ + etissā)	eta
+āmantesi	8	Ud 8.5	addressed	āmanteti
+Variant	7	MN 21, AN 10.61, AN 10.62	edition marker — not a word	—
+paripūrāni	7	AN 10.61, AN 10.62	complete, fulfilled (nt. pl.)	paripūra
+viditvā	7	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.4, Ud 8.5, Ud 8.7, Ud 8.9	having understood, having known	vindati
+kammāraputto	7	Ud 8.5	the smith, smith's son (nom.)	kammāraputta
+āyasmatā	7	Ud 8.5, Ud 8.7	by the venerable (instr.)	āyasmant
+bj	6	AN 10.61	edition marker — not a word	—
+sya-all	6	AN 10.61	edition marker — not a word	—
+pts1ed	6	AN 10.61	edition marker — not a word	—
+sāhāre	6	AN 10.61, AN 10.62	having nutriment (acc. pl.)	sāhāra
+anāhāre	6	AN 10.61, AN 10.62	without nutriment (acc. pl.)	anāhāra
+Tīṇipāhaṁ	6	AN 10.61, AN 10.62	and the three, I say (tīṇi + pi + ahaṁ)	ti
+pabbatakandarapadarasākhā	6	AN 10.61, AN 10.62	mountain clefts, crevices, and gullies	pabbatakandarapadarasākhā
+kunnadiyo	6	AN 10.61, AN 10.62	small rivers, streams	kunnadī
+mahānadiyo	6	AN 10.61, AN 10.62	great rivers	mahānadī
+kammāraputtassa	6	Ud 8.5	of the smith (gen.)	kammāraputta
+catugguṇaṁ	6	Ud 8.5	folded in four, fourfold (acc.)	catugguṇa
+nadī	6	Ud 8.5	river	nadī
+kammāraputtena	6	Ud 8.5	by the smith (instr.)	kammāraputta
+pubbe	5	SN 12.4, AN 10.61, AN 10.62, Sn 2.4 / Kp 5	formerly, before	pubba
+udakaṁ	5	AN 10.61, AN 10.62, Ud 8.5	water (acc./nom.)	udaka
+vuṭṭhahitvā	5	Ud 1.1, Ud 1.1, 1.2, 1.3, Ud 8.9	having emerged, having risen	vuṭṭhahati
+sūkaramaddavaṁ	5	Ud 8.5	sūkaramaddava, the tender-pork dish (acc.)	sūkaramaddava
+pānīyaṁ	5	Ud 8.5	drinking water (acc.)	pānīya
+upacitaṁ	5	Ud 8.5	accumulated (acc.)	upacināti
+nāgasamālo	5	Ud 8.7	Nāgasamāla (name, nom.)	nāgasamāla
+Yā	4	SN 12.2, Sn 2.4 / Kp 5	which, who (rel. f. nom.)	ya
+Chayime	4	SN 12.2	these six (cha + ime)	cha
+aññāṇaṁ	4	SN 12.2	not-knowing, ignorance	aññāṇa
+sabbasaṅkhāresu	4	AN 10.60	in all formations (loc. pl.)	saṅkhāra
+Rassaṁ	4	AN 10.60	short (breath) (acc.)	rassa
+Passambhayaṁ	4	AN 10.60	calming (pres. part.)	passambheti
+imā	4	AN 10.60	these (f. pl.)	ima
+sāhārāni	4	AN 10.61, AN 10.62	having nutriment (nt. pl.)	sāhāra
+anāhārāni	4	AN 10.61, AN 10.62	without nutriment (nt. pl.)	anāhāra
+uparipabbate	4	AN 10.61, AN 10.62	on the mountain top (loc.)	uparipabbata
+thullaphusitake	4	AN 10.61, AN 10.62	with fat (rain)drops (loc.)	thullaphusitaka
+vassante	4	AN 10.61, AN 10.62	raining (loc. absolute)	vassati
+yathāninnaṁ	4	AN 10.61, AN 10.62	downhill, along the slope	yathāninna
+pavattamānaṁ	4	AN 10.61, AN 10.62	flowing, proceeding (pres. part. acc.)	pavattati
+kusobbhe	4	AN 10.61, AN 10.62	small pools, ditches (acc. pl.)	kusobbha
+mahāsobbhe	4	AN 10.61, AN 10.62	large pools (acc. pl.)	mahāsobbha
+mahāsamuddassa	4	AN 10.61, AN 10.62	of the great ocean	mahāsamudda
+sāgarassa	4	AN 10.61, AN 10.62	of the sea	sāgara
+yassa	4	Sn 2.4 / Kp 5, Ud 8.5	of whom, of which	ya
+kathāya	4	Ud 8.4, Ud 8.5	with talk, discourse (instr.)	kathā
+bhikkhusaṅghena	4	Ud 8.5	with the community of monks (instr.)	bhikkhusaṅgha
+kammāraputtaṁ	4	Ud 8.5	the smith (acc.)	kammāraputta
+paṭiyattaṁ	4	Ud 8.5	prepared, made ready (acc.)	paṭiyādeti
+iṅgha	4	Ud 8.5	come now! (exhortative particle)	iṅgha
+saṅghāṭiṁ	4	Ud 8.5	the outer robe (acc.)	saṅghāṭi
+piṇḍapātaṁ	4	Ud 8.5	almsfood (acc.)	piṇḍapāta
+pantho	4	Ud 8.7	path, road (nom.)	pantha
+gacchāmā”ti	4	Ud 8.7	'let us go' (quote)	gacchati
+sandhāvanti	4	Iti 14, Iti 15	they run on, transmigrate	sandhāvati
+corā	3	MN 21, Ud 8.7	bandits, thieves (nom. pl.)	cora
+idañca	3	SN 12.2	and this (idaṁ + ca)	ima
+Catutthaṁ	3	SN 12.4, Iti 14, Iti 24	the fourth (section ending)	catuttha
+Sace	3	AN 10.60, Iti 24	if	sace
+anabhiratasaññā	3	AN 10.60	perception of non-delight (in the whole world)	anabhiratasaññā
+Pañcapāhaṁ	3	AN 10.61	and the five, I say (pañca + pi + ahaṁ)	pañca
+Kusobbhā	3	AN 10.61, AN 10.62	small pools (nom. pl.)	kusobbha
+mahāsobbhā	3	AN 10.61, AN 10.62	large pools (nom. pl.)	mahāsobbha
+mahāsamuddaṁ	3	AN 10.61, AN 10.62	the great ocean (acc.)	mahāsamudda
+sāgaraṁ	3	AN 10.61, AN 10.62	the sea (acc.)	sāgara
+Yato	3	Ud 1.1, Ud 1.1, 1.2, 1.3, Iti 24	since, from when	yato
+mahatā	3	Ud 8.5	with a large, great (instr.)	mahant
+sudaṁ	3	Ud 8.5, Iti 22	(emphatic particle)	sudaṁ
+bhattaṁ	3	Ud 8.5	meal (acc.)	bhatta
+pakkāmi	3	Ud 8.5, Ud 8.7	departed	pakkamati
+khādanīyaṁ	3	Ud 8.5	hard food (acc.)	khādanīya
+bhojanīyaṁ	3	Ud 8.5	soft food (acc.)	bhojanīya
+sandati	3	Ud 8.5	flows	sandati
+tatiyampi	3	Ud 8.5, Ud 8.7	for the third time (tatiyaṁ + pi)	tatiya
+cakkacchinnā	3	Ud 8.5	cut up by wheels (nom.)	cakkacchinna
+luḷitā	3	Ud 8.5	stirred up (nom.)	luḷita
+āvilā	3	Ud 8.5	turbid (nom.)	āvila
+sandamānā	3	Ud 8.5	flowing (pres. part.)	sandati
+upasaṅkamante	3	Ud 8.5	approaching (loc.)	upasaṅkamati
+acchā	3	Ud 8.5	clear (nom.)	accha
+vippasannā	3	Ud 8.5	pure, limpid (nom.)	vippasanna
+anāvilā	3	Ud 8.5	not turbid, undisturbed (nom.)	anāvila
+āvuso	3	Ud 8.5	friend (vocative)	āvuso
+paribhuñjitvā	3	Ud 8.5	having used, having consumed	paribhuñjati
+antarāmagge	3	Ud 8.7	on the way, mid-road (loc.)	antarāmagga
+mallaputto	3	Ud 8.9	Mallaputta, son of the Mallas (nom.)	mallaputta
+vehāsaṁ	3	Ud 8.9	into the air (acc.)	vehāsa
+abbhuggantvā	3	Ud 8.9	having risen up	abbhuggacchati
+ākāse	3	Ud 8.9	in the sky (loc.)	ākāsa
+pallaṅkena	3	Ud 8.9	cross-legged (instr.)	pallaṅka
+samāpajjitvā	3	Ud 8.9	having entered (an attainment)	samāpajjati
+jhāyamānassa	3	Ud 8.9	burning (gen. pres. part.)	jhāyati
+ḍayhamānassa	3	Ud 8.9	being burnt (gen.)	ḍayhati
+neva	3	Ud 8.9	neither (na + eva)	na
+chārikā	3	Ud 8.9	ash (nom.)	chārikā
+nivutā	3	Iti 14	obstructed, shrouded (nom. pl.)	nivuta
+tatrāpi	2	MN 21	even there (tatra + api)	tatra
+yo	2	MN 21, Iti 7	who, which (rel. m. nom.)	ya
+sikkhitabbaṁ	2	MN 21	should be trained, to be trained	sikkhati
+viharissāma	2	MN 21	we shall dwell	viharati
+cetasā	2	MN 21	with a mind (instr.)	ceto
+pharitvā	2	MN 21	having pervaded	pharati
+Imañca	2	MN 21	and this (imaṁ + ca)	ima
+ovādaṁ	2	MN 21	advice, exhortation (acc.)	ovāda
+abhikkhaṇaṁ	2	MN 21	frequently, repeatedly	abhikkhaṇaṁ
+nissaraṇaṁ	2	SN 12.4	escape, release (acc.)	nissaraṇa
+ananussutesu	2	SN 12.4	in things unheard before (loc. pl.)	ananussuta
+āloko	2	SN 12.4	light (nom.)	āloka
+yenāyasmā	2	AN 10.60	where the venerable (yena + āyasmā)	āyasmant
+panetaṁ	2	AN 10.60	but this (pana + etaṁ)	eta
+pittaṁ	2	AN 10.60	bile	pitta
+lohitaṁ	2	AN 10.60	blood	lohita
+taṇhākkhayo	2	AN 10.60	destruction of craving (nom.)	taṇhākkhaya
+cetaso	2	AN 10.60, Ud 8.4	of the mind (gen.)	ceto
+assasanto	2	AN 10.60	breathing in (pres. part.)	assasati
+assasāmī’ti	2	AN 10.60	'I breathe in' (quote)	assasati
+passasanto	2	AN 10.60	breathing out (pres. part.)	passasati
+passasāmī’ti	2	AN 10.60	'I breathe out' (quote)	passasati
+Sabbakāyapaṭisaṁvedī	2	AN 10.60	experiencing the whole body	sabbakāyapaṭisaṁvedin
+kāyasaṅkhāraṁ	2	AN 10.60	the bodily formation (acc.)	kāyasaṅkhāra
+Pītipaṭisaṁvedī	2	AN 10.60	experiencing rapture	pītipaṭisaṁvedin
+Sukhapaṭisaṁvedī	2	AN 10.60	experiencing pleasure	sukhapaṭisaṁvedin
+Cittasaṅkhārapaṭisaṁvedī	2	AN 10.60	experiencing the mental formation	cittasaṅkhārapaṭisaṁvedin
+cittasaṅkhāraṁ	2	AN 10.60	the mental formation (acc.)	cittasaṅkhāra
+Cittapaṭisaṁvedī	2	AN 10.60	experiencing the mind	cittapaṭisaṁvedin
+paṭinissaggānupassī	2	AN 10.60	contemplating relinquishment	paṭinissaggānupassin
+Yamakavagga	2	AN 10.61, AN 10.62	the Chapter of Pairs (section title)	yamakavagga
+Purimā	2	AN 10.61, AN 10.62	former, earlier (f. nom.)	purima
+ito	2	AN 10.61, AN 10.62	from here, from this	ito
+nāhosi	2	AN 10.61, AN 10.62	was not (na + ahosi)	hoti
+pacchā	2	AN 10.61, AN 10.62	afterwards	pacchā
+samabhavī’ti	2	AN 10.61, AN 10.62	'came to be' (quote) (sam + abhavi)	sambhavati
+Evañcetaṁ	2	AN 10.61, AN 10.62	and thus this (evaṁ + ca + etaṁ)	eta
+idappaccayā	2	AN 10.61, AN 10.62	with this as condition	idappaccayatā
+galagalāyante	2	AN 10.61	pouring, roaring down (loc. absolute)	galagalāyati
+mr	2	AN 10.61	edition marker — not a word	—
+Sattapāhaṁ	2	AN 10.61, AN 10.62	and the seven, I say (satta + pi + ahaṁ)	satta
+sattannaṁ	2	AN 10.61, AN 10.62	of seven (gen.)	satta
+Cattāropāhaṁ	2	AN 10.61, AN 10.62	and the four, I say (cattāro + pi + ahaṁ)	catu
+pāripūrī”ti	2	AN 10.61, AN 10.62	'fulfilment' (quote)	pāripūrī
+assaddhammassavanaṁ	2	AN 10.62	hearing what is not the true teaching	assaddhammassavana
+dassanaṁ	2	Sn 2.4 / Kp 5	seeing, vision	dassana
+padaṃ	2	Kp 9, Ud 8.5	state, place (acc.)	pada
+Mānasaṃ	2	Kp 9	heart, mind (acc.)	mānasa
+aparimānaṃ	2	Kp 9	boundless (acc.)	aparimāṇa
+najjā	2	Ud 1.1, Ud 1.1, 1.2, 1.3	of the river (gen.)	nadī
+tīre	2	Ud 1.1, Ud 1.1, 1.2, 1.3	on the bank (loc.)	tīra
+bodhirukkhamūle	2	Ud 1.1, Ud 1.1, 1.2, 1.3	at the foot of the Bodhi tree (loc.)	bodhirukkhamūla
+paṭhamābhisambuddho	2	Ud 1.1, Ud 1.1, 1.2, 1.3	newly fully awakened (nom.)	paṭhamābhisambuddha
+sattāhaṁ	2	Ud 1.1, Ud 1.1, 1.2, 1.3	for seven days (acc.)	sattāha
+ekapallaṅkena	2	Ud 1.1, Ud 1.1, 1.2, 1.3	in a single cross-legged sitting (instr.)	ekapallaṅka
+sattāhassa	2	Ud 1.1, Ud 1.1, 1.2, 1.3	of the seven days (gen.)	sattāha
+yāmaṁ	2	Ud 1.1, Ud 1.1, 1.2, 1.3	watch (of the night) (acc.)	yāma
+manasākāsi	2	Ud 1.1, Ud 1.1, 1.2, 1.3	gave attention (manasi + akāsi)	manasikaroti
+imassuppādā	2	Ud 1.1, Ud 1.1, 1.2, 1.3	from the arising of this (imassa + uppādā)	uppāda
+Yadā	2	Ud 1.1, Ud 1.1, 1.2, 1.3	when	yadā
+pātubhavanti	2	Ud 1.1, Ud 1.1, 1.2, 1.3	appear, become manifest	pātubhavati
+jhāyato	2	Ud 1.1, Ud 1.1, 1.2, 1.3	for one meditating (gen. pres. part.)	jhāyati
+kaṅkhā	2	Ud 1.1, Ud 1.1, 1.2, 1.3	doubts (nom. pl.)	kaṅkhā
+vapayanti	2	Ud 1.1, Ud 1.1, 1.2, 1.3	vanish, disappear	vapayāti
+sahetudhamman”ti	2	Ud 1.1, Ud 1.1, 1.2, 1.3	'phenomena with their causes' (quote)	sahetudhamma
+mallesu	2	Ud 8.5	among the Mallas (loc. pl.)	malla
+cārikaṁ	2	Ud 8.5	wandering tour (acc.)	cārikā
+caramāno	2	Ud 8.5	wandering (pres. part. nom.)	carati
+pāvāyaṁ	2	Ud 8.5	in Pāvā (loc.)	pāvā
+Adhivāsesi	2	Ud 8.5	consented, accepted	adhivāseti
+kālaṁ	2	Ud 8.5, Ud 8.9	the time (acc.)	kāla
+panaññaṁ	2	Ud 8.5	but another (pana + aññaṁ)	añña
+bhikkhusaṅghaṁ	2	Ud 8.5	the community of monks (acc.)	bhikkhusaṅgha
+parivisi	2	Ud 8.5	served (with food)	parivisati
+avasiṭṭhaṁ	2	Ud 8.5	left over, remaining (acc.)	avasiṭṭha
+sobbhe	2	Ud 8.5	in a pit (loc.)	sobbha
+bhuñjitvā	2	Ud 8.5	having eaten	bhuñjati
+paññāpehi	2	Ud 8.5	prepare, lay out! (imperative)	paññāpeti
+kilantosmi	2	Ud 8.5	I am tired (kilanto + asmi)	kilanta
+āhara	2	Ud 8.5	bring! (imperative)	āharati
+pipāsitosmi	2	Ud 8.5	I am thirsty (pipāsito + asmi)	pipāsita
+pivissāmī”ti	2	Ud 8.5	'I shall drink' (quote)	pivati
+kukudhā	2	Ud 8.5	the Kakutthā river (nom.)	kukudhā
+Dutiyampi	2	Ud 8.5, Ud 8.7	for the second time (dutiyaṁ + pi)	dutiya
+acchariyaṁ	2	Ud 8.5	wonderful, marvellous	acchariya
+abbhutaṁ	2	Ud 8.5	amazing	abbhuta
+mahiddhikatā	2	Ud 8.5	great spiritual power (nom.)	mahiddhikatā
+mahānubhāvatā	2	Ud 8.5	great majesty (nom.)	mahānubhāvatā
+Ayañhi	2	Ud 8.5	for this (ayaṁ + hi)	ima
+Pivatu	2	Ud 8.5	let him drink (imperative)	pivati
+kukudhaṁ	2	Ud 8.5	the Kakutthā river (acc.)	kukudhā
+nhatvā	2	Ud 8.5	having bathed	nahāyati
+pivitvā	2	Ud 8.5	having drunk	pivati
+ambavanaṁ	2	Ud 8.5	mango grove (acc.)	ambavana
+cundakaṁ	2	Ud 8.5	Cundaka (name, acc.)	cundaka
+cundaka	2	Ud 8.5	Cundaka (name, vocative)	cundaka
+cundako	2	Ud 8.5	Cundaka (name, nom.)	cundaka
+tattheva	2	Ud 8.5, Ud 8.7	right there (tattha + eva)	tattha
+sukilantarūpo	2	Ud 8.5	deeply exhausted (nom.)	sukilantarūpa
+Cundassānanda	2	Ud 8.5	of Cunda, Ānanda (cundassa + ānanda)	cunda
+vippaṭisāro	2	Ud 8.5	remorse, regret (nom.)	vippaṭisāra
+Sammukhā	2	Ud 8.5	face to face, in (his) presence	sammukhā
+piṇḍapātā	2	Ud 8.5	alms-meals (nom. pl.)	piṇḍapāta
+samasamaphalā	2	Ud 8.5	of exactly equal fruit (nom. pl.)	samasamaphala
+samasamavipākā	2	Ud 8.5	of exactly equal result (nom. pl.)	samasamavipāka
+aññehi	2	Ud 8.5	than other (instr. pl.)	añña
+piṇḍapātehi	2	Ud 8.5	alms-meals (instr. pl.)	piṇḍapāta
+mahapphalatarā	2	Ud 8.5	of much greater fruit	mahapphalatara
+mahānisaṁsatarā	2	Ud 8.5	of much greater benefit	mahānisaṁsatara
+Yañca	2	Ud 8.5	and which (yaṁ + ca)	ya
+pāpakaṁ	2	Ud 8.5, Ud 8.7	evil, bad (acc.)	pāpaka
+Pañcamaṁ	2	Ud 8.5, Iti 15	the fifth (section ending)	pañcama
+nāgasamālaṁ	2	Ud 8.7	Nāgasamāla (acc.)	nāgasamāla
+nāgasamāla	2	Ud 8.7	Nāgasamāla (vocative)	nāgasamāla
+panthena	2	Ud 8.7	by the path (instr.)	pantha
+nikkhamitvā	2	Ud 8.7	having come out	nikkhamati
+hatthehi	2	Ud 8.7	with hands (instr. pl.)	hattha
+pādehi	2	Ud 8.7	with feet (instr. pl.)	pāda
+ākoṭesuṁ	2	Ud 8.7	they beat, struck	ākoṭeti
+pattañca	2	Ud 8.7	and the bowl (pattaṁ + ca)	patta
+bhindiṁsu	2	Ud 8.7	they broke	bhindati
+Sattamaṁ	2	Ud 8.7, Iti 7	the seventh (section ending)	sattama
+mallaputtassa	2	Ud 8.9	of Mallaputta (gen.)	mallaputta
+sarīrassa	2	Ud 8.9	of the body (gen.)	sarīra
+paññāyittha	2	Ud 8.9	was seen, was evident	paññāyati
+masi	2	Ud 8.9	soot, charred residue	masi
+aññaṁ	2	Iti 14, Iti 15	another (acc.)	añña
+samanupassāmi	2	Iti 14, Iti 15	I see, I regard	samanupassati
+saṁyuttā	2	Iti 15	bound, fettered (nom. pl.)	saṁyutta
+panāhaṁ	2	Iti 22	but I (pana + ahaṁ)	ahaṁ
+homi	2	Iti 22	I am, I become	hoti
+phalaṁ	2	Iti 22	fruit, result	phala
+vipāko	2	Iti 22	result, ripening (nom.)	vipāka
+yenāhaṁ	2	Iti 22	by which I (yena + ahaṁ)	ahaṁ
+evaṁmahiddhiko	2	Iti 22	of such great spiritual power (nom.)	evaṁmahiddhika
+mahā	2	Iti 24	great	mahant
+vepullo	2	Iti 24	Vepulla (mountain, nom.)	vepulla
+pabbato	2	Iti 24	mountain (nom.)	pabbata
+Ubhatodaṇḍakena	1	MN 21	with a two-handled (saw) (instr.)	ubhatodaṇḍaka
+cepi	1	MN 21	even if (ce + api)	ce
+kakacena	1	MN 21	with a saw (instr.)	kakaca
+ocarakā	1	MN 21	low-down, criminal (bandits)	ocaraka
+aṅgamaṅgāni	1	MN 21	limb by limb (acc. pl.)	aṅgamaṅga
+okanteyyuṁ	1	MN 21	should cut off	okantati
+padūseyya	1	MN 21	should defile, corrupt	padūseti
+sāsanakaro	1	MN 21	one who carries out my teaching (nom.)	sāsanakara
+ceva	1	MN 21	and also (ca + eva)	ca
+vipariṇataṁ	1	MN 21	altered, changed for the worse	vipariṇata
+pāpikaṁ	1	MN 21	evil (f. acc.)	pāpaka
+nicchāressāma	1	MN 21	we shall utter	nicchāreti
+hitānukampī	1	MN 21	compassionate for (their) welfare	hitānukampin
+dosantarā	1	MN 21	with inner hate	dosantara
+Tañca	1	MN 21	and that (taṁ + ca)	ta
+tadārammaṇañca	1	MN 21	and with that as basis (tad + ārammaṇaṁ + ca)	ārammaṇa
+vipulena	1	MN 21	abundant, vast (instr.)	vipula
+appamāṇena	1	MN 21	boundless (instr.)	appamāṇa
+averena	1	MN 21	free of hatred (instr.)	avera
+abyābajjhena	1	MN 21	free of ill will (instr.)	abyābajjha
+viharissāmā’ti	1	MN 21	'we shall dwell' (quote)	viharati
+Evañhi	1	MN 21	for thus (evaṁ + hi)	evaṁ
+kareyyātha	1	MN 21	you should do, train (pl.)	karoti
+imañce	1	MN 21	if this (imaṁ + ce)	ima
+vacanapathaṁ	1	MN 21	way of speech (acc.)	vacanapatha
+thūlaṁ	1	MN 21	coarse (acc.)	thūla
+nādhivāseyyāthā”ti	1	MN 21	'you should not tolerate' (na + adhivāseyyātha, quote)	adhivāseti
+manasikarotha	1	MN 21	keep in mind! (pl. imperative)	manasikaroti
+hitāya	1	MN 21	for the welfare (dat.)	hita
+Attamanā	1	MN 21	delighted (nom. pl.)	attamana
+abhinandunti	1	MN 21	they rejoiced (abhinanduṁ + ti, quote)	abhinandati
+sattanikāyā	1	SN 12.2	class, order of beings (abl./nom. pl.)	sattanikāya
+ayañca	1	SN 12.2	and this (ayaṁ + ca)	ima
+kāmabhavo	1	SN 12.2	existence in the sense sphere (nom.)	kāmabhava
+rūpabhavo	1	SN 12.2	existence in the form sphere (nom.)	rūpabhava
+arūpabhavo	1	SN 12.2	existence in the formless sphere (nom.)	arūpabhava
+Cattārimāni	1	SN 12.2	these four (cattāri + imāni)	catu
+kāmupādānaṁ	1	SN 12.2	clinging to sense pleasures	kāmupādāna
+diṭṭhupādānaṁ	1	SN 12.2	clinging to views	diṭṭhupādāna
+sīlabbatupādānaṁ	1	SN 12.2	clinging to rites and observances	sīlabbatupādāna
+attavādupādānaṁ	1	SN 12.2	clinging to a doctrine of self	attavādupādāna
+rūpataṇhā	1	SN 12.2	craving for sights, forms	rūpataṇhā
+saddataṇhā	1	SN 12.2	craving for sounds	saddataṇhā
+gandhataṇhā	1	SN 12.2	craving for smells	gandhataṇhā
+rasatahā	1	SN 12.2	craving for tastes (misprint for rasataṇhā)	rasataṇhā
+phoṭṭhabbataṇhā	1	SN 12.2	craving for touches	phoṭṭhabbataṇhā
+dhammataṇhā	1	SN 12.2	craving for mental objects	dhammataṇhā
+cakkhusamphassajā	1	SN 12.2	born of eye-contact	cakkhusamphassaja
+sotasamphassajā	1	SN 12.2	born of ear-contact	sotasamphassaja
+ghānasamphassajā	1	SN 12.2	born of nose-contact	ghānasamphassaja
+jivhāsamphassajā	1	SN 12.2	born of tongue-contact	jivhāsamphassaja
+kāyasamphassajā	1	SN 12.2	born of body-contact	kāyasamphassaja
+manosamphassajā	1	SN 12.2	born of mind-contact	manosamphassaja
+sotasamphasso	1	SN 12.2	ear-contact (nom.)	sotasamphassa
+ghānasamphasso	1	SN 12.2	nose-contact (nom.)	ghānasamphassa
+jivhāsamphasso	1	SN 12.2	tongue-contact (nom.)	jivhāsamphassa
+kāyasamphasso	1	SN 12.2	body-contact (nom.)	kāyasamphassa
+manosamphasso	1	SN 12.2	mind-contact (nom.)	manosamphassa
+Cakkhāyatanaṁ	1	SN 12.2	the eye sense-sphere	cakkhāyatana
+sotāyatanaṁ	1	SN 12.2	the ear sense-sphere	sotāyatana
+ghānāyatanaṁ	1	SN 12.2	the nose sense-sphere	ghānāyatana
+jivhāyatanaṁ	1	SN 12.2	the tongue sense-sphere	jivhāyatana
+kāyāyatanaṁ	1	SN 12.2	the body sense-sphere	kāyāyatana
+manāyatanaṁ	1	SN 12.2	the mind sense-sphere	manāyatana
+catunnañca	1	SN 12.2	and of the four (catunnaṁ + ca)	catu
+cakkhuviññāṇaṁ	1	SN 12.2	eye-consciousness	cakkhuviññāṇa
+sotaviññāṇaṁ	1	SN 12.2	ear-consciousness	sotaviññāṇa
+ghānaviññāṇaṁ	1	SN 12.2	nose-consciousness	ghānaviññāṇa
+jivhāviññāṇaṁ	1	SN 12.2	tongue-consciousness	jivhāviññāṇa
+kāyaviññāṇaṁ	1	SN 12.2	body-consciousness	kāyaviññāṇa
+manoviññāṇaṁ	1	SN 12.2	mind-consciousness	manoviññāṇa
+Kateme	1	SN 12.2	what are these? (katame, misprint)	katama
+kāyasaṅkhāro	1	SN 12.2	the bodily formation (nom.)	kāyasaṅkhāra
+cittasaṅkhāro	1	SN 12.2	the mental formation (nom.)	cittasaṅkhāra
+pubbeva	1	SN 12.4	even before (pubbe + eva)	pubba
+sambodhā	1	SN 12.4	before awakening (abl.)	sambodha
+kicchaṁ	1	SN 12.4	trouble, hardship (acc.)	kiccha
+jāyati	1	SN 12.4	is born	jāyati
+jīyati	1	SN 12.4	ages, decays	jīyati
+mīyati	1	SN 12.4	dies	mīyati
+cavati	1	SN 12.4	passes away	cavati
+panimassa	1	SN 12.4	but of this (pana + imassa)	ima
+nappajānāti	1	SN 12.4	does not understand (na + pajānāti)	pajānāti
+Kudāssu	1	SN 12.4	when indeed? (kudā + assu)	kudā
+paññāyissati	1	SN 12.4	will be discerned, known	paññāyati
+Sattannampi	1	SN 12.4	even of the seven (sattannaṁ + pi)	satta
+vitthāretabbo	1	SN 12.4	should be expanded in full	vitthāreti
+upādāyā”ti	1	AN 10.60	'derived from, clinging to' (quote)	upādiyati
+pādatalā	1	AN 10.60	from the soles of the feet (abl.)	pādatala
+kesamatthakā	1	AN 10.60	from the tips of the hair (abl.)	kesamatthaka
+tacapariyantaṁ	1	AN 10.60	bounded by skin (acc.)	tacapariyanta
+pūraṁ	1	AN 10.60	full (acc.)	pūra
+nānāppakārassa	1	AN 10.60	of various kinds (gen.)	nānāppakāra
+asucino	1	AN 10.60	of impurity (gen.)	asuci
+paccavekkhati	1	AN 10.60	reviews, reflects on	paccavekkhati
+kesā	1	AN 10.60	head hairs	kesa
+lomā	1	AN 10.60	body hairs	loma
+nakhā	1	AN 10.60	nails	nakha
+dantā	1	AN 10.60	teeth	danta
+taco	1	AN 10.60	skin (nom.)	taca
+nhāru	1	AN 10.60	sinews	nhāru
+aṭṭhi	1	AN 10.60	bones	aṭṭhi
+aṭṭhimiñjaṁ	1	AN 10.60	bone marrow	aṭṭhimiñjā
+vakkaṁ	1	AN 10.60	kidneys	vakka
+hadayaṁ	1	AN 10.60	heart	hadaya
+yakanaṁ	1	AN 10.60	liver	yakana
+kilomakaṁ	1	AN 10.60	pleura, membranes	kilomaka
+pihakaṁ	1	AN 10.60	spleen	pihaka
+papphāsaṁ	1	AN 10.60	lungs	papphāsa
+antaguṇaṁ	1	AN 10.60	mesentery	antaguṇa
+udariyaṁ	1	AN 10.60	stomach contents	udariya
+karīsaṁ	1	AN 10.60	feces	karīsa
+semhaṁ	1	AN 10.60	phlegm	semha
+pubbo	1	AN 10.60	pus (nom.)	pubba
+sedo	1	AN 10.60	sweat	seda
+medo	1	AN 10.60	fat	meda
+vasā	1	AN 10.60	grease	vasā
+kheḷo	1	AN 10.60	saliva	kheḷa
+siṅghāṇikā	1	AN 10.60	snot, nasal mucus	siṅghāṇikā
+lasikā	1	AN 10.60	synovial fluid	lasikā
+bahudukkho	1	AN 10.60	having much suffering (nom.)	bahudukkha
+bahuādīnavo	1	AN 10.60	having many dangers (nom.)	bahuādīnava
+vividhā	1	AN 10.60	various (nom. pl.)	vividha
+cakkhurogo	1	AN 10.60	eye disease	cakkhuroga
+sotarogo	1	AN 10.60	ear disease	sotaroga
+ghānarogo	1	AN 10.60	nose disease	ghānaroga
+jivhārogo	1	AN 10.60	tongue disease	jivhāroga
+kāyarogo	1	AN 10.60	body disease	kāyaroga
+sīsarogo	1	AN 10.60	head disease	sīsaroga
+kaṇṇarogo	1	AN 10.60	ear(-canal) disease	kaṇṇaroga
+mukharogo	1	AN 10.60	mouth disease	mukharoga
+dantarogo	1	AN 10.60	tooth disease	dantaroga
+oṭṭharogo	1	AN 10.60	lip disease	oṭṭharoga
+kāso	1	AN 10.60	cough	kāsa
+sāso	1	AN 10.60	asthma	sāsa
+pināso	1	AN 10.60	catarrh	pināsa
+ḍāho	1	AN 10.60	fever, burning	ḍāha
+kucchirogo	1	AN 10.60	stomach illness	kucchiroga
+mucchā	1	AN 10.60	fainting	mucchā
+pakkhandikā	1	AN 10.60	dysentery	pakkhandikā
+sūlā	1	AN 10.60	sharp pains, colic	sūlā
+visūcikā	1	AN 10.60	cholera	visūcikā
+kuṭṭhaṁ	1	AN 10.60	leprosy	kuṭṭha
+gaṇḍo	1	AN 10.60	boils	gaṇḍa
+kilāso	1	AN 10.60	skin disease, eczema	kilāsa
+soso	1	AN 10.60	consumption	sosa
+apamāro	1	AN 10.60	epilepsy	apamāra
+daddu	1	AN 10.60	ringworm	daddu
+kaṇḍu	1	AN 10.60	itch	kaṇḍu
+kacchu	1	AN 10.60	scabies	kacchu
+nakhasā	1	AN 10.60	nail disease, scab (?)	nakhasā
+vitacchikā	1	AN 10.60	wet scabies	vitacchikā
+madhumeho	1	AN 10.60	diabetes	madhumeha
+aṁsā	1	AN 10.60	tumours, swellings (?)	aṁsā
+piḷakā	1	AN 10.60	pustules, boils	piḷakā
+bhagandalā	1	AN 10.60	fistula	bhagandalā
+pittasamuṭṭhānā	1	AN 10.60	(illnesses) arising from bile	pittasamuṭṭhāna
+semhasamuṭṭhānā	1	AN 10.60	(illnesses) arising from phlegm	semhasamuṭṭhāna
+vātasamuṭṭhānā	1	AN 10.60	(illnesses) arising from wind	vātasamuṭṭhāna
+sannipātikā	1	AN 10.60	(illnesses) from the combination of humours	sannipātika
+utupariṇāmajā	1	AN 10.60	born of change of climate	utupariṇāmaja
+visamaparihārajā	1	AN 10.60	born of careless behavior	visamaparihāraja
+opakkamikā	1	AN 10.60	caused by external injury	opakkamika
+kammavipākajā	1	AN 10.60	born of the ripening of kamma	kammavipākaja
+sītaṁ	1	AN 10.60	cold	sīta
+uṇhaṁ	1	AN 10.60	heat	uṇha
+uccāro	1	AN 10.60	feces, excrement (nom.)	uccāra
+passāvo’ti	1	AN 10.60	'urine' (quote)	passāva
+ādīnavānupassī	1	AN 10.60	contemplating danger	ādīnavānupassin
+byāpādavitakkaṁ	1	AN 10.60	thought of ill will (acc.)	byāpādavitakka
+vihiṁsāvitakkaṁ	1	AN 10.60	thought of cruelty (acc.)	vihiṁsāvitakka
+pāpake	1	AN 10.60	evil (acc. pl.)	pāpaka
+akusale	1	AN 10.60	unwholesome (acc. pl.)	akusala
+pallaṅkaṁ	1	AN 10.60	cross-legged posture (acc.)	pallaṅka
+ābhujitvā	1	AN 10.60	having folded (the legs)	ābhujati
+ujuṁ	1	AN 10.60	straight (acc.)	uju
+upaṭṭhapetvā	1	AN 10.60	having set up, established	upaṭṭhāpeti
+assasati	1	AN 10.60	breathes in	assasati
+passasati	1	AN 10.60	breathes out	passasati
+Abhippamodayaṁ	1	AN 10.60	gladdening (the mind) (pres. part.)	abhippamodeti
+samādahaṁ	1	AN 10.60	concentrating (pres. part.)	samādahati
+vimocayaṁ	1	AN 10.60	liberating (pres. part.)	vimoceti
+uggahetvā	1	AN 10.60	having learned	uggaṇhāti
+abhāsi	1	AN 10.60	spoke	bhāsati
+paṭippassambhi	1	AN 10.60	subsided, was allayed	paṭippassambhati
+Vuṭṭhahi	1	AN 10.60	emerged, recovered	vuṭṭhahati
+cāyasmā	1	AN 10.60	and the venerable (ca + āyasmā)	āyasmant
+panāyasmato	1	AN 10.60	but of the venerable (pana + āyasmato)	āyasmant
+Dasamaṁ	1	AN 10.60	the tenth (section ending)	dasama
+Sacittavaggo	1	AN 10.60	the Chapter on One's Own Mind (title)	sacittavagga
+Tassuddānaṁ	1	AN 10.60	its summary verse (tassa + uddānaṁ)	uddāna
+Parihāno	1	AN 10.60	decline (summary-verse keyword)	parihāna
+pahaṁ	1	AN 10.61	I say (variant of pāhaṁ = pi + ahaṁ)	ahaṁ
+kussubbhe	1	AN 10.61	small pools (variant spelling)	kusobbha
+kusubbhe	1	AN 10.61	small pools (variant spelling)	kusobbha
+kusombhe	1	AN 10.61	small pools (variant spelling)	kusobbha
+mahāsombhe	1	AN 10.61	large pools (variant spelling)	mahāsobbha
+paripreti	1	AN 10.61	fulfills (misprint for paripūreti)	paripūreti
+Taṇhāsutta	1	AN 10.62	the Discourse on Craving (title)	taṇhā
+csp1ed	1	AN 10.62	edition marker — not a word	—
+csp2ed	1	AN 10.62	edition marker — not a word	—
+nīvaraṇepāhaṁ	1	AN 10.62	and the hindrances, I say (nīvaraṇe + pi + ahaṁ)	nīvaraṇa
+tiṇṇannaṁ	1	AN 10.62	of the three (gen.)	ti
+Assaddhammassavanampāhaṁ	1	AN 10.62	and hearing what is not the true teaching, I say (… + pi + ahaṁ)	assaddhammassavana
+tiṇannaṁ	1	AN 10.62	of the three (gen., variant spelling)	ti
+paripro	1	AN 10.62	complete (misprint for paripūro)	paripūra
+aṭṭhāsi	1	Sn 2.4 / Kp 5	stood	tiṭṭhati
+Bahū	1	Sn 2.4 / Kp 5	many (nom. pl.)	bahu
+manussā	1	Sn 2.4 / Kp 5	humans (nom. pl.)	manussa
+sotthānaṁ	1	Sn 2.4 / Kp 5	safety, well-being (acc.)	sotthāna
+paṇḍitānañca	1	Sn 2.4 / Kp 5	and of the wise (paṇḍitānaṁ + ca)	paṇḍita
+sevanā	1	Sn 2.4 / Kp 5	association (nom.)	sevanā
+Pūjā	1	Sn 2.4 / Kp 5	honoring, veneration (nom.)	pūjā
+pūjaneyyānaṁ	1	Sn 2.4 / Kp 5	of those worthy of honor	pūjaneyya
+sippañca	1	Sn 2.4 / Kp 5	and a craft (sippaṁ + ca)	sippa
+Mātāpituupaṭṭhānaṁ	1	Sn 2.4 / Kp 5	support of mother and father	mātāpituupaṭṭhāna
+kammantā	1	Sn 2.4 / Kp 5	works, occupations (nom. pl.)	kammanta
+Dānañca	1	Sn 2.4 / Kp 5	and giving (dānaṁ + ca)	dāna
+ñātakānañca	1	Sn 2.4 / Kp 5	and of relatives (ñātakānaṁ + ca)	ñātaka
+pāpā	1	Sn 2.4 / Kp 5	from evil (abl.)	pāpa
+dhammassavanaṁ	1	Sn 2.4 / Kp 5	hearing the Dhamma	dhammassavana
+samaṇānañca	1	Sn 2.4 / Kp 5	and of contemplatives (samaṇānaṁ + ca)	samaṇa
+dhammasākacchā	1	Sn 2.4 / Kp 5	discussion of the Dhamma	dhammasākacchā
+Tapo	1	Sn 2.4 / Kp 5	austerity, ardent practice (nom.)	tapa
+ariyasaccāna	1	Sn 2.4 / Kp 5	of the noble truths (gen. pl., metrical)	ariyasacca
+maparājitā	1	Sn 2.4 / Kp 5	unvanquished (sandhi -m + aparājitā)	aparājita
+sotthiṁ	1	Sn 2.4 / Kp 5	safely, in safety (acc.)	sotthi
+Karaṇīyamatthakusalena	1	Kp 9	to be done by one skilled in welfare (karaṇīyaṁ + atthakusalena)	atthakusala
+taṃ	1	Kp 9	that (acc.)	ta
+Sūvaco	1	Kp 9	easy to speak to (nom.)	suvaca
+c’assa	1	Kp 9	and let him be (ca + assa)	atthi
+kulesu	1	Kp 9	among families (loc. pl.)	kula
+khuddaṃ	1	Kp 9	mean, petty (act) (acc.)	khudda
+anavasesā	1	Kp 9	without exception, all (nom. pl.)	anavasesa
+paraṃ	1	Kp 9	another, other (acc.)	para
+naṃ	1	Kp 9	him (acc. enclitic)	ta
+paṭighasaññā	1	Kp 9	perception of aversion (instr. f.)	paṭighasaññā
+niyaṃ	1	Kp 9	one's own (acc.)	niya
+Evam	1	Kp 9	thus	evaṁ
+lokasmiṃ	1	Kp 9	in the world (loc.)	loka
+averaṃ	1	Kp 9	free of hatred (acc.)	avera
+asapattaṃ	1	Kp 9	free of enmity (acc.)	asapatta
+yavāt’assa	1	Kp 9	as long as one is (yāva + assa)	yāva
+Etaṃ	1	Kp 9	this (acc.)	eta
+satiṃ	1	Kp 9	mindfulness (acc.)	sati
+vihāraṃ	1	Kp 9	abiding, dwelling (acc.)	vihāra
+idhamāhu	1	Kp 9	they call (it) here (idha + m + āhu)	āha
+Diṭṭhiñca	1	Kp 9	and views (diṭṭhiṁ + ca)	diṭṭhi
+dassanena	1	Kp 9	with vision (instr.)	dassana
+gedhaṃ	1	Kp 9	greed (acc.)	gedha
+gabbhaseyyaṃ	1	Kp 9	rebirth in a womb (acc.)	gabbhaseyyā
+vimuttisukhapaṭisaṁvedī	1	Ud 1.1	experiencing the bliss of liberation	vimuttisukhapaṭisaṁvedin
+samādhimhā	1	Ud 1.1	from that concentration (abl.)	samādhi
+avijjāpaccayā	1	Ud 1.1	with ignorance as condition	avijjāpaccaya
+viññāṇapaccayā	1	Ud 1.1	with consciousness as condition	viññāṇapaccaya
+saḷāyatanapaccayā	1	Ud 1.1	with the six sense-spheres as condition	saḷāyatanapaccaya
+phassapaccayā	1	Ud 1.1	with contact as condition	phassapaccaya
+upādānapaccayā	1	Ud 1.1	with clinging as condition	upādānapaccaya
+bhavapaccayā	1	Ud 1.1	with becoming as condition	bhavapaccaya
+jātipaccayā	1	Ud 1.1	with birth as condition	jātipaccaya
+sandasseti	1	Ud 8.4	instructs	sandasseti
+samuttejeti	1	Ud 8.4	inspires, fires up	samuttejeti
+sampahaṁseti	1	Ud 8.4	gladdens	sampahaṁseti
+Tedha	1	Ud 8.4	then those (monks) (te + idha: those here)	ta
+aṭṭhiṁ	1	Ud 8.4	heedfully (idiom aṭṭhiṁ katvā = paying attention)	attha
+samannāharitvā	1	Ud 8.4	having given full attention	samannāharati
+ohitasotā	1	Ud 8.4	with attentive ears (nom. pl.)	ohitasota
+Nissitassa	1	Ud 8.4	for one who clings, is dependent (gen.)	nissita
+anissitassa	1	Ud 8.4	for one who does not cling (gen.)	anissita
+āgatigati	1	Ud 8.4	coming and going (nom.)	āgatigati
+Āgatigatiyā	1	Ud 8.4	when coming and going (is not) (loc.)	āgatigati
+cutūpapāto	1	Ud 8.4	passing away and rearising (nom.)	cutūpapāta
+Cutūpapāte	1	Ud 8.4	when passing away and rearising (is not) (loc.)	cutūpapāta
+nevidha	1	Ud 8.4	neither here (na + eva + idha)	idha
+ubhayamantarena	1	Ud 8.4	nor between the two (ubhayam + antarena)	antara
+Esevanto	1	Ud 8.4	just this is the end (eso + eva + anto)	anta
+pāvā	1	Ud 8.5	Pāvā (town, nom.)	pāvā
+ambavane	1	Ud 8.5	in the mango grove (loc.)	ambavana
+Assosi	1	Ud 8.5	heard	suṇāti
+pāvaṁ	1	Ud 8.5	to Pāvā (acc.)	pāvā
+ambavane”ti	1	Ud 8.5	'in the mango grove' (quote)	ambavana
+sandassesi	1	Ud 8.5	instructed	sandasseti
+samādapesi	1	Ud 8.5	encouraged	samādapeti
+samuttejesi	1	Ud 8.5	inspired	samuttejeti
+sampahaṁsesi	1	Ud 8.5	gladdened	sampahaṁseti
+sandassito	1	Ud 8.5	instructed (past part.)	sandasseti
+samādapito	1	Ud 8.5	encouraged (past part.)	samādapeti
+samuttejito	1	Ud 8.5	inspired (past part.)	samuttejeti
+sampahaṁsito	1	Ud 8.5	gladdened (past part.)	sampahaṁseti
+svātanāya	1	Ud 8.5	for tomorrow (dat.)	svātana
+bhikkhusaṅghenā”ti	1	Ud 8.5	'with the community of monks' (quote)	bhikkhusaṅgha
+tuṇhībhāvena	1	Ud 8.5	by silence (instr.)	tuṇhībhāva
+adhivāsanaṁ	1	Ud 8.5	consent, acceptance (acc.)	adhivāsana
+uṭṭhāyāsan	1	Ud 8.5	having risen from the seat (uṭṭhāya + āsanā, truncated)	uṭṭhahati
+sake	1	Ud 8.5	in his own (loc.)	saka
+nivesane	1	Ud 8.5	in the residence (loc.)	nivesana
+paṭiyādāpetvā	1	Ud 8.5	having had (food) prepared	paṭiyādāpeti
+pahūtañca	1	Ud 8.5	and abundant (pahūtaṁ + ca)	pahūta
+ārocāpesi	1	Ud 8.5	had (the time) announced	ārocāpeti
+kālo	1	Ud 8.5	it is time (nom.)	kāla
+niṭṭhitaṁ	1	Ud 8.5	is ready, finished	niṭṭhita
+bhattan”ti	1	Ud 8.5	'the meal' (quote)	bhatta
+nivesanaṁ	1	Ud 8.5	residence (acc.)	nivesana
+paññatte	1	Ud 8.5	prepared, laid out (loc.)	paññatta
+parivisa	1	Ud 8.5	serve! (imperative)	parivisati
+parivisā”ti	1	Ud 8.5	'serve' (quote, imperative)	parivisati
+nikhaṇāhi	1	Ud 8.5	bury! (imperative)	nikhaṇati
+passāmi	1	Ud 8.5	I see	passati
+samārake	1	Ud 8.5	with its Māras (loc.)	samāraka
+sadevamanussāya	1	Ud 8.5	with its devas and humans	sadevamanussa
+paribhuttaṁ	1	Ud 8.5	eaten, consumed (acc.)	paribhuñjati
+pariṇāmaṁ	1	Ud 8.5	(proper) digestion (acc.)	pariṇāma
+gaccheyya	1	Ud 8.5	would go	gacchati
+nikhaṇitvā	1	Ud 8.5	having buried	nikhaṇati
+bhuttāvissa	1	Ud 8.5	for one who had eaten (gen.)	bhuttāvin
+kharo	1	Ud 8.5	severe, harsh (nom.)	khara
+uppajji	1	Ud 8.5	arose	uppajjati
+Lohitapakkhandikā	1	Ud 8.5	bloody dysentery (nom.)	lohitapakkhandikā
+pabāḷhā	1	Ud 8.5	severe, acute (nom.)	pabāḷha
+vattanti	1	Ud 8.5	occur, go on	vattati
+māraṇantikā	1	Ud 8.5	deadly, bordering on death (nom.)	māraṇantika
+suda	1	Ud 8.5	(emphatic particle, = sudaṁ)	sudaṁ
+avihaññamāno	1	Ud 8.5	without being distressed (pres. part.)	vihaññati
+āyāmānanda	1	Ud 8.5	come, Ānanda (āyāma + ānanda)	āyāti
+kusinārā	1	Ud 8.5	Kusinārā (town)	kusinārā
+tenupasaṅkamissāmā”ti	1	Ud 8.5	'we will go there' (tena + upasaṅkamissāma, quote)	upasaṅkamati
+paccassosi	1	Ud 8.5	consented, replied 'yes'	paṭissuṇāti
+kammārassāti	1	Ud 8.5	'of the smith' (quote) (kammārassa + ti)	kammāra
+samphusī	1	Ud 8.5	experienced, was touched by	samphusati
+dhīro	1	Ud 8.5	the wise one (nom.)	dhīra
+pabāḷhaṁ	1	Ud 8.5	severe (acc.)	pabāḷha
+māraṇantikaṁ	1	Ud 8.5	deadly (acc.)	māraṇantika
+Bhuttassa	1	Ud 8.5	for him who had eaten (gen.)	bhuñjati
+sūkaramaddavena	1	Ud 8.5	by the sūkaramaddava dish (instr.)	sūkaramaddava
+Byādhippabāḷho	1	Ud 8.5	severe sickness (byādhi + pabāḷha) (nom.)	byādhi
+Viriccamāno	1	Ud 8.5	being purged (pres. part.)	viriccati
+Gacchāmahaṁ	1	Ud 8.5	I shall go (gacchāmi + ahaṁ)	gacchati
+kusināraṁ	1	Ud 8.5	to Kusinārā (acc.)	kusinārā
+nagaran”ti	1	Ud 8.5	'the city' (quote)	nagara
+okkamma	1	Ud 8.5	having stepped off (the road)	okkamati
+nisīdissāmī”ti	1	Ud 8.5	'I will sit down' (quote)	nisīdati
+pañatte	1	Ud 8.5	prepared (loc., misprint for paññatte)	paññatta
+pañcamattāni	1	Ud 8.5	five in number (with satāni: five hundred)	pañcamatta
+sakaṭasatāni	1	Ud 8.5	hundreds of carts	sakaṭasata
+atikkantāni	1	Ud 8.5	passed over, crossed (nt. pl.)	atikkamati
+cakkacchinnaṁ	1	Ud 8.5	cut up by wheels (acc.)	cakkacchinna
+luḷitaṁ	1	Ud 8.5	stirred up (acc.)	luḷita
+āvilaṁ	1	Ud 8.5	turbid (acc.)	āvila
+acchodakā	1	Ud 8.5	with clear water (nom. f.)	acchodaka
+sātodakā	1	Ud 8.5	with sweet water (nom. f.)	sātodaka
+sītodakā	1	Ud 8.5	with cool water (nom. f.)	sītodaka
+setodakā	1	Ud 8.5	with translucent, white water (nom. f.)	setodaka
+supatitthā	1	Ud 8.5	with good fords, banks (nom. f.)	supatittha
+ramaṇīyā	1	Ud 8.5	delightful (nom. f.)	ramaṇīya
+pānīyañca	1	Ud 8.5	and drinking water (pānīyaṁ + ca)	pānīya
+pivissati	1	Ud 8.5	will drink	pivati
+gattāni	1	Ud 8.5	limbs (acc. pl.)	gatta
+sītīkarissatī”ti	1	Ud 8.5	'will cool' (quote)	sītīkaroti
+sandatī”ti	1	Ud 8.5	'flows' (quote)	sandati
+ādāya	1	Ud 8.5	having taken	ādāti
+pānīyan”ti	1	Ud 8.5	'drinking water' (quote)	pānīya
+nadiṁ	1	Ud 8.5	river (acc.)	nadī
+paccuttaritvā	1	Ud 8.5	having come back out (of the water)	paccuttarati
+nipajjissāmī”ti	1	Ud 8.5	'I will lie down' (quote)	nipajjati
+sīhaseyyaṁ	1	Ud 8.5	the lion's posture (acc.)	sīhaseyyā
+kappesi	1	Ud 8.5	adopted, arranged	kappeti
+accādhāya	1	Ud 8.5	having placed (one foot) upon the other	accādahati
+karitvā	1	Ud 8.5	having made, done	karoti
+Gantvāna	1	Ud 8.5	having gone (poetic)	gacchati
+nadikaṁ	1	Ud 8.5	the little river (acc.)	nadikā
+Acchodakaṁ	1	Ud 8.5	with clear water (acc.)	acchodaka
+sātudakaṁ	1	Ud 8.5	with sweet water (acc., variant spelling)	sātodaka
+vippasannaṁ	1	Ud 8.5	pure, limpid (acc.)	vippasanna
+Ogāhi	1	Ud 8.5	plunged in	ogāhati
+appaṭimodha	1	Ud 8.5	peerless here (appaṭimo + idha)	appaṭima
+cudatāri	1	Ud 8.5	and crossed back out (ca + udatāri)	uttarati
+Purakkhato	1	Ud 8.5	honored at the head (of) (nom.)	purakkhata
+bhikkhugaṇassa	1	Ud 8.5	of the company of monks (gen.)	bhikkhugaṇa
+Upāgami	1	Ud 8.5	went to, approached	upagacchati
+mahesi	1	Ud 8.5	the great sage (nom.)	mahesi
+Āmantayi	1	Ud 8.5	addressed	āmanteti
+santhara	1	Ud 8.5	spread out! (imperative)	santharati
+nipajjaṁ	1	Ud 8.5	lying down (?)	nipajjati
+bhāvitattena	1	Ud 8.5	by the one of developed self (instr.)	bhāvitatta
+santhari	1	Ud 8.5	spread out (aorist)	santharati
+khippameva	1	Ud 8.5	very quickly (khippaṁ + eva)	khippa
+Nipajji	1	Ud 8.5	lay down	nipajjati
+Cundopi	1	Ud 8.5	Cunda too (cundo + pi)	cunda
+pamukhe	1	Ud 8.5	in front, at the head (loc.)	pamukha
+panānanda	1	Ud 8.5	but, Ānanda (pana + ānanda)	pana
+vippaṭisāraṁ	1	Ud 8.5	remorse (acc.)	vippaṭisāra
+upadaheyya	1	Ud 8.5	might arouse, cause	upadahati
+alābhā	1	Ud 8.5	it is a loss (for you)	alābha
+dulladdhaṁ	1	Ud 8.5	ill-gotten, a misfortune	dulladdha
+paṭivinodetabbo	1	Ud 8.5	should be dispelled	paṭivinodeti
+paṭiggahitaṁ	1	Ud 8.5	received, accepted	paṭiggaṇhāti
+anuttaraṁ	1	Ud 8.5	unsurpassed (acc.)	anuttara
+sammāsambodhiṁ	1	Ud 8.5	perfect awakening (acc.)	sammāsambodhi
+nibbānadhātuyā	1	Ud 8.5	in the nibbāna element (loc.)	nibbānadhātu
+parinibbāyati	1	Ud 8.5	attains final nibbāna	parinibbāyati
+Āyusaṁvattanikaṁ	1	Ud 8.5	conducive to long life (acc.)	āyusaṁvattanika
+vaṇṇasaṁvattanikaṁ	1	Ud 8.5	conducive to beauty (acc.)	vaṇṇasaṁvattanika
+sukhasaṁvattanikaṁ	1	Ud 8.5	conducive to happiness (acc.)	sukhasaṁvattanika
+saggasaṁvattanikaṁ	1	Ud 8.5	conducive to heaven (acc.)	saggasaṁvattanika
+yasasaṁvattanikaṁ	1	Ud 8.5	conducive to fame (acc.)	yasasaṁvattanika
+ādhipateyyasaṁvattanikaṁ	1	Ud 8.5	conducive to lordship (acc.)	ādhipateyyasaṁvattanika
+upacitan’ti	1	Ud 8.5	'accumulated' (quote)	upacināti
+paṭivinodetabbo”ti	1	Ud 8.5	'should be dispelled' (quote)	paṭivinodeti
+Dadato	1	Ud 8.5	for one who gives (gen. pres. part.)	dadāti
+puññaṁ	1	Ud 8.5	merit	puñña
+pavaḍḍhati	1	Ud 8.5	increases	pavaḍḍhati
+Saṁyamato	1	Ud 8.5	for one who is self-restrained (gen.)	saṁyamati
+cīyati	1	Ud 8.5	is accumulated, heaped up	cināti
+Kusalo	1	Ud 8.5	the skilful one (nom.)	kusala
+jahāti	1	Ud 8.5	abandons	jahati
+Rāgadosamohakkhayā	1	Ud 8.5	through the destruction of craving, aversion, and delusion	rāgadosamohakkhaya
+sanibbuto”ti	1	Ud 8.5	'he is quenched' (quote) (sa + nibbuto)	nibbuta
+kosalesu	1	Ud 8.7	among the Kosalans (loc. pl.)	kosala
+addhānamaggappaṭipanno	1	Ud 8.7	travelling along a main road (nom.)	addhānamaggappaṭipanna
+nāgasamālena	1	Ud 8.7	with Nāgasamāla (instr.)	nāgasamāla
+dvidhāpathaṁ	1	Ud 8.7	a fork in the road (acc.)	dvidhāpatha
+pattacīvaraṁ	1	Ud 8.7	bowl and robe (acc.)	pattacīvara
+pattacīvaran”ti	1	Ud 8.7	'bowl and robe' (quote)	pattacīvara
+ngasamālassa	1	Ud 8.7	of Nāgasamāla (gen., misprint for nāgasamālassa)	nāgasamāla
+vipphālesuṁ	1	Ud 8.7	they tore apart	vipphāleti
+vipphālitāya	1	Ud 8.7	torn (instr./gen. f.)	vipphāleti
+vipphālesun”ti	1	Ud 8.7	'they tore apart' (quote)	vipphāleti
+caramekato	1	Ud 8.7	wandering as one (caraṁ + ekato)	carati
+vasaṁ	1	Ud 8.7	dwelling (pres. part.)	vasati
+Misso	1	Ud 8.7	mixed (with) (nom.)	missa
+aññajanena	1	Ud 8.7	with other people (instr.)	aññajana
+Vidvā	1	Ud 8.7	the wise one, knowing (nom.)	vidvant
+pajahāti	1	Ud 8.7	abandons	pajahati
+Koñco	1	Ud 8.7	heron, crane (nom.)	koñca
+khīrapakova	1	Ud 8.7	like a milk-drinking (calf) (khīrapako + iva)	khīrapaka
+veḷuvane	1	Ud 8.9	in the Bamboo Grove (loc.)	veḷuvana
+kalandakanivāpe	1	Ud 8.9	at the Squirrels' Feeding Ground (loc.)	kalandakanivāpa
+Yassadāni	1	Ud 8.9	for which now (yassa + dāni)	ya
+maññasī”ti	1	Ud 8.9	'you think (fit)' (quote)	maññati
+parinibbāyi	1	Ud 8.9	attained final nibbāna	parinibbāyati
+sappissa	1	Ud 8.9	of ghee (gen.)	sappi
+telassa	1	Ud 8.9	of oil (gen.)	tela
+masīti	1	Ud 8.9	'soot' (quote) (masi + iti)	masi
+Abhedi	1	Ud 8.9	broke apart	bhijjati
+sītibhaviṁsu	1	Ud 8.9	became cool	sītibhavati
+Vūpasamiṁsu	1	Ud 8.9	were stilled	vūpasammati
+atthamāgamā”ti	1	Ud 8.9	'came to an end, went to rest' (atthaṁ + agamā, quote)	atthaṅgacchati
+Navamaṁ	1	Ud 8.9	the ninth (section ending)	navama
+duṭṭhāse	1	Iti 2	defiled (nom. pl., archaic)	duṭṭha
+avirājayaṁ	1	Iti 7	not becoming detached from (pres. part.)	virājeti
+appajahaṁ	1	Iti 7	not abandoning (pres. part.)	pajahati
+dukkhakkhayāya	1	Iti 7	for the destruction of suffering (dat.)	dukkhakkhaya
+dukkhakkhayāyā”ti	1	Iti 7	'for the destruction of suffering' (quote)	dukkhakkhaya
+rajjati	1	Iti 7	is attached, delights in	rajjati
+ve	1	Iti 7	indeed (emphatic particle)	ve
+ekanīvaraṇampi	1	Iti 14	even one hindrance (eka + nīvaraṇaṁ + pi)	nīvaraṇa
+ekadhammopi	1	Iti 14	even one thing (eko + dhammo + pi)	dhamma
+yenevaṁ	1	Iti 14	by which thus (yena + evaṁ)	ya
+ahorattaṁ	1	Iti 14	day and night (acc.)	ahoratta
+āvutā	1	Iti 14	shrouded, obstructed (nom. pl.)	āvuta
+pahantvāna	1	Iti 14	having abandoned (poetic)	pajahati
+padālayuṁ	1	Iti 14	they shattered, burst apart	padāleti
+hetu	1	Iti 14	cause	hetu
+ekasaṁyojanampi	1	Iti 15	even one fetter (eka + saṁyojanaṁ + pi)	saṁyojana
+puriso	1	Iti 15	man, person (nom.)	purisa
+dīghamaddhāna	1	Iti 15	for a long time (dīgham + addhānaṁ)	addhāna
+Itthabhāvaññathābhāvaṁ	1	Iti 15	this state and other states (of existence) (acc.)	itthabhāvaññathābhāva
+nātivattati	1	Iti 15	does not transcend (na + ativattati)	ativattati
+Etamādīnavaṁ	1	Iti 15	this danger (etaṁ + ādīnavaṁ)	ādīnava
+Vītataṇho	1	Iti 15	free of craving (nom.)	vītataṇha
+paribbaje”ti	1	Iti 15	'should wander forth' (quote, opt.)	paribbajati
+bhāyittha	1	Iti 22	(do not) fear (2 pl.)	bhāyati
+Sukhassetaṁ	1	Iti 22	this is (a name) for happiness (sukhassa + etaṁ)	sukha
+piyassa	1	Iti 22	of what is dear (gen.)	piya
+Abhijānāmi	1	Iti 22	I recall, know directly	abhijānāti
+katānaṁ	1	Iti 22	done, performed (gen. pl.)	karoti
+piyaṁ	1	Iti 22	dear, pleasing (acc.)	piya
+vipākaṁ	1	Iti 22	result (acc.)	vipāka
+paccanubhūtaṁ	1	Iti 22	experienced (acc.)	paccanubhoti
+vassāni	1	Iti 22	years (acc. pl.)	vassa
+bhāvetvā	1	Iti 22	having developed, cultivated	bhāveti
+saṁvaṭṭavivaṭṭakappe	1	Iti 22	eons of contraction and expansion	saṁvaṭṭavivaṭṭakappa
+nayimaṁ	1	Iti 22	not to this (na + imaṁ)	ima
+punarāgamāsiṁ	1	Iti 22	I came back again (puna + āgamāsiṁ)	āgacchati
+Saṁvaṭṭamāne	1	Iti 22	when (the eon) was contracting (loc. absolute)	saṁvaṭṭati
+ābhassarūpago	1	Iti 22	gone to the Ābhassara (radiant) realm (nom.)	ābhassarūpaga
+vivaṭṭamāne	1	Iti 22	when (the eon) was expanding (loc. absolute)	vivaṭṭati
+suññaṁ	1	Iti 22	empty (acc.)	suñña
+brahmavimānaṁ	1	Iti 22	Brahmā mansion (acc.)	brahmavimāna
+upapajjāmi	1	Iti 22	I was reborn (in)	upapajjati
+mahābrahmā	1	Iti 22	Great Brahmā (nom.)	mahābrahmā
+abhibhū	1	Iti 22	vanquisher, overlord	abhibhū
+anabhibhūto	1	Iti 22	unvanquished (nom.)	anabhibhūta
+aññadatthudaso	1	Iti 22	all-seeing (nom.)	aññadatthudasa
+vasavattī	1	Iti 22	wielder of power (nom.)	vasavattin
+Chattiṁsakkhattuṁ	1	Iti 22	thirty-six times	chattiṁsakkhattuṁ
+devānamindo	1	Iti 22	lord of devas (Sakka) (nom.)	devānaminda
+anekasatakkhattuṁ	1	Iti 22	many hundreds of times	anekasatakkhattuṁ
+dhammiko	1	Iti 22	righteous (nom.)	dhammika
+dhammarājā	1	Iti 22	righteous king (nom.)	dhammarājā
+cāturanto	1	Iti 22	(ruler) of the four quarters (nom.)	cāturanta
+vijitāvī	1	Iti 22	victorious (nom.)	vijitāvin
+janapadatthāvariyappatto	1	Iti 22	attained stability in the country (nom.)	janapadatthāvariyappatta
+sattaratanasamannāgato	1	Iti 22	endowed with the seven treasures (nom.)	sattaratanasamannāgata
+vādo	1	Iti 22	saying (in 'ko pana vādo' = what to say of, let alone)	vāda
+padesarajjassa	1	Iti 22	of local kingship (gen.)	padesarajja
+evaṁmahānubhāvo’ti	1	Iti 22	'of such great majesty' (quote)	evaṁmahānubhāva
+evaṁmahānubhāvoti	1	Iti 22	'of such great majesty' (quote)	evaṁmahānubhāva
+saññamassā’”ti	1	Iti 22	'of restraint' (quote)	saññama
+sikkheyya	1	Iti 22	should train	sikkhati
+āyataggaṁ	1	Iti 22	with far-reaching, long-lasting outcome (acc.)	āyatagga
+sukhudrayaṁ	1	Iti 22	yielding happiness (acc.)	sukhudraya
+samacariyañca	1	Iti 22	and peaceful conduct (samacariyaṁ + ca)	samacariyā
+Ete	1	Iti 22	these (nom. pl.)	eta
+bhāvayitvā	1	Iti 22	having developed (poetic)	bhāveti
+sukhasamuddaye	1	Iti 22	bringing about happiness (acc. pl.)	sukhasamudaya
+Abyāpajjaṁ	1	Iti 22	free of ill will (acc.)	abyāpajja
+sukhaṁ	1	Iti 22	happy, happiness (acc.)	sukha
+Ekapuggalassa	1	Iti 24	of a single person (gen.)	ekapuggala
+sandhāvato	1	Iti 24	wandering on (gen. pres. part.)	sandhāvati
+aṭṭhikaṅkalo	1	Iti 24	chain, skeleton of bones (nom.)	aṭṭhikaṅkala
+aṭṭhipuñjo	1	Iti 24	pile of bones (nom.)	aṭṭhipuñja
+aṭṭhirāsi	1	Iti 24	heap of bones	aṭṭhirāsi
+saṁhārako	1	Iti 24	a collector (of the bones) (nom.)	saṁhāraka
+vinasseyyā”ti	1	Iti 24	'were (not) destroyed' (quote, opt.)	vinassati
+Ekassekena	1	Iti 24	by one single (person) (ekassa + ekena)	eka
+puggalassaṭṭhisañcayo	1	Iti 24	a person's accumulation of bones (puggalassa + aṭṭhisañcayo)	aṭṭhisañcaya
+pabbatasamo	1	Iti 24	equal to a mountain (nom.)	pabbatasama
+rāsi	1	Iti 24	heap (nom.)	rāsi
+mahesinā	1	Iti 24	by the great sage (instr.)	mahesi
+gijjhakūṭassa	1	Iti 24	of Vulture Peak (gen.)	gijjhakūṭa
+magadhānaṁ	1	Iti 24	of the Magadhans (gen. pl.)	magadha
+giribbaje	1	Iti 24	in Giribbaja (mountain fortress of Rājagaha) (loc.)	giribbaja
+sammappaññāya	1	Iti 24	with right wisdom (instr.)	sammappaññā
+dukkhasamuppādaṁ	1	Iti 24	the arising of suffering (acc.)	dukkhasamuppāda
+Ariyañcaṭṭhaṅgikaṁ	1	Iti 24	and the noble eightfold (path) (ariyaṁ + ca + aṭṭhaṅgikaṁ)	aṭṭhaṅgika
+sattakkhattuṁ	1	Iti 24	seven times	sattakkhattuṁ
+paramaṁ	1	Iti 24	at most	parama
+sandhāvitvāna	1	Iti 24	having wandered on (poetic)	sandhāvati
+Dukkhassantakaro	1	Iti 24	maker of an end of suffering (dukkhassa + antakaro)	antakara
+sabbasaṁyojanakkhayā”ti	1	Iti 24	'through the destruction of all fetters' (quote)	sabbasaṁyojanakkhaya
