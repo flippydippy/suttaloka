@@ -6,8 +6,10 @@
   const $$ = (s, el) => Array.from((el || document).querySelectorAll(s));
 
   const SUTTAS = window.SUTTAS || [];
-  // Full generated lexicon underneath, hand-curated entries on top.
-  const DICT = Object.assign({}, window.PALI_LEXICON_EN || {}, window.PALI_DICT || {});
+  // Full generated lexicon underneath, then the sutta-coverage supplement,
+  // hand-curated entries on top.
+  const DICT = Object.assign({}, window.PALI_LEXICON_EN || {},
+    window.PALI_DICT_SUPPLEMENT || {}, window.PALI_DICT || {});
 
   /* ───────── translation languages ───────── */
 
@@ -72,8 +74,13 @@
 
   // Index of inflected forms -> headword
   const FORM_INDEX = {};
+  const formKey = (f) => f.toLowerCase().replace(/ṃ/g, "ṁ");
   for (const [hw, e] of Object.entries(DICT)) {
-    (e.forms || []).forEach((f) => { FORM_INDEX[f.toLowerCase()] = hw; });
+    (e.forms || []).forEach((f) => { FORM_INDEX[formKey(f)] = hw; });
+  }
+  // extra surface-form mappings to headwords that already have entries
+  for (const [f, hw] of Object.entries(window.PALI_FORMS_EXTRA || {})) {
+    if (DICT[hw] && !FORM_INDEX[formKey(f)]) FORM_INDEX[formKey(f)] = hw;
   }
 
   const ENDINGS = [
@@ -95,7 +102,8 @@
     const out = [];
     const push = (c) => { if (c && c.length > 1 && !seen.has(c)) { seen.add(c); out.push(c); } };
 
-    const t = token.toLowerCase();
+    // normalize the anusvāra variant ṃ (U+1E43) to ṁ, which all keys use
+    const t = token.toLowerCase().replace(/ṃ/g, "ṁ");
     // base variants: the token itself, and (for quote fusions like
     // anāgāmitāyā”ti or asaddhammassavanan’tissa) the part before the quote
     const variants = [t];
