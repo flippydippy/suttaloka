@@ -183,6 +183,30 @@
     return esc(text.slice(0, startO)) + "<mark>" + esc(text.slice(startO, endO)) + "</mark>" + esc(text.slice(endO));
   }
 
+  // folded dictionary index for search: folded key -> headword
+  let DICT_SEARCH = null;
+  function dictIndex() {
+    if (DICT_SEARCH) return DICT_SEARCH;
+    // extraction-artifact headwords (digits, truncated "xyz-" fragments)
+    // stay tappable in the text but are not suggested in search
+    DICT_SEARCH = Object.keys(DICT)
+      .filter((hw) => !/\d/.test(hw) && !/[-­]$/.test(hw))
+      .map((hw) => ({ hw, f: fold(hw) }));
+    return DICT_SEARCH;
+  }
+  function searchDict(q) {
+    const hits = [];
+    for (const { hw, f } of dictIndex()) {
+      let score = 0;
+      if (f === q) score = 100;
+      else if (f.startsWith(q)) score = 60 - Math.min(20, f.length - q.length);
+      else if (q.length >= 4 && f.includes(q)) score = 20;
+      if (score) hits.push({ hw, score });
+    }
+    hits.sort((a, b) => b.score - a.score || a.hw.length - b.hw.length);
+    return hits.slice(0, 6);
+  }
+
   function runSearch(qRaw) {
     const q = fold(qRaw.trim());
     const resultsEl = $("#results"), libEl = $("#library");
@@ -211,11 +235,32 @@
     hits.sort((a, b) => b.score - a.score);
 
     resultsEl.hidden = false; libEl.hidden = true;
-    if (!hits.length) {
+
+    const dictHits = searchDict(q);
+    const dictHTML = dictHits.length ? `
+      <p class="r-head">In the dictionary</p>
+      <div class="dict-strip">
+        ${dictHits.map(({ hw }) => {
+          const e = DICT[hw] || {};
+          return `
+          <button class="dict-card" data-hw="${esc(hw)}">
+            <b>${esc(hw)}</b>
+            <span>${esc(stripTags(e.meaning || ""))}</span>
+          </button>`;
+        }).join("")}
+      </div>` : "";
+
+    if (!hits.length && !dictHits.length) {
       resultsEl.innerHTML = `<p class="no-hits">Nothing found for “${esc(qRaw)}” — try a shorter stem, e.g. <i>anicc</i></p>`;
       return;
     }
-    resultsEl.innerHTML =
+    if (!hits.length) {
+      resultsEl.innerHTML = dictHTML +
+        `<p class="no-hits">No sutta on the site contains “${esc(qRaw)}” yet.</p>`;
+      wireDictCards(resultsEl);
+      return;
+    }
+    resultsEl.innerHTML = dictHTML +
       `<p class="r-head">${hits.length} sutta${hits.length > 1 ? "s" : ""} found</p>` +
       hits.map((h) => `
         <button class="rcard" data-id="${h.s.id}">
@@ -225,6 +270,13 @@
         </button>`).join("");
     $$(".rcard", resultsEl).forEach((b) =>
       b.addEventListener("click", () => { location.hash = "#/sutta/" + b.dataset.id; })
+    );
+    wireDictCards(resultsEl);
+  }
+
+  function wireDictCards(root) {
+    $$(".dict-card", root).forEach((b) =>
+      b.addEventListener("click", (ev) => { ev.stopPropagation(); openSheetForWord(b.dataset.hw); })
     );
   }
 
