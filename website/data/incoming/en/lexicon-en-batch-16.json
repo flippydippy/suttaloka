@@ -7,42 +7,70 @@
   "meaning": "producing vision; making the eye (of wisdom) arise",
   "gram": "adjective, compound (cakkhu + karaṇa)",
   "breakdown": [
-   ["cakkhu", "Eye, eyesight; vision."],
-   ["karaṇī", "Doing, making, producing; from karoti."]
+   [
+    "cakkhu",
+    "Eye, eyesight; vision."
+   ],
+   [
+    "karaṇī",
+    "Doing, making, producing; from karoti."
+   ]
   ]
  },
  "cakkhusamphasso": {
   "meaning": "eye-contact; contact arising at the eye",
   "gram": "masculine noun, nominative singular, compound (cakkhu + samphassa)",
   "breakdown": [
-   ["cakkhu", "Eye."],
-   ["samphasso", "Contact, touch; saṁ + phassa, from √phus “to touch”."]
+   [
+    "cakkhu",
+    "Eye."
+   ],
+   [
+    "samphasso",
+    "Contact, touch; saṁ + phassa, from √phus “to touch”."
+   ]
   ]
  },
  "cammasannāho": {
   "meaning": "leather armour; a fastening of hide",
   "gram": "masculine noun, nominative singular, compound (camma + sannāha)",
   "breakdown": [
-   ["camma", "Leather, hide; shield."],
-   ["sannāho", "Fastening, armour; from saṁ + √nah “to bind”."]
+   [
+    "camma",
+    "Leather, hide; shield."
+   ],
+   [
+    "sannāho",
+    "Fastening, armour; from saṁ + √nah “to bind”."
+   ]
   ]
  },
  "canaṁ": {
   "meaning": "even, ever (an emphasizing suffix-particle, as in kudācanaṁ “at any time”)",
   "gram": "enclitic suffix/particle",
-  "forms": ["canaṃ"]
+  "forms": [
+   "canaṃ"
+  ]
  },
  "caraṁ": {
   "meaning": "walking; moving about",
   "gram": "present participle of carati (√car), nominative singular",
-  "forms": ["caraṃ"]
+  "forms": [
+   "caraṃ"
+  ]
  },
  "cassa": {
   "meaning": "and may there be; and should also be",
   "gram": "sandhi fusion: ca + assa (optative of atthi)",
   "breakdown": [
-   ["ca", "And."],
-   ["assa", "May it be; optative 3rd person singular of atthi."]
+   [
+    "ca",
+    "And."
+   ],
+   [
+    "assa",
+    "May it be; optative 3rd person singular of atthi."
+   ]
   ]
  },
  "cattāri": {
@@ -54,9 +82,18 @@
   "summary": "This phrase from the recollection of the Saṅgha names the noble disciples: four pairs counted by path-and-fruit, eight when counted individually.",
   "gram": "phrase",
   "breakdown": [
-   ["cattāri", "Four."],
-   ["purisa-yugāni", "Pairs of men (purisa “man” + yuga “pair”)."],
-   ["aṭṭha-purisa-puggalā", "The eight individual persons (aṭṭha “eight” + purisa + puggala “individual”)."]
+   [
+    "cattāri",
+    "Four."
+   ],
+   [
+    "purisa-yugāni",
+    "Pairs of men (purisa “man” + yuga “pair”)."
+   ],
+   [
+    "aṭṭha-purisa-puggalā",
+    "The eight individual persons (aṭṭha “eight” + purisa + puggala “individual”)."
+   ]
   ]
  },
  "catubbhi": {
@@ -67,22 +104,39 @@
   "meaning": "for the penetration of the four truths",
   "gram": "compound, dative singular (catu + sacca + paṭivedha)",
   "breakdown": [
-   ["catu", "Four."],
-   ["sacca", "Truth."],
-   ["paṭivedhāya", "For the penetration, realization; dative of paṭivedha (paṭi + √vidh “to pierce”)."]
+   [
+    "catu",
+    "Four."
+   ],
+   [
+    "sacca",
+    "Truth."
+   ],
+   [
+    "paṭivedhāya",
+    "For the penetration, realization; dative of paṭivedha (paṭi + √vidh “to pierce”)."
+   ]
   ]
  },
  "catutthavaggo": {
   "meaning": "the fourth section (catuttha + vagga)",
   "gram": "proper noun, masculine (chapter title)",
-  "forms": ["Catutthavaggo"]
+  "forms": [
+   "Catutthavaggo"
+  ]
  },
  "catūhapāyehi": {
   "meaning": "from the four states of woe; the four spheres of existence below the human realm",
   "gram": "sandhi compound, ablative plural (catūhi + apāyehi)",
   "breakdown": [
-   ["catūhi", "By/from four; instrumental-ablative plural."],
-   ["apāyehi", "States of woe, lower realms; ablative plural of apāya."]
+   [
+    "catūhi",
+    "By/from four; instrumental-ablative plural."
+   ],
+   [
+    "apāyehi",
+    "States of woe, lower realms; ablative plural of apāya."
+   ]
   ]
  },
  "catūsu": {
@@ -93,21 +147,35 @@
   "meaning": "the state of falling away; passing away, death",
   "gram": "feminine abstract noun (cavana + -tā, from cavati “to fall away”)",
   "breakdown": [
-   ["cavana", "Falling away, vanishing; from cavati."],
-   ["-tā", "Abstract noun suffix: “the state of”."]
+   [
+    "cavana",
+    "Falling away, vanishing; from cavati."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: “the state of”."
+   ]
   ]
  },
  "caṅkamasuttaṁ": {
   "meaning": "the Caṅkama Sutta, the discourse on walking up and down",
   "gram": "proper noun, neuter (sutta title; caṅkama + suttaṁ)",
-  "forms": ["Caṅkamasuttaṃ"]
+  "forms": [
+   "Caṅkamasuttaṃ"
+  ]
  },
  "caṅkamena": {
   "meaning": "by walking up and down; with the walking meditation path",
   "gram": "masculine noun, instrumental singular of caṅkama (from caṅkamati)",
   "breakdown": [
-   ["caṅkama", "Walking up and down; the walking path (intensive formation from √kam)."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "caṅkama",
+    "Walking up and down; the walking path (intensive formation from √kam)."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "caṇḍikka": {
@@ -118,64 +186,125 @@
   "meaning": "in an outcaste clan; in a caṇḍāla family",
   "gram": "neuter noun, locative singular, compound (caṇḍāla + kula)",
   "breakdown": [
-   ["caṇḍāla", "Outcaste; a member of the lowest social group."],
-   ["kule", "In the clan, family; locative singular of kula."]
+   [
+    "caṇḍāla",
+    "Outcaste; a member of the lowest social group."
+   ],
+   [
+    "kule",
+    "In the clan, family; locative singular of kula."
+   ]
   ]
  },
  "cetosamathakovido": {
   "meaning": "skilled in the calming of the mind; well acquainted with mental tranquillity",
   "gram": "adjective, nominative singular masculine, compound (ceto + samatha + kovida)",
   "breakdown": [
-   ["ceto", "Mind, heart."],
-   ["samatha", "Tranquillity, calm."],
-   ["kovido", "Skilful in, well versed in."]
+   [
+    "ceto",
+    "Mind, heart."
+   ],
+   [
+    "samatha",
+    "Tranquillity, calm."
+   ],
+   [
+    "kovido",
+    "Skilful in, well versed in."
+   ]
   ]
  },
  "cevānuyuñjanto": {
   "meaning": "and also practising; and likewise applying oneself",
   "gram": "sandhi phrase: ca + eva + anuyuñjanto (present participle of anuyuñjati)",
   "breakdown": [
-   ["ca", "And."],
-   ["eva", "Also, just so (ca + eva fuses to ceva; eva + anu- coalesces to cevānu-)."],
-   ["anuyuñjanto", "Practising, applying oneself; present participle of anuyuñjati."]
+   [
+    "ca",
+    "And."
+   ],
+   [
+    "eva",
+    "Also, just so (ca + eva fuses to ceva; eva + anu- coalesces to cevānu-)."
+   ],
+   [
+    "anuyuñjanto",
+    "Practising, applying oneself; present participle of anuyuñjati."
+   ]
   ]
  },
  "chabbaggo": {
   "meaning": "the group of six",
   "gram": "masculine noun, compound (cha + vagga, with sandhi chabb-)",
   "breakdown": [
-   ["cha", "Six (chaḷ before a vowel; here ḷ + v assimilates to bb)."],
-   ["vaggo", "Group, section."]
+   [
+    "cha",
+    "Six (chaḷ before a vowel; here ḷ + v assimilates to bb)."
+   ],
+   [
+    "vaggo",
+    "Group, section."
+   ]
   ]
  },
  "chaccābhiṭhānāni": {
   "meaning": "and the six heinous crimes",
   "gram": "sandhi phrase: cha + ca + abhiṭhānāni",
   "breakdown": [
-   ["cha", "Six."],
-   ["ca", "And (cha + ca fuses with doubling to chacca-)."],
-   ["abhiṭhānāni", "Heinous crimes, grave offences (ca + abhi- coalesces to cābhi-)."]
+   [
+    "cha",
+    "Six."
+   ],
+   [
+    "ca",
+    "And (cha + ca fuses with doubling to chacca-)."
+   ],
+   [
+    "abhiṭhānāni",
+    "Heinous crimes, grave offences (ca + abhi- coalesces to cābhi-)."
+   ]
   ]
  },
  "chaddisāpaṭicchādanakaṇḍaṁ": {
   "meaning": "the section on covering the six directions (in the Siṅgālovāda teaching)",
   "gram": "neuter noun, compound (chaddisā + paṭicchādana + kaṇḍa)",
   "breakdown": [
-   ["cha", "Six (with sandhi doubling of the following d)."],
-   ["disā", "Directions, quarters."],
-   ["paṭicchādana", "Concealment, covering, protecting."],
-   ["kaṇḍaṁ", "Section, chapter."]
+   [
+    "cha",
+    "Six (with sandhi doubling of the following d)."
+   ],
+   [
+    "disā",
+    "Directions, quarters."
+   ],
+   [
+    "paṭicchādana",
+    "Concealment, covering, protecting."
+   ],
+   [
+    "kaṇḍaṁ",
+    "Section, chapter."
+   ]
   ],
-  "forms": ["chaddisāpaṭicchādanakaṇḍaṃ"]
+  "forms": [
+   "chaddisāpaṭicchādanakaṇḍaṃ"
+  ]
  },
  "chambhitattaṁ": {
   "meaning": "consternation; stupefaction, paralysis from fear",
   "gram": "neuter abstract noun (chambhita + -tta)",
   "breakdown": [
-   ["chambhita", "Stupefied, paralysed by fear; past participle of chambhati."],
-   ["-ttaṁ", "Abstract noun suffix: “the state of”."]
+   [
+    "chambhita",
+    "Stupefied, paralysed by fear; past participle of chambhati."
+   ],
+   [
+    "-ttaṁ",
+    "Abstract noun suffix: “the state of”."
+   ]
   ],
-  "forms": ["chambhitattaṃ"]
+  "forms": [
+   "chambhitattaṃ"
+  ]
  },
  "chambhī": {
   "meaning": "trembling, fearful",
@@ -184,7 +313,9 @@
  "chamāyaṁ": {
   "meaning": "on the earth; on the ground",
   "gram": "feminine noun, locative singular of chamā",
-  "forms": ["chamāyaṃ"]
+  "forms": [
+   "chamāyaṃ"
+  ]
  },
  "chando": {
   "meaning": "resolution, intention, will; desire, impulse",
@@ -194,30 +325,53 @@
   "meaning": "the wrong course of desire; going astray out of impulse or partiality",
   "gram": "feminine noun, accusative singular, compound (chanda + agati)",
   "breakdown": [
-   ["chanda", "Impulse, desire, partiality (chanda + agati coalesces to chandāgati)."],
-   ["agatiṁ", "Wrong course, going astray."]
+   [
+    "chanda",
+    "Impulse, desire, partiality (chanda + agati coalesces to chandāgati)."
+   ],
+   [
+    "agatiṁ",
+    "Wrong course, going astray."
+   ]
   ],
-  "forms": ["chandāgatiṃ"]
+  "forms": [
+   "chandāgatiṃ"
+  ]
  },
  "chandūpasaṁhitāpi": {
   "meaning": "even those connected with desire; also accompanied by wish",
   "gram": "adjective, compound + particle (chanda + upasaṁhita + api)",
   "breakdown": [
-   ["chanda", "Wish, desire (chanda + upa- coalesces to chandūpa-)."],
-   ["upasaṁhitā", "Connected with, accompanied by."],
-   ["pi", "And, also, even (api, fused in sandhi)."]
+   [
+    "chanda",
+    "Wish, desire (chanda + upa- coalesces to chandūpa-)."
+   ],
+   [
+    "upasaṁhitā",
+    "Connected with, accompanied by."
+   ],
+   [
+    "pi",
+    "And, also, even (api, fused in sandhi)."
+   ]
   ],
-  "forms": ["chandūpasaṃhitāpi"]
+  "forms": [
+   "chandūpasaṃhitāpi"
+  ]
  },
  "channaṁ": {
   "meaning": "of six",
   "gram": "cardinal numeral, genitive plural of cha",
-  "forms": ["channaṃ"]
+  "forms": [
+   "channaṃ"
+  ]
  },
  "chattaṁ": {
   "meaning": "parasol; umbrella; the royal parasol",
   "gram": "neuter noun (from chādeti “to cover”)",
-  "forms": ["chattaṃ"]
+  "forms": [
+   "chattaṃ"
+  ]
  },
  "chaḍḍita": {
   "meaning": "thrown away, cast away; abandoned",
@@ -227,22 +381,29 @@
   "meaning": "possessing the six supernormal powers",
   "gram": "adjective, nominative singular masculine, compound (cha + abhiññā, with linking ḷ)",
   "breakdown": [
-   ["cha", "Six (with linking consonant ḷ before the vowel)."],
-   ["abhiñño", "Having the higher knowledges; from abhiññā."]
+   [
+    "cha",
+    "Six (with linking consonant ḷ before the vowel)."
+   ],
+   [
+    "abhiñño",
+    "Having the higher knowledges; from abhiññā."
+   ]
   ]
- },
- "chaḷabhiñño six supernormal": {
-  "meaning": "chaḷabhiñño: possessing the six supernormal powers",
-  "gram": "adjective, compound",
-  "note": "uncertain: this headword is a glossary-row artifact; the entry is chaḷabhiñño with the gloss “six supernormal powers”. See chaḷabhiñño and chaḷabhiññā."
  },
  "chaḷabhiññā": {
   "meaning": "the six supernormal knowledges; the six psychic powers",
   "summary": "This compound (cha + abhiññā) names the six higher knowledges attained through meditation.",
   "gram": "feminine noun, plural, compound (cha + abhiññā, with linking ḷ)",
   "breakdown": [
-   ["cha", "Six (with linking consonant ḷ before the vowel)."],
-   ["abhiññā", "Supernatural knowledge, higher power; abhi + √ñā “to know”."]
+   [
+    "cha",
+    "Six (with linking consonant ḷ before the vowel)."
+   ],
+   [
+    "abhiññā",
+    "Supernatural knowledge, higher power; abhi + √ñā “to know”."
+   ]
   ],
   "goenka": "The chaḷabhiññā are the six supernatural knowledges or psychic powers: iddhi (magical power such as flying across or through mountains), dibba sota (clairaudience), parassa cetopariyañāṇa (knowing the thoughts of others), pubbe nivāsānussati (recollecting one's previous lives), dibba cakkhu (the divine eye, knowing other beings' rebirths), and āsavakkhaya (the certainty that emancipation has already been attained — the destruction of the mental obsessions). Only the last is uniquely liberating."
  },
@@ -250,34 +411,58 @@
   "meaning": "just six; six such",
   "gram": "sandhi fusion: cha (with linking ḷ) + eva",
   "breakdown": [
-   ["cha", "Six (with linking consonant ḷ)."],
-   ["eva", "Just, exactly, such like."]
+   [
+    "cha",
+    "Six (with linking consonant ḷ)."
+   ],
+   [
+    "eva",
+    "Just, exactly, such like."
+   ]
   ]
- },
- "chedanavadhabandhanaviparāmosaālopa": {
-  "meaning": "destruction, murder, binding, robbery and plunder",
-  "gram": "compound (fragment; see the full form ending in -sahasākārā)",
-  "note": "uncertain: this headword is a truncated form of chedanavadhabandhanaviparāmosaālopasahasākārā; see that entry.",
-  "forms": ["chedanavadhabandhanaviparāmosaālopasahasākārā"]
  },
  "chedanavadhabandhanaviparāmosaālopasahasākārā": {
   "meaning": "destruction, murder, binding, robbery, plundering and deeds of violence",
   "gram": "masculine noun, plural, compound",
   "breakdown": [
-   ["chedana", "Cutting, destruction."],
-   ["vadha", "Murder, killing."],
-   ["bandhana", "Binding, snaring, imprisonment."],
-   ["viparāmosa", "Highway robbery, ambush."],
-   ["ālopa", "Plundering, looting."],
-   ["sahasākārā", "Deeds of violence (sahasā “violently” + kāra “deed”)."]
+   [
+    "chedana",
+    "Cutting, destruction."
+   ],
+   [
+    "vadha",
+    "Murder, killing."
+   ],
+   [
+    "bandhana",
+    "Binding, snaring, imprisonment."
+   ],
+   [
+    "viparāmosa",
+    "Highway robbery, ambush."
+   ],
+   [
+    "ālopa",
+    "Plundering, looting."
+   ],
+   [
+    "sahasākārā",
+    "Deeds of violence (sahasā “violently” + kāra “deed”)."
+   ]
   ]
  },
  "chiddampi": {
   "meaning": "even perforated; having holes too",
   "gram": "neuter noun/adjective + particle (chiddaṁ + api)",
   "breakdown": [
-   ["chiddaṁ", "Hole, perforation; perforated (from √chid “to cut”)."],
-   ["pi", "Also, even (api, fused in sandhi)."]
+   [
+    "chiddaṁ",
+    "Hole, perforation; perforated (from √chid “to cut”)."
+   ],
+   [
+    "pi",
+    "Also, even (api, fused in sandhi)."
+   ]
   ]
  },
  "chāyā": {
@@ -288,56 +473,95 @@
   "meaning": "like a shadow",
   "gram": "feminine noun + particle (chāyā + va “like”)",
   "breakdown": [
-   ["chāyā", "Shadow, shade."],
-   ["va", "Like, as (iva, shortened and fused in sandhi)."]
+   [
+    "chāyā",
+    "Shadow, shade."
+   ],
+   [
+    "va",
+    "Like, as (iva, shortened and fused in sandhi)."
+   ]
   ]
  },
  "cintasuttaṁ": {
   "meaning": "the Cinta Sutta, the discourse on thinking (cinta + suttaṁ)",
   "gram": "proper noun, neuter (sutta title)",
-  "forms": ["Cintasuttaṃ"]
+  "forms": [
+   "Cintasuttaṃ"
+  ]
  },
  "cintīsuttaṁ": {
   "meaning": "the Cintī Sutta, the discourse of “the thinker” (cintī: having one’s thoughts, thinking)",
   "gram": "proper noun, neuter (sutta title)",
-  "forms": ["Cintīsuttaṃ"]
+  "forms": [
+   "Cintīsuttaṃ"
+  ]
  },
  "ciraṁ": {
   "meaning": "for a long time",
   "gram": "adverb (accusative of cira)",
-  "forms": ["ciraṃ"]
+  "forms": [
+   "ciraṃ"
+  ]
  },
  "ciraṭṭhitikā": {
   "meaning": "long-lasting; enduring for a long time",
   "gram": "adjective, compound (cira + ṭhitika)",
   "breakdown": [
-   ["cira", "A long time (with sandhi doubling of the following ṭh)."],
-   ["ṭhitikā", "Lasting, standing; from ṭhiti “duration”."]
+   [
+    "cira",
+    "A long time (with sandhi doubling of the following ṭh)."
+   ],
+   [
+    "ṭhitikā",
+    "Lasting, standing; from ṭhiti “duration”."
+   ]
   ]
  },
  "ciraṭṭhitikāmatāya": {
   "meaning": "out of desire for (its) long endurance",
   "gram": "compound, instrumental/dative singular (ciraṭṭhitika + kāmatā)",
   "breakdown": [
-   ["ciraṭṭhitika", "Long-lasting, enduring."],
-   ["kāmatāya", "Out of desire for; instrumental of kāmatā “desire” (the two members fuse over the shared kā syllable)."]
+   [
+    "ciraṭṭhitika",
+    "Long-lasting, enduring."
+   ],
+   [
+    "kāmatāya",
+    "Out of desire for; instrumental of kāmatā “desire” (the two members fuse over the shared kā syllable)."
+   ]
   ]
  },
  "cittaklesehi": {
   "meaning": "from the impurities of the mind; with mental defilements",
   "gram": "masculine noun, instrumental/ablative plural, compound (citta + klesa)",
   "breakdown": [
-   ["citta", "Mind."],
-   ["klesehi", "Impurities, stains, defilements; instrumental-ablative plural of klesa (kilesa)."]
+   [
+    "citta",
+    "Mind."
+   ],
+   [
+    "klesehi",
+    "Impurities, stains, defilements; instrumental-ablative plural of klesa (kilesa)."
+   ]
   ]
  },
  "cittasaṇhatāya": {
   "meaning": "by gentleness of mind; through softness of the mind",
   "gram": "feminine abstract noun, instrumental singular, compound (citta + saṇha + -tā)",
   "breakdown": [
-   ["citta", "Mind."],
-   ["saṇha", "Gentle, soft."],
-   ["-tāya", "Abstract suffix -tā in the instrumental singular."]
+   [
+    "citta",
+    "Mind."
+   ],
+   [
+    "saṇha",
+    "Gentle, soft."
+   ],
+   [
+    "-tāya",
+    "Abstract suffix -tā in the instrumental singular."
+   ]
   ]
  },
  "codeti": {

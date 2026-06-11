@@ -4,18 +4,36 @@
   "gram": "masculine noun, compound, nominative singular",
   "summary": "A variant spelling of sabbūpadhippaṭinissaggo; see that entry.",
   "breakdown": [
-   ["sabba", "All (sabba + upadhi coalesce to sabbūpadhi)."],
-   ["upadhi", "Attachment, substratum of clinging."],
-   ["paṭinissaggo", "Giving up, relinquishment."]
+   [
+    "sabba",
+    "All (sabba + upadhi coalesce to sabbūpadhi)."
+   ],
+   [
+    "upadhi",
+    "Attachment, substratum of clinging."
+   ],
+   [
+    "paṭinissaggo",
+    "Giving up, relinquishment."
+   ]
   ]
  },
  "sabbūpadhippaṭinissaggo": {
   "meaning": "the giving up of all attachments; forsaking and leaving behind every substratum of clinging",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["sabba", "All (sabba + upadhi coalesce to sabbūpadhi)."],
-   ["upadhi", "Attachment, substratum of clinging."],
-   ["paṭinissaggo", "Giving up, forsaking, relinquishment; sandhi doubling of p at the boundary."]
+   [
+    "sabba",
+    "All (sabba + upadhi coalesce to sabbūpadhi)."
+   ],
+   [
+    "upadhi",
+    "Attachment, substratum of clinging."
+   ],
+   [
+    "paṭinissaggo",
+    "Giving up, forsaking, relinquishment; sandhi doubling of p at the boundary."
+   ]
   ],
   "goenka": "Sabbūpadhippaṭinissaggo appears in the canonical description of nibbāna: “this is peaceful, this is sublime — the calming of all saṅkhāra, the relinquishment of all attachment, the destruction of craving, dispassion, cessation, nibbāna.” The complete letting go of every clinging is not an idea to be believed but the culmination of practice, realised when the meditator ceases generating craving and aversion towards sensations."
  },
@@ -23,24 +41,42 @@
   "meaning": "with food; together with a meal",
   "gram": "adjective sabhojana, nominative masculine singular",
   "breakdown": [
-   ["sa-", "Prefix “with, possessing”."],
-   ["bhojano", "Food, meal (from √bhuj “to eat”)."]
+   [
+    "sa-",
+    "Prefix “with, possessing”."
+   ],
+   [
+    "bhojano",
+    "Food, meal (from √bhuj “to eat”)."
+   ]
   ]
  },
  "sabhāgasantati": {
   "meaning": "continuity of similar (states); homogeneous continuity, lineage of like moments",
   "gram": "feminine noun, compound",
   "breakdown": [
-   ["sabhāga", "Similar, common, of like kind."],
-   ["santati", "Continuity, succession, lineage."]
+   [
+    "sabhāga",
+    "Similar, common, of like kind."
+   ],
+   [
+    "santati",
+    "Continuity, succession, lineage."
+   ]
   ]
  },
  "sabhāsīlī": {
   "meaning": "in the habit of frequenting assemblies; given to company",
   "gram": "adjective, compound",
   "breakdown": [
-   ["sabhā", "Assembly, company."],
-   ["sīlī", "Having the habit of (from sīla “habit, character”)."]
+   [
+    "sabhā",
+    "Assembly, company."
+   ],
+   [
+    "sīlī",
+    "Having the habit of (from sīla “habit, character”)."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line runs into the next entry (sabhojano “with food”); only “adhering to company” belongs to sabhāsīlī."
  },
@@ -48,61 +84,107 @@
   "meaning": "with the letter; complete in phrasing, according to the letter (of the teaching)",
   "gram": "adjective, accusative singular (often adverbial, paired with sātthaṁ “with the meaning”)",
   "breakdown": [
-   ["sa-", "Prefix “with”."],
-   ["byañjanaṁ", "Letter, phrasing, expression."]
+   [
+    "sa-",
+    "Prefix “with”."
+   ],
+   [
+    "byañjanaṁ",
+    "Letter, phrasing, expression."
+   ]
   ],
-  "forms": ["sabyañjanaṃ"]
+  "forms": [
+   "sabyañjanaṃ"
+  ]
  },
  "saccanulomika": {
   "meaning": "in conformity with truth; consistent with the truth",
   "gram": "adjective, compound",
   "breakdown": [
-   ["sacca", "Truth."],
-   ["anulomika", "In direct order, conforming, going along with (anu + loma “with the grain”)."]
+   [
+    "sacca",
+    "Truth."
+   ],
+   [
+    "anulomika",
+    "In direct order, conforming, going along with (anu + loma “with the grain”)."
+   ]
   ]
  },
  "saccapaṭivedha": {
   "meaning": "penetration of the truth; direct inner realization of the truths",
   "gram": "masculine noun, compound",
   "breakdown": [
-   ["sacca", "Truth."],
-   ["paṭivedha", "Penetration, inside knowledge (paṭi + √vidh “to pierce”)."]
+   [
+    "sacca",
+    "Truth."
+   ],
+   [
+    "paṭivedha",
+    "Penetration, inside knowledge (paṭi + √vidh “to pierce”)."
+   ]
   ],
   "goenka": "Saccapaṭivedha is the penetration of truth by direct experience — the wisdom of bhāvanāmayā paññā, as distinct from accepting the truths by hearing or reasoning. The Four Noble Truths become liberating only when each is pierced through and realised within, at the level of one's own mind and body."
- },
- "saccañāṇakiccañāṇakatañāṇasaṅkh": {
-  "meaning": "(fragment) named the knowledge of the truth, the knowledge of the task, and the knowledge of what has been done",
-  "gram": "glossary artifact; line-broken fragment of the compound saccañāṇakiccañāṇakatañāṇasaṅkhātānaṁ",
-  "note": "uncertain: the headword is a hyphenation fragment; see the entry saccañāṇakiccañāṇakatañāṇasaṅkhātānaṁ."
  },
  "saccañāṇakiccañāṇakatañāṇasaṅkhātānaṁ": {
   "meaning": "of (the three phases) named truth-knowledge, task-knowledge and done-knowledge",
   "gram": "compound, genitive plural",
   "summary": "Refers to the three rounds of knowledge applied to each Noble Truth in the Dhammacakkappavattana Sutta: knowing the truth, knowing the task it requires, and knowing the task has been accomplished.",
   "breakdown": [
-   ["sacca", "Truth."],
-   ["ñāṇa", "Knowledge."],
-   ["kicca", "What ought to be done, the task."],
-   ["kata", "What has been done."],
-   ["saṅkhātānaṁ", "Named, reckoned as (genitive plural)."]
+   [
+    "sacca",
+    "Truth."
+   ],
+   [
+    "ñāṇa",
+    "Knowledge."
+   ],
+   [
+    "kicca",
+    "What ought to be done, the task."
+   ],
+   [
+    "kata",
+    "What has been done."
+   ],
+   [
+    "saṅkhātānaṁ",
+    "Named, reckoned as (genitive plural)."
+   ]
   ],
-  "forms": ["saccañāṇakiccañāṇakatañāṇasaṅkhātānaṃ"]
+  "forms": [
+   "saccañāṇakiccañāṇakatañāṇasaṅkhātānaṃ"
+  ]
  },
  "sacchikataṁ": {
   "meaning": "realized; directly experienced, witnessed",
   "gram": "past participle of sacchikaroti, neuter/accusative singular",
   "breakdown": [
-   ["sacchi", "With one's own eyes (sa + akkhi “eye”): direct witnessing."],
-   ["kataṁ", "Made, done (past participle of karoti): made directly seen, realized."]
+   [
+    "sacchi",
+    "With one's own eyes (sa + akkhi “eye”): direct witnessing."
+   ],
+   [
+    "kataṁ",
+    "Made, done (past participle of karoti): made directly seen, realized."
+   ]
   ],
-  "forms": ["sacchikataṃ"]
+  "forms": [
+   "sacchikataṃ"
+  ]
  },
  "sacchikatvā": {
   "meaning": "having fully realized; having directly experienced",
   "gram": "gerund of sacchikaroti",
   "breakdown": [
-   ["sacchi", "With one's own eyes: direct witnessing."],
-   ["katvā", "Having done (gerund of karoti)."]
+   [
+    "sacchi",
+    "With one's own eyes: direct witnessing."
+   ],
+   [
+    "katvā",
+    "Having done (gerund of karoti)."
+   ]
   ],
   "goenka": "Sacchikatvā — “having realised for oneself, with direct experience” — carries the experiential emphasis at the heart of the teaching: the Dhamma is sandiṭṭhiko, to be seen here and now by each person within themselves, not accepted on another's authority."
  },
@@ -110,121 +192,191 @@
   "meaning": "should be realized; to be directly experienced",
   "gram": "future passive participle of sacchikaroti, neuter/accusative singular",
   "breakdown": [
-   ["sacchi", "With one's own eyes: direct witnessing."],
-   ["kātabbaṁ", "To be done (future passive participle of karoti): to be realized."]
+   [
+    "sacchi",
+    "With one's own eyes: direct witnessing."
+   ],
+   [
+    "kātabbaṁ",
+    "To be done (future passive participle of karoti): to be realized."
+   ]
   ],
-  "forms": ["sacchikātabbaṃ"]
+  "forms": [
+   "sacchikātabbaṃ"
+  ]
  },
  "saccikaṭṭha": {
   "meaning": "the real meaning; the highest truth, what is true in the ultimate sense",
   "gram": "masculine noun, compound",
   "breakdown": [
-   ["saccika", "Real, true."],
-   ["aṭṭha", "Meaning, sense (attha; the vowels fuse at the boundary)."]
+   [
+    "saccika",
+    "Real, true."
+   ],
+   [
+    "aṭṭha",
+    "Meaning, sense (attha; the vowels fuse at the boundary)."
+   ]
   ]
  },
  "sadattho": {
   "meaning": "the true welfare; one's own highest goal",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["sad", "Good, true (sant > sat > sad by sandhi)."],
-   ["attho", "Welfare, aim, goal."]
+   [
+    "sad",
+    "Good, true (sant > sat > sad by sandhi)."
+   ],
+   [
+    "attho",
+    "Welfare, aim, goal."
+   ]
   ]
  },
  "saddamanussāvesuṁ": {
   "meaning": "they made the sound heard; they raised a cry (proclaimed aloud)",
   "gram": "compound verb, aorist 3rd person plural (saddaṁ + anussāvesuṁ)",
   "breakdown": [
-   ["saddaṁ", "Sound, cry (accusative); the niggahīta joins the following vowel as m."],
-   ["anussāvesuṁ", "They made heard, proclaimed (aorist causative of anu + √su “to hear”)."]
+   [
+    "saddaṁ",
+    "Sound, cry (accusative); the niggahīta joins the following vowel as m."
+   ],
+   [
+    "anussāvesuṁ",
+    "They made heard, proclaimed (aorist causative of anu + √su “to hear”)."
+   ]
   ],
-  "forms": ["saddamanussāvesuṃ"],
+  "forms": [
+   "saddamanussāvesuṃ"
+  ],
   "note": "divergence: the lexicon's breakdown reads sadda + manussā + avesuṁ (“sound + humankind + heard”); DPD parses saddaṁ + anussāvesi, “made the sound heard”, which fits the stock passage of the devas raising a cry."
  },
  "saddavitakko": {
   "meaning": "thought about sound; (initial) thought directed to sounds",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["sadda", "Sound."],
-   ["vitakko", "Initial thought, directed thinking."]
+   [
+    "sadda",
+    "Sound."
+   ],
+   [
+    "vitakko",
+    "Initial thought, directed thinking."
+   ]
   ]
  },
  "saddhammassavanaṁ": {
   "meaning": "hearing the true Dhamma; listening to the true teaching",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "breakdown": [
-   ["sad", "Good, true (sant > sat > sad by sandhi)."],
-   ["dhamma", "The teaching, the Dhamma."],
-   ["savanaṁ", "Hearing, listening; sandhi doubling of s at the boundary."]
+   [
+    "sad",
+    "Good, true (sant > sat > sad by sandhi)."
+   ],
+   [
+    "dhamma",
+    "The teaching, the Dhamma."
+   ],
+   [
+    "savanaṁ",
+    "Hearing, listening; sandhi doubling of s at the boundary."
+   ]
   ],
-  "forms": ["saddhammassavanaṃ"]
+  "forms": [
+   "saddhammassavanaṃ"
+  ]
  },
  "saddhivihāriko": {
   "meaning": "co-resident; a fellow bhikkhu dwelling in the same monastery (a pupil living with his teacher)",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["saddhiṁ", "Together with."],
-   ["vihārika", "One who dwells (from vihāra)."]
+   [
+    "saddhiṁ",
+    "Together with."
+   ],
+   [
+    "vihārika",
+    "One who dwells (from vihāra)."
+   ]
   ]
- },
- "saddhivihāriko fellow": {
-  "meaning": "a fellow bhikkhu dwelling in the same monastery",
-  "gram": "glossary artifact; masculine noun saddhivihārika, nominative singular",
-  "note": "uncertain: the headword is a run-on glossary line for saddhivihāriko; see that entry."
  },
  "saddhiṁ": {
   "meaning": "together with",
   "gram": "indeclinable preposition (with instrumental)",
-  "forms": ["saddhiṃ"]
- },
- "saddhiṁ together": {
-  "meaning": "together with",
-  "gram": "glossary artifact; indeclinable preposition saddhiṁ",
-  "note": "uncertain: the headword is a run-on glossary line for saddhiṁ “together with”."
+  "forms": [
+   "saddhiṃ"
+  ]
  },
  "saddhā": {
   "meaning": "confidence; devotion; faith",
   "gram": "feminine noun",
   "goenka": "Saddhā — confidence, devotion or faith — is described as the essential element with which one sets out on the path. In the tradition it is not blind belief: confidence in the Buddha, Dhamma and Saṅgha arises and matures through one's own experience of the practice, and in the chariot simile of the Brahmayāna passage saddhā is yoked together with paññā to draw the vehicle to liberation.",
-  "forms": ["Saddhā"]
+  "forms": [
+   "Saddhā"
+  ]
  },
  "saddhāpaṭilābhena": {
   "meaning": "through the gaining of faith; by the achievement of confidence",
   "gram": "masculine noun, compound, instrumental singular",
   "breakdown": [
-   ["saddhā", "Faith, confidence."],
-   ["paṭilābhena", "By the gaining, acquisition (instrumental)."]
+   [
+    "saddhā",
+    "Faith, confidence."
+   ],
+   [
+    "paṭilābhena",
+    "By the gaining, acquisition (instrumental)."
+   ]
   ]
  },
  "saddhāvīriyasādhanaṁ": {
   "meaning": "accomplished through faith and effort; producing (its result) by confidence and energy",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "breakdown": [
-   ["saddhā", "Faith, confidence."],
-   ["vīriya", "Effort, energy."],
-   ["sādhanaṁ", "Producing, accomplishing, enforcing."]
+   [
+    "saddhā",
+    "Faith, confidence."
+   ],
+   [
+    "vīriya",
+    "Effort, energy."
+   ],
+   [
+    "sādhanaṁ",
+    "Producing, accomplishing, enforcing."
+   ]
   ],
-  "forms": ["saddhāvīriyasādhanaṃ"]
+  "forms": [
+   "saddhāvīriyasādhanaṃ"
+  ]
  },
  "saddā": {
   "meaning": "sounds",
   "gram": "masculine noun sadda, nominative plural",
   "breakdown": [
-   ["√sadd", "Root meaning “to make sound”."]
+   [
+    "√sadd",
+    "Root meaning “to make sound”."
+   ]
   ]
  },
  "sagga": {
   "meaning": "heaven; the heavenly fields",
   "gram": "masculine noun (√sar + ga)",
   "breakdown": [
-   ["√sar", "Root associated with going, reaching; sagga is the sphere “gone to” by wholesome deeds."]
+   [
+    "√sar",
+    "Root associated with going, reaching; sagga is the sphere “gone to” by wholesome deeds."
+   ]
   ],
   "goenka": "Sagga is the general term for the spheres that exist above the human (manussā) world — the different fields of the devas and of Brahmā's retinue. Rebirth there is the fruit of wholesome kamma, but even these heavenly fields are impermanent and within the round of becoming; the goal of the path lies beyond them."
  },
  "saggaṁ": {
   "meaning": "heaven (accusative)",
   "gram": "masculine noun sagga, accusative singular",
-  "forms": ["saggaṃ"]
+  "forms": [
+   "saggaṃ"
+  ]
  },
  "saggesu": {
   "meaning": "in the heavens; in the heavenly fields",
@@ -238,29 +390,61 @@
   "meaning": "through being yoked to co-arisen qualities such as sīla; from association with the virtues born together (with the path moment)",
   "gram": "compound, ablative singular",
   "breakdown": [
-   ["saha", "Together with."],
-   ["jāta", "Born, arisen (sahajāta “co-arisen”)."],
-   ["sīla", "Morality, virtue."],
-   ["ādi", "And so on, et cetera."],
-   ["guṇa", "Quality, virtue."],
-   ["yogā", "From being yoked, joined (ablative)."]
+   [
+    "saha",
+    "Together with."
+   ],
+   [
+    "jāta",
+    "Born, arisen (sahajāta “co-arisen”)."
+   ],
+   [
+    "sīla",
+    "Morality, virtue."
+   ],
+   [
+    "ādi",
+    "And so on, et cetera."
+   ],
+   [
+    "guṇa",
+    "Quality, virtue."
+   ],
+   [
+    "yogā",
+    "From being yoked, joined (ablative)."
+   ]
   ]
  },
  "sahassavaggo": {
   "meaning": "the Sahassa Vagga (“Chapter of the Thousand”, e.g. in the Dhammapada)",
   "gram": "proper noun (chapter title), masculine nominative singular",
   "breakdown": [
-   ["sahassa", "Thousand."],
-   ["vaggo", "Chapter, section."]
+   [
+    "sahassa",
+    "Thousand."
+   ],
+   [
+    "vaggo",
+    "Chapter, section."
+   ]
   ],
-  "forms": ["Sahassavaggo"]
+  "forms": [
+   "Sahassavaggo"
+  ]
  },
  "sahasākārā": {
   "meaning": "violent deeds; acts of violence (in the list: destruction, murder, binding, robbery, plundering and deeds of violence)",
   "gram": "masculine noun, compound, nominative plural (or ablative singular)",
   "breakdown": [
-   ["sahasā", "Violently, forcibly, suddenly."],
-   ["kārā", "Deeds, acts."]
+   [
+    "sahasā",
+    "Violently, forcibly, suddenly."
+   ],
+   [
+    "kārā",
+    "Deeds, acts."
+   ]
   ],
   "note": "uncertain: the lexicon's breakdown covers the longer stock list chedana-vadha-bandhana-viparāmosa-ālopa-sahasākārā; only “violent deed” belongs to sahasākārā."
  },
@@ -268,130 +452,230 @@
   "meaning": "with gold; possessing bullion",
   "gram": "adjective sahirañña, nominative masculine singular",
   "breakdown": [
-   ["sa-", "Prefix “with, possessing”."],
-   ["hirañño", "Gold, bullion (hirañña)."]
+   [
+    "sa-",
+    "Prefix “with, possessing”."
+   ],
+   [
+    "hirañño",
+    "Gold, bullion (hirañña)."
+   ]
   ]
  },
  "sahita": {
   "meaning": "accompanied; united, consistent",
   "gram": "past participle of sandahati (saṁ + √dhā)",
   "breakdown": [
-   ["saṁ-", "Prefix “together”."],
-   ["√dhā", "Root meaning “to place”: placed together, joined."],
-   ["-ita", "Past participle suffix."]
+   [
+    "saṁ-",
+    "Prefix “together”."
+   ],
+   [
+    "√dhā",
+    "Root meaning “to place”: placed together, joined."
+   ],
+   [
+    "-ita",
+    "Past participle suffix."
+   ]
   ]
  },
  "sahita/sanhita": {
   "meaning": "accompanied; united, consistent",
   "gram": "past participle of sandahati (two spellings of the same form)",
   "breakdown": [
-   ["saṁ-", "Prefix “together” (appearing as san- in the variant spelling)."],
-   ["√dhā", "Root meaning “to place”: joined, united."],
-   ["-ita", "Past participle suffix."]
+   [
+    "saṁ-",
+    "Prefix “together” (appearing as san- in the variant spelling)."
+   ],
+   [
+    "√dhā",
+    "Root meaning “to place”: joined, united."
+   ],
+   [
+    "-ita",
+    "Past participle suffix."
+   ]
   ]
  },
  "sahāvassa": {
   "meaning": "simultaneously with (it); together with, at that very moment for him",
   "gram": "sandhi cluster: saha + eva + assa",
   "breakdown": [
-   ["saha", "Together with."],
-   ["eva", "Just, even (the vowels fuse: sahā + va)."],
-   ["assa", "Of him, for him (genitive/dative)."]
+   [
+    "saha",
+    "Together with."
+   ],
+   [
+    "eva",
+    "Just, even (the vowels fuse: sahā + va)."
+   ],
+   [
+    "assa",
+    "Of him, for him (genitive/dative)."
+   ]
   ]
- },
- "sahāvassa simultaneously": {
-  "meaning": "simultaneously with",
-  "gram": "glossary artifact; sandhi cluster sahāvassa",
-  "note": "uncertain: the headword is a run-on glossary line for sahāvassa “simultaneously with”."
  },
  "sajjhāyamakaruṁ": {
   "meaning": "they made recitation; they performed the rehearsal (of the texts)",
   "gram": "compound verb phrase, aorist 3rd person plural: sajjhāyaṁ + akaruṁ",
   "breakdown": [
-   ["sajjhāyaṁ", "Recitation, rehearsal, repetition (accusative); the niggahīta joins the following vowel as m."],
-   ["akaruṁ", "They did, made (aorist of karoti)."]
+   [
+    "sajjhāyaṁ",
+    "Recitation, rehearsal, repetition (accusative); the niggahīta joins the following vowel as m."
+   ],
+   [
+    "akaruṁ",
+    "They did, made (aorist of karoti)."
+   ]
   ],
-  "forms": ["sajjhāyamakaruṃ"]
+  "forms": [
+   "sajjhāyamakaruṃ"
+  ]
  },
  "sakadāgāmiphalaṁ": {
   "meaning": "the fruit of once-returning (the second stage of liberation)",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "breakdown": [
-   ["sakadāgāmi", "Once-returner (sakid “once” + āgāmī “coming back”): one who will return to this world at most once more."],
-   ["phalaṁ", "Fruit, result."]
+   [
+    "sakadāgāmi",
+    "Once-returner (sakid “once” + āgāmī “coming back”): one who will return to this world at most once more."
+   ],
+   [
+    "phalaṁ",
+    "Fruit, result."
+   ]
   ],
-  "forms": ["sakadāgāmiphalaṃ"]
+  "forms": [
+   "sakadāgāmiphalaṃ"
+  ]
  },
  "sakalamevidaṁ": {
   "meaning": "this entire (thing); all of this, thus",
   "gram": "sandhi cluster: sakalaṁ + eva + idaṁ",
   "breakdown": [
-   ["sakalaṁ", "Entire, whole."],
-   ["eva", "Just, even, thus."],
-   ["idaṁ", "This; the vowels and niggahīta fuse across the boundaries."]
+   [
+    "sakalaṁ",
+    "Entire, whole."
+   ],
+   [
+    "eva",
+    "Just, even, thus."
+   ],
+   [
+    "idaṁ",
+    "This; the vowels and niggahīta fuse across the boundaries."
+   ]
   ],
-  "forms": ["sakalamevidaṃ"]
+  "forms": [
+   "sakalamevidaṃ"
+  ]
  },
  "sakammapasutā": {
   "meaning": "intent on their own activities; busy with their own work",
   "gram": "adjective, compound, nominative plural",
   "breakdown": [
-   ["sa-", "One's own."],
-   ["kamma", "Activity, work."],
-   ["pasutā", "Intent upon, busy with (plural)."]
+   [
+    "sa-",
+    "One's own."
+   ],
+   [
+    "kamma",
+    "Activity, work."
+   ],
+   [
+    "pasutā",
+    "Intent upon, busy with (plural)."
+   ]
   ]
  },
  "sakaṁ": {
   "meaning": "one's own",
   "gram": "adjective saka, accusative singular",
-  "forms": ["sakaṃ"]
+  "forms": [
+   "sakaṃ"
+  ]
  },
  "sakaṁyeva": {
   "meaning": "their very own; just one's own",
   "gram": "adjective saka, accusative singular + emphatic particle yeva",
   "breakdown": [
-   ["sakaṁ", "One's own (accusative)."],
-   ["yeva", "Just, even (emphatic); a linking glide y appears at the boundary."]
+   [
+    "sakaṁ",
+    "One's own (accusative)."
+   ],
+   [
+    "yeva",
+    "Just, even (emphatic); a linking glide y appears at the boundary."
+   ]
   ],
-  "forms": ["sakaṃyeva"],
+  "forms": [
+   "sakaṃyeva"
+  ],
   "note": "uncertain: the lexicon's gloss line runs into the next entry (sakideva “only once”); only “their own + even so” belongs to sakaṁyeva."
  },
  "sakaṭabhārehi": {
   "meaning": "by cartloads; with wagon-loads",
   "gram": "masculine noun, compound, instrumental plural",
   "breakdown": [
-   ["sakaṭa", "Cart, wagon."],
-   ["bhārehi", "With loads (instrumental plural of bhāra)."]
+   [
+    "sakaṭa",
+    "Cart, wagon."
+   ],
+   [
+    "bhārehi",
+    "With loads (instrumental plural of bhāra)."
+   ]
   ]
  },
  "sakhila": {
   "meaning": "congenial; kind in speech",
   "gram": "adjective (from sakhā “friend”)",
   "breakdown": [
-   ["sakha", "Friend."],
-   ["-ila", "Adjectival suffix: friendly, congenial."]
+   [
+    "sakha",
+    "Friend."
+   ],
+   [
+    "-ila",
+    "Adjectival suffix: friendly, congenial."
+   ]
   ]
  },
  "sakhilā": {
   "meaning": "friendly; amiable, pleasant (in speech)",
   "gram": "adjective sakhila, nominative plural (or feminine singular)",
   "breakdown": [
-   ["sakha", "Friend."],
-   ["-ilā", "Adjectival suffix with plural/feminine ending."]
+   [
+    "sakha",
+    "Friend."
+   ],
+   [
+    "-ilā",
+    "Adjectival suffix with plural/feminine ending."
+   ]
   ]
  },
  "sakideva": {
   "meaning": "only once; just one time",
   "gram": "indeclinable adverb (sakid + eva)",
   "breakdown": [
-   ["saki(d)", "Once."],
-   ["eva", "Just, only (emphatic)."]
+   [
+    "saki(d)",
+    "Once."
+   ],
+   [
+    "eva",
+    "Just, only (emphatic)."
+   ]
   ]
  },
  "sakiṁ": {
   "meaning": "once",
   "gram": "indeclinable adverb",
-  "forms": ["sakiṃ"]
+  "forms": [
+   "sakiṃ"
+  ]
  },
  "sakkacca": {
   "meaning": "respectfully; carefully, attentively",

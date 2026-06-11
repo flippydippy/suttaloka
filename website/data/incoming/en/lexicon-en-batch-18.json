@@ -1,423 +1,753 @@
 {
-  "dhammasaṅgīti": {
-    "meaning": "communal recitation of the Dhamma; rehearsal of the texts; literally, chanting together",
-    "gram": "feminine compound noun",
-    "breakdown": [
-      ["dhamma", "The Dhamma, the teaching."],
-      ["saṅgīti", "Chanting together, communal recitation (saṁ, together + √gā/gī, to sing)."]
-    ],
-    "goenka": "Dhammasaṅgīti is literally \"chanting together\", a rehearsal of the texts: the procedure as traditionally described is that an eminent Thera recites the texts first and then the whole assembly repeats them after him. This is the method by which the word of the Buddha was preserved at the great councils."
-  },
-  "dhammatā": {
-    "meaning": "inherent necessity; natural law; the nature of things",
-    "gram": "feminine abstract noun, from dhamma (√dhar)",
-    "breakdown": [
-      ["dhamma", "Nature, law, the way things are (√dhar, to uphold)."],
-      ["-tā", "Abstract noun suffix: the state of being so, inherent necessity."]
-    ]
-  },
-  "dhammatā inherent": {
-    "meaning": "inherent necessity",
-    "gram": "feminine abstract noun (see dhammatā)",
-    "note": "uncertain: the key is an artifact of a split vocabulary row (\"dhammatā inherent / necessity\"); the entry belongs under dhammatā."
-  },
-  "dhammavinayassa": {
-    "meaning": "of the teaching and discipline; of the Dhamma and Vinaya",
-    "gram": "masculine compound noun, genitive/dative singular",
-    "breakdown": [
-      ["dhamma", "The teaching, the Dhamma."],
-      ["vinaya", "The discipline, the monastic training."],
-      ["-ssa", "Genitive/dative singular ending: of, for."]
-    ]
-  },
-  "dhammaṭṭhapaṭisaṁyuttā": {
-    "meaning": "connected with the Dhamma and its profitable meaning",
-    "gram": "compound adjective, plural",
-    "breakdown": [
-      ["dhamma", "The Dhamma, the teaching."],
-      ["aṭṭha (attha)", "Meaning, profit, benefit. Sandhi: dhamma + aṭṭha > dhammaṭṭha."],
-      ["paṭisaṁyuttā", "Connected with, associated with (paṭi + saṁ + yutta)."]
-    ],
-    "forms": ["dhammaṭṭhapaṭisaṁyuttā"]
-  },
-  "dhamme": {
-    "meaning": "in the Dhamma; in Dhamma",
-    "gram": "masculine noun, locative singular of dhamma (√dhar)",
-    "breakdown": [
-      ["dhamma", "The Dhamma, the teaching; the law of nature (√dhar, to uphold)."],
-      ["-e", "Locative singular ending: in, with regard to."]
-    ]
-  },
-  "dhammikaupāsakopi": {
-    "meaning": "also the lay disciple who follows the Dhamma",
-    "gram": "masculine compound noun + enclitic particle, nominative singular",
-    "breakdown": [
-      ["dhammika", "Following the Dhamma, righteous."],
-      ["upāsako", "Lay disciple, lay follower."],
-      ["pi", "Also, too (enclitic; -o + pi by sandhi)."]
-    ]
-  },
-  "dhammoti": {
-    "meaning": "\"...the Dhamma\" (with closing quotation marker)",
-    "gram": "masculine noun, nominative singular + quotation particle ti",
-    "breakdown": [
-      ["dhammo", "The Dhamma, nominative singular (√dhar + ma)."],
-      ["ti", "Quotation marker (iti), fused by sandhi: dhammo + ti."]
-    ]
-  },
-  "dhammādhipateyyo": {
-    "meaning": "having the Dhamma as master; ruled by the Dhamma",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["dhamma", "The Dhamma, the teaching."],
-      ["ādhipateyyo", "Mastery, rulership, supremacy (from adhipati, master, chief). Sandhi: dhamma + ādhi- > dhammādhi-."]
-    ]
-  },
-  "dhammānudhammappaṭipanno": {
-    "meaning": "practising in accordance with the Dhamma; following the Dhamma in its entirety, step by step",
-    "gram": "compound adjective (past participle), masculine nominative singular",
-    "breakdown": [
-      ["dhamma", "The Dhamma."],
-      ["anudhamma", "In accordance with the Dhamma (anu-, along, according to). Sandhi: dhamma + anu- > dhammānu-."],
-      ["paṭipanno", "Entered upon, practising, following (past participle of paṭipajjati; the doubled pp is sandhi doubling)."]
-    ]
-  },
-  "dhammānussatikathā.": {
-    "meaning": "the discourse section on recollection of the Dhamma",
-    "gram": "feminine compound noun, section title",
-    "breakdown": [
-      ["dhamma", "The Dhamma."],
-      ["anussati", "Recollection, repeated remembrance (anu + sati). Sandhi: dhamma + anu- > dhammānu-."],
-      ["kathā", "Talk, discourse, exposition."]
-    ],
-    "forms": ["Dhammānussatikathā"]
-  },
-  "dhammānuvattino": {
-    "meaning": "following the Dhamma accordingly; those who conform to the Dhamma",
-    "gram": "compound adjective, masculine plural or genitive singular",
-    "breakdown": [
-      ["dhamma", "The Dhamma."],
-      ["anuvattī (anuvattino)", "Following accordingly, conforming to (anu + √vat, to proceed). Sandhi: dhamma + anu- > dhammānu-."]
-    ]
-  },
-  "dhammāsanāgato": {
-    "meaning": "gone to the Dhamma seat; seated on the teacher's seat",
-    "gram": "compound adjective (past participle), masculine nominative singular",
-    "breakdown": [
-      ["dhamma", "The Dhamma."],
-      ["āsana", "Seat. Sandhi: dhamma + āsana > dhammāsana."],
-      ["gato", "Gone (past participle of gacchati). Sandhi: āsana + āgato/gato > āsanāgato."]
-    ]
-  },
-  "dhanahārakā": {
-    "meaning": "taking wealth; carriers or takers of wealth",
-    "gram": "compound adjective, plural",
-    "breakdown": [
-      ["dhana", "Wealth, property, money."],
-      ["hārakā", "Taking, carrying off (from harati, to carry)."]
-    ]
-  },
-  "dhanakkītā": {
-    "meaning": "bought for money",
-    "gram": "compound adjective (past participle), plural",
-    "breakdown": [
-      ["dhana", "Wealth, money."],
-      ["kītā", "Bought (past participle of kiṇāti, to buy; the doubled kk is sandhi doubling)."]
-    ]
-  },
-  "dhanamanuppadeyyāsi": {
-    "meaning": "you should hand out wealth; you should provide property",
-    "gram": "verb phrase fused by sandhi; accusative noun + 2nd person singular optative of anuppadeti",
-    "breakdown": [
-      ["dhanaṁ", "Wealth, property (accusative); -ṁ > -m- before a vowel."],
-      ["anuppadeyyāsi", "You should hand out, give over (optative of anuppadeti: anu + pa + √dā)."]
-    ]
-  },
-  "dhanatthaddho": {
-    "meaning": "selfish with wealth; hardened by riches",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["dhana", "Wealth, possession."],
-      ["thaddho", "Hard, rigid, selfish (past participle sense from √thambh)."]
-    ]
-  },
-  "dhañña": {
-    "meaning": "grain; corn; raw grain",
-    "summary": "Appears in the precept phrase āmakadhaññapaṭiggahaṇā (abstaining from accepting raw grain).",
-    "gram": "neuter noun / adjective, from dhana (√dhan + ya)",
-    "breakdown": [
-      ["√dhan", "Root associated with wealth, produce."],
-      ["-ya", "Suffix; dhan + ya > dhañña, grain as wealth."]
-    ]
-  },
-  "dhitimantānaṁ": {
-    "meaning": "of the firm, courageous, resolute ones",
-    "gram": "adjective, genitive plural, from dhiti",
-    "breakdown": [
-      ["dhiti", "Firmness, courage, resolution (√dhar, to hold)."],
-      ["-mant", "Possessive suffix: endowed with firmness."],
-      ["-ānaṁ", "Genitive/dative plural ending."]
-    ],
-    "forms": ["dhitimantānaṁ"]
-  },
-  "dhiṁ": {
-    "meaning": "concentration (samādhi, in the split compound samādhimānantarikaññamāhu)",
-    "summary": "A verse-split fragment: samā-dhiṁ, the accusative of samādhi, divided across a line in the source.",
-    "gram": "masculine noun, accusative singular (from √dhā)",
-    "breakdown": [
-      ["(samā)dhiṁ", "Concentration (samādhi, accusative); the phrase samādhimānantarikaññamāhu means \"which they call the immediately-following concentration\"."]
-    ],
-    "note": "uncertain: the key is a verse-split fragment of samādhiṁ; the entry belongs under samādhi.",
-    "forms": ["dhiṁ"]
-  },
-  "dhunanti": {
-    "meaning": "they shake; they shake off, destroy",
-    "gram": "verb, 3rd person plural present (√dhū)",
-    "breakdown": [
-      ["√dhū", "Root meaning to shake, shake off."],
-      ["-nā- + -nti", "Present stem dhunā- with 3rd person plural ending."]
-    ]
-  },
-  "dhurandhare": {
-    "meaning": "bearing a burden; being a supportive protector",
-    "gram": "compound adjective, locative singular or masculine plural",
-    "breakdown": [
-      ["dhura", "Yoke, burden, charge."],
-      ["dhara", "Bearing, holding (√dhar); -n- is a junction consonant."]
-    ]
-  },
-  "dhuravā": {
-    "meaning": "bearing one's burden; responsible, dutiful",
-    "gram": "adjective, masculine nominative singular, from dhura",
-    "breakdown": [
-      ["dhura", "Yoke, burden, charge (√dhar)."],
-      ["-vant (-vā)", "Possessive suffix: having, bearing."]
-    ]
-  },
-  "dhuraṁ": {
-    "meaning": "yoke; charge; trust; burden",
-    "gram": "noun, accusative/nominative singular, from dharati (√dhar)",
-    "breakdown": [
-      ["√dhar", "Root meaning to hold, bear; dhur-, that which is borne."],
-      ["-aṁ", "Accusative/nominative singular ending."]
-    ],
-    "forms": ["dhuraṁ"]
-  },
-  "dhutassa": {
-    "meaning": "of the ascetic practice; of one who has shaken off (defilements)",
-    "gram": "neuter noun (past participle of dhunāti, √dhū), genitive/dative singular",
-    "breakdown": [
-      ["√dhū", "Root meaning to shake, shake off."],
-      ["-ta", "Past participle suffix: shaken off; by extension, the ascetic scrupulous practice."],
-      ["-ssa", "Genitive/dative singular ending."]
-    ]
-  },
-  "dhutassa pāsādikassa": {
-    "meaning": "of the ascetic practice that inspires confidence; of scrupulous, gracious conduct",
-    "gram": "phrase; two genitive/dative singular forms",
-    "breakdown": [
-      ["dhutassa", "Of the ascetic practice, of the shaking-off of defilements (√dhū + ta)."],
-      ["pāsādikassa", "Of that which inspires confidence, gracious, pleasing (from pasāda, serene confidence)."]
-    ]
-  },
-  "dhutavadānaṁ": {
-    "meaning": "of those who punctiliously follow the ascetic practice; of the advocates of the dhuta practices",
-    "gram": "compound noun, genitive plural",
-    "breakdown": [
-      ["dhuta", "The ascetic practice; shaken off (√dhū + ta)."],
-      ["vada (vadānaṁ)", "Speaking of, advocating; genitive plural: of those who profess."]
-    ],
-    "forms": ["dhutavadānaṁ"]
-  },
-  "dhutaṅgasamādānaṁ": {
-    "meaning": "the taking up of the ascetic practices",
-    "gram": "neuter compound noun, nominative/accusative singular",
-    "breakdown": [
-      ["dhutaṅga", "The ascetic practices (dhuta, shaking off + aṅga, factor): optional austere observances."],
-      ["samādānaṁ", "Taking up, undertaking, acquiring (saṁ + ā + √dā)."]
-    ],
-    "forms": ["dhutaṅgasamādānaṁ"]
-  },
-  "dhuvaṁ": {
-    "meaning": "stable; constant; permanent",
-    "gram": "adjective, neuter/accusative singular (√dhuv + a)",
-    "breakdown": [
-      ["√dhuv", "Root meaning to be fixed, constant."],
-      ["-aṁ", "Nominative/accusative singular ending."]
-    ],
-    "forms": ["dhuvaṁ"]
-  },
-  "dhāraṇa": {
-    "meaning": "wearing; bearing; holding",
-    "gram": "neuter action noun, in compounds, from dhāreti (√dhar)",
-    "breakdown": [
-      ["dhāre-", "Stem of dhāreti, to hold, bear, wear."],
-      ["-aṇa", "Action noun suffix: the act of wearing, holding."]
-    ]
-  },
-  "dhārenti": {
-    "meaning": "they take up; they hold, grasp; they wear",
-    "gram": "verb, 3rd person plural present of dhāreti (√dhar)",
-    "breakdown": [
-      ["dhāre-", "Stem of dhāreti, to hold, bear."],
-      ["-nti", "3rd person plural present ending."]
-    ]
-  },
-  "dhāressanti": {
-    "meaning": "they will bring; they will hold, bear",
-    "gram": "verb, 3rd person plural future of dhāreti",
-    "breakdown": [
-      ["dhāre-", "Stem of dhāreti, to hold, bear."],
-      ["-ssanti", "3rd person plural future ending."]
-    ]
-  },
-  "dhāreti": {
-    "meaning": "bears in mind; holds up; keeps; wears",
-    "gram": "verb, 3rd person singular present (√dhar)",
-    "breakdown": [
-      ["√dhar", "Root meaning to hold, support."],
-      ["-e- + -ti", "Causative-form present stem with 3rd person singular ending."]
-    ]
-  },
-  "dhātusova": {
-    "meaning": "just by their nature; precisely according to their condition",
-    "gram": "indeclinable adverb (ablative of dhātu) + emphatic particle, fused by sandhi",
-    "breakdown": [
-      ["dhātuso", "By way of element, by their condition (dhātu, element + distributive -so)."],
-      ["eva", "Just, precisely (emphatic). Sandhi: dhātuso + eva > dhātusova."]
-    ]
-  },
-  "dhātā": {
-    "meaning": "kept in mind; learned by heart; remembered",
-    "gram": "past participle of dhāreti (√dhar), plural or feminine form",
-    "breakdown": [
-      ["dhāre-", "Stem of dhāreti, to hold, bear in mind."],
-      ["-ta", "Past participle suffix: held, retained."]
-    ]
-  },
-  "dhātānaṁ": {
-    "meaning": "of those taken up; of what has been retained (in mind)",
-    "gram": "past participle of dhāreti, genitive/dative plural",
-    "breakdown": [
-      ["dhāta", "Held, taken up, retained (past participle of dhāreti)."],
-      ["-ānaṁ", "Genitive/dative plural ending."]
-    ],
-    "forms": ["dhātānaṁ"]
-  },
-  "dinnapāṭikaṅkhī": {
-    "meaning": "hoping for what is given; expecting only what is offered",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["dinna", "What is given (past participle of dadāti, √dā)."],
-      ["pāṭikaṅkhī", "Hoping for, expecting, desiring (paṭi + √kaṅkh)."]
-    ]
-  },
-  "dinnādāyī": {
-    "meaning": "taking only what is given",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["dinna", "What is given (past participle of dadāti, √dā)."],
-      ["ādāyī", "Taking, accepting (ā + √dā). Sandhi: dinna + ādāyī > dinnādāyī."]
-    ]
-  },
-  "dinnāni": {
-    "meaning": "things given; whatever is offered",
-    "gram": "past participle of dadāti (√dā), neuter nominative/accusative plural",
-    "breakdown": [
-      ["√dā", "Root meaning to give."],
-      ["-nna", "Past participle: given (dā > di + nna)."],
-      ["-āni", "Neuter plural ending."]
-    ]
-  },
-  "dippati": {
-    "meaning": "shines; shines forth",
-    "gram": "verb, 3rd person singular present (√dīp)",
-    "breakdown": [
-      ["√dīp", "Root meaning to shine, blaze."],
-      ["-pa- + -ti", "Present stem dippa- with 3rd person singular ending."]
-    ]
-  },
-  "disvāna": {
-    "meaning": "having seen",
-    "gram": "gerund (absolutive) of √dis (dassati/passati, to see)",
-    "breakdown": [
-      ["√dis", "Root meaning to see."],
-      ["-tvāna", "Archaic absolutive ending: having seen (dis + tvāna > disvāna)."]
-    ]
-  },
-  "divā": {
-    "meaning": "by day; during the daytime",
-    "gram": "indeclinable adverb, from √div"
-  },
-  "diṭṭhadhammasukhavihārānaṁ": {
-    "meaning": "of pleasant dwellings in this very life; of happy abidings here and now",
-    "gram": "masculine compound noun, genitive plural",
-    "breakdown": [
-      ["diṭṭha", "Seen (past participle of √dis)."],
-      ["dhamma", "State, condition; diṭṭhadhamma = the seen state, this very life."],
-      ["sukha", "Happy, pleasant."],
-      ["vihārānaṁ", "Dwellings, abidings (genitive plural)."]
-    ],
-    "forms": ["diṭṭhadhammasukhavihārānaṁ"]
-  },
-  "diṭṭhapadassa": {
-    "meaning": "of one who has seen the state (nibbāna); of one who has attained vision of the goal",
-    "gram": "compound adjective, genitive/dative singular",
-    "breakdown": [
-      ["diṭṭha", "Seen (past participle of √dis)."],
-      ["pada", "State, footing, track; here the deathless state, nibbāna."],
-      ["-ssa", "Genitive/dative singular ending."]
-    ]
-  },
-  "diṭṭhe": {
-    "meaning": "in the seen; visible (in the phrase diṭṭhe dhamme, in this very life)",
-    "gram": "past participle of √dis, locative singular",
-    "breakdown": [
-      ["diṭṭha", "Seen, visible (√dis + ta > diṭṭha)."],
-      ["-e", "Locative singular ending."]
-    ]
-  },
-  "diṭṭhe dhamma": {
-    "meaning": "in the visible state; in this very world, here and now",
-    "gram": "phrase; locative past participle + noun (diṭṭhe dhamme)",
-    "breakdown": [
-      ["diṭṭhe", "Seen, visible (locative of diṭṭha)."],
-      ["dhamma (dhamme)", "State, condition; the phrase means the state determined by sight — this present life."]
-    ]
-  },
-  "diṭṭhevadhamme": {
-    "meaning": "even in this present life; right here and now",
-    "gram": "sandhi fusion: past participle (locative) + emphatic particle + masculine noun (locative)",
-    "breakdown": [
-      ["diṭṭhe", "Seen, visible (locative of diṭṭha)."],
-      ["eva", "Even, just (emphatic). Sandhi: diṭṭhe + eva > diṭṭheva."],
-      ["dhamme", "State, condition (locative): in this visible state, this very life."]
-    ]
-  },
-  "diṭṭhi": {
-    "meaning": "view; opinion; belief (often wrong view, when unqualified)",
-    "gram": "feminine abstract noun (√dis + ti)",
-    "breakdown": [
-      ["√dis", "Root meaning to see."],
-      ["-ti", "Abstract noun suffix: seeing, view."]
-    ]
-  },
-  "diṭṭhinijjhānakkhantiyā": {
-    "meaning": "by approval of a view after contemplation; through forbearance with a pondered opinion",
-    "gram": "feminine compound noun, instrumental/ablative singular",
-    "breakdown": [
-      ["diṭṭhi", "View, opinion."],
-      ["nijjhāna", "Contemplation, pondering, perception (ni + √jhā)."],
-      ["khanti", "Acceptance, forbearance (the doubled kk is sandhi doubling)."],
-      ["-iyā", "Instrumental/ablative singular ending."]
-    ]
-  },
-  "diṭṭhā": {
-    "meaning": "seen",
-    "gram": "past participle of √dis, plural or feminine form",
-    "breakdown": [
-      ["√dis", "Root meaning to see; dis + ta > diṭṭha."],
-      ["-ā", "Inflectional ending."]
-    ]
-  }
+ "dhammasaṅgīti": {
+  "meaning": "communal recitation of the Dhamma; rehearsal of the texts; literally, chanting together",
+  "gram": "feminine compound noun",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma, the teaching."
+   ],
+   [
+    "saṅgīti",
+    "Chanting together, communal recitation (saṁ, together + √gā/gī, to sing)."
+   ]
+  ],
+  "goenka": "Dhammasaṅgīti is literally \"chanting together\", a rehearsal of the texts: the procedure as traditionally described is that an eminent Thera recites the texts first and then the whole assembly repeats them after him. This is the method by which the word of the Buddha was preserved at the great councils."
+ },
+ "dhammatā": {
+  "meaning": "inherent necessity; natural law; the nature of things",
+  "gram": "feminine abstract noun, from dhamma (√dhar)",
+  "breakdown": [
+   [
+    "dhamma",
+    "Nature, law, the way things are (√dhar, to uphold)."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: the state of being so, inherent necessity."
+   ]
+  ]
+ },
+ "dhammavinayassa": {
+  "meaning": "of the teaching and discipline; of the Dhamma and Vinaya",
+  "gram": "masculine compound noun, genitive/dative singular",
+  "breakdown": [
+   [
+    "dhamma",
+    "The teaching, the Dhamma."
+   ],
+   [
+    "vinaya",
+    "The discipline, the monastic training."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending: of, for."
+   ]
+  ]
+ },
+ "dhammaṭṭhapaṭisaṁyuttā": {
+  "meaning": "connected with the Dhamma and its profitable meaning",
+  "gram": "compound adjective, plural",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma, the teaching."
+   ],
+   [
+    "aṭṭha (attha)",
+    "Meaning, profit, benefit. Sandhi: dhamma + aṭṭha > dhammaṭṭha."
+   ],
+   [
+    "paṭisaṁyuttā",
+    "Connected with, associated with (paṭi + saṁ + yutta)."
+   ]
+  ],
+  "forms": [
+   "dhammaṭṭhapaṭisaṁyuttā"
+  ]
+ },
+ "dhamme": {
+  "meaning": "in the Dhamma; in Dhamma",
+  "gram": "masculine noun, locative singular of dhamma (√dhar)",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma, the teaching; the law of nature (√dhar, to uphold)."
+   ],
+   [
+    "-e",
+    "Locative singular ending: in, with regard to."
+   ]
+  ]
+ },
+ "dhammikaupāsakopi": {
+  "meaning": "also the lay disciple who follows the Dhamma",
+  "gram": "masculine compound noun + enclitic particle, nominative singular",
+  "breakdown": [
+   [
+    "dhammika",
+    "Following the Dhamma, righteous."
+   ],
+   [
+    "upāsako",
+    "Lay disciple, lay follower."
+   ],
+   [
+    "pi",
+    "Also, too (enclitic; -o + pi by sandhi)."
+   ]
+  ]
+ },
+ "dhammoti": {
+  "meaning": "\"...the Dhamma\" (with closing quotation marker)",
+  "gram": "masculine noun, nominative singular + quotation particle ti",
+  "breakdown": [
+   [
+    "dhammo",
+    "The Dhamma, nominative singular (√dhar + ma)."
+   ],
+   [
+    "ti",
+    "Quotation marker (iti), fused by sandhi: dhammo + ti."
+   ]
+  ]
+ },
+ "dhammādhipateyyo": {
+  "meaning": "having the Dhamma as master; ruled by the Dhamma",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma, the teaching."
+   ],
+   [
+    "ādhipateyyo",
+    "Mastery, rulership, supremacy (from adhipati, master, chief). Sandhi: dhamma + ādhi- > dhammādhi-."
+   ]
+  ]
+ },
+ "dhammānudhammappaṭipanno": {
+  "meaning": "practising in accordance with the Dhamma; following the Dhamma in its entirety, step by step",
+  "gram": "compound adjective (past participle), masculine nominative singular",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma."
+   ],
+   [
+    "anudhamma",
+    "In accordance with the Dhamma (anu-, along, according to). Sandhi: dhamma + anu- > dhammānu-."
+   ],
+   [
+    "paṭipanno",
+    "Entered upon, practising, following (past participle of paṭipajjati; the doubled pp is sandhi doubling)."
+   ]
+  ]
+ },
+ "dhammānussatikathā.": {
+  "meaning": "the discourse section on recollection of the Dhamma",
+  "gram": "feminine compound noun, section title",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma."
+   ],
+   [
+    "anussati",
+    "Recollection, repeated remembrance (anu + sati). Sandhi: dhamma + anu- > dhammānu-."
+   ],
+   [
+    "kathā",
+    "Talk, discourse, exposition."
+   ]
+  ],
+  "forms": [
+   "Dhammānussatikathā"
+  ]
+ },
+ "dhammānuvattino": {
+  "meaning": "following the Dhamma accordingly; those who conform to the Dhamma",
+  "gram": "compound adjective, masculine plural or genitive singular",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma."
+   ],
+   [
+    "anuvattī (anuvattino)",
+    "Following accordingly, conforming to (anu + √vat, to proceed). Sandhi: dhamma + anu- > dhammānu-."
+   ]
+  ]
+ },
+ "dhammāsanāgato": {
+  "meaning": "gone to the Dhamma seat; seated on the teacher's seat",
+  "gram": "compound adjective (past participle), masculine nominative singular",
+  "breakdown": [
+   [
+    "dhamma",
+    "The Dhamma."
+   ],
+   [
+    "āsana",
+    "Seat. Sandhi: dhamma + āsana > dhammāsana."
+   ],
+   [
+    "gato",
+    "Gone (past participle of gacchati). Sandhi: āsana + āgato/gato > āsanāgato."
+   ]
+  ]
+ },
+ "dhanahārakā": {
+  "meaning": "taking wealth; carriers or takers of wealth",
+  "gram": "compound adjective, plural",
+  "breakdown": [
+   [
+    "dhana",
+    "Wealth, property, money."
+   ],
+   [
+    "hārakā",
+    "Taking, carrying off (from harati, to carry)."
+   ]
+  ]
+ },
+ "dhanakkītā": {
+  "meaning": "bought for money",
+  "gram": "compound adjective (past participle), plural",
+  "breakdown": [
+   [
+    "dhana",
+    "Wealth, money."
+   ],
+   [
+    "kītā",
+    "Bought (past participle of kiṇāti, to buy; the doubled kk is sandhi doubling)."
+   ]
+  ]
+ },
+ "dhanamanuppadeyyāsi": {
+  "meaning": "you should hand out wealth; you should provide property",
+  "gram": "verb phrase fused by sandhi; accusative noun + 2nd person singular optative of anuppadeti",
+  "breakdown": [
+   [
+    "dhanaṁ",
+    "Wealth, property (accusative); -ṁ > -m- before a vowel."
+   ],
+   [
+    "anuppadeyyāsi",
+    "You should hand out, give over (optative of anuppadeti: anu + pa + √dā)."
+   ]
+  ]
+ },
+ "dhanatthaddho": {
+  "meaning": "selfish with wealth; hardened by riches",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "dhana",
+    "Wealth, possession."
+   ],
+   [
+    "thaddho",
+    "Hard, rigid, selfish (past participle sense from √thambh)."
+   ]
+  ]
+ },
+ "dhañña": {
+  "meaning": "grain; corn; raw grain",
+  "summary": "Appears in the precept phrase āmakadhaññapaṭiggahaṇā (abstaining from accepting raw grain).",
+  "gram": "neuter noun / adjective, from dhana (√dhan + ya)",
+  "breakdown": [
+   [
+    "√dhan",
+    "Root associated with wealth, produce."
+   ],
+   [
+    "-ya",
+    "Suffix; dhan + ya > dhañña, grain as wealth."
+   ]
+  ]
+ },
+ "dhitimantānaṁ": {
+  "meaning": "of the firm, courageous, resolute ones",
+  "gram": "adjective, genitive plural, from dhiti",
+  "breakdown": [
+   [
+    "dhiti",
+    "Firmness, courage, resolution (√dhar, to hold)."
+   ],
+   [
+    "-mant",
+    "Possessive suffix: endowed with firmness."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive/dative plural ending."
+   ]
+  ],
+  "forms": [
+   "dhitimantānaṁ"
+  ]
+ },
+ "dhunanti": {
+  "meaning": "they shake; they shake off, destroy",
+  "gram": "verb, 3rd person plural present (√dhū)",
+  "breakdown": [
+   [
+    "√dhū",
+    "Root meaning to shake, shake off."
+   ],
+   [
+    "-nā- + -nti",
+    "Present stem dhunā- with 3rd person plural ending."
+   ]
+  ]
+ },
+ "dhurandhare": {
+  "meaning": "bearing a burden; being a supportive protector",
+  "gram": "compound adjective, locative singular or masculine plural",
+  "breakdown": [
+   [
+    "dhura",
+    "Yoke, burden, charge."
+   ],
+   [
+    "dhara",
+    "Bearing, holding (√dhar); -n- is a junction consonant."
+   ]
+  ]
+ },
+ "dhuravā": {
+  "meaning": "bearing one's burden; responsible, dutiful",
+  "gram": "adjective, masculine nominative singular, from dhura",
+  "breakdown": [
+   [
+    "dhura",
+    "Yoke, burden, charge (√dhar)."
+   ],
+   [
+    "-vant (-vā)",
+    "Possessive suffix: having, bearing."
+   ]
+  ]
+ },
+ "dhuraṁ": {
+  "meaning": "yoke; charge; trust; burden",
+  "gram": "noun, accusative/nominative singular, from dharati (√dhar)",
+  "breakdown": [
+   [
+    "√dhar",
+    "Root meaning to hold, bear; dhur-, that which is borne."
+   ],
+   [
+    "-aṁ",
+    "Accusative/nominative singular ending."
+   ]
+  ],
+  "forms": [
+   "dhuraṁ"
+  ]
+ },
+ "dhutassa": {
+  "meaning": "of the ascetic practice; of one who has shaken off (defilements)",
+  "gram": "neuter noun (past participle of dhunāti, √dhū), genitive/dative singular",
+  "breakdown": [
+   [
+    "√dhū",
+    "Root meaning to shake, shake off."
+   ],
+   [
+    "-ta",
+    "Past participle suffix: shaken off; by extension, the ascetic scrupulous practice."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
+  ]
+ },
+ "dhutassa pāsādikassa": {
+  "meaning": "of the ascetic practice that inspires confidence; of scrupulous, gracious conduct",
+  "gram": "phrase; two genitive/dative singular forms",
+  "breakdown": [
+   [
+    "dhutassa",
+    "Of the ascetic practice, of the shaking-off of defilements (√dhū + ta)."
+   ],
+   [
+    "pāsādikassa",
+    "Of that which inspires confidence, gracious, pleasing (from pasāda, serene confidence)."
+   ]
+  ]
+ },
+ "dhutavadānaṁ": {
+  "meaning": "of those who punctiliously follow the ascetic practice; of the advocates of the dhuta practices",
+  "gram": "compound noun, genitive plural",
+  "breakdown": [
+   [
+    "dhuta",
+    "The ascetic practice; shaken off (√dhū + ta)."
+   ],
+   [
+    "vada (vadānaṁ)",
+    "Speaking of, advocating; genitive plural: of those who profess."
+   ]
+  ],
+  "forms": [
+   "dhutavadānaṁ"
+  ]
+ },
+ "dhutaṅgasamādānaṁ": {
+  "meaning": "the taking up of the ascetic practices",
+  "gram": "neuter compound noun, nominative/accusative singular",
+  "breakdown": [
+   [
+    "dhutaṅga",
+    "The ascetic practices (dhuta, shaking off + aṅga, factor): optional austere observances."
+   ],
+   [
+    "samādānaṁ",
+    "Taking up, undertaking, acquiring (saṁ + ā + √dā)."
+   ]
+  ],
+  "forms": [
+   "dhutaṅgasamādānaṁ"
+  ]
+ },
+ "dhuvaṁ": {
+  "meaning": "stable; constant; permanent",
+  "gram": "adjective, neuter/accusative singular (√dhuv + a)",
+  "breakdown": [
+   [
+    "√dhuv",
+    "Root meaning to be fixed, constant."
+   ],
+   [
+    "-aṁ",
+    "Nominative/accusative singular ending."
+   ]
+  ],
+  "forms": [
+   "dhuvaṁ"
+  ]
+ },
+ "dhāraṇa": {
+  "meaning": "wearing; bearing; holding",
+  "gram": "neuter action noun, in compounds, from dhāreti (√dhar)",
+  "breakdown": [
+   [
+    "dhāre-",
+    "Stem of dhāreti, to hold, bear, wear."
+   ],
+   [
+    "-aṇa",
+    "Action noun suffix: the act of wearing, holding."
+   ]
+  ]
+ },
+ "dhārenti": {
+  "meaning": "they take up; they hold, grasp; they wear",
+  "gram": "verb, 3rd person plural present of dhāreti (√dhar)",
+  "breakdown": [
+   [
+    "dhāre-",
+    "Stem of dhāreti, to hold, bear."
+   ],
+   [
+    "-nti",
+    "3rd person plural present ending."
+   ]
+  ]
+ },
+ "dhāressanti": {
+  "meaning": "they will bring; they will hold, bear",
+  "gram": "verb, 3rd person plural future of dhāreti",
+  "breakdown": [
+   [
+    "dhāre-",
+    "Stem of dhāreti, to hold, bear."
+   ],
+   [
+    "-ssanti",
+    "3rd person plural future ending."
+   ]
+  ]
+ },
+ "dhāreti": {
+  "meaning": "bears in mind; holds up; keeps; wears",
+  "gram": "verb, 3rd person singular present (√dhar)",
+  "breakdown": [
+   [
+    "√dhar",
+    "Root meaning to hold, support."
+   ],
+   [
+    "-e- + -ti",
+    "Causative-form present stem with 3rd person singular ending."
+   ]
+  ]
+ },
+ "dhātusova": {
+  "meaning": "just by their nature; precisely according to their condition",
+  "gram": "indeclinable adverb (ablative of dhātu) + emphatic particle, fused by sandhi",
+  "breakdown": [
+   [
+    "dhātuso",
+    "By way of element, by their condition (dhātu, element + distributive -so)."
+   ],
+   [
+    "eva",
+    "Just, precisely (emphatic). Sandhi: dhātuso + eva > dhātusova."
+   ]
+  ]
+ },
+ "dhātā": {
+  "meaning": "kept in mind; learned by heart; remembered",
+  "gram": "past participle of dhāreti (√dhar), plural or feminine form",
+  "breakdown": [
+   [
+    "dhāre-",
+    "Stem of dhāreti, to hold, bear in mind."
+   ],
+   [
+    "-ta",
+    "Past participle suffix: held, retained."
+   ]
+  ]
+ },
+ "dhātānaṁ": {
+  "meaning": "of those taken up; of what has been retained (in mind)",
+  "gram": "past participle of dhāreti, genitive/dative plural",
+  "breakdown": [
+   [
+    "dhāta",
+    "Held, taken up, retained (past participle of dhāreti)."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive/dative plural ending."
+   ]
+  ],
+  "forms": [
+   "dhātānaṁ"
+  ]
+ },
+ "dinnapāṭikaṅkhī": {
+  "meaning": "hoping for what is given; expecting only what is offered",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "dinna",
+    "What is given (past participle of dadāti, √dā)."
+   ],
+   [
+    "pāṭikaṅkhī",
+    "Hoping for, expecting, desiring (paṭi + √kaṅkh)."
+   ]
+  ]
+ },
+ "dinnādāyī": {
+  "meaning": "taking only what is given",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "dinna",
+    "What is given (past participle of dadāti, √dā)."
+   ],
+   [
+    "ādāyī",
+    "Taking, accepting (ā + √dā). Sandhi: dinna + ādāyī > dinnādāyī."
+   ]
+  ]
+ },
+ "dinnāni": {
+  "meaning": "things given; whatever is offered",
+  "gram": "past participle of dadāti (√dā), neuter nominative/accusative plural",
+  "breakdown": [
+   [
+    "√dā",
+    "Root meaning to give."
+   ],
+   [
+    "-nna",
+    "Past participle: given (dā > di + nna)."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
+  ]
+ },
+ "dippati": {
+  "meaning": "shines; shines forth",
+  "gram": "verb, 3rd person singular present (√dīp)",
+  "breakdown": [
+   [
+    "√dīp",
+    "Root meaning to shine, blaze."
+   ],
+   [
+    "-pa- + -ti",
+    "Present stem dippa- with 3rd person singular ending."
+   ]
+  ]
+ },
+ "disvāna": {
+  "meaning": "having seen",
+  "gram": "gerund (absolutive) of √dis (dassati/passati, to see)",
+  "breakdown": [
+   [
+    "√dis",
+    "Root meaning to see."
+   ],
+   [
+    "-tvāna",
+    "Archaic absolutive ending: having seen (dis + tvāna > disvāna)."
+   ]
+  ]
+ },
+ "divā": {
+  "meaning": "by day; during the daytime",
+  "gram": "indeclinable adverb, from √div"
+ },
+ "diṭṭhadhammasukhavihārānaṁ": {
+  "meaning": "of pleasant dwellings in this very life; of happy abidings here and now",
+  "gram": "masculine compound noun, genitive plural",
+  "breakdown": [
+   [
+    "diṭṭha",
+    "Seen (past participle of √dis)."
+   ],
+   [
+    "dhamma",
+    "State, condition; diṭṭhadhamma = the seen state, this very life."
+   ],
+   [
+    "sukha",
+    "Happy, pleasant."
+   ],
+   [
+    "vihārānaṁ",
+    "Dwellings, abidings (genitive plural)."
+   ]
+  ],
+  "forms": [
+   "diṭṭhadhammasukhavihārānaṁ"
+  ]
+ },
+ "diṭṭhapadassa": {
+  "meaning": "of one who has seen the state (nibbāna); of one who has attained vision of the goal",
+  "gram": "compound adjective, genitive/dative singular",
+  "breakdown": [
+   [
+    "diṭṭha",
+    "Seen (past participle of √dis)."
+   ],
+   [
+    "pada",
+    "State, footing, track; here the deathless state, nibbāna."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
+  ]
+ },
+ "diṭṭhe": {
+  "meaning": "in the seen; visible (in the phrase diṭṭhe dhamme, in this very life)",
+  "gram": "past participle of √dis, locative singular",
+  "breakdown": [
+   [
+    "diṭṭha",
+    "Seen, visible (√dis + ta > diṭṭha)."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
+  ]
+ },
+ "diṭṭhe dhamma": {
+  "meaning": "in the visible state; in this very world, here and now",
+  "gram": "phrase; locative past participle + noun (diṭṭhe dhamme)",
+  "breakdown": [
+   [
+    "diṭṭhe",
+    "Seen, visible (locative of diṭṭha)."
+   ],
+   [
+    "dhamma (dhamme)",
+    "State, condition; the phrase means the state determined by sight — this present life."
+   ]
+  ]
+ },
+ "diṭṭhevadhamme": {
+  "meaning": "even in this present life; right here and now",
+  "gram": "sandhi fusion: past participle (locative) + emphatic particle + masculine noun (locative)",
+  "breakdown": [
+   [
+    "diṭṭhe",
+    "Seen, visible (locative of diṭṭha)."
+   ],
+   [
+    "eva",
+    "Even, just (emphatic). Sandhi: diṭṭhe + eva > diṭṭheva."
+   ],
+   [
+    "dhamme",
+    "State, condition (locative): in this visible state, this very life."
+   ]
+  ]
+ },
+ "diṭṭhi": {
+  "meaning": "view; opinion; belief (often wrong view, when unqualified)",
+  "gram": "feminine abstract noun (√dis + ti)",
+  "breakdown": [
+   [
+    "√dis",
+    "Root meaning to see."
+   ],
+   [
+    "-ti",
+    "Abstract noun suffix: seeing, view."
+   ]
+  ]
+ },
+ "diṭṭhinijjhānakkhantiyā": {
+  "meaning": "by approval of a view after contemplation; through forbearance with a pondered opinion",
+  "gram": "feminine compound noun, instrumental/ablative singular",
+  "breakdown": [
+   [
+    "diṭṭhi",
+    "View, opinion."
+   ],
+   [
+    "nijjhāna",
+    "Contemplation, pondering, perception (ni + √jhā)."
+   ],
+   [
+    "khanti",
+    "Acceptance, forbearance (the doubled kk is sandhi doubling)."
+   ],
+   [
+    "-iyā",
+    "Instrumental/ablative singular ending."
+   ]
+  ]
+ },
+ "diṭṭhā": {
+  "meaning": "seen",
+  "gram": "past participle of √dis, plural or feminine form",
+  "breakdown": [
+   [
+    "√dis",
+    "Root meaning to see; dis + ta > diṭṭha."
+   ],
+   [
+    "-ā",
+    "Inflectional ending."
+   ]
+  ]
+ }
 }

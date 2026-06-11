@@ -4,8 +4,14 @@
   "summary": "This is a compound meaning “questioned as an eyewitness”.",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["sakkhi", "An eyewitness; one who has seen with his own eyes (sa + akkhi “eye”)."],
-   ["puṭṭha", "Asked, questioned (past participle of pucchati)."]
+   [
+    "sakkhi",
+    "An eyewitness; one who has seen with his own eyes (sa + akkhi “eye”)."
+   ],
+   [
+    "puṭṭha",
+    "Asked, questioned (past participle of pucchati)."
+   ]
   ]
  },
  "sakkhissāmahaṁ": {
@@ -13,25 +19,45 @@
   "summary": "This is a sandhi fusion of sakkhissāmi “I will be able” and ahaṁ “I”.",
   "gram": "verb, future 1st person singular + pronoun (sandhi fusion)",
   "breakdown": [
-   ["sakkhissāmi", "I will be able (future of sakkoti, √sak)."],
-   ["ahaṁ", "I. (The final -i and a- coalesce in sandhi.)"]
+   [
+    "sakkhissāmi",
+    "I will be able (future of sakkoti, √sak)."
+   ],
+   [
+    "ahaṁ",
+    "I. (The final -i and a- coalesce in sandhi.)"
+   ]
   ],
-  "forms": ["sakkhissāmahaṁ"]
+  "forms": [
+   "sakkhissāmahaṁ"
+  ]
  },
  "sakkhiṁ": {
   "meaning": "an eyewitness; with one's own eyes",
   "gram": "adjective/noun (accusative singular), from akkhi",
   "breakdown": [
-   ["sa-", "Prefix meaning “with, having”."],
-   ["akkhi", "Eye. So sakkhi: one who sees with his own eyes, a witness."]
+   [
+    "sa-",
+    "Prefix meaning “with, having”."
+   ],
+   [
+    "akkhi",
+    "Eye. So sakkhi: one who sees with his own eyes, a witness."
+   ]
   ]
  },
  "sakko": {
   "meaning": "able, capable",
   "gram": "potential participle of sakkoti (nominative singular)",
   "breakdown": [
-   ["√sak", "Root meaning “to be able”."],
-   ["-ya", "Potential participle suffix (√sak + ya > sakka)."]
+   [
+    "√sak",
+    "Root meaning “to be able”."
+   ],
+   [
+    "-ya",
+    "Potential participle suffix (√sak + ya > sakka)."
+   ]
   ],
   "note": "uncertain: sakko can also be the name of Sakka, lord of the devas; the lexicon here gives only “capable”."
  },
@@ -39,9 +65,18 @@
   "meaning": "is able; can",
   "gram": "verb, present tense 3rd person singular (√sak)",
   "breakdown": [
-   ["√sak", "Root meaning “to be able”."],
-   ["-uṇā-", "Present-stem formation."],
-   ["-ti", "3rd person singular ending."]
+   [
+    "√sak",
+    "Root meaning “to be able”."
+   ],
+   [
+    "-uṇā-",
+    "Present-stem formation."
+   ],
+   [
+    "-ti",
+    "3rd person singular ending."
+   ]
   ]
  },
  "sakkāya": {
@@ -49,8 +84,14 @@
   "summary": "This compound names the “existing personality” which is wrongly believed to contain a permanent self.",
   "gram": "masculine noun, compound",
   "breakdown": [
-   ["sat", "Being, existing (sat > sak before k by assimilation)."],
-   ["kāya", "Body; collection. So sakkāya: the existing body-and-mind, the personality."]
+   [
+    "sat",
+    "Being, existing (sat > sak before k by assimilation)."
+   ],
+   [
+    "kāya",
+    "Body; collection. So sakkāya: the existing body-and-mind, the personality."
+   ]
   ],
   "goenka": "The lexicon notes that sakkāya points to the belief in some kind of permanent personality or self within this body-mind structure. Through vipassanā the meditator examines this apparent person directly and finds only impermanent, arising-and-passing phenomena, so the belief in a lasting self is dissolved by experience rather than by argument."
  },
@@ -59,8 +100,14 @@
   "summary": "This is a compound meaning “view of the existing body”, i.e. the wrong view that there is a permanent self.",
   "gram": "feminine noun, compound",
   "breakdown": [
-   ["sakkāya", "The existing body, personality (sat “existing” + kāya “body”)."],
-   ["diṭṭhi", "View, belief."]
+   [
+    "sakkāya",
+    "The existing body, personality (sat “existing” + kāya “body”)."
+   ],
+   [
+    "diṭṭhi",
+    "View, belief."
+   ]
   ],
   "goenka": "Sakkāyadiṭṭhi, the illusion of self, is the first of the fetters that bind beings to suffering. The lexicon glosses it simply as “illusion of self”: the deeply held belief that this body-mind process contains a permanent “I”. It is eradicated at the first stage of liberation, when the meditator directly experiences that the whole mind-matter structure is nothing but impermanent, arising-and-passing phenomena."
  },
@@ -68,21 +115,18 @@
   "meaning": "a bird",
   "gram": "masculine noun (nominative singular)"
  },
- "sakuṇo bird sakkacca": {
-  "meaning": "sakkacca: respectfully, carefully",
-  "gram": "indeclinable (gerund used adverbially)",
-  "breakdown": [
-   ["sakuṇo", "A bird (run-on from the preceding glossary entry)."],
-   ["sakkacca", "Respectfully, carefully (gerund of sakkaroti)."]
-  ],
-  "note": "uncertain: this key is a glossary run-on combining the entry sakuṇo “bird” with the following headword sakkacca “respectfully, carefully”; the gloss belongs to sakkacca."
- },
  "sakyamunī": {
   "meaning": "the Sakyan sage; the Sage of the Sakyas (an epithet of the Buddha)",
   "gram": "masculine noun, compound (nominative singular, metrically lengthened)",
   "breakdown": [
-   ["sakya", "The Sakyan clan, into which the Buddha was born."],
-   ["muni", "Sage, silent one."]
+   [
+    "sakya",
+    "The Sakyan clan, into which the Buddha was born."
+   ],
+   [
+    "muni",
+    "Sage, silent one."
+   ]
   ]
  },
  "sakādāgāmi": {
@@ -90,8 +134,14 @@
   "summary": "This names the second stage of liberation, one who will return to this world at most once more.",
   "gram": "masculine noun, compound",
   "breakdown": [
-   ["sakid / sakiṁ", "Once."],
-   ["āgāmī", "One who comes back (ā + √gam)."]
+   [
+    "sakid / sakiṁ",
+    "Once."
+   ],
+   [
+    "āgāmī",
+    "One who comes back (ā + √gam)."
+   ]
   ],
   "goenka": "The sakadāgāmī (once-returner) is the second of the four stages of liberation. Having further weakened craving and aversion through continued practice, such a meditator will take birth in this world at most one more time before attaining full liberation."
  },
@@ -99,97 +149,170 @@
   "meaning": "of simple livelihood; living frugally",
   "gram": "adjective, compound",
   "breakdown": [
-   ["sallahuka", "Light, frugal."],
-   ["vutti", "Living, livelihood, conduct."]
+   [
+    "sallahuka",
+    "Light, frugal."
+   ],
+   [
+    "vutti",
+    "Living, livelihood, conduct."
+   ]
   ]
  },
  "sallakkhetvā": {
   "meaning": "having perceived; having observed; having considered",
   "gram": "gerund (absolutive) of sallakkheti (saṁ + √lakkh)",
   "breakdown": [
-   ["saṁ-", "Prefix: together, fully."],
-   ["√lakkh", "Root meaning “to mark, perceive”."],
-   ["-tvā", "Gerund ending: “having …-ed”."]
+   [
+    "saṁ-",
+    "Prefix: together, fully."
+   ],
+   [
+    "√lakkh",
+    "Root meaning “to mark, perceive”."
+   ],
+   [
+    "-tvā",
+    "Gerund ending: “having …-ed”."
+   ]
   ]
  },
  "sallapanto": {
   "meaning": "talking with; conversing",
   "gram": "present participle of sallapati (nominative singular)",
   "breakdown": [
-   ["saṁ-", "Prefix: together, with."],
-   ["√lap", "Root meaning “to talk, prattle”."],
-   ["-anta", "Present participle suffix."]
+   [
+    "saṁ-",
+    "Prefix: together, with."
+   ],
+   [
+    "√lap",
+    "Root meaning “to talk, prattle”."
+   ],
+   [
+    "-anta",
+    "Present participle suffix."
+   ]
   ]
  },
  "sallapati": {
   "meaning": "talks with; converses",
   "gram": "verb, present tense 3rd person singular (saṁ + √lap)",
   "breakdown": [
-   ["saṁ-", "Prefix: together, with."],
-   ["√lap", "Root meaning “to talk”."],
-   ["-ti", "3rd person singular ending."]
+   [
+    "saṁ-",
+    "Prefix: together, with."
+   ],
+   [
+    "√lap",
+    "Root meaning “to talk”."
+   ],
+   [
+    "-ti",
+    "3rd person singular ending."
+   ]
   ]
  },
  "samacāgā": {
   "meaning": "equal in generosity; matching in the quality of letting go",
   "gram": "adjective, compound (nominative plural)",
   "breakdown": [
-   ["sama", "Equal, same."],
-   ["cāga", "Generosity; giving up, abandoning."]
+   [
+    "sama",
+    "Equal, same."
+   ],
+   [
+    "cāga",
+    "Generosity; giving up, abandoning."
+   ]
   ]
  },
  "samadhigacchati": {
   "meaning": "attains; fully arrives at",
   "gram": "verb, present tense 3rd person singular (saṁ + adhi + √gam)",
   "breakdown": [
-   ["saṁ-", "Prefix: fully, completely."],
-   ["adhi-", "Prefix: towards, on to."],
-   ["gacchati", "Goes (√gam). Together: comes fully to, attains."]
+   [
+    "saṁ-",
+    "Prefix: fully, completely."
+   ],
+   [
+    "adhi-",
+    "Prefix: towards, on to."
+   ],
+   [
+    "gacchati",
+    "Goes (√gam). Together: comes fully to, attains."
+   ]
   ]
  },
  "samagganandī": {
   "meaning": "rejoicing in concord; delighting in harmony",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["samagga", "Harmonious, in unity (saṁ + agga)."],
-   ["nandī", "Rejoicing, delighting."]
+   [
+    "samagga",
+    "Harmonious, in unity (saṁ + agga)."
+   ],
+   [
+    "nandī",
+    "Rejoicing, delighting."
+   ]
   ]
  },
  "samaggarato": {
   "meaning": "delighting in harmony; taking pleasure in concord",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["samagga", "Harmonious, in unity (saṁ + agga)."],
-   ["rata", "Delighting in, devoted to (past participle of ramati)."]
+   [
+    "samagga",
+    "Harmonious, in unity (saṁ + agga)."
+   ],
+   [
+    "rata",
+    "Delighting in, devoted to (past participle of ramati)."
+   ]
   ]
  },
  "samaggā": {
   "meaning": "in union; harmonious; united",
   "gram": "adjective (nominative plural)",
   "breakdown": [
-   ["saṁ-", "Prefix: together."],
-   ["agga", "Point, top; here forming samagga “united, harmonious”."]
+   [
+    "saṁ-",
+    "Prefix: together."
+   ],
+   [
+    "agga",
+    "Point, top; here forming samagga “united, harmonious”."
+   ]
   ]
- },
- "samaggā in": {
-  "meaning": "in union, harmonious; united",
-  "gram": "adjective (nominative plural)",
-  "note": "uncertain: this key is a glossary parsing artifact — the English word “in” from the gloss “in union” was attached to the headword samaggā; see the entry samaggā."
  },
  "samaggārāmo": {
   "meaning": "loving concord; fond of harmony",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["samagga", "Harmonious, in unity (saṁ + agga)."],
-   ["ārāma", "Fondness, delight, pleasure."]
+   [
+    "samagga",
+    "Harmonious, in unity (saṁ + agga)."
+   ],
+   [
+    "ārāma",
+    "Fondness, delight, pleasure."
+   ]
   ]
  },
  "samajjābhicaraṇassa": {
   "meaning": "of frequenting festive gatherings; of visiting fairs",
   "gram": "neuter noun, compound (genitive singular)",
   "breakdown": [
-   ["samajja", "Festive gathering, fair."],
-   ["abhicaraṇa", "Frequenting, visiting (abhi + √car)."]
+   [
+    "samajja",
+    "Festive gathering, fair."
+   ],
+   [
+    "abhicaraṇa",
+    "Frequenting, visiting (abhi + √car)."
+   ]
   ]
  },
  "samajjābhicaraṇaṁ": {
@@ -197,132 +320,240 @@
   "summary": "Named in the suttas as one of the channels through which wealth drains away.",
   "gram": "neuter noun, compound (nominative/accusative singular)",
   "breakdown": [
-   ["samajja", "Festive gathering, fair."],
-   ["abhicaraṇa", "Frequenting, visiting (abhi + √car)."]
+   [
+    "samajja",
+    "Festive gathering, fair."
+   ],
+   [
+    "abhicaraṇa",
+    "Frequenting, visiting (abhi + √car)."
+   ]
   ]
  },
  "samakkhāyino": {
   "meaning": "telling fully; relating, declaring",
   "gram": "adjective, from samakkhāti (nominative plural)",
   "breakdown": [
-   ["saṁ-", "Prefix: fully, together."],
-   ["√khā", "Root meaning “to tell, declare” (with ā: akkhāti “relates”)."],
-   ["-ī (akkhāyī)", "Agent adjective: one who tells, a relater."]
+   [
+    "saṁ-",
+    "Prefix: fully, together."
+   ],
+   [
+    "√khā",
+    "Root meaning “to tell, declare” (with ā: akkhāti “relates”)."
+   ],
+   [
+    "-ī (akkhāyī)",
+    "Agent adjective: one who tells, a relater."
+   ]
   ]
  },
  "samannāgamanahetu": {
   "meaning": "by reason of engaging in; because of the manner of getting engaged in",
   "gram": "indeclinable adverbial compound",
   "breakdown": [
-   ["samannāgamana", "The manner of getting engaged in, being endowed with (saṁ + anu + ā + √gam)."],
-   ["hetu", "Cause, reason; at the end of a compound: “by reason of”."]
+   [
+    "samannāgamana",
+    "The manner of getting engaged in, being endowed with (saṁ + anu + ā + √gam)."
+   ],
+   [
+    "hetu",
+    "Cause, reason; at the end of a compound: “by reason of”."
+   ]
   ]
  },
  "samannāgata": {
   "meaning": "endowed with; possessed of",
   "gram": "past participle of saṁ + anu + ā + √gam",
   "breakdown": [
-   ["saṁ-", "Prefix: fully."],
-   ["anu-", "Prefix: along, after (anu > ann before ā)."],
-   ["ā + √gam + ta", "Come to; as past participle: “come to be furnished with”, endowed with."]
+   [
+    "saṁ-",
+    "Prefix: fully."
+   ],
+   [
+    "anu-",
+    "Prefix: along, after (anu > ann before ā)."
+   ],
+   [
+    "ā + √gam + ta",
+    "Come to; as past participle: “come to be furnished with”, endowed with."
+   ]
   ]
  },
  "samannāgatassa": {
   "meaning": "of one endowed with; of one affected by, followed by",
   "gram": "past participle (genitive/dative singular) of saṁ + anu + ā + √gam",
   "breakdown": [
-   ["samannāgata", "Endowed with, possessed of (saṁ + anu + ā + √gam + ta)."],
-   ["-assa", "Genitive/dative singular ending."]
+   [
+    "samannāgata",
+    "Endowed with, possessed of (saṁ + anu + ā + √gam + ta)."
+   ],
+   [
+    "-assa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "samannāgato": {
   "meaning": "endowed with; possessed of; followed by",
   "gram": "past participle (nominative singular) of saṁ + anu + ā + √gam",
   "breakdown": [
-   ["saṁ-", "Prefix: fully."],
-   ["anu-", "Prefix: along, after."],
-   ["āgata", "Come (past participle of āgacchati). Together: come to be furnished with, endowed."]
+   [
+    "saṁ-",
+    "Prefix: fully."
+   ],
+   [
+    "anu-",
+    "Prefix: along, after."
+   ],
+   [
+    "āgata",
+    "Come (past participle of āgacchati). Together: come to be furnished with, endowed."
+   ]
   ]
  },
  "samantā": {
   "meaning": "on all sides; all around",
   "gram": "indeclinable adverb (ablative of samanta)",
   "breakdown": [
-   ["saṁ-", "Prefix: completely."],
-   ["anta", "End, limit. Samanta: complete on every side; samantā: from/on all sides."]
+   [
+    "saṁ-",
+    "Prefix: completely."
+   ],
+   [
+    "anta",
+    "End, limit. Samanta: complete on every side; samantā: from/on all sides."
+   ]
   ]
  },
  "samappitaṁ": {
   "meaning": "possessed of; endowed with; consigned to",
   "gram": "past participle of samappeti (accusative singular)",
   "breakdown": [
-   ["saṁ-", "Prefix: fully."],
-   ["appeti", "Delivers, applies (√ar). As past participle samappita: handed over to, endowed with."]
+   [
+    "saṁ-",
+    "Prefix: fully."
+   ],
+   [
+    "appeti",
+    "Delivers, applies (√ar). As past participle samappita: handed over to, endowed with."
+   ]
   ]
  },
  "samasīlina": {
   "meaning": "equal in virtue; of the same moral disposition",
   "gram": "adjective, compound",
   "breakdown": [
-   ["sama", "Same, equal."],
-   ["sīlina", "Having sīla, of virtuous disposition (from sīla “morality”)."]
+   [
+    "sama",
+    "Same, equal."
+   ],
+   [
+    "sīlina",
+    "Having sīla, of virtuous disposition (from sīla “morality”)."
+   ]
   ]
  },
  "samatikkamma": {
   "meaning": "overcoming; passing completely beyond",
   "gram": "gerund of samatikkamati (saṁ + ati + √kam)",
   "breakdown": [
-   ["saṁ-", "Prefix: completely."],
-   ["ati-", "Prefix: beyond, over."],
-   ["√kam + ya", "Root “to go, stride” with gerund suffix: “having gone beyond”."]
+   [
+    "saṁ-",
+    "Prefix: completely."
+   ],
+   [
+    "ati-",
+    "Prefix: beyond, over."
+   ],
+   [
+    "√kam + ya",
+    "Root “to go, stride” with gerund suffix: “having gone beyond”."
+   ]
   ]
  },
  "samattaṁ": {
   "meaning": "accomplished; complete; undertaken in full",
   "gram": "past participle of saṁ + √ap (nominative/accusative singular neuter)",
   "breakdown": [
-   ["saṁ-", "Prefix: fully."],
-   ["√ap + ta", "Root “to reach, attain” with past participle suffix: attained, accomplished."]
+   [
+    "saṁ-",
+    "Prefix: fully."
+   ],
+   [
+    "√ap + ta",
+    "Root “to reach, attain” with past participle suffix: attained, accomplished."
+   ]
   ]
  },
  "samattena": {
   "meaning": "by what is accomplished; with what is complete",
   "gram": "past participle of saṁ + √ap (instrumental singular)",
   "breakdown": [
-   ["samatta", "Accomplished, complete (saṁ + √ap + ta)."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "samatta",
+    "Accomplished, complete (saṁ + √ap + ta)."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "samatthi": {
   "meaning": "is equal to; there is (anything) equal",
   "gram": "sandhi fusion: adjective + verb (sama + atthi)",
   "breakdown": [
-   ["sama", "Equal, same."],
-   ["atthi", "Is, there is. (The two a-vowels merge in sandhi.)"]
+   [
+    "sama",
+    "Equal, same."
+   ],
+   [
+    "atthi",
+    "Is, there is. (The two a-vowels merge in sandhi.)"
+   ]
   ]
  },
  "samattā": {
   "meaning": "accomplished; complete",
   "gram": "past participle of saṁ + √ap (nominative plural / feminine singular)",
   "breakdown": [
-   ["saṁ-", "Prefix: fully."],
-   ["√ap + ta", "Root “to reach, attain” with past participle suffix: attained, accomplished."]
+   [
+    "saṁ-",
+    "Prefix: fully."
+   ],
+   [
+    "√ap + ta",
+    "Root “to reach, attain” with past participle suffix: attained, accomplished."
+   ]
   ]
  },
  "samavepākin": {
   "meaning": "having good digestion; digesting evenly",
   "gram": "adjective, compound (sama + vepākī)",
   "breakdown": [
-   ["sama", "Even, equal."],
-   ["vepākin", "Digesting, ripening (from vipāka “ripening, result”)."]
+   [
+    "sama",
+    "Even, equal."
+   ],
+   [
+    "vepākin",
+    "Digesting, ripening (from vipāka “ripening, result”)."
+   ]
   ]
  },
  "samavipākino": {
   "meaning": "having the same result; ripening alike",
   "gram": "adjective, compound (nominative plural)",
   "breakdown": [
-   ["sama", "Same, equal."],
-   ["vipākī", "Having a result, ripening (from vipāka “result, fruition”)."]
+   [
+    "sama",
+    "Same, equal."
+   ],
+   [
+    "vipākī",
+    "Having a result, ripening (from vipāka “result, fruition”)."
+   ]
   ]
  },
  "samaṁ": {
@@ -333,75 +564,116 @@
   "meaning": "possessed of; provided with; endowed",
   "gram": "adjective, compound (accusative singular)",
   "breakdown": [
-   ["samaṅgī", "Endowed with, furnished (samaṅga + ī)."],
-   ["bhūta", "Become, being (past participle of bhavati). Together: having come to be endowed with."]
+   [
+    "samaṅgī",
+    "Endowed with, furnished (samaṅga + ī)."
+   ],
+   [
+    "bhūta",
+    "Become, being (past participle of bhavati). Together: having come to be endowed with."
+   ]
   ]
  },
  "sambahulā": {
   "meaning": "several; many; a number of",
   "gram": "adjective (nominative plural)",
   "breakdown": [
-   ["saṁ-", "Prefix: together."],
-   ["bahula", "Abundant, many (from bahu “much”)."]
+   [
+    "saṁ-",
+    "Prefix: together."
+   ],
+   [
+    "bahula",
+    "Abundant, many (from bahu “much”)."
+   ]
   ]
  },
  "sambhatañca": {
   "meaning": "and what has been stored up; and what is gathered, maintained",
   "gram": "past participle (neuter accusative singular) + enclitic ca",
   "breakdown": [
-   ["saṁ-", "Prefix: together."],
-   ["bhata", "Supported, maintained, brought (past participle of √bhar)."],
-   ["ca", "And. (The ṁ becomes ñ before c by sandhi.)"]
+   [
+    "saṁ-",
+    "Prefix: together."
+   ],
+   [
+    "bhata",
+    "Supported, maintained, brought (past participle of √bhar)."
+   ],
+   [
+    "ca",
+    "And. (The ṁ becomes ñ before c by sandhi.)"
+   ]
   ]
  },
  "sambhataṁ": {
   "meaning": "stored up; gathered together; provisions, accumulated wealth",
   "gram": "neuter noun / past participle of sambharati (nominative/accusative singular)",
   "breakdown": [
-   ["saṁ-", "Prefix: together."],
-   ["bhata", "Brought, supported, maintained (past participle of √bhar). Together: brought together, stored."]
+   [
+    "saṁ-",
+    "Prefix: together."
+   ],
+   [
+    "bhata",
+    "Brought, supported, maintained (past participle of √bhar). Together: brought together, stored."
+   ]
   ]
  },
  "sambhavaṁ": {
   "meaning": "origin; arising; what is produced",
   "gram": "masculine noun (accusative singular), from sambhavati",
   "breakdown": [
-   ["saṁ-", "Prefix: together."],
-   ["√bhū > bhava", "Root “to be, become”: coming into being, production."]
+   [
+    "saṁ-",
+    "Prefix: together."
+   ],
+   [
+    "√bhū > bhava",
+    "Root “to be, become”: coming into being, production."
+   ]
   ]
- },
- "sambhavaṁ is": {
-  "meaning": "is produced; arising",
-  "gram": "masculine noun (accusative singular)",
-  "note": "uncertain: this key is a glossary parsing artifact — the English word “is” from the gloss “is produced” was attached to the headword sambhavaṁ; see the entry sambhavaṁ."
  },
  "sambhavesī": {
   "meaning": "seeking birth; due to be born",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["sambhava", "Coming into existence, birth (saṁ + √bhū)."],
-   ["esī", "Seeking (from esati “seeks”)."]
+   [
+    "sambhava",
+    "Coming into existence, birth (saṁ + √bhū)."
+   ],
+   [
+    "esī",
+    "Seeking (from esati “seeks”)."
+   ]
   ]
- },
- "sambhavesī seeking": {
-  "meaning": "seeking birth; due to be born",
-  "gram": "adjective, compound",
-  "note": "uncertain: this key is a glossary parsing artifact — the English word “seeking” from the gloss was attached to the headword sambhavesī; see the entry sambhavesī."
  },
  "sambhūta": {
   "meaning": "arisen; produced; sprung from",
   "gram": "past participle of sambhavati (saṁ + √bhū)",
   "breakdown": [
-   ["saṁ-", "Prefix: together."],
-   ["√bhū + ta", "Root “to be, become” with past participle suffix: come into being, produced."]
+   [
+    "saṁ-",
+    "Prefix: together."
+   ],
+   [
+    "√bhū + ta",
+    "Root “to be, become” with past participle suffix: come into being, produced."
+   ]
   ]
  },
  "sambhūtaṁ": {
   "meaning": "arisen from; produced from",
   "gram": "past participle of sambhavati (accusative singular)",
   "breakdown": [
-   ["sambhūta", "Arisen, produced (saṁ + √bhū + ta)."],
-   ["-aṁ", "Accusative singular ending."]
+   [
+    "sambhūta",
+    "Arisen, produced (saṁ + √bhū + ta)."
+   ],
+   [
+    "-aṁ",
+    "Accusative singular ending."
+   ]
   ]
  }
 }

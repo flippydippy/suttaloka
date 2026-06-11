@@ -3,25 +3,46 @@
   "meaning": "going beyond; those who go to the far shore",
   "gram": "adjective pāragāmī, nominative plural (or genitive singular)",
   "breakdown": [
-   ["pāra", "The far shore, the beyond."],
-   ["gāmino", "Going (plural of gāmī, from √gam)."]
+   [
+    "pāra",
+    "The far shore, the beyond."
+   ],
+   [
+    "gāmino",
+    "Going (plural of gāmī, from √gam)."
+   ]
   ]
  },
  "pāramessanti": {
   "meaning": "they will go beyond; they will reach the far shore",
   "gram": "compound verb, 3rd person plural future (pāraṁ + eti)",
   "breakdown": [
-   ["pāraṁ", "Beyond, to the far shore (accusative)."],
-   ["m", "The niggahīta joins the following vowel as m."],
-   ["essanti", "They will go (future of eti, √i)."]
+   [
+    "pāraṁ",
+    "Beyond, to the far shore (accusative)."
+   ],
+   [
+    "m",
+    "The niggahīta joins the following vowel as m."
+   ],
+   [
+    "essanti",
+    "They will go (future of eti, √i)."
+   ]
   ]
  },
  "pāramī": {
   "meaning": "perfection; completeness; the qualities to be perfected by one who walks the path",
   "gram": "feminine abstract noun (from parama “highest”)",
   "breakdown": [
-   ["parama", "Highest, supreme (para “beyond” + superlative -ma); lengthened to pārama-."],
-   ["-ī", "Feminine abstract suffix: the state of supremacy, perfection."]
+   [
+    "parama",
+    "Highest, supreme (para “beyond” + superlative -ma); lengthened to pārama-."
+   ],
+   [
+    "-ī",
+    "Feminine abstract suffix: the state of supremacy, perfection."
+   ]
   ],
   "goenka": "Pāramī or pāramitā (perfection, completeness) is a post-canonical expression describing the qualities of a person who walks the path. The necessary completeness refers to ten special qualities that need to be developed and perfected: sīla (morality), nekkhamma (renunciation), viriya (effort), khanti (tolerance), sacca (truthfulness), adhiṭṭhāna (strong determination), paññā (wisdom), upekhā (equanimity), mettā (selfless love) and dāna (generosity). Every sitting of meditation, every act of selfless service, develops these pāramīs and brings the meditator closer to the final goal."
  },
@@ -30,67 +51,110 @@
   "gram": "feminine abstract noun (two equivalent forms of the same term)",
   "summary": "Both pāramī and pāramitā denote the perfections developed by one walking the path; see the entry pāramī.",
   "breakdown": [
-   ["pāramī", "Perfection (abstract noun from parama “highest”)."],
-   ["pāramitā", "The same term with the alternative abstract suffix -tā."]
+   [
+    "pāramī",
+    "Perfection (abstract noun from parama “highest”)."
+   ],
+   [
+    "pāramitā",
+    "The same term with the alternative abstract suffix -tā."
+   ]
   ]
  },
  "pāraṁ": {
   "meaning": "beyond; across; the other side, the far shore",
   "gram": "neuter noun / adverb, accusative singular",
-  "forms": ["pāraṃ"]
+  "forms": [
+   "pāraṃ"
+  ]
  },
  "pāraṅgamasuttaṁ": {
   "meaning": "the Pāraṅgama Sutta (“Discourse on Going Beyond”)",
   "gram": "proper noun (sutta title), neuter singular",
   "breakdown": [
-   ["pāraṁ", "Beyond, the far shore; the niggahīta becomes ṅ before g."],
-   ["gama", "Going."],
-   ["suttaṁ", "Discourse, sutta."]
+   [
+    "pāraṁ",
+    "Beyond, the far shore; the niggahīta becomes ṅ before g."
+   ],
+   [
+    "gama",
+    "Going."
+   ],
+   [
+    "suttaṁ",
+    "Discourse, sutta."
+   ]
   ],
-  "forms": ["Pāraṅgamasuttaṃ"]
+  "forms": [
+   "Pāraṅgamasuttaṃ"
+  ]
  },
  "pārimaṁ": {
   "meaning": "the farther; on the other side",
   "gram": "adjective pārima, accusative singular",
-  "forms": ["pārimaṃ"]
- },
- "pārimaṁ the": {
-  "meaning": "the farther; on the other side",
-  "gram": "glossary artifact; adjective pārima, accusative singular",
-  "note": "uncertain: the headword is a run-on glossary line for pārimaṁ “the farther (shore)”."
+  "forms": [
+   "pārimaṃ"
+  ]
  },
  "pārimaṁ tīraṁ": {
   "meaning": "the farther shore; the other bank (of the river)",
   "gram": "phrase: adjective + neuter noun, accusative singular",
   "breakdown": [
-   ["pārimaṁ", "Farther, on the other side."],
-   ["tīraṁ", "Shore, bank."]
+   [
+    "pārimaṁ",
+    "Farther, on the other side."
+   ],
+   [
+    "tīraṁ",
+    "Shore, bank."
+   ]
   ],
-  "forms": ["pārimaṃ tīraṃ"],
+  "forms": [
+   "pārimaṃ tīraṃ"
+  ],
   "goenka": "“The farther shore” is the canonical image for nibbāna: in the Saṅgāravasuttaṁ (lesson 1.3.1) the practitioner crosses the flood of defilements from this shore — the world of craving — to the safety of the other bank by walking the path."
  },
  "pāsarāsisuttaṁ": {
   "meaning": "the Pāsarāsi Sutta (“Discourse on the Heap of Snares”, Opammavagga, Mūlapaṇṇāsapāḷi, Majjhimanikāya), also called the Ariyapariyesanā Sutta",
   "gram": "proper noun (sutta title), neuter singular",
   "breakdown": [
-   ["pāsa", "Snare, trap."],
-   ["rāsi", "Heap, mass."],
-   ["suttaṁ", "Discourse, sutta."]
+   [
+    "pāsa",
+    "Snare, trap."
+   ],
+   [
+    "rāsi",
+    "Heap, mass."
+   ],
+   [
+    "suttaṁ",
+    "Discourse, sutta."
+   ]
   ],
   "goenka": "This discourse records what the Buddha said after Brahma Sahampati requested him to teach the Dhamma to those who would be able to understand it (see the introduction to 1.3.1 Saṅgāravasuttaṁ — The Questions of Saṅgāravo).",
-  "forms": ["Pāsarāsisuttaṃ"]
+  "forms": [
+   "Pāsarāsisuttaṃ"
+  ]
  },
  "pāsarāsisuttaṁ,": {
   "meaning": "the Pāsarāsi Sutta, also named Ariyapariyesanā Sutta (Opammavagga, Mūlapaṇṇāsapāḷi, Majjhimanikāya)",
   "gram": "proper noun (sutta title), neuter singular",
-  "forms": ["Pāsarāsisuttaṃ"]
+  "forms": [
+   "Pāsarāsisuttaṃ"
+  ]
  },
  "pāsādiko": {
   "meaning": "pleasing; lovely; inspiring confidence",
   "gram": "adjective (from pasāda), nominative masculine singular",
   "breakdown": [
-   ["pasāda", "Clarity, gladness, serene confidence (pa + √sad)."],
-   ["-ika", "Adjectival suffix: that which inspires pasāda."]
+   [
+    "pasāda",
+    "Clarity, gladness, serene confidence (pa + √sad)."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix: that which inspires pasāda."
+   ]
   ]
  },
  "pāsāṇalekhūpamo": {
@@ -98,15 +162,26 @@
   "gram": "adjective, compound, nominative masculine singular",
   "summary": "From the simile of the three persons compared to writing on rock, on earth and on water — the rock-carving stands for anger (and saṅkhāra) of the deepest, most lasting kind.",
   "breakdown": [
-   ["pāsāṇa", "Rock, stone."],
-   ["lekha", "Writing, line, carving."],
-   ["upamo", "Simile, comparison; lekha + upama coalesces to lekhūpama."]
+   [
+    "pāsāṇa",
+    "Rock, stone."
+   ],
+   [
+    "lekha",
+    "Writing, line, carving."
+   ],
+   [
+    "upamo",
+    "Simile, comparison; lekha + upama coalesces to lekhūpama."
+   ]
   ]
  },
  "pāto": {
   "meaning": "early; in the morning",
   "gram": "indeclinable adverb (also pātar)",
-  "forms": ["pātar"]
+  "forms": [
+   "pātar"
+  ]
  },
  "pāto/pātar": {
   "meaning": "early (in the) morning",
@@ -116,42 +191,77 @@
   "meaning": "the Pātubhāva Sutta (“Discourse on Appearance, Manifestation”)",
   "gram": "proper noun (sutta title), neuter singular",
   "breakdown": [
-   ["pātubhāva", "Appearance, manifestation."],
-   ["suttaṁ", "Discourse, sutta."]
+   [
+    "pātubhāva",
+    "Appearance, manifestation."
+   ],
+   [
+    "suttaṁ",
+    "Discourse, sutta."
+   ]
   ],
-  "forms": ["Pātubhāvasuttaṃ"]
+  "forms": [
+   "Pātubhāvasuttaṃ"
+  ]
  },
  "pātubhāvo": {
   "meaning": "appearance; manifestation",
   "gram": "masculine abstract noun (from pātubhavati), nominative singular",
   "breakdown": [
-   ["pātu(r)", "Indeclinable “manifestly, openly”."],
-   ["bhāvo", "Becoming, state: “coming into the open”, manifestation."]
+   [
+    "pātu(r)",
+    "Indeclinable “manifestly, openly”."
+   ],
+   [
+    "bhāvo",
+    "Becoming, state: “coming into the open”, manifestation."
+   ]
   ]
  },
  "pātukaroti": {
   "meaning": "manifests; makes appear",
   "gram": "compound verb, 3rd person singular present (pātu + karoti)",
   "breakdown": [
-   ["pātu", "Manifestly, openly."],
-   ["karoti", "Makes, does."]
+   [
+    "pātu",
+    "Manifestly, openly."
+   ],
+   [
+    "karoti",
+    "Makes, does."
+   ]
   ]
  },
  "pāvisi": {
   "meaning": "entered",
   "gram": "verb, aorist 3rd person singular of pavisati (pa + √vis)",
   "breakdown": [
-   ["pa-", "Prefix “into” (with augment a, lengthened to pā-)."],
-   ["√vis", "Root meaning “to enter”."],
-   ["-i", "Aorist 3rd person singular ending."]
+   [
+    "pa-",
+    "Prefix “into” (with augment a, lengthened to pā-)."
+   ],
+   [
+    "√vis",
+    "Root meaning “to enter”."
+   ],
+   [
+    "-i",
+    "Aorist 3rd person singular ending."
+   ]
   ]
  },
  "pāṇa": {
   "meaning": "breathing being; living being; breath, life",
   "gram": "masculine noun (pa + √an “to breathe”)",
   "breakdown": [
-   ["pa-", "Prefix “forth”."],
-   ["√an", "Root meaning “to breathe”: that which breathes, a living being."]
+   [
+    "pa-",
+    "Prefix “forth”."
+   ],
+   [
+    "√an",
+    "Root meaning “to breathe”: that which breathes, a living being."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line carries the larger compound sabbapāṇabhūtahitānukampī “out of compassion for the benefit of all breathing beings”; only “breathing being” belongs to pāṇa."
  },
@@ -159,33 +269,60 @@
   "meaning": "there are living beings (run-together phrase: pāṇabhūtā + atthi)",
   "gram": "phrase: compound noun (plural) + verb “there is/are”",
   "breakdown": [
-   ["pāṇa", "Breathing being."],
-   ["bhūta", "Being, creature."],
-   ["atthi", "There is, there are (the vowels fuse at the boundary)."]
+   [
+    "pāṇa",
+    "Breathing being."
+   ],
+   [
+    "bhūta",
+    "Being, creature."
+   ],
+   [
+    "atthi",
+    "There is, there are (the vowels fuse at the boundary)."
+   ]
   ]
  },
  "pāṇaghāto": {
   "meaning": "the slaughter of living beings; destruction of life",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["pāṇa", "Living being."],
-   ["ghāto", "Slaughter, destruction (from √han)."]
+   [
+    "pāṇa",
+    "Living being."
+   ],
+   [
+    "ghāto",
+    "Slaughter, destruction (from √han)."
+   ]
   ]
  },
  "pāṇampi": {
   "meaning": "even a living being; and a living being",
   "gram": "masculine noun pāṇa, accusative singular + emphatic particle pi",
   "breakdown": [
-   ["pāṇaṁ", "Living being (accusative)."],
-   ["pi", "Even, and; the niggahīta becomes m before p."]
+   [
+    "pāṇaṁ",
+    "Living being (accusative)."
+   ],
+   [
+    "pi",
+    "Even, and; the niggahīta becomes m before p."
+   ]
   ]
  },
  "pāṇasaññino": {
   "meaning": "conscious of (it being) a living being; aware that it is a being",
   "gram": "adjective pāṇasaññī, nominative plural (or genitive singular)",
   "breakdown": [
-   ["pāṇa", "Living being."],
-   ["saññino", "Perceiving, conscious of (from saññā “perception”)."]
+   [
+    "pāṇa",
+    "Living being."
+   ],
+   [
+    "saññino",
+    "Perceiving, conscious of (from saññā “perception”)."
+   ]
   ]
  },
  "pāṇinā": {
@@ -196,10 +333,18 @@
   "meaning": "hand-clapping; music made by clapping the hands",
   "gram": "masculine noun, compound, accusative singular",
   "breakdown": [
-   ["pāṇi", "Hand."],
-   ["saraṁ", "Sound; sandhi doubling of s at the boundary."]
+   [
+    "pāṇi",
+    "Hand."
+   ],
+   [
+    "saraṁ",
+    "Sound; sandhi doubling of s at the boundary."
+   ]
   ],
-  "forms": ["pāṇissaraṃ"]
+  "forms": [
+   "pāṇissaraṃ"
+  ]
  },
  "pāṇisu": {
   "meaning": "among beings; in living beings",
@@ -210,17 +355,31 @@
   "meaning": "endowed with life; as long as life lasts (in the refuge formula: “for life”)",
   "gram": "adjective, compound, accusative singular",
   "breakdown": [
-   ["pāṇa", "Life, breath of life."],
-   ["upetaṁ", "Endowed with, possessed of (pāṇa + upeta coalesce to pāṇupeta)."]
+   [
+    "pāṇa",
+    "Life, breath of life."
+   ],
+   [
+    "upetaṁ",
+    "Endowed with, possessed of (pāṇa + upeta coalesce to pāṇupeta)."
+   ]
   ],
-  "forms": ["pāṇupetaṃ"]
+  "forms": [
+   "pāṇupetaṃ"
+  ]
  },
  "pāṇātipāto": {
   "meaning": "killing living beings; destruction of life",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["pāṇa", "Living, breathing being."],
-   ["atipāto", "Striking down, slaying (ati + √pat); the vowels coalesce to pāṇāti-."]
+   [
+    "pāṇa",
+    "Living, breathing being."
+   ],
+   [
+    "atipāto",
+    "Striking down, slaying (ati + √pat); the vowels coalesce to pāṇāti-."
+   ]
   ],
   "goenka": "Pāṇātipāto, the killing of living beings, is the first of the unwholesome actions abandoned in sīla: the first precept is abstaining from killing any being. Sīla is the indispensable base of the path — without abstaining from harming beings, the mind cannot become concentrated or develop liberating wisdom."
  },
@@ -228,8 +387,14 @@
   "meaning": "from killing living beings (abstention from the destruction of life)",
   "gram": "masculine noun pāṇātipāta, ablative singular",
   "breakdown": [
-   ["pāṇa", "That which breathes, a living being."],
-   ["atipātā", "From striking down, slaying (ablative)."]
+   [
+    "pāṇa",
+    "That which breathes, a living being."
+   ],
+   [
+    "atipātā",
+    "From striking down, slaying (ablative)."
+   ]
   ],
   "goenka": "Pāṇātipātā veramaṇī — abstaining from killing — is the first precept. The lesson introducing it cites Dhammo have rakkhati dhammacāriṁ, “truly, Dhamma protects those who foster the Dhamma”: a universal truth of moral reciprocity akin to “you reap what you sow”. One who lives by the Dhamma finds protection through the complete abandonment of the unwholesome and the cultivation of the wholesome, and the beneficial results experienced in daily life reinforce the dhammacāri's resolve."
  },
@@ -237,76 +402,140 @@
   "meaning": "and the special (extra) observance period: keeping the Uposatha continuously for three months, or at least one month, during the rainy season",
   "gram": "masculine noun, compound, accusative singular + conjunction ca",
   "breakdown": [
-   ["pāṭihāriya", "Special, extraordinary."],
-   ["pakkhaṁ", "Fortnight, period (of the moon); the niggahīta becomes ñ before c."],
-   ["ca", "And."]
+   [
+    "pāṭihāriya",
+    "Special, extraordinary."
+   ],
+   [
+    "pakkhaṁ",
+    "Fortnight, period (of the moon); the niggahīta becomes ñ before c."
+   ],
+   [
+    "ca",
+    "And."
+   ]
   ]
  },
  "pāṭikaṅkhaṁ": {
   "meaning": "to be expected",
   "gram": "future passive participle of paṭikaṅkhati, neuter/accusative singular",
   "breakdown": [
-   ["pāṭi-", "Prefix (lengthened paṭi-) “towards”."],
-   ["√kaṅkh", "Root meaning “to expect, to desire”."],
-   ["-a", "Participial ending: “what is to be expected”."]
+   [
+    "pāṭi-",
+    "Prefix (lengthened paṭi-) “towards”."
+   ],
+   [
+    "√kaṅkh",
+    "Root meaning “to expect, to desire”."
+   ],
+   [
+    "-a",
+    "Participial ending: “what is to be expected”."
+   ]
   ],
-  "forms": ["pāṭikaṅkhaṃ"]
+  "forms": [
+   "pāṭikaṅkhaṃ"
+  ]
  },
  "pāṭipado": {
   "meaning": "following the path in the correct manner; one practising the way",
   "gram": "adjective (from paṭipadā), nominative masculine singular",
   "breakdown": [
-   ["pāṭi-", "Prefix (lengthened paṭi-) “along”."],
-   ["√pad", "Root meaning “to step, to go”: relating to paṭipadā, the way of practice."]
+   [
+    "pāṭi-",
+    "Prefix (lengthened paṭi-) “along”."
+   ],
+   [
+    "√pad",
+    "Root meaning “to step, to go”: relating to paṭipadā, the way of practice."
+   ]
   ]
  },
  "pītipāmojjena": {
   "meaning": "with joy and gladness",
   "gram": "neuter noun, compound, instrumental singular",
   "breakdown": [
-   ["pīti", "Joy, rapture."],
-   ["pāmojjena", "With gladness, delight (instrumental)."]
+   [
+    "pīti",
+    "Joy, rapture."
+   ],
+   [
+    "pāmojjena",
+    "With gladness, delight (instrumental)."
+   ]
   ]
  },
  "pīṇeti": {
   "meaning": "pleases; gratifies; satisfies",
   "gram": "verb, 3rd person singular present (√pīṇ)",
   "breakdown": [
-   ["√pīṇ", "Root meaning “to please, to gladden”."],
-   ["-eti", "Present tense ending."]
+   [
+    "√pīṇ",
+    "Root meaning “to please, to gladden”."
+   ],
+   [
+    "-eti",
+    "Present tense ending."
+   ]
   ]
  },
  "pūjanīyānaṁ": {
   "meaning": "of those who should be honoured; of those worthy of veneration",
   "gram": "future passive participle of pūjeti, genitive/dative plural",
   "breakdown": [
-   ["√pūj", "Root meaning “to honour, to venerate”."],
-   ["-anīya", "Future passive participle suffix “worthy of”."],
-   ["-ānaṁ", "Genitive/dative plural ending."]
+   [
+    "√pūj",
+    "Root meaning “to honour, to venerate”."
+   ],
+   [
+    "-anīya",
+    "Future passive participle suffix “worthy of”."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive/dative plural ending."
+   ]
   ],
-  "forms": ["pūjanīyānaṃ"]
+  "forms": [
+   "pūjanīyānaṃ"
+  ]
  },
  "pūtikāyena": {
   "meaning": "with this putrid body; by the rotten body",
   "gram": "masculine noun, compound, instrumental singular",
   "breakdown": [
-   ["pūti", "Putrid, rotten."],
-   ["kāyena", "With the body (instrumental)."]
+   [
+    "pūti",
+    "Putrid, rotten."
+   ],
+   [
+    "kāyena",
+    "With the body (instrumental)."
+   ]
   ]
  },
  "raho": {
   "meaning": "in secret; in private, secrecy",
   "gram": "masculine noun (mano-group), used adverbially",
   "breakdown": [
-   ["√rah", "Root meaning “to be apart, to be alone”."]
+   [
+    "√rah",
+    "Root meaning “to be apart, to be alone”."
+   ]
   ]
  },
  "rajata": {
   "meaning": "silver (in the compound jātarūparajatapaṭiggahaṇā: acceptance of gold and silver)",
   "gram": "neuter noun",
   "breakdown": [
-   ["√raj", "Root meaning “to shine, to be coloured”."],
-   ["-ata", "Noun suffix."]
+   [
+    "√raj",
+    "Root meaning “to shine, to be coloured”."
+   ],
+   [
+    "-ata",
+    "Noun suffix."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line carries the larger compound (jātarūpa)rajatapaṭiggahaṇā “gold + silver + acceptance”; only “silver” belongs to rajata."
  },
@@ -322,73 +551,130 @@
   "meaning": "a path of dust; the dusty (impure) way (said of household life)",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["rajo", "Dust; impurity, defilement."],
-   ["patho", "Path, way."]
+   [
+    "rajo",
+    "Dust; impurity, defilement."
+   ],
+   [
+    "patho",
+    "Path, way."
+   ]
   ]
  },
  "rakkhatha": {
   "meaning": "protect!; guard (you all)",
   "gram": "verb, 2nd person plural imperative of rakkhati (√rakkh)",
   "breakdown": [
-   ["√rakkh", "Root meaning “to protect, to guard”."],
-   ["-atha", "2nd person plural ending."]
+   [
+    "√rakkh",
+    "Root meaning “to protect, to guard”."
+   ],
+   [
+    "-atha",
+    "2nd person plural ending."
+   ]
   ]
  },
  "rakkheyya": {
   "meaning": "would protect; should guard, shelter",
   "gram": "verb, optative of rakkhati",
   "breakdown": [
-   ["√rakkh", "Root meaning “to protect, to guard”."],
-   ["-eyya", "Optative ending."]
+   [
+    "√rakkh",
+    "Root meaning “to protect, to guard”."
+   ],
+   [
+    "-eyya",
+    "Optative ending."
+   ]
   ]
  },
  "rakkhāvaraṇaguttiṁ": {
   "meaning": "protection, shelter and guarding (a set phrase for complete protection)",
   "gram": "feminine noun, compound, accusative singular",
   "breakdown": [
-   ["rakkhā", "Protection."],
-   ["āvaraṇa", "Shelter, surrounding cover."],
-   ["guttiṁ", "Guarding, watchfulness (accusative)."]
+   [
+    "rakkhā",
+    "Protection."
+   ],
+   [
+    "āvaraṇa",
+    "Shelter, surrounding cover."
+   ],
+   [
+    "guttiṁ",
+    "Guarding, watchfulness (accusative)."
+   ]
   ],
-  "forms": ["rakkhāvaraṇaguttiṃ"]
+  "forms": [
+   "rakkhāvaraṇaguttiṃ"
+  ]
  },
  "rassakā": {
   "meaning": "short; rather short",
   "gram": "adjective rassaka (rassa + ka), nominative plural or feminine singular",
   "breakdown": [
-   ["rassa", "Short."],
-   ["-ka", "Adjectival/diminutive suffix."]
+   [
+    "rassa",
+    "Short."
+   ],
+   [
+    "-ka",
+    "Adjectival/diminutive suffix."
+   ]
   ]
  },
  "rasā": {
   "meaning": "tastes; flavours",
   "gram": "masculine noun rasa, nominative plural",
   "breakdown": [
-   ["√ras", "Root meaning “to taste”."]
+   [
+    "√ras",
+    "Root meaning “to taste”."
+   ]
   ]
  },
  "ratanacaṅkamacetiya": {
   "meaning": "the Jewel Walk Shrine (Ratanacaṅkama-cetiya, marking the Buddha's walking meditation after the awakening)",
   "gram": "proper noun (shrine name), neuter",
   "breakdown": [
-   ["ratana", "Gem, jewel."],
-   ["caṅkama", "Walking up and down, walking meditation."],
-   ["cetiya", "Monument, shrine."]
+   [
+    "ratana",
+    "Gem, jewel."
+   ],
+   [
+    "caṅkama",
+    "Walking up and down, walking meditation."
+   ],
+   [
+    "cetiya",
+    "Monument, shrine."
+   ]
   ]
  },
  "ratanasutta": {
   "meaning": "the Ratana Sutta (“Discourse on the Jewels”)",
   "gram": "proper noun (sutta title), neuter",
   "breakdown": [
-   ["ratana", "Gem, jewel — the three jewels of Buddha, Dhamma and Saṅgha."],
-   ["sutta", "Discourse."]
+   [
+    "ratana",
+    "Gem, jewel — the three jewels of Buddha, Dhamma and Saṅgha."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ],
   "goenka": "The Ratanasutta is the sutta recited on day two of the 10-day meditation course by S. N. Goenka, as part of the selection of suttas chanted (along with Hindi verses) through the course.",
-  "forms": ["Ratanasutta"]
+  "forms": [
+   "Ratanasutta"
+  ]
  },
  "ratanaṁ": {
   "meaning": "gem; jewel",
   "gram": "neuter noun, nominative/accusative singular",
-  "forms": ["ratanaṃ"]
+  "forms": [
+   "ratanaṃ"
+  ]
  }
 }

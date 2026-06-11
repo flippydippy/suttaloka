@@ -3,17 +3,32 @@
   "meaning": "recipient; one who receives",
   "gram": "masculine agent noun from paṭiggaṇhāti, nominative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “in return, towards”."],
-   ["√gah", "Root meaning “to take, to grasp” (lengthened to gāh)."],
-   ["-aka", "Agent-noun suffix: “one who receives”."]
+   [
+    "paṭi-",
+    "Prefix “in return, towards”."
+   ],
+   [
+    "√gah",
+    "Root meaning “to take, to grasp” (lengthened to gāh)."
+   ],
+   [
+    "-aka",
+    "Agent-noun suffix: “one who receives”."
+   ]
   ]
  },
  "paṭighasanna": {
   "meaning": "perception of ill will; a mind tinged with anger",
   "gram": "compound: paṭigha + saññā (perception)",
   "breakdown": [
-   ["paṭigha", "Ill will, anger, aversion (paṭi “against” + √ghaṭṭ/han “to strike”)."],
-   ["sanna", "As printed; representing saññā “perception” in the compound paṭighasaññā."]
+   [
+    "paṭigha",
+    "Ill will, anger, aversion (paṭi “against” + √ghaṭṭ/han “to strike”)."
+   ],
+   [
+    "sanna",
+    "As printed; representing saññā “perception” in the compound paṭighasaññā."
+   ]
   ],
   "note": "uncertain: the form as printed (sanna) most likely stands for saññā “perception” (paṭighasaññā, perception of aversion)."
  },
@@ -21,92 +36,188 @@
   "meaning": "acknowledging; promising; claiming, professing",
   "gram": "present participle of paṭijānāti, nominative masculine singular",
   "breakdown": [
-   ["paṭi-", "Prefix “back, in return”."],
-   ["jānā", "Present stem of √ñā “to know”: “to acknowledge, to claim”."],
-   ["-māna", "Middle present participle suffix."]
+   [
+    "paṭi-",
+    "Prefix “back, in return”."
+   ],
+   [
+    "jānā",
+    "Present stem of √ñā “to know”: “to acknowledge, to claim”."
+   ],
+   [
+    "-māna",
+    "Middle present participle suffix."
+   ]
   ]
  },
  "paṭijānanti": {
   "meaning": "they confess; they acknowledge; they claim",
   "gram": "verb, 3rd person plural present of paṭijānāti (paṭi + √ñā)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, in return”."],
-   ["jānā", "Present stem of √ñā “to know”."],
-   ["-nti", "Present tense, 3rd person plural ending."]
+   [
+    "paṭi-",
+    "Prefix “back, in return”."
+   ],
+   [
+    "jānā",
+    "Present stem of √ñā “to know”."
+   ],
+   [
+    "-nti",
+    "Present tense, 3rd person plural ending."
+   ]
   ]
  },
  "paṭikkhipanena": {
   "meaning": "by refusal; through rejection",
   "gram": "neuter action noun from paṭikkhipati, instrumental singular",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”; the k doubles at the boundary."],
-   ["√khip", "Root meaning “to throw”: “to throw back”, refuse."],
-   ["-ana", "Action-noun suffix."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "paṭi-",
+    "Prefix “back, against”; the k doubles at the boundary."
+   ],
+   [
+    "√khip",
+    "Root meaning “to throw”: “to throw back”, refuse."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "paṭikkhipati": {
   "meaning": "refuses; rejects",
   "gram": "verb, 3rd person singular present (paṭi + √khip)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”; sandhi doubling of k."],
-   ["√khip", "Root meaning “to throw”: “to throw back”, refuse."],
-   ["-ati", "Present tense, 3rd person singular ending."]
+   [
+    "paṭi-",
+    "Prefix “back, against”; sandhi doubling of k."
+   ],
+   [
+    "√khip",
+    "Root meaning “to throw”: “to throw back”, refuse."
+   ],
+   [
+    "-ati",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "paṭikkhittassa": {
   "meaning": "of what has been rejected, refused",
   "gram": "past participle of paṭikkhipati, genitive/dative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”."],
-   ["√khip", "Root meaning “to throw”."],
-   ["-ta", "Past participle suffix (khip + ta > khitta)."],
-   ["-assa", "Genitive/dative singular ending."]
+   [
+    "paṭi-",
+    "Prefix “back, against”."
+   ],
+   [
+    "√khip",
+    "Root meaning “to throw”."
+   ],
+   [
+    "-ta",
+    "Past participle suffix (khip + ta > khitta)."
+   ],
+   [
+    "-assa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "paṭikkhittā": {
   "meaning": "rejected; refused",
   "gram": "past participle of paṭikkhipati, nominative plural (or feminine singular)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”."],
-   ["√khip", "Root meaning “to throw”."],
-   ["-ta", "Past participle suffix."]
+   [
+    "paṭi-",
+    "Prefix “back, against”."
+   ],
+   [
+    "√khip",
+    "Root meaning “to throw”."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
   ]
  },
  "paṭikkhittāni": {
   "meaning": "rejected; refused (things)",
   "gram": "past participle of paṭikkhipati, neuter nominative/accusative plural",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”."],
-   ["√khip", "Root meaning “to throw”."],
-   ["-tāni", "Past participle, neuter plural ending."]
+   [
+    "paṭi-",
+    "Prefix “back, against”."
+   ],
+   [
+    "√khip",
+    "Root meaning “to throw”."
+   ],
+   [
+    "-tāni",
+    "Past participle, neuter plural ending."
+   ]
   ]
  },
  "paṭikoṭeyya": {
   "meaning": "would beat back; would thrash, push back",
   "gram": "verb, optative of paṭikoṭeti (paṭi + √kuṭ)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”."],
-   ["koṭe", "Stem of (ā)koṭeti “to beat, to strike”."],
-   ["-eyya", "Optative ending."]
+   [
+    "paṭi-",
+    "Prefix “back, against”."
+   ],
+   [
+    "koṭe",
+    "Stem of (ā)koṭeti “to beat, to strike”."
+   ],
+   [
+    "-eyya",
+    "Optative ending."
+   ]
   ]
  },
  "paṭilābho": {
   "meaning": "receiving; getting; attainment, acquisition",
   "gram": "masculine noun from paṭilabhati, nominative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “in return, towards”."],
-   ["√labh", "Root meaning “to obtain” (lengthened to lābh)."],
-   ["-o", "Nominative singular ending of the action noun."]
+   [
+    "paṭi-",
+    "Prefix “in return, towards”."
+   ],
+   [
+    "√labh",
+    "Root meaning “to obtain” (lengthened to lābh)."
+   ],
+   [
+    "-o",
+    "Nominative singular ending of the action noun."
+   ]
   ]
  },
  "paṭinissaggo": {
   "meaning": "giving up; forsaking; relinquishment, rejecting",
   "gram": "masculine noun from paṭinissajjati, nominative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “back”."],
-   ["nis-", "Prefix “out, away” (nī/nis)."],
-   ["√sajj", "Root meaning “to let go, to release” (sajj > sagg before the noun suffix)."]
+   [
+    "paṭi-",
+    "Prefix “back”."
+   ],
+   [
+    "nis-",
+    "Prefix “out, away” (nī/nis)."
+   ],
+   [
+    "√sajj",
+    "Root meaning “to let go, to release” (sajj > sagg before the noun suffix)."
+   ]
   ],
   "goenka": "Paṭinissaggo, relinquishment or total letting go, appears in the description of ānāpānassati and of the path's culmination: by observing reality with equanimity, the meditator gradually gives up all clinging. It is part of the stock sequence — viraga (fading away), nirodha (cessation), paṭinissagga (relinquishment) — that describes how attachment to the aggregates dissolves through practice rather than through mere belief."
  },
@@ -114,18 +225,36 @@
   "meaning": "would forsake; should renounce, give up",
   "gram": "verb, optative of paṭinissajjati",
   "breakdown": [
-   ["paṭi-", "Prefix “back”."],
-   ["nis-", "Prefix “out, away”."],
-   ["√sajj", "Root meaning “to let go, to release”."],
-   ["-eyya", "Optative ending."]
+   [
+    "paṭi-",
+    "Prefix “back”."
+   ],
+   [
+    "nis-",
+    "Prefix “out, away”."
+   ],
+   [
+    "√sajj",
+    "Root meaning “to let go, to release”."
+   ],
+   [
+    "-eyya",
+    "Optative ending."
+   ]
   ]
  },
  "paṭipadā": {
   "meaning": "way of practice; the means of reaching a destination; course of conduct",
   "gram": "feminine noun (paṭi + √pad + ā)",
   "breakdown": [
-   ["paṭi-", "Prefix “along, towards”."],
-   ["√pad", "Root meaning “to step, to go”: the stepping-along, the way one walks to the goal."]
+   [
+    "paṭi-",
+    "Prefix “along, towards”."
+   ],
+   [
+    "√pad",
+    "Root meaning “to step, to go”: the stepping-along, the way one walks to the goal."
+   ]
   ],
   "goenka": "Paṭipadā is the practical way of walking the path — not a doctrine to be accepted but a course of practice to be undertaken step by step. The middle way taught by the Buddha is majjhimā paṭipadā, and the way leading to the cessation of suffering is dukkhanirodhagāminī paṭipadā, the Fourth Noble Truth, which each meditator must actually walk to reach the destination."
  },
@@ -133,35 +262,68 @@
   "meaning": "of/for the way of practice; of the means of reaching the goal; conduct",
   "gram": "feminine noun paṭipadā, genitive/dative singular",
   "breakdown": [
-   ["paṭipadā", "Way of practice, course leading to the goal."],
-   ["-āya", "Genitive/dative singular ending."]
+   [
+    "paṭipadā",
+    "Way of practice, course leading to the goal."
+   ],
+   [
+    "-āya",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "paṭipajjanti": {
   "meaning": "they enter upon (a path); they practise, follow the way",
   "gram": "verb, 3rd person plural present of paṭipajjati (paṭi + √pad)",
   "breakdown": [
-   ["paṭi-", "Prefix “along, towards”."],
-   ["pajja", "Present stem of √pad “to step, to go”."],
-   ["-nti", "Present tense, 3rd person plural ending."]
+   [
+    "paṭi-",
+    "Prefix “along, towards”."
+   ],
+   [
+    "pajja",
+    "Present stem of √pad “to step, to go”."
+   ],
+   [
+    "-nti",
+    "Present tense, 3rd person plural ending."
+   ]
   ]
  },
  "paṭipanno": {
   "meaning": "practising; entered upon (the path); conducting oneself",
   "gram": "past participle of paṭipajjati, nominative masculine singular",
   "breakdown": [
-   ["paṭi-", "Prefix “along, towards”."],
-   ["√pad", "Root meaning “to step, to go”."],
-   ["-na", "Past participle suffix (pad + na > panna)."]
+   [
+    "paṭi-",
+    "Prefix “along, towards”."
+   ],
+   [
+    "√pad",
+    "Root meaning “to step, to go”."
+   ],
+   [
+    "-na",
+    "Past participle suffix (pad + na > panna)."
+   ]
   ]
  },
  "paṭipatta": {
   "meaning": "wrong practice; (in the compound micchāpaṭipatta-adhikaraṇahetu) by reason of wrong conduct",
   "gram": "past participle of paṭipajjati, in compound",
   "breakdown": [
-   ["paṭipatta", "Practised, conducted (past participle stem of paṭipajjati)."],
-   ["adhikaraṇa", "In consequence of (in the source compound)."],
-   ["hetu", "Reason, cause (in the source compound)."]
+   [
+    "paṭipatta",
+    "Practised, conducted (past participle stem of paṭipajjati)."
+   ],
+   [
+    "adhikaraṇa",
+    "In consequence of (in the source compound)."
+   ],
+   [
+    "hetu",
+    "Reason, cause (in the source compound)."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line carries the whole compound micchāpaṭipatta-adhikaraṇahetu “by reason of wrong practice”; only the participle stem belongs to this headword."
  },
@@ -169,9 +331,18 @@
   "meaning": "practice; correct conduct; (in the compound sammāpaṭipatti-adhikaraṇahetu) by reason of right practice",
   "gram": "feminine abstract noun from paṭipajjati",
   "breakdown": [
-   ["paṭi-", "Prefix “along, towards”."],
-   ["√pad", "Root meaning “to step, to go”."],
-   ["-ti", "Abstract noun suffix: the actual walking of the path, practice."]
+   [
+    "paṭi-",
+    "Prefix “along, towards”."
+   ],
+   [
+    "√pad",
+    "Root meaning “to step, to go”."
+   ],
+   [
+    "-ti",
+    "Abstract noun suffix: the actual walking of the path, practice."
+   ]
   ],
   "goenka": "Paṭipatti is actual practice, as distinguished from pariyatti, theoretical knowledge of the texts. The tradition constantly emphasises that the Dhamma must be practised and experienced, not merely studied or believed: it is sammāpaṭipatti, right practice, that brings the results the suttas describe."
  },
@@ -179,46 +350,94 @@
   "meaning": "would be calmed; would subside, be quieted",
   "gram": "verb, optative of paṭippassambhati (paṭi + pa + √sambh)",
   "breakdown": [
-   ["paṭi-", "Prefix “back”; the p doubles at the boundary."],
-   ["pa-", "Prefix “forth”; sandhi doubling of s follows."],
-   ["√sambh", "Root meaning “to calm, to subside”."],
-   ["-eyya", "Optative ending."]
+   [
+    "paṭi-",
+    "Prefix “back”; the p doubles at the boundary."
+   ],
+   [
+    "pa-",
+    "Prefix “forth”; sandhi doubling of s follows."
+   ],
+   [
+    "√sambh",
+    "Root meaning “to calm, to subside”."
+   ],
+   [
+    "-eyya",
+    "Optative ending."
+   ]
   ]
  },
  "paṭipucchābyākaraṇīyo": {
   "meaning": "(a question) to be answered by a counter-question",
   "gram": "adjective, compound, nominative masculine singular",
   "breakdown": [
-   ["paṭipucchā", "Counter-question, inquiry in return."],
-   ["byākaraṇīyo", "To be explained, to be answered (future passive participle of byākaroti)."]
+   [
+    "paṭipucchā",
+    "Counter-question, inquiry in return."
+   ],
+   [
+    "byākaraṇīyo",
+    "To be explained, to be answered (future passive participle of byākaroti)."
+   ]
   ]
  },
  "paṭipūjenti": {
   "meaning": "they honour; they revere (in return)",
   "gram": "verb, 3rd person plural present of paṭipūjeti (paṭi + √pūj)",
   "breakdown": [
-   ["paṭi-", "Prefix “in return”."],
-   ["pūje", "Stem of pūjeti “to honour, to venerate”."],
-   ["-nti", "Present tense, 3rd person plural ending."]
+   [
+    "paṭi-",
+    "Prefix “in return”."
+   ],
+   [
+    "pūje",
+    "Stem of pūjeti “to honour, to venerate”."
+   ],
+   [
+    "-nti",
+    "Present tense, 3rd person plural ending."
+   ]
   ]
  },
  "paṭisallānā": {
   "meaning": "seclusion; solitary retreat (from seclusion, ablative)",
   "gram": "neuter noun paṭisallāna, ablative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “back, withdrawn”."],
-   ["saṁ-", "Prefix “together, completely”."],
-   ["√lī", "Root meaning “to cling, to hide”: withdrawing into solitude."]
+   [
+    "paṭi-",
+    "Prefix “back, withdrawn”."
+   ],
+   [
+    "saṁ-",
+    "Prefix “together, completely”."
+   ],
+   [
+    "√lī",
+    "Root meaning “to cling, to hide”: withdrawing into solitude."
+   ]
   ]
  },
  "paṭisantharati": {
   "meaning": "welcomes; receives kindly, is favourably disposed towards",
   "gram": "verb, 3rd person singular present (paṭi + saṁ + √thar)",
   "breakdown": [
-   ["paṭi-", "Prefix “towards”."],
-   ["saṁ-", "Prefix “together”."],
-   ["√thar", "Root meaning “to spread”: “to spread out (a welcome) before someone”."],
-   ["-ati", "Present tense, 3rd person singular ending."]
+   [
+    "paṭi-",
+    "Prefix “towards”."
+   ],
+   [
+    "saṁ-",
+    "Prefix “together”."
+   ],
+   [
+    "√thar",
+    "Root meaning “to spread”: “to spread out (a welcome) before someone”."
+   ],
+   [
+    "-ati",
+    "Present tense, 3rd person singular ending."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line runs into the next entry (paṭissutvā “agree, consent”); only “welcome, be favourably disposed” belongs to paṭisantharati."
  },
@@ -226,18 +445,36 @@
   "meaning": "thinks over; considers; reflects",
   "gram": "verb, 3rd person singular present (paṭi + saṁ + √cikkh)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, again”."],
-   ["saṁ-", "Prefix “together, thoroughly”."],
-   ["√cikkh", "Root meaning “to discern, to declare”: to reflect thoroughly."],
-   ["-ati", "Present tense, 3rd person singular ending."]
+   [
+    "paṭi-",
+    "Prefix “back, again”."
+   ],
+   [
+    "saṁ-",
+    "Prefix “together, thoroughly”."
+   ],
+   [
+    "√cikkh",
+    "Root meaning “to discern, to declare”: to reflect thoroughly."
+   ],
+   [
+    "-ati",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "paṭisañcikkhato": {
   "meaning": "for one reflecting; while considering",
   "gram": "present participle of paṭisañcikkhati, genitive/dative singular",
   "breakdown": [
-   ["paṭisañcikkha", "Stem of paṭisañcikkhati “to reflect, to consider”."],
-   ["-to", "Genitive/dative singular of the present participle (-ant stem)."]
+   [
+    "paṭisañcikkha",
+    "Stem of paṭisañcikkhati “to reflect, to consider”."
+   ],
+   [
+    "-to",
+    "Genitive/dative singular of the present participle (-ant stem)."
+   ]
   ],
   "note": "divergence: the lexicon marks the form “p.p.”, but it is the genitive of the present participle (DPD); the sense “reflecting, considering” is unchanged."
  },
@@ -245,54 +482,101 @@
   "meaning": "you should withdraw; you should remove, take back",
   "gram": "verb, 2nd person singular optative of paṭisaṁharati (paṭi + saṁ + √har)",
   "breakdown": [
-   ["paṭi-", "Prefix “back”."],
-   ["saṁ-", "Prefix “together”."],
-   ["√har", "Root meaning “to carry”: “to carry back”, withdraw."],
-   ["-eyyāsi", "2nd person singular optative ending."]
+   [
+    "paṭi-",
+    "Prefix “back”."
+   ],
+   [
+    "saṁ-",
+    "Prefix “together”."
+   ],
+   [
+    "√har",
+    "Root meaning “to carry”: “to carry back”, withdraw."
+   ],
+   [
+    "-eyyāsi",
+    "2nd person singular optative ending."
+   ]
   ],
-  "forms": ["paṭisaṃhareyyāsi"]
+  "forms": [
+   "paṭisaṃhareyyāsi"
+  ]
  },
  "paṭisedhana": {
   "meaning": "warding off; refusal; prevention",
   "gram": "neuter action noun from paṭisedheti (paṭi + √sidh)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, against”."],
-   ["√sidh", "Root meaning “to ward off, to forbid”."],
-   ["-ana", "Action-noun suffix."]
+   [
+    "paṭi-",
+    "Prefix “back, against”."
+   ],
+   [
+    "√sidh",
+    "Root meaning “to ward off, to forbid”."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ]
   ]
- },
- "paṭisedhana warding": {
-  "meaning": "warding off; refusal",
-  "gram": "glossary artifact; neuter action noun paṭisedhana",
-  "note": "uncertain: the headword is a run-on glossary line for paṭisedhana “warding off, refusal”."
  },
  "paṭisotagāmiṁ": {
   "meaning": "going against the stream",
   "gram": "adjective paṭisotagāmī, accusative singular",
   "summary": "This compound describes the Dhamma (or its follower) as “going against the stream” of craving and worldly habit.",
   "breakdown": [
-   ["paṭi-", "Against."],
-   ["sota", "Stream, current."],
-   ["gāmiṁ", "Going (accusative of gāmī)."]
+   [
+    "paṭi-",
+    "Against."
+   ],
+   [
+    "sota",
+    "Stream, current."
+   ],
+   [
+    "gāmiṁ",
+    "Going (accusative of gāmī)."
+   ]
   ],
-  "forms": ["paṭisotagāmiṃ"]
+  "forms": [
+   "paṭisotagāmiṃ"
+  ]
  },
  "paṭissutvā": {
   "meaning": "having agreed; having consented, having assented",
   "gram": "gerund of paṭissuṇāti (paṭi + √su + tvā)",
   "breakdown": [
-   ["paṭi-", "Prefix “back, in reply”; sandhi doubling of s."],
-   ["√su", "Root meaning “to hear”: “to hear in reply”, to assent."],
-   ["-tvā", "Gerund (absolutive) suffix."]
+   [
+    "paṭi-",
+    "Prefix “back, in reply”; sandhi doubling of s."
+   ],
+   [
+    "√su",
+    "Root meaning “to hear”: “to hear in reply”, to assent."
+   ],
+   [
+    "-tvā",
+    "Gerund (absolutive) suffix."
+   ]
   ]
  },
  "paṭivedhataṁ": {
   "meaning": "(in the compound) hard to penetrate; the quality of being difficult to comprehend",
   "gram": "noun in compound (duppaṭivedha + taṁ), from the stock description of the Dhamma as deep, subtle, hard to see and hard to penetrate",
   "breakdown": [
-   ["paṭi-", "Prefix “through, into”."],
-   ["√vidh", "Root meaning “to pierce”: paṭivedha is penetration, comprehension."],
-   ["-taṁ", "Ending as printed; the full source compound is gambhīra + nipuṇa + duddasa + duranubodha + sukhuma + duppaṭivedha — deep, subtle, hard to see, hard to understand, fine, hard to penetrate."]
+   [
+    "paṭi-",
+    "Prefix “through, into”."
+   ],
+   [
+    "√vidh",
+    "Root meaning “to pierce”: paṭivedha is penetration, comprehension."
+   ],
+   [
+    "-taṁ",
+    "Ending as printed; the full source compound is gambhīra + nipuṇa + duddasa + duranubodha + sukhuma + duppaṭivedha — deep, subtle, hard to see, hard to understand, fine, hard to penetrate."
+   ]
   ],
   "note": "uncertain: the headword is a fragment of the long stock compound describing the Dhamma; the lexicon's breakdown covers the whole compound."
  },
@@ -300,86 +584,180 @@
   "meaning": "penetrated; comprehended; realized",
   "gram": "past participle of paṭivijjhati (paṭi + √vidh + ta), neuter/accusative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “through, into”."],
-   ["√vidh", "Root meaning “to pierce”: to penetrate with understanding."],
-   ["-ta", "Past participle suffix (vidh + ta > viddha)."]
+   [
+    "paṭi-",
+    "Prefix “through, into”."
+   ],
+   [
+    "√vidh",
+    "Root meaning “to pierce”: to penetrate with understanding."
+   ],
+   [
+    "-ta",
+    "Past participle suffix (vidh + ta > viddha)."
+   ]
   ],
-  "forms": ["paṭividdhaṃ"]
+  "forms": [
+   "paṭividdhaṃ"
+  ]
  },
  "paṭivigacchati": {
   "meaning": "goes away; departs",
   "gram": "verb, 3rd person singular present (paṭi + vi + √gam)",
   "breakdown": [
-   ["paṭi-", "Prefix “back”."],
-   ["vi-", "Prefix “apart, away”."],
-   ["gaccha", "Present stem of √gam “to go”."],
-   ["-ti", "Present tense, 3rd person singular ending."]
+   [
+    "paṭi-",
+    "Prefix “back”."
+   ],
+   [
+    "vi-",
+    "Prefix “apart, away”."
+   ],
+   [
+    "gaccha",
+    "Present stem of √gam “to go”."
+   ],
+   [
+    "-ti",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "paṭivinodeti": {
   "meaning": "removes; dispels",
   "gram": "verb, 3rd person singular present, causative of paṭi + vi + √nud",
   "breakdown": [
-   ["paṭi-", "Prefix “back”."],
-   ["vi-", "Prefix “away”."],
-   ["√nud", "Root meaning “to push, to drive”: the causative means “to drive out, dispel”."],
-   ["-eti", "Causative present ending."]
+   [
+    "paṭi-",
+    "Prefix “back”."
+   ],
+   [
+    "vi-",
+    "Prefix “away”."
+   ],
+   [
+    "√nud",
+    "Root meaning “to push, to drive”: the causative means “to drive out, dispel”."
+   ],
+   [
+    "-eti",
+    "Causative present ending."
+   ]
   ]
  },
  "paṭivinodetvā": {
   "meaning": "having dispelled; having removed",
   "gram": "gerund of paṭivinodeti",
   "breakdown": [
-   ["paṭi-", "Prefix “back”."],
-   ["vi-", "Prefix “away”."],
-   ["node", "Causative stem of √nud “to drive out”."],
-   ["-tvā", "Gerund (absolutive) suffix."]
+   [
+    "paṭi-",
+    "Prefix “back”."
+   ],
+   [
+    "vi-",
+    "Prefix “away”."
+   ],
+   [
+    "node",
+    "Causative stem of √nud “to drive out”."
+   ],
+   [
+    "-tvā",
+    "Gerund (absolutive) suffix."
+   ]
   ]
  },
  "paṭiviratassa": {
   "meaning": "of one abstaining (from); of one who has rejected",
   "gram": "past participle of paṭiviramati, genitive/dative singular",
   "breakdown": [
-   ["paṭi-", "Prefix “back, away”."],
-   ["vi-", "Prefix “apart”."],
-   ["√ram", "Root meaning “to delight”: virata, “turned away from delighting in”, abstaining."],
-   ["-assa", "Genitive/dative singular ending."]
+   [
+    "paṭi-",
+    "Prefix “back, away”."
+   ],
+   [
+    "vi-",
+    "Prefix “apart”."
+   ],
+   [
+    "√ram",
+    "Root meaning “to delight”: virata, “turned away from delighting in”, abstaining."
+   ],
+   [
+    "-assa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "paṭiyādenti": {
   "meaning": "they prepare; they provide, make ready",
   "gram": "verb, 3rd person plural present of paṭiyādeti",
   "breakdown": [
-   ["paṭi-", "Prefix “towards, for”."],
-   ["yāde", "Stem related to √yat “to arrange, to prepare”."],
-   ["-nti", "Present tense, 3rd person plural ending."]
+   [
+    "paṭi-",
+    "Prefix “towards, for”."
+   ],
+   [
+    "yāde",
+    "Stem related to √yat “to arrange, to prepare”."
+   ],
+   [
+    "-nti",
+    "Present tense, 3rd person plural ending."
+   ]
   ]
  },
  "paṭiññātakaraṇaṁ": {
   "meaning": "acting upon what has been admitted; proceeding according to acknowledgement (a method of settling disciplinary issues)",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "breakdown": [
-   ["paṭiññāta", "Admitted, acknowledged (past participle of paṭijānāti)."],
-   ["karaṇaṁ", "Doing, act."]
+   [
+    "paṭiññāta",
+    "Admitted, acknowledged (past participle of paṭijānāti)."
+   ],
+   [
+    "karaṇaṁ",
+    "Doing, act."
+   ]
   ],
-  "forms": ["paṭiññātakaraṇaṃ"]
+  "forms": [
+   "paṭiññātakaraṇaṃ"
+  ]
  },
  "paṭṭhapanā": {
   "meaning": "setting forth; establishing",
   "gram": "feminine/neuter action noun from paṭṭhapeti",
   "breakdown": [
-   ["pa-", "Prefix “forth”; sandhi doubling of ṭh."],
-   ["ṭhape", "Causative stem of √ṭhā “to stand”: “cause to stand”, establish."],
-   ["-anā", "Action-noun suffix."]
+   [
+    "pa-",
+    "Prefix “forth”; sandhi doubling of ṭh."
+   ],
+   [
+    "ṭhape",
+    "Causative stem of √ṭhā “to stand”: “cause to stand”, establish."
+   ],
+   [
+    "-anā",
+    "Action-noun suffix."
+   ]
   ]
  },
  "paṭṭhapeti": {
   "meaning": "establishes; provides; sets up",
   "gram": "verb, 3rd person singular present, causative of patiṭṭhahati",
   "breakdown": [
-   ["pa-", "Prefix “forth”."],
-   ["ṭhape", "Causative stem of √ṭhā “to stand”."],
-   ["-ti", "Present tense, 3rd person singular ending."]
+   [
+    "pa-",
+    "Prefix “forth”."
+   ],
+   [
+    "ṭhape",
+    "Causative stem of √ṭhā “to stand”."
+   ],
+   [
+    "-ti",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "paṭṭhāya": {
@@ -390,52 +768,100 @@
   "meaning": "thereafter; after death; having passed on (from this world)",
   "gram": "indeclinable; gerund of peti (pa + √i) used adverbially",
   "breakdown": [
-   ["pa-", "Prefix “forth, onward”."],
-   ["√i", "Root meaning “to go”: “having gone on”, i.e. after this life."],
-   ["-cca", "Gerund formation (pa + i + tya > pecca)."]
+   [
+    "pa-",
+    "Prefix “forth, onward”."
+   ],
+   [
+    "√i",
+    "Root meaning “to go”: “having gone on”, i.e. after this life."
+   ],
+   [
+    "-cca",
+    "Gerund formation (pa + i + tya > pecca)."
+   ]
   ]
  },
  "pekkhati": {
   "meaning": "looks at; observes",
   "gram": "verb, 3rd person singular present (pa + √ikkh)",
   "breakdown": [
-   ["pa-", "Prefix “forth, towards”."],
-   ["√ikkh", "Root meaning “to see, to look” (pa + ikkh > pekkh)."],
-   ["-ati", "Present tense, 3rd person singular ending."]
+   [
+    "pa-",
+    "Prefix “forth, towards”."
+   ],
+   [
+    "√ikkh",
+    "Root meaning “to see, to look” (pa + ikkh > pekkh)."
+   ],
+   [
+    "-ati",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "pemanīya": {
   "meaning": "affectionate; agreeable, lovable (of speech)",
   "gram": "adjective from pema (love, affection)",
   "breakdown": [
-   ["pema", "Love, affection (from √pī “to please”)."],
-   ["-anīya", "Adjectival suffix “worthy of, inspiring”."]
+   [
+    "pema",
+    "Love, affection (from √pī “to please”)."
+   ],
+   [
+    "-anīya",
+    "Adjectival suffix “worthy of, inspiring”."
+   ]
   ]
  },
  "pesesi": {
   "meaning": "sent forth; dispatched",
   "gram": "verb, aorist 3rd person singular of peseti",
   "breakdown": [
-   ["pese", "Stem of peseti “to send”."],
-   ["-si", "Aorist 3rd person singular ending."]
+   [
+    "pese",
+    "Stem of peseti “to send”."
+   ],
+   [
+    "-si",
+    "Aorist 3rd person singular ending."
+   ]
   ]
  },
  "pesuññamakāsi": {
   "meaning": "engaged in backbiting; uttered slander (literally “made slander”)",
   "gram": "compound verb phrase, aorist: pesuññaṁ + akāsi",
   "breakdown": [
-   ["pesuññaṁ", "Backbiting, slander (accusative)."],
-   ["m", "The final niggahīta joins the following vowel as m."],
-   ["akāsi", "Made, did (aorist of karoti)."]
+   [
+    "pesuññaṁ",
+    "Backbiting, slander (accusative)."
+   ],
+   [
+    "m",
+    "The final niggahīta joins the following vowel as m."
+   ],
+   [
+    "akāsi",
+    "Made, did (aorist of karoti)."
+   ]
   ]
  },
  "petakiccatthāya": {
   "meaning": "for the purpose of the duties towards the deceased (funeral rites)",
   "gram": "compound, dative singular",
   "breakdown": [
-   ["peta", "The deceased, departed one."],
-   ["kicca", "Duty, what is to be done."],
-   ["atthāya", "For the purpose of, for the sake of (dative)."]
+   [
+    "peta",
+    "The deceased, departed one."
+   ],
+   [
+    "kicca",
+    "Duty, what is to be done."
+   ],
+   [
+    "atthāya",
+    "For the purpose of, for the sake of (dative)."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line runs into the next entry (pettivisaya “the realm of the unhappy ghosts”); only “for the purpose of duties to the deceased” belongs to this headword."
  },
@@ -443,19 +869,40 @@
   "meaning": "“for the sake of the happiness of the attainment of fruition” (with quotation marker)",
   "gram": "compound, dative singular + quotation particle ti",
   "breakdown": [
-   ["phala", "Fruit, fruition (of the path)."],
-   ["samāpatti", "Attainment, meditative absorption."],
-   ["sukha", "Happiness."],
-   ["atthāya", "For the sake of (dative)."],
-   ["ti", "Quotation marker; ā + ti fuse at the boundary (atthāyāti)."]
+   [
+    "phala",
+    "Fruit, fruition (of the path)."
+   ],
+   [
+    "samāpatti",
+    "Attainment, meditative absorption."
+   ],
+   [
+    "sukha",
+    "Happiness."
+   ],
+   [
+    "atthāya",
+    "For the sake of (dative)."
+   ],
+   [
+    "ti",
+    "Quotation marker; ā + ti fuse at the boundary (atthāyāti)."
+   ]
   ]
  },
  "pharusa vācā": {
   "meaning": "harsh speech",
   "gram": "phrase: adjective + feminine noun",
   "breakdown": [
-   ["pharusa", "Harsh, rough."],
-   ["vācā", "Speech, words."]
+   [
+    "pharusa",
+    "Harsh, rough."
+   ],
+   [
+    "vācā",
+    "Speech, words."
+   ]
   ],
   "goenka": "Pharusā vācā, harsh speech, is one of the four kinds of wrong speech to be abandoned in sammāvācā (right speech), alongside lying, slander and idle chatter. Abstaining from harsh words is part of the training in sīla on which samādhi and paññā are built."
  }

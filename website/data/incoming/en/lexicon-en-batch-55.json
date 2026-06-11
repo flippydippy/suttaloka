@@ -3,33 +3,60 @@
   "meaning": "by one become pure; with what has become clean",
   "gram": "adjective, compound (instrumental singular)",
   "breakdown": [
-   ["suci", "Pure, clean."],
-   ["bhūta", "Become (past participle of bhavati)."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "suci",
+    "Pure, clean."
+   ],
+   [
+    "bhūta",
+    "Become (past participle of bhavati)."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "suciṇṇe": {
   "meaning": "well practised; well accomplished (locative)",
   "gram": "adjective (locative singular), from ciṇṇa",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["ciṇṇa", "Practised, performed (past participle of carati, √car)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "ciṇṇa",
+    "Practised, performed (past participle of carati, √car)."
+   ]
   ]
  },
  "suciṇṇo": {
   "meaning": "well practised; well applied",
   "gram": "adjective (nominative singular), from ciṇṇa",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["ciṇṇa", "Practised, performed (past participle of carati, √car)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "ciṇṇa",
+    "Practised, performed (past participle of carati, √car)."
+   ]
   ]
  },
  "suddhadhammā": {
   "meaning": "mere phenomena; nothing but pure (simple, bare) phenomena",
   "gram": "masculine noun, compound (nominative plural)",
   "breakdown": [
-   ["suddha", "Pure; here: simple, mere, nothing else but."],
-   ["dhammā", "Phenomena, elements of experience."]
+   [
+    "suddha",
+    "Pure; here: simple, mere, nothing else but."
+   ],
+   [
+    "dhammā",
+    "Phenomena, elements of experience."
+   ]
   ],
   "goenka": "The phrase suddhadhammā, “mere phenomena”, expresses the insight that what is conventionally taken as a being or self is, when observed with wisdom, nothing but bare phenomena arising and passing according to conditions — there is no permanent entity behind the process."
  },
@@ -37,8 +64,14 @@
   "meaning": "(one purifies) oneself well; oneself made pure",
   "gram": "phrase in sandhi: adjective + reflexive noun (accusative singular)",
   "breakdown": [
-   ["suddhaṁ", "Pure, purified."],
-   ["attānaṁ", "Oneself (accusative of attā). (The -ṁ + a- gives -m- in sandhi.)"]
+   [
+    "suddhaṁ",
+    "Pure, purified."
+   ],
+   [
+    "attānaṁ",
+    "Oneself (accusative of attā). (The -ṁ + a- gives -m- in sandhi.)"
+   ]
   ],
   "note": "uncertain: the lexicon's running breakdown “su + dhama + attānaṁ — well + blow + oneself” reflects a verse context (sudhantaṁ “well blown”); read here as suddhaṁ + attānaṁ “oneself pure”."
  },
@@ -46,31 +79,50 @@
   "meaning": "well taught; well expounded (plural)",
   "gram": "adjective, from desita (nominative/accusative plural neuter)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["desita", "Taught, pointed out (past participle of deseti, √dis)."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "desita",
+    "Taught, pointed out (past participle of deseti, √dis)."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
- },
- "sudesitāni well": {
-  "meaning": "well taught",
-  "gram": "adjective (neuter plural)",
-  "note": "uncertain: this key is a glossary parsing artifact — the English word “well” from the gloss “well taught” was attached to the headword sudesitāni; see the entry sudesitāni."
  },
  "suduttaraṁ": {
   "meaning": "very hard to cross; most difficult to go beyond",
   "gram": "adjective (accusative singular), from tara",
   "breakdown": [
-   ["su-", "Prefix: very (intensifying)."],
-   ["dur- (> dut-)", "Prefix: difficult, hard."],
-   ["√tar + a", "Root “to cross”: crossing over. Together: very hard to cross."]
+   [
+    "su-",
+    "Prefix: very (intensifying)."
+   ],
+   [
+    "dur- (> dut-)",
+    "Prefix: difficult, hard."
+   ],
+   [
+    "√tar + a",
+    "Root “to cross”: crossing over. Together: very hard to cross."
+   ]
   ]
  },
  "sugata": {
   "meaning": "well gone; the Well-Gone One (an epithet of the Buddha)",
   "gram": "adjective / masculine noun, from gata",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["gata", "Gone (past participle of gacchati, √gam)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "gata",
+    "Gone (past participle of gacchati, √gam)."
+   ]
   ],
   "goenka": "Sugata, “the one well gone”, is one of the standard epithets of the Buddha recited in the formula of recollection: he has gone the good way, walking the path to its end without turning back, and his going is wholly faultless."
  },
@@ -78,59 +130,110 @@
   "meaning": "from the discipline of the Well-Gone One; the Sugata's code of moral conduct",
   "gram": "masculine noun, compound (ablative singular)",
   "breakdown": [
-   ["sugata", "The Well-Gone One, the Buddha."],
-   ["vinaya", "Discipline, moral conduct, training rule."]
+   [
+    "sugata",
+    "The Well-Gone One, the Buddha."
+   ],
+   [
+    "vinaya",
+    "Discipline, moral conduct, training rule."
+   ]
   ]
  },
  "sugatiṁ": {
   "meaning": "to a happy state of existence; a good destination (of rebirth)",
   "gram": "feminine abstract noun (accusative singular), from gati",
   "breakdown": [
-   ["su-", "Prefix: good, well."],
-   ["gati", "Going, destination, course of rebirth (√gam + ti)."]
+   [
+    "su-",
+    "Prefix: good, well."
+   ],
+   [
+    "gati",
+    "Going, destination, course of rebirth (√gam + ti)."
+   ]
   ]
  },
  "sugato": {
   "meaning": "well gone; the Well-Gone One (an epithet of the Buddha)",
   "gram": "adjective (nominative singular), from gata",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["gata", "Gone (past participle of gacchati)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "gata",
+    "Gone (past participle of gacchati)."
+   ]
   ]
  },
  "suhado": {
   "meaning": "affectionate; friendly; good-hearted",
   "gram": "adjective (nominative singular), from hada(ya)",
   "breakdown": [
-   ["su-", "Prefix: good."],
-   ["hada", "Heart (hadaya). Together: of good heart, a true friend."]
+   [
+    "su-",
+    "Prefix: good."
+   ],
+   [
+    "hada",
+    "Heart (hadaya). Together: of good heart, a true friend."
+   ]
   ]
  },
  "suhujū": {
   "meaning": "very upright; thoroughly straight (in character)",
   "gram": "adjective (nominative singular), from uju",
   "breakdown": [
-   ["su-", "Prefix: very, well."],
-   ["-h-", "Euphonic consonant inserted in sandhi."],
-   ["uju", "Upright, straight."]
+   [
+    "su-",
+    "Prefix: very, well."
+   ],
+   [
+    "-h-",
+    "Euphonic consonant inserted in sandhi."
+   ],
+   [
+    "uju",
+    "Upright, straight."
+   ]
   ]
  },
  "sukatadukkaṭānaṁ": {
   "meaning": "of deeds well done and badly done",
   "gram": "adjective compound (genitive/dative plural)",
   "breakdown": [
-   ["sukata", "Well done (su + kata, past participle of karoti)."],
-   ["dukkaṭa", "Badly done, wrongdoing (du + kata)."],
-   ["-ānaṁ", "Genitive/dative plural ending."]
+   [
+    "sukata",
+    "Well done (su + kata, past participle of karoti)."
+   ],
+   [
+    "dukkaṭa",
+    "Badly done, wrongdoing (du + kata)."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive/dative plural ending."
+   ]
   ]
  },
  "sukhakāmāni": {
   "meaning": "desiring happiness (of beings that long for happiness)",
   "gram": "adjective, compound (nominative/accusative plural neuter)",
   "breakdown": [
-   ["sukha", "Happiness."],
-   ["kāma", "Desiring, longing for."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "sukha",
+    "Happiness."
+   ],
+   [
+    "kāma",
+    "Desiring, longing for."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
  },
  "sukhamanveti": {
@@ -138,32 +241,56 @@
   "summary": "From Dhammapada 2: happiness follows the pure mind as the never-departing shadow.",
   "gram": "compound verb phrase in sandhi: noun (accusative) + verb 3rd person singular",
   "breakdown": [
-   ["sukhaṁ", "Happiness (accusative singular)."],
-   ["anveti", "Follows (anu + eti). (The -ṁ + a- gives -m- in sandhi.)"]
+   [
+    "sukhaṁ",
+    "Happiness (accusative singular)."
+   ],
+   [
+    "anveti",
+    "Follows (anu + eti). (The -ṁ + a- gives -m- in sandhi.)"
+   ]
   ]
  },
  "sukhamesāno": {
   "meaning": "longing for happiness; seeking happiness",
   "gram": "present participle phrase in sandhi: noun (accusative) + middle participle",
   "breakdown": [
-   ["sukhaṁ", "Happiness (accusative singular)."],
-   ["esāna", "Seeking, longing for (middle present participle of esati)."]
+   [
+    "sukhaṁ",
+    "Happiness (accusative singular)."
+   ],
+   [
+    "esāna",
+    "Seeking, longing for (middle present participle of esati)."
+   ]
   ]
  },
  "sukhamāvahāti": {
   "meaning": "brings happiness",
   "gram": "compound verb phrase in sandhi: noun (accusative) + verb 3rd person singular",
   "breakdown": [
-   ["sukhaṁ", "Happiness (accusative singular)."],
-   ["āvahāti", "Brings, conveys (ā + √vah)."]
+   [
+    "sukhaṁ",
+    "Happiness (accusative singular)."
+   ],
+   [
+    "āvahāti",
+    "Brings, conveys (ā + √vah)."
+   ]
   ]
  },
  "sukhino": {
   "meaning": "happy (plural); may they be happy",
   "gram": "adjective, from sukha (nominative plural of sukhī)",
   "breakdown": [
-   ["sukha", "Happiness."],
-   ["-ī (-ino)", "Possessive adjective suffix: possessing happiness."]
+   [
+    "sukha",
+    "Happiness."
+   ],
+   [
+    "-ī (-ino)",
+    "Possessive adjective suffix: possessing happiness."
+   ]
   ]
  },
  "sukhitattā": {
@@ -171,85 +298,159 @@
   "summary": "From the Mettāsutta: sabbe sattā bhavantu sukhitattā — “may all beings be happy in themselves”.",
   "gram": "adjective, compound (nominative plural)",
   "breakdown": [
-   ["sukhita", "Made happy, gladdened (past participle of sukheti)."],
-   ["attā", "Self. Together: whose self is happy."]
+   [
+    "sukhita",
+    "Made happy, gladdened (past participle of sukheti)."
+   ],
+   [
+    "attā",
+    "Self. Together: whose self is happy."
+   ]
   ]
  },
  "sukka": {
   "meaning": "pure; bright; good, white",
   "gram": "adjective (√suc “to shine”)",
   "breakdown": [
-   ["√suc (> suk)", "Root meaning “to shine, be bright”."],
-   ["-ka (-ra)", "Adjectival formation: bright, pure."]
+   [
+    "√suc (> suk)",
+    "Root meaning “to shine, be bright”."
+   ],
+   [
+    "-ka (-ra)",
+    "Adjectival formation: bright, pure."
+   ]
   ]
  },
  "sukkapakkheva": {
   "meaning": "just as in the bright half (the period of the waxing moon)",
   "gram": "masculine noun, compound (locative singular) + emphatic eva",
   "breakdown": [
-   ["sukka", "Bright, white."],
-   ["pakkha", "Half-month, fortnight; side."],
-   ["eva", "Just, like (enclitic, fused in sandhi)."]
+   [
+    "sukka",
+    "Bright, white."
+   ],
+   [
+    "pakkha",
+    "Half-month, fortnight; side."
+   ],
+   [
+    "eva",
+    "Just, like (enclitic, fused in sandhi)."
+   ]
   ]
  },
  "sukkhatiṇakaṭṭhagoma": {
   "meaning": "dry grass, wood and cow dung",
   "gram": "compound noun (stem form)",
   "breakdown": [
-   ["sukkha", "Dry."],
-   ["tiṇa", "Grass."],
-   ["kaṭṭha", "Wood, sticks."],
-   ["goma", "Cow dung (gomaya)."]
+   [
+    "sukkha",
+    "Dry."
+   ],
+   [
+    "tiṇa",
+    "Grass."
+   ],
+   [
+    "kaṭṭha",
+    "Wood, sticks."
+   ],
+   [
+    "goma",
+    "Cow dung (gomaya)."
+   ]
   ]
  },
  "suladdhaṁ": {
   "meaning": "well obtained; a true gain",
   "gram": "adjective (nominative/accusative singular neuter), from laddha",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["laddha", "Obtained (past participle of labhati, √labh)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "laddha",
+    "Obtained (past participle of labhati, √labh)."
+   ]
   ]
  },
  "sumedhapatthanākathā, buddhavaṁsapāḷi, khuddakanikāye.": {
   "meaning": "“The account of Sumedha's aspiration”, in the Buddhavaṁsa text, of the Khuddakanikāya",
   "gram": "phrase (citation of a text passage)",
   "breakdown": [
-   ["sumedhapatthanākathā", "The account (kathā) of the aspiration (patthanā) of Sumedha, the future Buddha."],
-   ["buddhavaṁsapāḷi", "The Buddhavaṁsa text, “Chronicle of the Buddhas”."],
-   ["khuddakanikāye", "In the Khuddakanikāya, the Minor Collection (locative)."]
+   [
+    "sumedhapatthanākathā",
+    "The account (kathā) of the aspiration (patthanā) of Sumedha, the future Buddha."
+   ],
+   [
+    "buddhavaṁsapāḷi",
+    "The Buddhavaṁsa text, “Chronicle of the Buddhas”."
+   ],
+   [
+    "khuddakanikāye",
+    "In the Khuddakanikāya, the Minor Collection (locative)."
+   ]
   ]
  },
  "sumuttā": {
   "meaning": "well released; thoroughly freed",
   "gram": "adjective, from mutta (nominative plural)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["mutta", "Released, freed (past participle of muccati, √muc)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "mutta",
+    "Released, freed (past participle of muccati, √muc)."
+   ]
   ]
  },
  "sunisedhaṁ": {
   "meaning": "well restrained; with thorough prevention",
   "gram": "indeclinable adverb (accusative of sunisedha)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["nisedha", "Prohibition, prevention, restraint (ni + √sidh)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "nisedha",
+    "Prohibition, prevention, restraint (ni + √sidh)."
+   ]
   ]
  },
  "supati": {
   "meaning": "sleeps",
   "gram": "verb, present tense 3rd person singular (√sup)",
   "breakdown": [
-   ["√sup", "Root meaning “to sleep”."],
-   ["-ti", "3rd person singular ending."]
+   [
+    "√sup",
+    "Root meaning “to sleep”."
+   ],
+   [
+    "-ti",
+    "3rd person singular ending."
+   ]
   ],
-  "forms": ["sutto"]
+  "forms": [
+   "sutto"
+  ]
  },
  "supaṭipanno": {
   "meaning": "of good practice; practising well (said of the Saṅgha)",
   "gram": "adjective (nominative singular), from paṭipanna",
   "breakdown": [
-   ["su-", "Prefix: well, good."],
-   ["paṭipanna", "Entered upon the path, practising (past participle of paṭipajjati, √pad)."]
+   [
+    "su-",
+    "Prefix: well, good."
+   ],
+   [
+    "paṭipanna",
+    "Entered upon the path, practising (past participle of paṭipajjati, √pad)."
+   ]
   ],
   "goenka": "Supaṭipanno opens the traditional recollection of the Saṅgha: supaṭipanno bhagavato sāvakasaṅgho — “the order of disciples of the Blessed One practises well”. The community is worthy of respect not by status but by actual practice: walking the straight path of sīla, samādhi and paññā."
  },
@@ -257,46 +458,74 @@
   "meaning": "slept",
   "gram": "aorist 3rd person singular of supati",
   "breakdown": [
-   ["√sup", "Root meaning “to sleep”."],
-   ["-i", "Aorist ending."]
+   [
+    "√sup",
+    "Root meaning “to sleep”."
+   ],
+   [
+    "-i",
+    "Aorist ending."
+   ]
   ]
  },
  "suppatiṭṭhitasaddhe": {
   "meaning": "whose faith is firmly established; with devotion well grounded",
   "gram": "adjective, compound (locative singular / vocative)",
   "breakdown": [
-   ["su-", "Prefix: well. (The doubled pp is sandhi doubling.)"],
-   ["patiṭṭhita", "Established, firmly grounded (past participle of patiṭṭhahati)."],
-   ["saddhā", "Faith, devotion."]
+   [
+    "su-",
+    "Prefix: well. (The doubled pp is sandhi doubling.)"
+   ],
+   [
+    "patiṭṭhita",
+    "Established, firmly grounded (past participle of patiṭṭhahati)."
+   ],
+   [
+    "saddhā",
+    "Faith, devotion."
+   ]
   ]
  },
  "suppayuttā": {
   "meaning": "who engage themselves well; well applied (in body, speech and mind)",
   "gram": "adjective, from payutta (nominative plural)",
   "breakdown": [
-   ["su-", "Prefix: well. (The doubled pp is sandhi doubling.)"],
-   ["payutta", "Engaged, applied (past participle of payuñjati, √yuj)."]
+   [
+    "su-",
+    "Prefix: well. (The doubled pp is sandhi doubling.)"
+   ],
+   [
+    "payutta",
+    "Engaged, applied (past participle of payuñjati, √yuj)."
+   ]
   ]
- },
- "suppayuttā who engage": {
-  "meaning": "who engage themselves well",
-  "gram": "adjective (nominative plural)",
-  "note": "uncertain: this key is a glossary parsing artifact — the English words “who engage” from the gloss were attached to the headword suppayuttā; see the entry suppayuttā."
  },
  "suppaṭividdhā": {
   "meaning": "well penetrated; thoroughly comprehended",
   "gram": "adjective, from paṭividdha (nominative plural)",
   "breakdown": [
-   ["su-", "Prefix: well. (The doubled pp is sandhi doubling.)"],
-   ["paṭividdha", "Penetrated, realised (past participle of paṭivijjhati, √vidh)."]
+   [
+    "su-",
+    "Prefix: well. (The doubled pp is sandhi doubling.)"
+   ],
+   [
+    "paṭividdha",
+    "Penetrated, realised (past participle of paṭivijjhati, √vidh)."
+   ]
   ]
  },
- "supāyāsadhammā": {
+ "sokaparidevadukkhadomanassupāyāsadhammā": {
   "meaning": "subject to (sorrow, lamentation, pain, grief and) despair",
   "gram": "compound fragment (ending of sokaparidevadukkhadomanassupāyāsadhammā)",
   "breakdown": [
-   ["(domanass)upāyāsa", "Despair, deep distress."],
-   ["dhammā", "Subject to, having the nature of (at the end of a compound)."]
+   [
+    "(domanass)upāyāsa",
+    "Despair, deep distress."
+   ],
+   [
+    "dhammā",
+    "Subject to, having the nature of (at the end of a compound)."
+   ]
   ],
   "note": "uncertain: this key is a line-break fragment of sokaparidevadukkhadomanassupāyāsadhammā “beings subject to sorrow, lamentation, pain, grief and despair”."
  },
@@ -304,25 +533,44 @@
   "meaning": "a drunkard; one leading a dissolute life through drink",
   "gram": "masculine noun, compound (nominative singular)",
   "breakdown": [
-   ["surā", "Liquor, intoxicating drink."],
-   ["dhutta", "Rogue, one of wild dissolute living."]
+   [
+    "surā",
+    "Liquor, intoxicating drink."
+   ],
+   [
+    "dhutta",
+    "Rogue, one of wild dissolute living."
+   ]
   ]
- },
- "surāmerayamajjappamādaṭṭhānānu": {
-  "meaning": "indulgence in intoxicants causing carelessness (truncated form)",
-  "gram": "compound noun fragment",
-  "note": "uncertain: this key is a line-break fragment of surāmerayamajjappamādaṭṭhānānuyogo; see the full entry."
  },
  "surāmerayamajjappamādaṭṭhānānuyogo": {
   "meaning": "addiction to liquor, fermented drink and intoxicants, which are occasions for carelessness",
   "gram": "masculine noun, compound (nominative singular)",
   "breakdown": [
-   ["surā", "Liquor, distilled drink."],
-   ["meraya", "Fermented drink."],
-   ["majja", "Intoxicant, what bewilders. (The doubled pp following is sandhi doubling.)"],
-   ["pamāda", "Carelessness, negligence."],
-   ["ṭhāna", "Place, occasion for."],
-   ["anuyoga", "Being addicted to, applying oneself to."]
+   [
+    "surā",
+    "Liquor, distilled drink."
+   ],
+   [
+    "meraya",
+    "Fermented drink."
+   ],
+   [
+    "majja",
+    "Intoxicant, what bewilders. (The doubled pp following is sandhi doubling.)"
+   ],
+   [
+    "pamāda",
+    "Carelessness, negligence."
+   ],
+   [
+    "ṭhāna",
+    "Place, occasion for."
+   ],
+   [
+    "anuyoga",
+    "Being addicted to, applying oneself to."
+   ]
   ],
   "goenka": "This long compound names the object of the fifth precept: abstaining from liquor, fermented drink and intoxicants, because they are occasions for carelessness (pamāda). Intoxication clouds sati and sampajañña, the very faculties the meditator works to sharpen, and so opens the door to breaking every other precept."
  },
@@ -330,81 +578,141 @@
   "meaning": "thoroughly well accomplished; of a quite properly completed kind",
   "gram": "adjective, compound (accusative singular)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["samatta", "Accomplished, complete (saṁ + √ap + ta)."],
-   ["rūpa", "Form, kind; at the end of a compound: “of such a nature”."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "samatta",
+    "Accomplished, complete (saṁ + √ap + ta)."
+   ],
+   [
+    "rūpa",
+    "Form, kind; at the end of a compound: “of such a nature”."
+   ]
   ]
  },
  "susaṁvihitakammantā": {
   "meaning": "whose work and duties are well arranged",
   "gram": "adjective, compound (nominative plural / feminine singular)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["saṁvihita", "Arranged, disposed (past participle of saṁvidahati, √dhā)."],
-   ["kammanta", "Work, duty, occupation."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "saṁvihita",
+    "Arranged, disposed (past participle of saṁvidahati, √dhā)."
+   ],
+   [
+    "kammanta",
+    "Work, duty, occupation."
+   ]
   ]
  },
  "susaṁvihitā": {
   "meaning": "well arranged; well disposed, properly organized",
   "gram": "adjective, from saṁvihita (nominative plural)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["saṁvihita", "Arranged, accomplished (past participle of saṁvidahati, saṁ + vi + √dhā)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "saṁvihita",
+    "Arranged, accomplished (past participle of saṁvidahati, saṁ + vi + √dhā)."
+   ]
   ]
  },
  "susikkhito": {
   "meaning": "well mastered; thoroughly trained",
   "gram": "adjective, from sikkhita (nominative singular)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["sikkhita", "Trained, learned (past participle of sikkhati, √sikkh)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "sikkhita",
+    "Trained, learned (past participle of sikkhati, √sikkh)."
+   ]
   ]
  },
  "sussusāya": {
   "meaning": "by the wish to hear; through willingness to listen, obedience, attendance",
   "gram": "feminine abstract noun (instrumental singular), from sussūsati (√su)",
   "breakdown": [
-   ["sussūsā", "Desire to hear, willingness to listen (desiderative of √su “to hear”)."],
-   ["-āya", "Instrumental singular ending."]
+   [
+    "sussūsā",
+    "Desire to hear, willingness to listen (desiderative of √su “to hear”)."
+   ],
+   [
+    "-āya",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "susumāra": {
   "meaning": "a crocodile",
   "gram": "masculine noun (also spelled suṁsumāra)",
   "breakdown": [
-   ["susu", "Child, young one."],
-   ["māra", "Killer (√mar). Literally: “child-killer”, the crocodile."]
+   [
+    "susu",
+    "Child, young one."
+   ],
+   [
+    "māra",
+    "Killer (√mar). Literally: “child-killer”, the crocodile."
+   ]
   ],
-  "forms": ["suṁsumāra"]
- },
- "susumāra/": {
-  "meaning": "a crocodile (variant listing of susumāra / suṁsumāra)",
-  "gram": "masculine noun",
-  "note": "uncertain: this key is a glossary parsing artifact — a trailing slash from the variant listing susumāra/suṁsumāra; see the entry susumāra."
+  "forms": [
+   "suṁsumāra"
+  ]
  },
  "sutadharo": {
   "meaning": "remembering what has been heard; a keeper of learning",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["suta", "What has been heard, learning (past participle of suṇāti)."],
-   ["dhara", "Holding, keeping, bearing (√dhar)."]
+   [
+    "suta",
+    "What has been heard, learning (past participle of suṇāti)."
+   ],
+   [
+    "dhara",
+    "Holding, keeping, bearing (√dhar)."
+   ]
   ]
  },
  "sutasannicayo": {
   "meaning": "storing up what has been heard; consolidating one's learning",
   "gram": "adjective/masculine noun, compound (nominative singular)",
   "breakdown": [
-   ["suta", "What has been heard, learning."],
-   ["sannicaya", "Piling up, accumulation, consolidation (saṁ + ni + √ci)."]
+   [
+    "suta",
+    "What has been heard, learning."
+   ],
+   [
+    "sannicaya",
+    "Piling up, accumulation, consolidation (saṁ + ni + √ci)."
+   ]
   ]
  },
  "sutavant puthujjano puggalo": {
   "meaning": "an instructed ordinary person; an individual worldling who has heard (the teaching)",
   "gram": "phrase: adjective + masculine noun + masculine noun",
   "breakdown": [
-   ["sutavant", "One who has heard, instructed, learned."],
-   ["puthujjano", "An ordinary worldling, a common person not yet noble."],
-   ["puggalo", "Person, individual."]
+   [
+    "sutavant",
+    "One who has heard, instructed, learned."
+   ],
+   [
+    "puthujjano",
+    "An ordinary worldling, a common person not yet noble."
+   ],
+   [
+    "puggalo",
+    "Person, individual."
+   ]
   ]
  },
  "sutta": {
@@ -412,8 +720,14 @@
   "summary": "The word sutta is left untranslated: a “thread” of teaching, the discourses collected mainly in the Sutta Piṭaka.",
   "gram": "neuter noun; homonym: pp of supati “asleep”",
   "breakdown": [
-   ["sutta", "Thread, string, line; hence a text strung together, a discourse."],
-   ["(√sup + ta)", "As a separate word: slept, asleep (past participle of supati)."]
+   [
+    "sutta",
+    "Thread, string, line; hence a text strung together, a discourse."
+   ],
+   [
+    "(√sup + ta)",
+    "As a separate word: slept, asleep (past participle of supati)."
+   ]
   ],
   "goenka": "The lexicon notes that the word sutta remains untranslated. Its meaning is “thread, text, line of…”, and it relates in general to the narrational dialogues of the Buddha, mainly collected in the Sutta Piṭaka — the threads of the teaching on which the practice is strung."
  }

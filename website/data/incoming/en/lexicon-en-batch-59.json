@@ -1,374 +1,614 @@
 {
-  "tiparivaṭṭaṁ": {
-    "meaning": "the three rounds; threefold turning (of the Dhamma wheel)",
-    "gram": "masculine noun, accusative singular (compound)",
-    "breakdown": [
-      ["ti", "Three."],
-      ["pari", "Prefix: “all around”."],
-      ["vaṭṭa", "Round, turning."]
-    ],
-    "forms": ["tiparivaṭṭaṃ"]
-  },
-  "tipiṭaka": {
-    "meaning": "the Tipiṭaka, the “three baskets” — the threefold collection of the Pāli Canon",
-    "gram": "neuter noun (compound)",
-    "breakdown": [
-      ["ti", "Three."],
-      ["piṭaka", "Basket, collection — the Vinaya, Sutta and Abhidhamma collections."]
-    ],
-    "forms": ["Tipiṭaka"]
-  },
-  "tiriyañca": {
-    "meaning": "and across; and horizontally",
-    "gram": "sandhi fusion (tiriyaṁ + ca), adverb + conjunction",
-    "breakdown": [
-      ["tiriyaṁ", "Across, horizontally, transversely."],
-      ["ca", "And (the preceding ṁ becomes ñ before c)."]
-    ]
-  },
-  "tiro": {
-    "meaning": "through, across, beyond",
-    "gram": "indeclinable preposition (from tiras)"
-  },
-  "titikkhā": {
-    "meaning": "patience, endurance, forbearance",
-    "gram": "feminine noun (from titikkhati)",
-    "breakdown": [
-      ["√tij", "Root (desiderative formation): to endure, to bear patiently."],
-      ["-khā", "Noun formation: titikkhā “forbearance”."]
-    ]
-  },
-  "tittakalābubījaṁ": {
-    "meaning": "the seed of the bitter gourd",
-    "gram": "neuter noun, nominative/accusative singular (compound)",
-    "breakdown": [
-      ["titta", "Bitter."],
-      ["kalābu", "Gourd, pumpkin."],
-      ["bīja", "Seed."]
-    ],
-    "forms": ["tittakalābubījaṃ"]
-  },
-  "tittakattāya": {
-    "meaning": "to bitterness; for the state of being bitter",
-    "gram": "neuter abstract noun, dative singular",
-    "breakdown": [
-      ["tittaka", "Bitter."],
-      ["-tta", "Abstract-noun suffix: “the state of being”."],
-      ["-āya", "Dative singular ending."]
-    ]
-  },
-  "titthakaro": {
-    "meaning": "a ford-maker; a religious founder, founder of a sect",
-    "gram": "masculine noun, nominative singular (compound)",
-    "breakdown": [
-      ["tittha", "Ford, crossing place; figuratively a religious system."],
-      ["kara", "Maker (from √kar “to do, make”)."]
-    ]
-  },
-  "titthiyasamādānaṁ": {
-    "meaning": "undergoing what the Titthiyas (sectarian ascetics) do; taking up the observances of other sects",
-    "gram": "neuter noun, nominative/accusative singular (compound)",
-    "breakdown": [
-      ["titthiya", "A sectarian ascetic, an adherent of another school."],
-      ["samādāna", "Taking upon oneself, undertaking."]
-    ],
-    "goenka": "The Titthiya ascetics are mentioned in the Mahāvagga (Uposathakkhandhaka): King Bimbisāra, while in meditation, notices that the Titthiyas hold regular meetings where their followers visit them and ask for Dhamma to be preached. He suggests to the Buddha that the Bhikkhus should do likewise for their own benefit and the benefit of their lay-followers, and the Buddha agrees, inviting the Bhikkhus to assemble in the same way.",
-    "forms": ["titthiyasamādānaṃ", "Titthiyasamādānaṃ"]
-  },
-  "tiṇagge": {
-    "meaning": "on the tip of a blade of grass",
-    "gram": "locative singular (compound)",
-    "breakdown": [
-      ["tiṇa", "Grass, weed."],
-      ["agga", "Top, tip."]
-    ]
-  },
-  "tiṇukkūpamā": {
-    "meaning": "the simile of the grass torch",
-    "gram": "feminine noun / adjective, nominative singular (compound)",
-    "breakdown": [
-      ["tiṇa", "Grass."],
-      ["ukkā", "Torch (tiṇukkā: a torch made of grass; the final ā merges with the following u)."],
-      ["upamā", "Simile, comparison."]
-    ]
-  },
-  "tiṇṇa": {
-    "meaning": "crossed over; one who has overcome",
-    "gram": "past participle of tarati (√tar)",
-    "breakdown": [
-      ["√tar", "Root meaning “to cross”."],
-      ["-na", "Past participle suffix (assimilated: tiṇṇa)."]
-    ]
-  },
-  "tiṇṇaṁ": {
-    "meaning": "of three",
-    "gram": "cardinal numeral, genitive plural of ti",
-    "forms": ["tiṇṇaṃ"]
-  },
-  "tiṭṭhaṁ": {
-    "meaning": "(while) standing",
-    "gram": "present participle of tiṭṭhati (√ṭhā), masculine nominative singular",
-    "breakdown": [
-      ["tiṭṭha", "Present stem of √ṭhā “to stand”."],
-      ["-ṁ", "Nominative singular of the present participle (tiṭṭhanta)."]
-    ],
-    "forms": ["tiṭṭhaṃ"]
-  },
-  "tuccha": {
-    "meaning": "empty, vain, devoid",
-    "gram": "adjective"
-  },
-  "tulādhāro": {
-    "meaning": "one holding the scales; a weigher",
-    "gram": "masculine agent noun, nominative singular (compound)",
-    "breakdown": [
-      ["tulā", "Scale, balance."],
-      ["dhāra", "Holding, bearing (from √dhar)."]
-    ]
-  },
-  "tulākūṭakaṁsakūṭamānakūṭā": {
-    "meaning": "false scales, false plates (coinage) and false measures — deception in weighing, coinage and measuring",
-    "gram": "noun, plural (compound)",
-    "breakdown": [
-      ["tulā", "Scale, weighing balance."],
-      ["kūṭa", "False, fraudulent, deceptive."],
-      ["kaṁsa", "Bronze plate; coinage, money."],
-      ["māna", "Measure, measurement."]
-    ],
-    "forms": ["tulākūṭakaṃsakūṭamānakūṭā"]
-  },
-  "tusitapure": {
-    "meaning": "in the Tusita city; in the celestial city of the Tusita devas",
-    "gram": "neuter noun, locative singular (compound)",
-    "breakdown": [
-      ["tusita", "Tusita, the heaven of the contented devas."],
-      ["pura", "City, town."]
-    ]
-  },
-  "tuṇhī": {
-    "meaning": "silent; silently",
-    "gram": "indeclinable adverb"
-  },
-  "tuṇhībhūtaṁ": {
-    "meaning": "become silent; silent",
-    "gram": "past participle of tuṇhībhavati, accusative singular",
-    "breakdown": [
-      ["tuṇhī", "Silently."],
-      ["bhūta", "Become, made (past participle of bhavati)."]
-    ],
-    "forms": ["tuṇhībhūtaṃ"]
-  },
-  "tuṇhībhūtā": {
-    "meaning": "become silent; (sitting) in silence",
-    "gram": "past participle of tuṇhībhavati, nominative plural / feminine singular",
-    "breakdown": [
-      ["tuṇhī", "Silently."],
-      ["bhūta", "Become, made (past participle of bhavati)."]
-    ]
-  },
-  "tveva": {
-    "meaning": "thus indeed; in this very way",
-    "gram": "sandhi fusion (iti/tu + eva), indeclinable",
-    "breakdown": [
-      ["ti", "Quotation marker iti, contracted (or the particle tu)."],
-      ["eva", "Emphatic particle: “just, indeed”."]
-    ]
-  },
-  "tāpasaparibbājakā": {
-    "meaning": "ascetics and wandering recluses",
-    "gram": "masculine noun, nominative plural (compound)",
-    "breakdown": [
-      ["tāpasa", "Ascetic, hermit (one who practises tapas)."],
-      ["paribbājaka", "Wandering recluse, mendicant wanderer."]
-    ]
-  },
-  "tāsu": {
-    "meaning": "in those; among those",
-    "gram": "pronoun, locative feminine plural of ta"
-  },
-  "tāsveva": {
-    "meaning": "in those very ones; just in those",
-    "gram": "sandhi fusion (tāsu + eva), pronoun locative feminine plural + emphatic particle",
-    "breakdown": [
-      ["tāsu", "In those (locative feminine plural; a connecting v bridges to eva)."],
-      ["eva", "Emphatic particle: “even, just” — emphasis, as in the repetition tāsu tāsu."]
-    ]
-  },
-  "tāta": {
-    "meaning": "dear one; respected one; father (also used affectionately for a son)",
-    "gram": "masculine noun, vocative singular"
-  },
-  "tāva": {
-    "meaning": "so much; so long; first of all",
-    "gram": "indeclinable adverb"
-  },
-  "tāvatiṁsā": {
-    "meaning": "the Tāvatiṁsa devas; the realm of the Thirty-three gods",
-    "summary": "The heaven of the Thirty-three, considered to stand on top of the mythical mountain Sineru (Meru).",
-    "gram": "proper noun, masculine plural",
-    "breakdown": [
-      ["tāvatiṁsa", "Thirty-three (te-ttiṁsa): the heaven of the thirty-three gods."]
-    ],
-    "forms": ["Tāvatiṃsā"]
-  },
-  "tāyanti": {
-    "meaning": "they shelter, protect",
-    "gram": "verb, 3rd person plural present (of tāyati, √tā)",
-    "breakdown": [
-      ["√tā", "Root meaning “to protect”."],
-      ["-nti", "3rd person plural present ending."]
-    ]
-  },
-  "tīragocarā": {
-    "meaning": "dwelling along the bank; having the shore as their feeding ground",
-    "gram": "adjective, nominative plural (compound)",
-    "breakdown": [
-      ["tīra", "Shore, bank."],
-      ["gocara", "Sphere, dwelling, feeding ground (literally “cow pasture”)."]
-    ]
-  },
-  "tīramevānudhāvati": {
-    "meaning": "runs along just this shore; follows along the very bank",
-    "gram": "sandhi fusion (tīraṁ + eva + anudhāvati), verb phrase",
-    "breakdown": [
-      ["tīraṁ", "Shore, bank (accusative)."],
-      ["eva", "Just, this very (emphatic; merges with the following a: evānu-)."],
-      ["anudhāvati", "Runs along, follows (anu “along” + √dhāv “to run”)."]
-    ]
-  },
-  "tīsu sikkhāsu": {
-    "meaning": "in the three trainings (sīla, samādhi, paññā)",
-    "gram": "phrase, locative plural",
-    "breakdown": [
-      ["tīsu", "In three (locative plural of ti)."],
-      ["sikkhāsu", "In the trainings (locative plural of sikkhā)."]
-    ],
-    "goenka": "The three trainings — tīsu sikkhāsu — are sīla (morality), samādhi (concentration, mastery of the mind) and paññā (experiential wisdom). They form the framework of the entire path: moral conduct is the base, concentration steadies the mind upon it, and wisdom purifies it through direct insight."
-  },
-  "tīṇiyeva": {
-    "meaning": "just three; only three",
-    "gram": "sandhi fusion (tīṇi + [y] + eva), numeral + emphatic particle",
-    "breakdown": [
-      ["tīṇi", "Three (neuter)."],
-      ["eva", "Emphatic particle: “just, only” (a connecting y bridges the two words)."]
-    ]
-  },
-  "ubbalakhādikā: d": {
-    "meaning": "eating away one's strength; consumption of one's vigour (dubbalakhādikā)",
-    "gram": "feminine noun (compound)",
-    "breakdown": [
-      ["du-", "Prefix: bad, poor (the initial d is detached by a line break in the source: dubbala)."],
-      ["bala", "Strength (with sandhi doubling: dubbala “weak, of poor strength”)."],
-      ["khādikā", "Eating, consuming."]
-    ],
-    "note": "uncertain: the source lemma is split by a line break; the full word is dubbalakhādikā “eating away the strength (of the weak)”."
-  },
-  "ubhayabyābādhāyapi": {
-    "meaning": "also to the affliction of both (sides)",
-    "gram": "masculine noun, dative singular + particle (compound)",
-    "breakdown": [
-      ["ubhaya", "Both, both sides."],
-      ["byābādha", "Pain, evil, affliction, misery."],
-      ["-āya", "Dative singular ending."],
-      ["pi", "Also, even."]
-    ]
-  },
-  "ubhayattha": {
-    "meaning": "in both places; in both cases",
-    "gram": "adverb (indeclinable, compound)"
-  },
-  "ubhinnaṁ": {
-    "meaning": "of both",
-    "gram": "pronoun, genitive of ubho",
-    "forms": ["ubhinnaṃ"]
-  },
-  "ubho": {
-    "meaning": "both",
-    "gram": "pronoun (nominative/accusative dual form)"
-  },
-  "ucce": {
-    "meaning": "high, up; lofty",
-    "gram": "adjective, locative singular (of ucca)"
-  },
-  "uccheda": {
-    "meaning": "extirpation, annihilation",
-    "gram": "masculine noun (from ucchindati)",
-    "breakdown": [
-      ["ud", "Prefix: up, out."],
-      ["√chid", "Root meaning “to cut”; uccheda is the cutting-off, annihilation."]
-    ]
-  },
-  "ucchijjati": {
-    "meaning": "ceases; is annihilated, gets cut off",
-    "gram": "verb, 3rd person singular, passive of ucchindati (√chid)",
-    "breakdown": [
-      ["ud", "Prefix: up, out."],
-      ["chijja", "Passive stem of √chid “to cut”."],
-      ["-ti", "3rd person singular ending."]
-    ]
-  },
-  "ucchubījaṁ": {
-    "meaning": "sugar-cane seed",
-    "gram": "neuter noun, nominative/accusative singular (compound)",
-    "breakdown": [
-      ["ucchu", "Sugar cane."],
-      ["bīja", "Seed."]
-    ],
-    "forms": ["ucchubījaṃ"]
-  },
-  "ucchādanaparimaddananhāpanasamb": {
-    "meaning": "anointing, massaging and bathing (first part of ucchādanaparimaddananhāpanasambāhanaṁ)",
-    "gram": "word fragment (line-break)",
-    "note": "uncertain: this is a truncated fragment of ucchādanaparimaddananhāpanasambāhanaṁ in the source, not an independent word."
-  },
-  "ucchādanaparimaddananhāpanasambāhanaṁ": {
-    "meaning": "anointing with perfumes and oil, rubbing, bathing and massage",
-    "gram": "neuter noun, nominative/accusative singular (compound)",
-    "breakdown": [
-      ["ucchādana", "Anointing with perfumes and oil."],
-      ["parimaddana", "Rubbing, shampooing."],
-      ["nhāpana", "Bathing, washing."],
-      ["sambāhana", "Massage, kneading."]
-    ],
-    "forms": ["ucchādanaparimaddananhāpanasambāhanaṃ"]
-  },
-  "ucchādanaparimaddananhāpana­": {
-    "meaning": "anointing, rubbing and bathing (first part of ucchādanaparimaddananhāpanasambāhanaṁ)",
-    "gram": "word fragment (line-break hyphenation)",
-    "note": "uncertain: this is a hyphenated line-break fragment of ucchādanaparimaddananhāpanasambāhanaṁ in the source, not an independent word."
-  },
-  "uccini": {
-    "meaning": "selected, picked, chose",
-    "gram": "verb, aorist 3rd person singular of uccināti (ud + √ci)",
-    "breakdown": [
-      ["ud", "Prefix: up, out."],
-      ["√ci", "Root meaning “to gather, collect”: uccināti “to pick out, select”."]
-    ]
-  },
-  "uccāsayana": {
-    "meaning": "a high bed; lofty couch",
-    "gram": "neuter noun (compound)",
-    "breakdown": [
-      ["uccā", "High, lofty."],
-      ["sayana", "Bed, couch (from √si “to lie down”)."]
-    ]
-  },
-  "uccāsayana high": {
-    "meaning": "a high bed; lofty couch (duplicate listing of uccāsayana)",
-    "gram": "neuter noun (compound)",
-    "note": "uncertain: the key includes the stray English word “high” from the source layout; the Pāli lemma is uccāsayana."
-  },
-  "uda": {
-    "meaning": "or",
-    "gram": "disjunctive particle (indeclinable)"
-  },
-  "udakalekhūpamo": {
-    "meaning": "like writing on water; comparable to a line drawn on water",
-    "gram": "adjective, masculine nominative singular (compound)",
-    "breakdown": [
-      ["udaka", "Water."],
-      ["lekhā", "Writing, line, scratch (final vowel merges with the following u)."],
-      ["upama", "Simile, like, comparable to."]
-    ]
-  }
+ "tiparivaṭṭaṁ": {
+  "meaning": "the three rounds; threefold turning (of the Dhamma wheel)",
+  "gram": "masculine noun, accusative singular (compound)",
+  "breakdown": [
+   [
+    "ti",
+    "Three."
+   ],
+   [
+    "pari",
+    "Prefix: “all around”."
+   ],
+   [
+    "vaṭṭa",
+    "Round, turning."
+   ]
+  ],
+  "forms": [
+   "tiparivaṭṭaṃ"
+  ]
+ },
+ "tipiṭaka": {
+  "meaning": "the Tipiṭaka, the “three baskets” — the threefold collection of the Pāli Canon",
+  "gram": "neuter noun (compound)",
+  "breakdown": [
+   [
+    "ti",
+    "Three."
+   ],
+   [
+    "piṭaka",
+    "Basket, collection — the Vinaya, Sutta and Abhidhamma collections."
+   ]
+  ],
+  "forms": [
+   "Tipiṭaka"
+  ]
+ },
+ "tiriyañca": {
+  "meaning": "and across; and horizontally",
+  "gram": "sandhi fusion (tiriyaṁ + ca), adverb + conjunction",
+  "breakdown": [
+   [
+    "tiriyaṁ",
+    "Across, horizontally, transversely."
+   ],
+   [
+    "ca",
+    "And (the preceding ṁ becomes ñ before c)."
+   ]
+  ]
+ },
+ "tiro": {
+  "meaning": "through, across, beyond",
+  "gram": "indeclinable preposition (from tiras)"
+ },
+ "titikkhā": {
+  "meaning": "patience, endurance, forbearance",
+  "gram": "feminine noun (from titikkhati)",
+  "breakdown": [
+   [
+    "√tij",
+    "Root (desiderative formation): to endure, to bear patiently."
+   ],
+   [
+    "-khā",
+    "Noun formation: titikkhā “forbearance”."
+   ]
+  ]
+ },
+ "tittakalābubījaṁ": {
+  "meaning": "the seed of the bitter gourd",
+  "gram": "neuter noun, nominative/accusative singular (compound)",
+  "breakdown": [
+   [
+    "titta",
+    "Bitter."
+   ],
+   [
+    "kalābu",
+    "Gourd, pumpkin."
+   ],
+   [
+    "bīja",
+    "Seed."
+   ]
+  ],
+  "forms": [
+   "tittakalābubījaṃ"
+  ]
+ },
+ "tittakattāya": {
+  "meaning": "to bitterness; for the state of being bitter",
+  "gram": "neuter abstract noun, dative singular",
+  "breakdown": [
+   [
+    "tittaka",
+    "Bitter."
+   ],
+   [
+    "-tta",
+    "Abstract-noun suffix: “the state of being”."
+   ],
+   [
+    "-āya",
+    "Dative singular ending."
+   ]
+  ]
+ },
+ "titthakaro": {
+  "meaning": "a ford-maker; a religious founder, founder of a sect",
+  "gram": "masculine noun, nominative singular (compound)",
+  "breakdown": [
+   [
+    "tittha",
+    "Ford, crossing place; figuratively a religious system."
+   ],
+   [
+    "kara",
+    "Maker (from √kar “to do, make”)."
+   ]
+  ]
+ },
+ "titthiyasamādānaṁ": {
+  "meaning": "undergoing what the Titthiyas (sectarian ascetics) do; taking up the observances of other sects",
+  "gram": "neuter noun, nominative/accusative singular (compound)",
+  "breakdown": [
+   [
+    "titthiya",
+    "A sectarian ascetic, an adherent of another school."
+   ],
+   [
+    "samādāna",
+    "Taking upon oneself, undertaking."
+   ]
+  ],
+  "goenka": "The Titthiya ascetics are mentioned in the Mahāvagga (Uposathakkhandhaka): King Bimbisāra, while in meditation, notices that the Titthiyas hold regular meetings where their followers visit them and ask for Dhamma to be preached. He suggests to the Buddha that the Bhikkhus should do likewise for their own benefit and the benefit of their lay-followers, and the Buddha agrees, inviting the Bhikkhus to assemble in the same way.",
+  "forms": [
+   "titthiyasamādānaṃ",
+   "Titthiyasamādānaṃ"
+  ]
+ },
+ "tiṇagge": {
+  "meaning": "on the tip of a blade of grass",
+  "gram": "locative singular (compound)",
+  "breakdown": [
+   [
+    "tiṇa",
+    "Grass, weed."
+   ],
+   [
+    "agga",
+    "Top, tip."
+   ]
+  ]
+ },
+ "tiṇukkūpamā": {
+  "meaning": "the simile of the grass torch",
+  "gram": "feminine noun / adjective, nominative singular (compound)",
+  "breakdown": [
+   [
+    "tiṇa",
+    "Grass."
+   ],
+   [
+    "ukkā",
+    "Torch (tiṇukkā: a torch made of grass; the final ā merges with the following u)."
+   ],
+   [
+    "upamā",
+    "Simile, comparison."
+   ]
+  ]
+ },
+ "tiṇṇa": {
+  "meaning": "crossed over; one who has overcome",
+  "gram": "past participle of tarati (√tar)",
+  "breakdown": [
+   [
+    "√tar",
+    "Root meaning “to cross”."
+   ],
+   [
+    "-na",
+    "Past participle suffix (assimilated: tiṇṇa)."
+   ]
+  ]
+ },
+ "tiṇṇaṁ": {
+  "meaning": "of three",
+  "gram": "cardinal numeral, genitive plural of ti",
+  "forms": [
+   "tiṇṇaṃ"
+  ]
+ },
+ "tiṭṭhaṁ": {
+  "meaning": "(while) standing",
+  "gram": "present participle of tiṭṭhati (√ṭhā), masculine nominative singular",
+  "breakdown": [
+   [
+    "tiṭṭha",
+    "Present stem of √ṭhā “to stand”."
+   ],
+   [
+    "-ṁ",
+    "Nominative singular of the present participle (tiṭṭhanta)."
+   ]
+  ],
+  "forms": [
+   "tiṭṭhaṃ"
+  ]
+ },
+ "tuccha": {
+  "meaning": "empty, vain, devoid",
+  "gram": "adjective"
+ },
+ "tulādhāro": {
+  "meaning": "one holding the scales; a weigher",
+  "gram": "masculine agent noun, nominative singular (compound)",
+  "breakdown": [
+   [
+    "tulā",
+    "Scale, balance."
+   ],
+   [
+    "dhāra",
+    "Holding, bearing (from √dhar)."
+   ]
+  ]
+ },
+ "tulākūṭakaṁsakūṭamānakūṭā": {
+  "meaning": "false scales, false plates (coinage) and false measures — deception in weighing, coinage and measuring",
+  "gram": "noun, plural (compound)",
+  "breakdown": [
+   [
+    "tulā",
+    "Scale, weighing balance."
+   ],
+   [
+    "kūṭa",
+    "False, fraudulent, deceptive."
+   ],
+   [
+    "kaṁsa",
+    "Bronze plate; coinage, money."
+   ],
+   [
+    "māna",
+    "Measure, measurement."
+   ]
+  ],
+  "forms": [
+   "tulākūṭakaṃsakūṭamānakūṭā"
+  ]
+ },
+ "tusitapure": {
+  "meaning": "in the Tusita city; in the celestial city of the Tusita devas",
+  "gram": "neuter noun, locative singular (compound)",
+  "breakdown": [
+   [
+    "tusita",
+    "Tusita, the heaven of the contented devas."
+   ],
+   [
+    "pura",
+    "City, town."
+   ]
+  ]
+ },
+ "tuṇhī": {
+  "meaning": "silent; silently",
+  "gram": "indeclinable adverb"
+ },
+ "tuṇhībhūtaṁ": {
+  "meaning": "become silent; silent",
+  "gram": "past participle of tuṇhībhavati, accusative singular",
+  "breakdown": [
+   [
+    "tuṇhī",
+    "Silently."
+   ],
+   [
+    "bhūta",
+    "Become, made (past participle of bhavati)."
+   ]
+  ],
+  "forms": [
+   "tuṇhībhūtaṃ"
+  ]
+ },
+ "tuṇhībhūtā": {
+  "meaning": "become silent; (sitting) in silence",
+  "gram": "past participle of tuṇhībhavati, nominative plural / feminine singular",
+  "breakdown": [
+   [
+    "tuṇhī",
+    "Silently."
+   ],
+   [
+    "bhūta",
+    "Become, made (past participle of bhavati)."
+   ]
+  ]
+ },
+ "tveva": {
+  "meaning": "thus indeed; in this very way",
+  "gram": "sandhi fusion (iti/tu + eva), indeclinable",
+  "breakdown": [
+   [
+    "ti",
+    "Quotation marker iti, contracted (or the particle tu)."
+   ],
+   [
+    "eva",
+    "Emphatic particle: “just, indeed”."
+   ]
+  ]
+ },
+ "tāpasaparibbājakā": {
+  "meaning": "ascetics and wandering recluses",
+  "gram": "masculine noun, nominative plural (compound)",
+  "breakdown": [
+   [
+    "tāpasa",
+    "Ascetic, hermit (one who practises tapas)."
+   ],
+   [
+    "paribbājaka",
+    "Wandering recluse, mendicant wanderer."
+   ]
+  ]
+ },
+ "tāsu": {
+  "meaning": "in those; among those",
+  "gram": "pronoun, locative feminine plural of ta"
+ },
+ "tāsveva": {
+  "meaning": "in those very ones; just in those",
+  "gram": "sandhi fusion (tāsu + eva), pronoun locative feminine plural + emphatic particle",
+  "breakdown": [
+   [
+    "tāsu",
+    "In those (locative feminine plural; a connecting v bridges to eva)."
+   ],
+   [
+    "eva",
+    "Emphatic particle: “even, just” — emphasis, as in the repetition tāsu tāsu."
+   ]
+  ]
+ },
+ "tāta": {
+  "meaning": "dear one; respected one; father (also used affectionately for a son)",
+  "gram": "masculine noun, vocative singular"
+ },
+ "tāva": {
+  "meaning": "so much; so long; first of all",
+  "gram": "indeclinable adverb"
+ },
+ "tāvatiṁsā": {
+  "meaning": "the Tāvatiṁsa devas; the realm of the Thirty-three gods",
+  "summary": "The heaven of the Thirty-three, considered to stand on top of the mythical mountain Sineru (Meru).",
+  "gram": "proper noun, masculine plural",
+  "breakdown": [
+   [
+    "tāvatiṁsa",
+    "Thirty-three (te-ttiṁsa): the heaven of the thirty-three gods."
+   ]
+  ],
+  "forms": [
+   "Tāvatiṃsā"
+  ]
+ },
+ "tāyanti": {
+  "meaning": "they shelter, protect",
+  "gram": "verb, 3rd person plural present (of tāyati, √tā)",
+  "breakdown": [
+   [
+    "√tā",
+    "Root meaning “to protect”."
+   ],
+   [
+    "-nti",
+    "3rd person plural present ending."
+   ]
+  ]
+ },
+ "tīragocarā": {
+  "meaning": "dwelling along the bank; having the shore as their feeding ground",
+  "gram": "adjective, nominative plural (compound)",
+  "breakdown": [
+   [
+    "tīra",
+    "Shore, bank."
+   ],
+   [
+    "gocara",
+    "Sphere, dwelling, feeding ground (literally “cow pasture”)."
+   ]
+  ]
+ },
+ "tīramevānudhāvati": {
+  "meaning": "runs along just this shore; follows along the very bank",
+  "gram": "sandhi fusion (tīraṁ + eva + anudhāvati), verb phrase",
+  "breakdown": [
+   [
+    "tīraṁ",
+    "Shore, bank (accusative)."
+   ],
+   [
+    "eva",
+    "Just, this very (emphatic; merges with the following a: evānu-)."
+   ],
+   [
+    "anudhāvati",
+    "Runs along, follows (anu “along” + √dhāv “to run”)."
+   ]
+  ]
+ },
+ "tīsu sikkhāsu": {
+  "meaning": "in the three trainings (sīla, samādhi, paññā)",
+  "gram": "phrase, locative plural",
+  "breakdown": [
+   [
+    "tīsu",
+    "In three (locative plural of ti)."
+   ],
+   [
+    "sikkhāsu",
+    "In the trainings (locative plural of sikkhā)."
+   ]
+  ],
+  "goenka": "The three trainings — tīsu sikkhāsu — are sīla (morality), samādhi (concentration, mastery of the mind) and paññā (experiential wisdom). They form the framework of the entire path: moral conduct is the base, concentration steadies the mind upon it, and wisdom purifies it through direct insight."
+ },
+ "tīṇiyeva": {
+  "meaning": "just three; only three",
+  "gram": "sandhi fusion (tīṇi + [y] + eva), numeral + emphatic particle",
+  "breakdown": [
+   [
+    "tīṇi",
+    "Three (neuter)."
+   ],
+   [
+    "eva",
+    "Emphatic particle: “just, only” (a connecting y bridges the two words)."
+   ]
+  ]
+ },
+ "ubhayabyābādhāyapi": {
+  "meaning": "also to the affliction of both (sides)",
+  "gram": "masculine noun, dative singular + particle (compound)",
+  "breakdown": [
+   [
+    "ubhaya",
+    "Both, both sides."
+   ],
+   [
+    "byābādha",
+    "Pain, evil, affliction, misery."
+   ],
+   [
+    "-āya",
+    "Dative singular ending."
+   ],
+   [
+    "pi",
+    "Also, even."
+   ]
+  ]
+ },
+ "ubhayattha": {
+  "meaning": "in both places; in both cases",
+  "gram": "adverb (indeclinable, compound)"
+ },
+ "ubhinnaṁ": {
+  "meaning": "of both",
+  "gram": "pronoun, genitive of ubho",
+  "forms": [
+   "ubhinnaṃ"
+  ]
+ },
+ "ubho": {
+  "meaning": "both",
+  "gram": "pronoun (nominative/accusative dual form)"
+ },
+ "ucce": {
+  "meaning": "high, up; lofty",
+  "gram": "adjective, locative singular (of ucca)"
+ },
+ "uccheda": {
+  "meaning": "extirpation, annihilation",
+  "gram": "masculine noun (from ucchindati)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out."
+   ],
+   [
+    "√chid",
+    "Root meaning “to cut”; uccheda is the cutting-off, annihilation."
+   ]
+  ]
+ },
+ "ucchijjati": {
+  "meaning": "ceases; is annihilated, gets cut off",
+  "gram": "verb, 3rd person singular, passive of ucchindati (√chid)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out."
+   ],
+   [
+    "chijja",
+    "Passive stem of √chid “to cut”."
+   ],
+   [
+    "-ti",
+    "3rd person singular ending."
+   ]
+  ]
+ },
+ "ucchubījaṁ": {
+  "meaning": "sugar-cane seed",
+  "gram": "neuter noun, nominative/accusative singular (compound)",
+  "breakdown": [
+   [
+    "ucchu",
+    "Sugar cane."
+   ],
+   [
+    "bīja",
+    "Seed."
+   ]
+  ],
+  "forms": [
+   "ucchubījaṃ"
+  ]
+ },
+ "ucchādanaparimaddananhāpanasambāhanaṁ": {
+  "meaning": "anointing with perfumes and oil, rubbing, bathing and massage",
+  "gram": "neuter noun, nominative/accusative singular (compound)",
+  "breakdown": [
+   [
+    "ucchādana",
+    "Anointing with perfumes and oil."
+   ],
+   [
+    "parimaddana",
+    "Rubbing, shampooing."
+   ],
+   [
+    "nhāpana",
+    "Bathing, washing."
+   ],
+   [
+    "sambāhana",
+    "Massage, kneading."
+   ]
+  ],
+  "forms": [
+   "ucchādanaparimaddananhāpanasambāhanaṃ"
+  ]
+ },
+ "uccini": {
+  "meaning": "selected, picked, chose",
+  "gram": "verb, aorist 3rd person singular of uccināti (ud + √ci)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out."
+   ],
+   [
+    "√ci",
+    "Root meaning “to gather, collect”: uccināti “to pick out, select”."
+   ]
+  ]
+ },
+ "uccāsayana": {
+  "meaning": "a high bed; lofty couch",
+  "gram": "neuter noun (compound)",
+  "breakdown": [
+   [
+    "uccā",
+    "High, lofty."
+   ],
+   [
+    "sayana",
+    "Bed, couch (from √si “to lie down”)."
+   ]
+  ]
+ },
+ "uda": {
+  "meaning": "or",
+  "gram": "disjunctive particle (indeclinable)"
+ },
+ "udakalekhūpamo": {
+  "meaning": "like writing on water; comparable to a line drawn on water",
+  "gram": "adjective, masculine nominative singular (compound)",
+  "breakdown": [
+   [
+    "udaka",
+    "Water."
+   ],
+   [
+    "lekhā",
+    "Writing, line, scratch (final vowel merges with the following u)."
+   ],
+   [
+    "upama",
+    "Simile, like, comparable to."
+   ]
+  ]
+ }
 }

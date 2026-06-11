@@ -3,27 +3,50 @@
   "meaning": "having gone too far; having overstepped, gone beyond one’s limits",
   "gram": "absolutive (gerund) of atisarati (ati + √sar)",
   "breakdown": [
-   ["ati", "Prefix: beyond, over."],
-   ["√sar", "Root “to move, go”."],
-   ["-itvā", "Absolutive suffix: “having done”."]
+   [
+    "ati",
+    "Prefix: beyond, over."
+   ],
+   [
+    "√sar",
+    "Root “to move, go”."
+   ],
+   [
+    "-itvā",
+    "Absolutive suffix: “having done”."
+   ]
   ]
  },
  "ativattati": {
   "meaning": "to transgress; to go beyond",
   "gram": "verb, present tense, 3rd person singular (ati + √vatt)",
   "breakdown": [
-   ["ati", "Prefix: beyond, over."],
-   ["vattati", "Proceeds, goes on; from √vatt “to turn, proceed”."]
+   [
+    "ati",
+    "Prefix: beyond, over."
+   ],
+   [
+    "vattati",
+    "Proceeds, goes on; from √vatt “to turn, proceed”."
+   ]
   ]
  },
  "ativelaṁ": {
   "meaning": "too long; beyond the proper time",
   "gram": "adverb / adjective (ati + velā “time, limit”)",
   "breakdown": [
-   ["ati", "Prefix: beyond, excessively."],
-   ["velaṁ", "Time, proper limit; from velā."]
+   [
+    "ati",
+    "Prefix: beyond, excessively."
+   ],
+   [
+    "velaṁ",
+    "Time, proper limit; from velā."
+   ]
   ],
-  "forms": ["ativelaṃ"]
+  "forms": [
+   "ativelaṃ"
+  ]
  },
  "ativiya": {
   "meaning": "very much; even more; exceedingly",
@@ -33,149 +56,264 @@
   "meaning": "also to one’s own harm; even to the affliction of oneself",
   "gram": "masculine noun, dative singular, compound + particle (atta + byābādha + pi)",
   "breakdown": [
-   ["atta", "Oneself, self."],
-   ["byābādhāya", "To pain, harm, misery; dative singular of byābādha."],
-   ["pi", "Also, even (enclitic particle)."]
+   [
+    "atta",
+    "Oneself, self."
+   ],
+   [
+    "byābādhāya",
+    "To pain, harm, misery; dative singular of byābādha."
+   ],
+   [
+    "pi",
+    "Also, even (enclitic particle)."
+   ]
   ]
- },
- "attained": {
-  "meaning": "attained + one’s own + goal, wealth (gloss of a compound such as anuppattasadattho, “one who has attained his own goal”)",
-  "gram": "glossary artifact (English fragment)",
-  "note": "uncertain: this headword is an English glossary-row artifact, not a Pāli word; the gloss belongs to a compound meaning “having attained one’s own goal”."
  },
  "attakilamathānuyogo": {
   "meaning": "the practice of self-mortification; devotion to self-weariness",
   "summary": "This compound names one of the two extremes rejected in the Buddha’s first discourse: the pursuit of self-torment.",
   "gram": "masculine noun, nominative singular, compound (atta + kilamatha + anuyoga)",
   "breakdown": [
-   ["atta", "Self, oneself."],
-   ["kilamatha", "Weariness, exhaustion, mortification."],
-   ["anuyogo", "Practice of, devotion to, application (kilamatha + anuyoga coalesces to kilamathānuyoga)."]
+   [
+    "atta",
+    "Self, oneself."
+   ],
+   [
+    "kilamatha",
+    "Weariness, exhaustion, mortification."
+   ],
+   [
+    "anuyogo",
+    "Practice of, devotion to, application (kilamatha + anuyoga coalesces to kilamathānuyoga)."
+   ]
   ]
  },
  "attasammāpaṇidhi": {
   "meaning": "right aspiration for oneself; setting oneself in the right direction",
   "gram": "masculine noun, compound (atta + sammā + paṇidhi)",
   "breakdown": [
-   ["atta", "Self, oneself."],
-   ["sammā", "Right, proper."],
-   ["paṇidhi", "Aspiration, resolve, direction of the mind."]
+   [
+    "atta",
+    "Self, oneself."
+   ],
+   [
+    "sammā",
+    "Right, proper."
+   ],
+   [
+    "paṇidhi",
+    "Aspiration, resolve, direction of the mind."
+   ]
   ]
  },
  "atthabhañjako": {
   "meaning": "spoiling another’s welfare; breaking the good of others",
   "gram": "adjective, nominative singular masculine, compound (attha + bhañjaka)",
   "breakdown": [
-   ["attha", "Welfare, benefit, good."],
-   ["bhañjako", "Breaking, spoiling; from √bhañj “to break”."]
+   [
+    "attha",
+    "Welfare, benefit, good."
+   ],
+   [
+    "bhañjako",
+    "Breaking, spoiling; from √bhañj “to break”."
+   ]
   ]
  },
  "atthaddho": {
   "meaning": "not stupid; intelligent; not rigid",
   "gram": "past participle, nominative singular masculine, of na thambhati (na + √thambh)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following t)."],
-   ["thaddho", "Rigid, obstinate, dull; past participle of thambhati."]
+   [
+    "a-",
+    "Negative prefix meaning “not” (with sandhi doubling of the following t)."
+   ],
+   [
+    "thaddho",
+    "Rigid, obstinate, dull; past participle of thambhati."
+   ]
   ]
  },
  "atthagacchati": {
   "meaning": "to disappear; to go out of existence; to set",
   "gram": "verb, present tense, 3rd person singular (atthaṁ + gacchati, “goes home/to setting”)",
   "breakdown": [
-   ["attha", "Home, setting (as of the sun); disappearance."],
-   ["gacchati", "Goes; from √gam."]
+   [
+    "attha",
+    "Home, setting (as of the sun); disappearance."
+   ],
+   [
+    "gacchati",
+    "Goes; from √gam."
+   ]
   ]
  },
  "atthagamana": {
   "meaning": "setting (of the sun); going down",
   "gram": "neuter noun, compound (attha + gamana)",
   "breakdown": [
-   ["attha", "Home, setting; disappearance."],
-   ["gamana", "Going; from √gam."]
+   [
+    "attha",
+    "Home, setting; disappearance."
+   ],
+   [
+    "gamana",
+    "Going; from √gam."
+   ]
   ]
  },
  "atthakkhāyī": {
   "meaning": "telling what is beneficial; giving good advice",
   "gram": "adjective, compound (attha + akkhāyī)",
   "breakdown": [
-   ["attha", "Benefit, welfare, wealth."],
-   ["akkhāyī", "Telling, declaring; from akkhāti “to announce” (attha + akkhāyī coalesces with doubling of the k)."]
+   [
+    "attha",
+    "Benefit, welfare, wealth."
+   ],
+   [
+    "akkhāyī",
+    "Telling, declaring; from akkhāti “to announce” (attha + akkhāyī coalesces with doubling of the k)."
+   ]
   ]
  },
  "atthakusalena": {
   "meaning": "by one proficient in the good; skilled in what is advantageous",
   "gram": "adjective, instrumental singular, compound (attha + kusala)",
   "breakdown": [
-   ["attha", "Advantage, benefit, the good."],
-   ["kusalena", "Proficient, skilful; instrumental singular of kusala."]
+   [
+    "attha",
+    "Advantage, benefit, the good."
+   ],
+   [
+    "kusalena",
+    "Proficient, skilful; instrumental singular of kusala."
+   ]
   ]
  },
  "atthakāmā": {
   "meaning": "wishing welfare; well-wishing, desiring another’s good",
   "gram": "adjective, compound (attha + kāma)",
   "breakdown": [
-   ["attha", "Welfare, gain, fortune."],
-   ["kāmā", "Wishing, desiring."]
+   [
+    "attha",
+    "Welfare, gain, fortune."
+   ],
+   [
+    "kāmā",
+    "Wishing, desiring."
+   ]
   ]
  },
  "atthamaññātuṁ": {
   "meaning": "to understand the meaning; to grasp the sense",
   "gram": "infinitive of atthaṁ ājānāti (atthaṁ + aññātuṁ)",
   "breakdown": [
-   ["atthaṁ", "Meaning, sense (accusative)."],
-   ["aññātuṁ", "To understand; infinitive of ājānāti (the m bridges the vowels in sandhi)."]
+   [
+    "atthaṁ",
+    "Meaning, sense (accusative)."
+   ],
+   [
+    "aññātuṁ",
+    "To understand; infinitive of ājānāti (the m bridges the vowels in sandhi)."
+   ]
   ],
-  "forms": ["atthamaññātuṃ"]
+  "forms": [
+   "atthamaññātuṃ"
+  ]
  },
  "atthangama": {
   "meaning": "disappearance; annihilation; setting",
   "gram": "masculine noun, compound (atthaṁ + gama)",
   "breakdown": [
-   ["attha", "Home, setting; disappearance."],
-   ["gama", "Going; from √gam."]
+   [
+    "attha",
+    "Home, setting; disappearance."
+   ],
+   [
+    "gama",
+    "Going; from √gam."
+   ]
   ]
  },
  "atthangata": {
   "meaning": "gone home; set (as the sun); disappeared",
   "gram": "past participle, compound (atthaṁ + gata)",
   "breakdown": [
-   ["attha", "Home, setting."],
-   ["gata", "Gone; past participle of gacchati."]
+   [
+    "attha",
+    "Home, setting."
+   ],
+   [
+    "gata",
+    "Gone; past participle of gacchati."
+   ]
   ]
  },
  "attharāpesi": {
   "meaning": "had (it) spread out; caused to be covered",
   "gram": "verb, aorist 3rd person singular, causative of attharati (ā + √thar)",
   "breakdown": [
-   ["ā", "Verbal prefix."],
-   ["√thar", "Root “to spread”."],
-   ["-āpesi", "Causative aorist ending: “caused to”."]
+   [
+    "ā",
+    "Verbal prefix."
+   ],
+   [
+    "√thar",
+    "Root “to spread”."
+   ],
+   [
+    "-āpesi",
+    "Causative aorist ending: “caused to”."
+   ]
   ]
  },
  "atthasaṁhita": {
   "meaning": "endowed with benefit; connected with the good",
   "gram": "adjective, compound (attha + saṁhita)",
   "breakdown": [
-   ["attha", "Benefit, welfare, meaning."],
-   ["saṁhita", "Endowed with, connected with; past participle of sandahati."]
+   [
+    "attha",
+    "Benefit, welfare, meaning."
+   ],
+   [
+    "saṁhita",
+    "Endowed with, connected with; past participle of sandahati."
+   ]
   ],
-  "forms": ["atthasaṃhita"]
+  "forms": [
+   "atthasaṃhita"
+  ]
  },
  "atthavasaṁ": {
   "meaning": "reason; consequence; advantage",
   "gram": "neuter noun, accusative singular, compound (attha + vasa)",
   "breakdown": [
-   ["attha", "Benefit, purpose."],
-   ["vasaṁ", "Influence, power; in this compound: reason, consequence."]
+   [
+    "attha",
+    "Benefit, purpose."
+   ],
+   [
+    "vasaṁ",
+    "Influence, power; in this compound: reason, consequence."
+   ]
   ],
-  "forms": ["atthavasaṃ"]
+  "forms": [
+   "atthavasaṃ"
+  ]
  },
  "atthaṅgamā": {
   "meaning": "disappearance; annihilation; setting",
   "gram": "masculine noun (from atthaṁ gacchati “goes to its setting”)",
   "breakdown": [
-   ["atthaṁ", "Home, setting; disappearance."],
-   ["gamā", "Going; from √gam."]
+   [
+    "atthaṁ",
+    "Home, setting; disappearance."
+   ],
+   [
+    "gamā",
+    "Going; from √gam."
+   ]
   ]
  },
  "atthi": {
@@ -186,150 +324,265 @@
   "meaning": "comprehension of the meaning; grasping of what is beneficial",
   "gram": "masculine noun, ablative singular, compound (attha + abhisamaya)",
   "breakdown": [
-   ["attha", "Meaning, benefit, the good."],
-   ["abhisamayā", "Comprehension, penetration, realization (attha + abhisamaya coalesces to atthābhisamaya)."]
+   [
+    "attha",
+    "Meaning, benefit, the good."
+   ],
+   [
+    "abhisamayā",
+    "Comprehension, penetration, realization (attha + abhisamaya coalesces to atthābhisamaya)."
+   ]
   ]
  },
  "atthāya": {
   "meaning": "for the benefit; for the sake of",
   "gram": "masculine noun, dative singular of attha",
   "breakdown": [
-   ["attha", "Benefit, welfare, purpose."],
-   ["-āya", "Dative singular ending: “for”."]
+   [
+    "attha",
+    "Benefit, welfare, purpose."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: “for”."
+   ]
   ]
  },
  "attupanāyiko": {
   "meaning": "referring to oneself; applied to oneself",
   "gram": "adjective, nominative singular masculine, compound (atta + upanāyika)",
   "breakdown": [
-   ["atta", "Self, oneself (atta + upa- coalesces to attupa-)."],
-   ["upanāyiko", "Referring to, leading up to; from upa + √nī “to lead”."]
+   [
+    "atta",
+    "Self, oneself (atta + upa- coalesces to attupa-)."
+   ],
+   [
+    "upanāyiko",
+    "Referring to, leading up to; from upa + √nī “to lead”."
+   ]
   ]
  },
  "attāpi": {
   "meaning": "even oneself; the self also",
   "gram": "masculine noun, nominative singular + enclitic particle (attā + api)",
   "breakdown": [
-   ["attā", "Self, oneself; nominative singular of atta."],
-   ["pi", "Also, even (api, fused by sandhi)."]
+   [
+    "attā",
+    "Self, oneself; nominative singular of atta."
+   ],
+   [
+    "pi",
+    "Also, even (api, fused by sandhi)."
+   ]
   ]
  },
  "attāpissa": {
   "meaning": "even of one’s own person; also of his self",
   "gram": "sandhi phrase: attā + api + assa (genitive)",
   "breakdown": [
-   ["attā", "Self, oneself."],
-   ["pi", "Also, even (api)."],
-   ["assa", "Of him, of one; genitive singular pronoun."]
+   [
+    "attā",
+    "Self, oneself."
+   ],
+   [
+    "pi",
+    "Also, even (api)."
+   ],
+   [
+    "assa",
+    "Of him, of one; genitive singular pronoun."
+   ]
   ]
  },
  "atītamaddhānaṁ": {
   "meaning": "in the past; during past time",
   "gram": "adverb, accusative singular, compound (atīta + addhāna “stretch of time”)",
   "breakdown": [
-   ["atīta", "Past, gone by; past participle of accayati (ati + √i)."],
-   ["-m-", "Bridging consonant in sandhi."],
-   ["addhānaṁ", "Time, a stretch of time."]
+   [
+    "atīta",
+    "Past, gone by; past participle of accayati (ati + √i)."
+   ],
+   [
+    "-m-",
+    "Bridging consonant in sandhi."
+   ],
+   [
+    "addhānaṁ",
+    "Time, a stretch of time."
+   ]
   ],
-  "forms": ["atītamaddhānaṃ"]
- },
- "atītamaddhānaṁ in the": {
-  "meaning": "atītamaddhānaṁ: in the past",
-  "gram": "adverb, compound",
-  "note": "uncertain: this headword is a glossary-row artifact; the entry is atītamaddhānaṁ with the gloss “in the past”. See atītamaddhānaṁ."
+  "forms": [
+   "atītamaddhānaṃ"
+  ]
  },
  "atītassa": {
   "meaning": "of the past; of what has gone by",
   "gram": "past participle of accayati used as noun, genitive singular (ati + √i + ta)",
   "breakdown": [
-   ["ati", "Prefix: beyond, over."],
-   ["√i", "Root “to go”; atīta is “gone beyond, past”."],
-   ["-assa", "Genitive singular ending: “of”."]
+   [
+    "ati",
+    "Prefix: beyond, over."
+   ],
+   [
+    "√i",
+    "Root “to go”; atīta is “gone beyond, past”."
+   ],
+   [
+    "-assa",
+    "Genitive singular ending: “of”."
+   ]
   ]
  },
  "atītassānusocanā": {
   "meaning": "lamenting over the past; worrying about what has gone",
   "gram": "feminine noun, compound (atītassa + anusocanā)",
   "breakdown": [
-   ["atītassa", "Of the past (genitive)."],
-   ["anusocanā", "Lamenting, grieving over; from anu + √suc (the vowels coalesce to -assānu-)."]
+   [
+    "atītassa",
+    "Of the past (genitive)."
+   ],
+   [
+    "anusocanā",
+    "Lamenting, grieving over; from anu + √suc (the vowels coalesce to -assānu-)."
+   ]
   ]
  },
  "atītaṁ": {
   "meaning": "the past; gone by",
   "gram": "neuter noun / past participle of accayati (ati + √i + ta)",
   "breakdown": [
-   ["ati", "Prefix: beyond, over."],
-   ["√i", "Root “to go”; the lexicon notes the literal sense “not standing”, what has passed on."],
-   ["-ta", "Past participle suffix."]
+   [
+    "ati",
+    "Prefix: beyond, over."
+   ],
+   [
+    "√i",
+    "Root “to go”; the lexicon notes the literal sense “not standing”, what has passed on."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
   ],
-  "forms": ["atītaṃ"]
+  "forms": [
+   "atītaṃ"
+  ]
  },
  "atītānāgatapaccuppannaṁ": {
   "meaning": "past, future and present",
   "gram": "adjective, compound (atīta + anāgata + paccuppanna)",
   "breakdown": [
-   ["atīta", "Past, gone by."],
-   ["anāgata", "Future, not yet come (atīta + anāgata coalesces to atītānāgata)."],
-   ["paccuppannaṁ", "Present, arisen right now."]
+   [
+    "atīta",
+    "Past, gone by."
+   ],
+   [
+    "anāgata",
+    "Future, not yet come (atīta + anāgata coalesces to atītānāgata)."
+   ],
+   [
+    "paccuppannaṁ",
+    "Present, arisen right now."
+   ]
   ],
-  "forms": ["atītānāgatapaccuppannaṃ"]
- },
- "atītānāgatapaccuppan­": {
-  "meaning": "past, future and present",
-  "gram": "adjective, compound",
-  "note": "uncertain: this headword is a line-break fragment of atītānāgatapaccuppannaṁ in the source vocabulary; see that entry.",
-  "forms": ["atītānāgatapaccuppannaṁ"]
+  "forms": [
+   "atītānāgatapaccuppannaṃ"
+  ]
  },
  "avadhi": {
   "meaning": "struck; killed, punished",
   "gram": "verb, aorist 3rd person singular of vadhati (√vadh)",
   "breakdown": [
-   ["a-", "Aorist augment."],
-   ["√vadh", "Root “to strike, kill”."],
-   ["-i", "Aorist ending."]
+   [
+    "a-",
+    "Aorist augment."
+   ],
+   [
+    "√vadh",
+    "Root “to strike, kill”."
+   ],
+   [
+    "-i",
+    "Aorist ending."
+   ]
   ]
  },
  "avadhī": {
   "meaning": "killed; struck down",
   "gram": "verb, aorist 3rd person singular of vadhati (√vadh)",
   "breakdown": [
-   ["a-", "Aorist augment."],
-   ["√vadh", "Root “to strike, kill”."],
-   ["-ī", "Aorist ending (lengthened variant)."]
+   [
+    "a-",
+    "Aorist augment."
+   ],
+   [
+    "√vadh",
+    "Root “to strike, kill”."
+   ],
+   [
+    "-ī",
+    "Aorist ending (lengthened variant)."
+   ]
   ]
  },
  "avagacchati": {
   "meaning": "to come to; to approach, visit",
   "gram": "verb, present tense, 3rd person singular (ava + √gam)",
   "breakdown": [
-   ["ava", "Prefix: down, towards."],
-   ["gacchati", "Goes; from √gam."]
+   [
+    "ava",
+    "Prefix: down, towards."
+   ],
+   [
+    "gacchati",
+    "Goes; from √gam."
+   ]
   ]
  },
  "avagata": {
   "meaning": "known, understood",
   "gram": "past participle of avagacchati (ava + √gam + ta)",
   "breakdown": [
-   ["ava", "Prefix: down; here giving the sense of grasping."],
-   ["gata", "Gone; past participle of gacchati; avagata “arrived at, understood”."]
+   [
+    "ava",
+    "Prefix: down; here giving the sense of grasping."
+   ],
+   [
+    "gata",
+    "Gone; past participle of gacchati; avagata “arrived at, understood”."
+   ]
   ]
  },
  "avajja": {
   "meaning": "blameable; low, inferior",
   "gram": "adjective / neuter noun (na + √vajj + ya, “to be avoided”)",
   "breakdown": [
-   ["a-", "Negative prefix."],
-   ["vajja", "What should be avoided or blamed; potential participle from √vajj."]
+   [
+    "a-",
+    "Negative prefix."
+   ],
+   [
+    "vajja",
+    "What should be avoided or blamed; potential participle from √vajj."
+   ]
   ]
  },
  "avaṅkā akuṭilā ajimhā": {
   "meaning": "not bent, not crooked, not deceitful; straight and honest",
   "gram": "phrase (three negated adjectives)",
   "breakdown": [
-   ["avaṅkā", "Not bent (a- “not” + vaṅka “bent, crooked”)."],
-   ["akuṭilā", "Not crooked, not deceitful (a- + kuṭila)."],
-   ["ajimhā", "Not slanted, straight, honest (a- + jimha “crooked”)."]
+   [
+    "avaṅkā",
+    "Not bent (a- “not” + vaṅka “bent, crooked”)."
+   ],
+   [
+    "akuṭilā",
+    "Not crooked, not deceitful (a- + kuṭila)."
+   ],
+   [
+    "ajimhā",
+    "Not slanted, straight, honest (a- + jimha “crooked”)."
+   ]
   ]
  },
  "avecca": {
@@ -340,59 +593,108 @@
   "meaning": "with perfect faith; with unshakable confidence",
   "gram": "masculine noun, instrumental singular, compound (avecca + pasāda)",
   "breakdown": [
-   ["avecca", "Fully, perfectly; having understood (gerund of aveti, with sandhi doubling of the following p)."],
-   ["pasādena", "With faith, confidence, serene trust; instrumental singular of pasāda."]
+   [
+    "avecca",
+    "Fully, perfectly; having understood (gerund of aveti, with sandhi doubling of the following p)."
+   ],
+   [
+    "pasādena",
+    "With faith, confidence, serene trust; instrumental singular of pasāda."
+   ]
   ]
  },
  "avekallatā": {
   "meaning": "absence of deficiency; completeness",
   "gram": "feminine abstract noun (na + vekalla + -tā)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “without”."],
-   ["vekalla", "Deficiency, defectiveness; from vi + √kal."],
-   ["-tā", "Abstract noun suffix: “the state of”."]
+   [
+    "a-",
+    "Negative prefix meaning “without”."
+   ],
+   [
+    "vekalla",
+    "Deficiency, defectiveness; from vi + √kal."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: “the state of”."
+   ]
   ]
  },
  "averamasapattaṁ": {
   "meaning": "without hatred and without enmity",
   "gram": "phrase, sandhi fusion (averaṁ + asapattaṁ)",
   "breakdown": [
-   ["averaṁ", "Without hatred (a- “without” + vera “hatred, enmity”)."],
-   ["asapattaṁ", "Without enmity, without rivals (a- + sapatta “rival, foe”); the m bridges the two words in sandhi."]
+   [
+    "averaṁ",
+    "Without hatred (a- “without” + vera “hatred, enmity”)."
+   ],
+   [
+    "asapattaṁ",
+    "Without enmity, without rivals (a- + sapatta “rival, foe”); the m bridges the two words in sandhi."
+   ]
   ],
-  "forms": ["averamasapattaṃ"]
+  "forms": [
+   "averamasapattaṃ"
+  ]
  },
  "avibhattā": {
   "meaning": "not detailed; not divided, not analysed",
   "gram": "past participle of na vibhajati (na + vi + √bhaj)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["vibhattā", "Divided, analysed, detailed; past participle of vibhajati."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "vibhattā",
+    "Divided, analysed, detailed; past participle of vibhajati."
+   ]
   ]
  },
  "avicāraṁ": {
   "meaning": "without sustained application; without moving (of the mind over its object)",
   "gram": "adjective (na + vicāra)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “without”."],
-   ["vicāraṁ", "Sustained application of the mind, examining movement of thought; from vi + √car."]
+   [
+    "a-",
+    "Negative prefix meaning “without”."
+   ],
+   [
+    "vicāraṁ",
+    "Sustained application of the mind, examining movement of thought; from vi + √car."
+   ]
   ],
-  "forms": ["avicāraṃ"]
+  "forms": [
+   "avicāraṃ"
+  ]
  },
  "avidūre": {
   "meaning": "not far; near",
   "gram": "adjective, locative singular (na + vidūra)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["vidūre", "Far, distant; locative of vidūra."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "vidūre",
+    "Far, distant; locative of vidūra."
+   ]
   ]
  },
  "avigatapaccayo": {
   "meaning": "non-disappearance condition (one of the twenty-four conditions of the Paṭṭhāna)",
   "gram": "masculine noun, compound (avigata + paccaya)",
   "breakdown": [
-   ["avigata", "Not disappeared, not gone away (a- + vigata, past participle of vigacchati)."],
-   ["paccayo", "Condition, supporting cause."]
+   [
+    "avigata",
+    "Not disappeared, not gone away (a- + vigata, past participle of vigacchati)."
+   ],
+   [
+    "paccayo",
+    "Condition, supporting cause."
+   ]
   ]
  },
  "avihiṁsāsaṅkappo": {
@@ -400,11 +702,22 @@
   "summary": "This compound names one aspect of right thought (sammāsaṅkappa) on the Noble Eightfold Path.",
   "gram": "masculine noun, nominative singular, compound (na + vihiṁsā + saṅkappa)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not, free from”."],
-   ["vihiṁsā", "Hurting, cruelty, violence."],
-   ["saṅkappo", "Thought, intention."]
+   [
+    "a-",
+    "Negative prefix meaning “not, free from”."
+   ],
+   [
+    "vihiṁsā",
+    "Hurting, cruelty, violence."
+   ],
+   [
+    "saṅkappo",
+    "Thought, intention."
+   ]
   ],
   "goenka": "Avihiṁsāsaṅkappo, the thought of non-violence, is one of the three aspects of right thought (sammāsaṅkappa) on the Noble Eightfold Path, together with the thought of renunciation and the thought free from ill will. When such thoughts are cultivated and repeatedly dwelt upon, the mind becomes predisposed to non-violence; they harm neither oneself nor others, strengthen wisdom and are conducive to nibbāna.",
-  "forms": ["avihiṃsāsaṅkappo"]
+  "forms": [
+   "avihiṃsāsaṅkappo"
+  ]
  }
 }

@@ -1,407 +1,719 @@
 {
-  "vācā": {
-    "meaning": "speech, words; what is spoken",
-    "gram": "feminine noun (√vac, to speak)",
-    "breakdown": [
-      ["√vac", "Root: to speak. vācā: speech, utterance."]
-    ]
-  },
-  "vādita": {
-    "meaning": "instrumental music",
-    "gram": "neuter noun (past participle of vādeti used as noun)",
-    "breakdown": [
-      ["√vad", "Root: to sound, speak. Causative vādeti: to play (an instrument)."],
-      ["-ita", "Past participle suffix; vādita: what is played — instrumental music."]
-    ]
-  },
-  "vādita instrumental": {
-    "meaning": "vādita: instrumental music",
-    "summary": "A glossary fragment; the entry is simply the word vādita, “instrumental music”.",
-    "gram": "neuter noun (glossary fragment)",
-    "breakdown": [
-      ["vādita", "Instrumental music (past participle of vādeti, to play)."]
-    ]
-  },
-  "vāhaṁ": {
-    "meaning": "and I (va/eva + ahaṁ); or: carrying, a load",
-    "gram": "sandhi fusion (va + ahaṁ) as glossed in the lexicon",
-    "breakdown": [
-      ["va", "And, as, even (shortened particle)."],
-      ["ahaṁ", "I (first person pronoun). Sandhi: va + ahaṁ > vāhaṁ."]
-    ],
-    "forms": ["vāhaṃ"]
-  },
-  "vālabījaniyā": {
-    "meaning": "a chowrie; a fan or whisk made of a yak's tail",
-    "gram": "feminine noun (vālabījanī), oblique singular",
-    "breakdown": [
-      ["vāla", "Tail-hair (of a yak or horse)."],
-      ["bījanī", "Fan, whisk."]
-    ]
-  },
-  "vārigocaro": {
-    "meaning": "dwelling in water; having water as its range (said of a fish)",
-    "gram": "adjective compound, masculine nominative singular",
-    "breakdown": [
-      ["vāri", "Water."],
-      ["gocara", "Range, pasture, dwelling-place (go “cow” + cara “roaming”: grazing ground)."]
-    ]
-  },
-  "vāritta": {
-    "meaning": "avoidance, abstinence (what is to be avoided)",
-    "gram": "neuter noun (√var, to obstruct)",
-    "breakdown": [
-      ["√var", "Root: to obstruct, ward off. vāritta: avoidance — the side of morality consisting in abstaining."]
-    ]
-  },
-  "vāsessanti": {
-    "meaning": "they will make dwell; they will cause to live (somewhere)",
-    "gram": "verb, 3rd person plural future, causative of vasati (√vas)",
-    "breakdown": [
-      ["√vas", "Root: to dwell. Causative stem vāse: to cause to dwell."],
-      ["-ssanti", "3rd person plural future ending."]
-    ]
-  },
-  "vātehi": {
-    "meaning": "by the winds",
-    "gram": "masculine noun, instrumental plural of vāta",
-    "breakdown": [
-      ["vāta", "Wind (√vā, to blow)."],
-      ["-ehi", "Instrumental plural ending: by."]
-    ]
-  },
-  "vāto": {
-    "meaning": "wind; air, the wind element",
-    "gram": "masculine noun, nominative singular (√vā, to blow)",
-    "breakdown": [
-      ["√vā", "Root: to blow."],
-      ["-ta", "Suffix; vāta: the blowing — wind."]
-    ]
-  },
-  "vāyamati": {
-    "meaning": "strives, endeavours; makes effort",
-    "gram": "verb, 3rd person singular present (vi + ā + √yam)",
-    "breakdown": [
-      ["vi + ā", "Prefixes: contracted to vāya- before the root."],
-      ["√yam", "Root: to restrain, exert. vāyamati: to strive, endeavour."],
-      ["-ati", "3rd person singular present ending."]
-    ]
-  },
-  "vāyāmo": {
-    "meaning": "effort, striving, exertion",
-    "gram": "masculine noun, nominative singular (from vāyamati)",
-    "breakdown": [
-      ["vi + ā", "Prefixes contracted to vāyā-."],
-      ["√yam", "Root: to exert. vāyāma: effort — as in sammāvāyāmo, right effort."]
-    ]
-  },
-  "vīmaṁsāya": {
-    "meaning": "by investigation, by examination",
-    "gram": "feminine noun, instrumental singular of vīmaṁsā",
-    "breakdown": [
-      ["vīmaṁsā", "Investigation, examination (desiderative formation from √man, to think)."],
-      ["-āya", "Instrumental (or dative) singular ending."]
-    ],
-    "forms": ["vīmaṃsāya"]
-  },
-  "vīriyamārabhato": {
-    "meaning": "of one putting forth energy; for one undertaking exertion",
-    "gram": "present participle phrase, genitive/dative singular (vīriyaṁ + ārabhato)",
-    "breakdown": [
-      ["vīriya", "Energy, vigour (accusative vīriyaṁ; the -m- is sandhi)."],
-      ["ārabhant", "Undertaking, putting forth (present participle of ārabhati; genitive ārabhato)."]
-    ]
-  },
-  "vītamaccharo": {
-    "meaning": "free from miserliness; devoid of stinginess",
-    "gram": "adjective compound, masculine nominative singular",
-    "breakdown": [
-      ["vīta", "Free from, devoid of (past participle of vi + √i, gone away)."],
-      ["macchara", "Miserliness, stinginess, selfishness."]
-    ]
-  },
-  "vītikkamassa": {
-    "meaning": "of transgression; of overstepping (a rule)",
-    "gram": "masculine noun, genitive singular (vi + ati + √kam)",
-    "breakdown": [
-      ["vi + ati (vīti-)", "Prefixes: beyond, over."],
-      ["√kam", "Root: to step. vītikkama: overstepping — transgression."],
-      ["-assa", "Genitive singular ending."]
-    ]
-  },
-  "vītikkamitabbavatthusamāyoge": {
-    "meaning": "when there is occasion combining with an object that could be transgressed against; in the combination of circumstances for transgression",
-    "gram": "compound noun, locative singular",
-    "breakdown": [
-      ["vītikkamitabba", "To be transgressed (future passive participle of vītikkamati)."],
-      ["vatthu", "Ground, object, basis."],
-      ["samāyoga", "Combination, conjunction (here locative)."]
-    ]
-  },
-  "vītisāretvā": {
-    "meaning": "having exchanged (greetings); having addressed, having made (courteous talk) pass between",
-    "gram": "gerund (absolutive) of vītisāreti (vi + ati + √sar, causative)",
-    "breakdown": [
-      ["vi + ati (vīti-)", "Prefixes: across, between."],
-      ["√sar", "Root: to go, flow. Causative sāre: to make pass."],
-      ["-tvā", "Gerund (absolutive) ending: “having done”."]
-    ]
-  },
-  "vītivatto": {
-    "meaning": "having overcome, gone through, passed beyond",
-    "gram": "past participle of vītivattati (vi + ati + √vatt), masculine nominative singular",
-    "breakdown": [
-      ["vi + ati (vīti-)", "Prefixes: beyond, over."],
-      ["√vatt", "Root: to turn, proceed. vītivatta: gone beyond, overcome."],
-      ["-ta", "Past participle suffix."]
-    ]
-  },
-  "vūpasamā": {
-    "meaning": "calmness, tranquillity; from the calming, with the subsiding (of)",
-    "gram": "masculine noun (vūpasama), ablative singular (vi + upa + √sam)",
-    "breakdown": [
-      ["vi + upa (vūpa-)", "Prefixes contracted: thoroughly + towards."],
-      ["√sam", "Root: to be calm. vūpasama: calming, subsiding, tranquillising."]
-    ]
-  },
-  "which": {
-    "meaning": "fragment of an English glossary line: “(from) which flows — intoxicating extract” (describing fermented liquor)",
-    "summary": "Not a Pāli word: a stray fragment of the English explanation of an intoxicant term in the source glossary.",
-    "gram": "glossary fragment (English)",
-    "note": "uncertain: this headword is an extraction artefact from the printed glossary, not a Pāli lexeme."
-  },
-  "yadajjhagā": {
-    "meaning": "which (he) attained",
-    "gram": "sandhi fusion: relative pronoun + aorist (yaṁ/yad + ajjhagā)",
-    "breakdown": [
-      ["yad", "Which (relative pronoun yaṁ, in its sandhi form yad-)."],
-      ["ajjhagā", "Attained, reached (aorist of adhigacchati)."]
-    ]
-  },
-  "yadidaṁ": {
-    "meaning": "such as, namely, that is to say",
-    "gram": "indeclinable sandhi fusion (yad + idaṁ, “which is this”)",
-    "forms": ["yadidaṃ"]
-  },
-  "yamakavaggo": {
-    "meaning": "the Yamakavagga, the “Chapter of Pairs” (the first chapter of the Dhammapada)",
-    "summary": "So called because its verses are arranged in contrasting pairs (yamaka, “twin”).",
-    "gram": "proper noun (chapter title); masculine compound",
-    "breakdown": [
-      ["yamaka", "Pair, twin."],
-      ["vagga", "Section, chapter."]
-    ],
-    "forms": ["Yamakavaggo"]
-  },
-  "yampicchaṁ": {
-    "meaning": "whatever is desired; what is wished for",
-    "gram": "sandhi fusion: pronoun + particle + adjective (yaṁ + api + icchaṁ)",
-    "breakdown": [
-      ["yaṁ", "What, which (relative pronoun)."],
-      ["pi", "Even, also (api; the -p- doubles by sandhi)."],
-      ["icchaṁ", "Desired, wished for."]
-    ],
-    "forms": ["yampicchaṃ"]
-  },
-  "yantaṁ": {
-    "meaning": "which... that (yaṁ taṁ); whatever",
-    "gram": "sandhi fusion of relative and demonstrative pronouns (yaṁ + taṁ)",
-    "breakdown": [
-      ["yaṁ", "Which (relative pronoun)."],
-      ["taṁ", "That (demonstrative pronoun)."]
-    ],
-    "forms": ["yantaṃ"]
-  },
-  "yasañca": {
-    "meaning": "and glory, and fame",
-    "gram": "noun (yasa, mano-group), accusative singular + enclitic ca",
-    "breakdown": [
-      ["yasa", "Glory, fame, repute."],
-      ["ca", "And (sandhi: yasaṁ + ca > yasañca)."]
-    ]
-  },
-  "yasmā": {
-    "meaning": "because, since",
-    "gram": "indeclinable conjunction (ablative of relative pronoun ya)"
-  },
-  "yassekarattimpi": {
-    "meaning": "for whom even one night",
-    "gram": "sandhi phrase: genitive pronoun + numeral + noun + enclitic (yassa + eka + rattiṁ + pi)",
-    "breakdown": [
-      ["yassa", "Whose, for whom (genitive of ya)."],
-      ["eka", "One."],
-      ["ratti", "Night (accusative rattiṁ)."],
-      ["pi", "Even, also."]
-    ]
-  },
-  "yassānubhāvato": {
-    "meaning": "by whose power; through the might of which",
-    "gram": "sandhi phrase: genitive pronoun + noun in ablative (yassa + anubhāvato)",
-    "breakdown": [
-      ["yassa", "Whose (genitive of ya)."],
-      ["anubhāva", "Power, might, majesty (ablative anubhāvato, “by the power”)."]
-    ]
-  },
-  "yassāṇaṁ": {
-    "meaning": "whose command",
-    "gram": "sandhi phrase: genitive pronoun + noun (yassa + āṇaṁ)",
-    "breakdown": [
-      ["yassa", "Whose (genitive of ya)."],
-      ["āṇā", "Command, order (accusative āṇaṁ)."]
-    ],
-    "forms": ["yassāṇaṃ"]
-  },
-  "yathindakhīlo": {
-    "meaning": "just as Indra's pillar; like the firm city-gate post",
-    "gram": "sandhi phrase: adverb + compound noun (yathā + indakhīlo)",
-    "breakdown": [
-      ["yathā", "Just as (sandhi: yathā + inda > yathinda)."],
-      ["inda", "Indra; chief, lord."],
-      ["khīla", "Pillar, post. indakhīla: the firmly planted post at a city gate — an image of unshakeability."]
-    ]
-  },
-  "yathā": {
-    "meaning": "just as, as, according to",
-    "gram": "indeclinable adverb (from relative pronoun ya)"
-  },
-  "yathā just": {
-    "meaning": "yathā: just as",
-    "summary": "A glossary fragment; the entry is simply the word yathā, “just as”.",
-    "gram": "indeclinable adverb (glossary fragment)"
-  },
-  "yathābhuccato": {
-    "meaning": "in accordance with reality; as it really is, in this case",
-    "gram": "adjective yathābhucca with ablative-adverbial -to suffix",
-    "breakdown": [
-      ["yathā", "As, according to."],
-      ["bhucca", "Real, true (related to bhūta, “become, real”)."],
-      ["-to", "Adverbial ablative suffix: “according to”."]
-    ]
-  },
-  "yathābhūtaṁ": {
-    "meaning": "as it really is; in accordance with reality",
-    "summary": "Literally “as become”: seeing things as they have come to be — as they really are.",
-    "gram": "adverbial compound (yathā + bhūta, past participle), accusative singular",
-    "breakdown": [
-      ["yathā", "As, according to."],
-      ["bhūta", "Become, real (past participle of bhavati). Together: as it has become — as it really is."]
-    ],
-    "goenka": "Yathābhūta is central to how this tradition describes Vipassana: observing reality as it is, not as one would like it to be. The literal sense “as become” points to direct experiential observation — the meditator examines whatever arises in mind and body just as it actually is, with equanimity, rather than through beliefs or imagination.",
-    "forms": ["yathābhūtaṃ"]
-  },
-  "yathākāmakāritaṁ": {
-    "meaning": "acting as one desires; doing whatever one wishes (with someone)",
-    "gram": "compound noun, accusative singular",
-    "breakdown": [
-      ["yathā", "As, how."],
-      ["kāma", "Desire, wish."],
-      ["kārita", "Acting, treatment; making act."]
-    ],
-    "forms": ["yathākāmakāritaṃ"]
-  },
-  "yathārahaṁ": {
-    "meaning": "properly, duly; as is fitting",
-    "gram": "indeclinable adverb (accusative of yathāraha)",
-    "breakdown": [
-      ["yathā", "As, according to."],
-      ["araha", "Worthy, fitting. Together: according to what is fitting — duly."]
-    ],
-    "forms": ["yathārahaṃ"]
-  },
-  "yattha": {
-    "meaning": "where, at which place",
-    "gram": "indeclinable adverb (from relative pronoun ya)"
-  },
-  "yatthannapānaṁ": {
-    "meaning": "where food and drink (are)",
-    "gram": "sandhi phrase: adverb + nouns (yattha + annaṁ + pānaṁ)",
-    "breakdown": [
-      ["yattha", "Where (sandhi doubling before anna-)."],
-      ["anna", "Food."],
-      ["pāna", "Drink."]
-    ],
-    "forms": ["yatthannapānaṃ"]
-  },
-  "yatvādhikaraṇamenaṁ": {
-    "meaning": "for which reason... him; on account of which (this person)",
-    "summary": "A sandhi fusion from the sense-restraint formula: “for which reason (covetousness etc. might invade) him”.",
-    "gram": "sandhi fusion: adverb + neuter noun + pronoun (yato + va + adhikaraṇaṁ + enaṁ)",
-    "breakdown": [
-      ["yato", "From which, because (sandhi yato + va > yatvā-)."],
-      ["adhikaraṇa", "Reason, cause; here adverbial: “by reason of which”."],
-      ["enaṁ", "Him, this one (enclitic pronoun)."]
-    ],
-    "forms": ["yatvādhikaraṇamenaṃ"]
-  },
-  "yañhi": {
-    "meaning": "that indeed; whatever indeed",
-    "gram": "sandhi fusion: relative pronoun + particle (yaṁ + hi)",
-    "breakdown": [
-      ["yaṁ", "What, that (relative pronoun)."],
-      ["hi", "Indeed, for (sandhi: yaṁ + hi > yañhi)."]
-    ]
-  },
-  "yaṁnūnāhaṁ": {
-    "meaning": "what if I...; suppose I... (introducing a deliberation)",
-    "gram": "sandhi fusion: pronoun + particle + pronoun (yaṁ + nūna + ahaṁ)",
-    "breakdown": [
-      ["yaṁ", "Whatever, what."],
-      ["nūna", "Indeed, surely; “what if”."],
-      ["ahaṁ", "I. Together: “suppose now I were to...”."]
-    ],
-    "forms": ["yaṃnūnāhaṃ"]
-  },
-  "ye": {
-    "meaning": "who, which (plural)",
-    "gram": "relative pronoun, masculine nominative plural of ya"
-  },
-  "yena": {
-    "meaning": "by which; whereby; (with verbs of going) towards where",
-    "gram": "relative pronoun, instrumental singular of ya"
-  },
-  "yiṭṭhaṁ": {
-    "meaning": "sacrificed, offered; what is offered in sacrifice",
-    "gram": "past participle of yajati (√yaj), neuter nominative/accusative singular",
-    "breakdown": [
-      ["√yaj", "Root: to sacrifice, make an offering."],
-      ["-ta", "Past participle suffix (yaj + ta > yiṭṭha)."]
-    ],
-    "forms": ["yiṭṭhaṃ"]
-  },
-  "yobbanasmiñca": {
-    "meaning": "and in youth",
-    "gram": "neuter noun, locative singular + enclitic ca",
-    "breakdown": [
-      ["yobbana", "Youth, the prime of life (from yuva, young)."],
-      ["-smiṁ", "Locative singular ending: in."],
-      ["ca", "And (sandhi: -smiṁ + ca > -smiñca)."]
-    ],
-    "note": "divergence: the lexicon line parses asmiṁ as “I”, but -smiṁ here is the locative singular ending; the sense is “and in youth”."
-  },
-  "yogakkhemakāmā": {
-    "meaning": "desiring safety from bondage; wishing for the peace of release from the yokes",
-    "gram": "adjective compound, masculine nominative plural",
-    "breakdown": [
-      ["yoga", "Yoke, bond, attachment."],
-      ["khema", "Safety, peace. yogakkhema: safety from bondage (the kk is junction doubling)."],
-      ["kāma", "Wishing, desiring."]
-    ]
-  },
-  "yogo": {
-    "meaning": "yoke, bond; application, devotion (to a practice); in the precept compound, being addicted to (intoxicants)",
-    "gram": "masculine noun, nominative singular (√yuj, to yoke)",
-    "breakdown": [
-      ["√yuj", "Root: to yoke, join. yoga: bond, attachment; also application, being devoted or addicted to."]
-    ],
-    "note": "divergence: the lexicon's gloss line here explains the whole precept compound surāmerayamajjappamādaṭṭhānānuyogo (“being addicted to fermented and distilled intoxicants, an occasion for carelessness”), of which (anu)yogo is the final member meaning “being addicted to, applying oneself to”."
-  },
-  "yohaṁ": {
-    "meaning": "I who; which I",
-    "gram": "sandhi fusion of pronouns (yo + ahaṁ)",
-    "breakdown": [
-      ["yo", "Who (relative pronoun, masculine nominative singular)."],
-      ["ahaṁ", "I. Sandhi: yo + ahaṁ > yohaṁ."]
-    ],
-    "forms": ["yohaṃ"]
-  }
+ "vācā": {
+  "meaning": "speech, words; what is spoken",
+  "gram": "feminine noun (√vac, to speak)",
+  "breakdown": [
+   [
+    "√vac",
+    "Root: to speak. vācā: speech, utterance."
+   ]
+  ]
+ },
+ "vādita": {
+  "meaning": "instrumental music",
+  "gram": "neuter noun (past participle of vādeti used as noun)",
+  "breakdown": [
+   [
+    "√vad",
+    "Root: to sound, speak. Causative vādeti: to play (an instrument)."
+   ],
+   [
+    "-ita",
+    "Past participle suffix; vādita: what is played — instrumental music."
+   ]
+  ]
+ },
+ "vādita instrumental": {
+  "meaning": "vādita: instrumental music",
+  "summary": "A glossary fragment; the entry is simply the word vādita, “instrumental music”.",
+  "gram": "neuter noun (glossary fragment)",
+  "breakdown": [
+   [
+    "vādita",
+    "Instrumental music (past participle of vādeti, to play)."
+   ]
+  ]
+ },
+ "vāhaṁ": {
+  "meaning": "and I (va/eva + ahaṁ); or: carrying, a load",
+  "gram": "sandhi fusion (va + ahaṁ) as glossed in the lexicon",
+  "breakdown": [
+   [
+    "va",
+    "And, as, even (shortened particle)."
+   ],
+   [
+    "ahaṁ",
+    "I (first person pronoun). Sandhi: va + ahaṁ > vāhaṁ."
+   ]
+  ],
+  "forms": [
+   "vāhaṃ"
+  ]
+ },
+ "vālabījaniyā": {
+  "meaning": "a chowrie; a fan or whisk made of a yak's tail",
+  "gram": "feminine noun (vālabījanī), oblique singular",
+  "breakdown": [
+   [
+    "vāla",
+    "Tail-hair (of a yak or horse)."
+   ],
+   [
+    "bījanī",
+    "Fan, whisk."
+   ]
+  ]
+ },
+ "vārigocaro": {
+  "meaning": "dwelling in water; having water as its range (said of a fish)",
+  "gram": "adjective compound, masculine nominative singular",
+  "breakdown": [
+   [
+    "vāri",
+    "Water."
+   ],
+   [
+    "gocara",
+    "Range, pasture, dwelling-place (go “cow” + cara “roaming”: grazing ground)."
+   ]
+  ]
+ },
+ "vāritta": {
+  "meaning": "avoidance, abstinence (what is to be avoided)",
+  "gram": "neuter noun (√var, to obstruct)",
+  "breakdown": [
+   [
+    "√var",
+    "Root: to obstruct, ward off. vāritta: avoidance — the side of morality consisting in abstaining."
+   ]
+  ]
+ },
+ "vāsessanti": {
+  "meaning": "they will make dwell; they will cause to live (somewhere)",
+  "gram": "verb, 3rd person plural future, causative of vasati (√vas)",
+  "breakdown": [
+   [
+    "√vas",
+    "Root: to dwell. Causative stem vāse: to cause to dwell."
+   ],
+   [
+    "-ssanti",
+    "3rd person plural future ending."
+   ]
+  ]
+ },
+ "vātehi": {
+  "meaning": "by the winds",
+  "gram": "masculine noun, instrumental plural of vāta",
+  "breakdown": [
+   [
+    "vāta",
+    "Wind (√vā, to blow)."
+   ],
+   [
+    "-ehi",
+    "Instrumental plural ending: by."
+   ]
+  ]
+ },
+ "vāto": {
+  "meaning": "wind; air, the wind element",
+  "gram": "masculine noun, nominative singular (√vā, to blow)",
+  "breakdown": [
+   [
+    "√vā",
+    "Root: to blow."
+   ],
+   [
+    "-ta",
+    "Suffix; vāta: the blowing — wind."
+   ]
+  ]
+ },
+ "vāyamati": {
+  "meaning": "strives, endeavours; makes effort",
+  "gram": "verb, 3rd person singular present (vi + ā + √yam)",
+  "breakdown": [
+   [
+    "vi + ā",
+    "Prefixes: contracted to vāya- before the root."
+   ],
+   [
+    "√yam",
+    "Root: to restrain, exert. vāyamati: to strive, endeavour."
+   ],
+   [
+    "-ati",
+    "3rd person singular present ending."
+   ]
+  ]
+ },
+ "vāyāmo": {
+  "meaning": "effort, striving, exertion",
+  "gram": "masculine noun, nominative singular (from vāyamati)",
+  "breakdown": [
+   [
+    "vi + ā",
+    "Prefixes contracted to vāyā-."
+   ],
+   [
+    "√yam",
+    "Root: to exert. vāyāma: effort — as in sammāvāyāmo, right effort."
+   ]
+  ]
+ },
+ "vīmaṁsāya": {
+  "meaning": "by investigation, by examination",
+  "gram": "feminine noun, instrumental singular of vīmaṁsā",
+  "breakdown": [
+   [
+    "vīmaṁsā",
+    "Investigation, examination (desiderative formation from √man, to think)."
+   ],
+   [
+    "-āya",
+    "Instrumental (or dative) singular ending."
+   ]
+  ],
+  "forms": [
+   "vīmaṃsāya"
+  ]
+ },
+ "vīriyamārabhato": {
+  "meaning": "of one putting forth energy; for one undertaking exertion",
+  "gram": "present participle phrase, genitive/dative singular (vīriyaṁ + ārabhato)",
+  "breakdown": [
+   [
+    "vīriya",
+    "Energy, vigour (accusative vīriyaṁ; the -m- is sandhi)."
+   ],
+   [
+    "ārabhant",
+    "Undertaking, putting forth (present participle of ārabhati; genitive ārabhato)."
+   ]
+  ]
+ },
+ "vītamaccharo": {
+  "meaning": "free from miserliness; devoid of stinginess",
+  "gram": "adjective compound, masculine nominative singular",
+  "breakdown": [
+   [
+    "vīta",
+    "Free from, devoid of (past participle of vi + √i, gone away)."
+   ],
+   [
+    "macchara",
+    "Miserliness, stinginess, selfishness."
+   ]
+  ]
+ },
+ "vītikkamassa": {
+  "meaning": "of transgression; of overstepping (a rule)",
+  "gram": "masculine noun, genitive singular (vi + ati + √kam)",
+  "breakdown": [
+   [
+    "vi + ati (vīti-)",
+    "Prefixes: beyond, over."
+   ],
+   [
+    "√kam",
+    "Root: to step. vītikkama: overstepping — transgression."
+   ],
+   [
+    "-assa",
+    "Genitive singular ending."
+   ]
+  ]
+ },
+ "vītikkamitabbavatthusamāyoge": {
+  "meaning": "when there is occasion combining with an object that could be transgressed against; in the combination of circumstances for transgression",
+  "gram": "compound noun, locative singular",
+  "breakdown": [
+   [
+    "vītikkamitabba",
+    "To be transgressed (future passive participle of vītikkamati)."
+   ],
+   [
+    "vatthu",
+    "Ground, object, basis."
+   ],
+   [
+    "samāyoga",
+    "Combination, conjunction (here locative)."
+   ]
+  ]
+ },
+ "vītisāretvā": {
+  "meaning": "having exchanged (greetings); having addressed, having made (courteous talk) pass between",
+  "gram": "gerund (absolutive) of vītisāreti (vi + ati + √sar, causative)",
+  "breakdown": [
+   [
+    "vi + ati (vīti-)",
+    "Prefixes: across, between."
+   ],
+   [
+    "√sar",
+    "Root: to go, flow. Causative sāre: to make pass."
+   ],
+   [
+    "-tvā",
+    "Gerund (absolutive) ending: “having done”."
+   ]
+  ]
+ },
+ "vītivatto": {
+  "meaning": "having overcome, gone through, passed beyond",
+  "gram": "past participle of vītivattati (vi + ati + √vatt), masculine nominative singular",
+  "breakdown": [
+   [
+    "vi + ati (vīti-)",
+    "Prefixes: beyond, over."
+   ],
+   [
+    "√vatt",
+    "Root: to turn, proceed. vītivatta: gone beyond, overcome."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
+  ]
+ },
+ "vūpasamā": {
+  "meaning": "calmness, tranquillity; from the calming, with the subsiding (of)",
+  "gram": "masculine noun (vūpasama), ablative singular (vi + upa + √sam)",
+  "breakdown": [
+   [
+    "vi + upa (vūpa-)",
+    "Prefixes contracted: thoroughly + towards."
+   ],
+   [
+    "√sam",
+    "Root: to be calm. vūpasama: calming, subsiding, tranquillising."
+   ]
+  ]
+ },
+ "yadajjhagā": {
+  "meaning": "which (he) attained",
+  "gram": "sandhi fusion: relative pronoun + aorist (yaṁ/yad + ajjhagā)",
+  "breakdown": [
+   [
+    "yad",
+    "Which (relative pronoun yaṁ, in its sandhi form yad-)."
+   ],
+   [
+    "ajjhagā",
+    "Attained, reached (aorist of adhigacchati)."
+   ]
+  ]
+ },
+ "yadidaṁ": {
+  "meaning": "such as, namely, that is to say",
+  "gram": "indeclinable sandhi fusion (yad + idaṁ, “which is this”)",
+  "forms": [
+   "yadidaṃ"
+  ]
+ },
+ "yamakavaggo": {
+  "meaning": "the Yamakavagga, the “Chapter of Pairs” (the first chapter of the Dhammapada)",
+  "summary": "So called because its verses are arranged in contrasting pairs (yamaka, “twin”).",
+  "gram": "proper noun (chapter title); masculine compound",
+  "breakdown": [
+   [
+    "yamaka",
+    "Pair, twin."
+   ],
+   [
+    "vagga",
+    "Section, chapter."
+   ]
+  ],
+  "forms": [
+   "Yamakavaggo"
+  ]
+ },
+ "yampicchaṁ": {
+  "meaning": "whatever is desired; what is wished for",
+  "gram": "sandhi fusion: pronoun + particle + adjective (yaṁ + api + icchaṁ)",
+  "breakdown": [
+   [
+    "yaṁ",
+    "What, which (relative pronoun)."
+   ],
+   [
+    "pi",
+    "Even, also (api; the -p- doubles by sandhi)."
+   ],
+   [
+    "icchaṁ",
+    "Desired, wished for."
+   ]
+  ],
+  "forms": [
+   "yampicchaṃ"
+  ]
+ },
+ "yantaṁ": {
+  "meaning": "which... that (yaṁ taṁ); whatever",
+  "gram": "sandhi fusion of relative and demonstrative pronouns (yaṁ + taṁ)",
+  "breakdown": [
+   [
+    "yaṁ",
+    "Which (relative pronoun)."
+   ],
+   [
+    "taṁ",
+    "That (demonstrative pronoun)."
+   ]
+  ],
+  "forms": [
+   "yantaṃ"
+  ]
+ },
+ "yasañca": {
+  "meaning": "and glory, and fame",
+  "gram": "noun (yasa, mano-group), accusative singular + enclitic ca",
+  "breakdown": [
+   [
+    "yasa",
+    "Glory, fame, repute."
+   ],
+   [
+    "ca",
+    "And (sandhi: yasaṁ + ca > yasañca)."
+   ]
+  ]
+ },
+ "yasmā": {
+  "meaning": "because, since",
+  "gram": "indeclinable conjunction (ablative of relative pronoun ya)"
+ },
+ "yassekarattimpi": {
+  "meaning": "for whom even one night",
+  "gram": "sandhi phrase: genitive pronoun + numeral + noun + enclitic (yassa + eka + rattiṁ + pi)",
+  "breakdown": [
+   [
+    "yassa",
+    "Whose, for whom (genitive of ya)."
+   ],
+   [
+    "eka",
+    "One."
+   ],
+   [
+    "ratti",
+    "Night (accusative rattiṁ)."
+   ],
+   [
+    "pi",
+    "Even, also."
+   ]
+  ]
+ },
+ "yassānubhāvato": {
+  "meaning": "by whose power; through the might of which",
+  "gram": "sandhi phrase: genitive pronoun + noun in ablative (yassa + anubhāvato)",
+  "breakdown": [
+   [
+    "yassa",
+    "Whose (genitive of ya)."
+   ],
+   [
+    "anubhāva",
+    "Power, might, majesty (ablative anubhāvato, “by the power”)."
+   ]
+  ]
+ },
+ "yassāṇaṁ": {
+  "meaning": "whose command",
+  "gram": "sandhi phrase: genitive pronoun + noun (yassa + āṇaṁ)",
+  "breakdown": [
+   [
+    "yassa",
+    "Whose (genitive of ya)."
+   ],
+   [
+    "āṇā",
+    "Command, order (accusative āṇaṁ)."
+   ]
+  ],
+  "forms": [
+   "yassāṇaṃ"
+  ]
+ },
+ "yathindakhīlo": {
+  "meaning": "just as Indra's pillar; like the firm city-gate post",
+  "gram": "sandhi phrase: adverb + compound noun (yathā + indakhīlo)",
+  "breakdown": [
+   [
+    "yathā",
+    "Just as (sandhi: yathā + inda > yathinda)."
+   ],
+   [
+    "inda",
+    "Indra; chief, lord."
+   ],
+   [
+    "khīla",
+    "Pillar, post. indakhīla: the firmly planted post at a city gate — an image of unshakeability."
+   ]
+  ]
+ },
+ "yathā": {
+  "meaning": "just as, as, according to",
+  "gram": "indeclinable adverb (from relative pronoun ya)"
+ },
+ "yathā just": {
+  "meaning": "yathā: just as",
+  "summary": "A glossary fragment; the entry is simply the word yathā, “just as”.",
+  "gram": "indeclinable adverb (glossary fragment)"
+ },
+ "yathābhuccato": {
+  "meaning": "in accordance with reality; as it really is, in this case",
+  "gram": "adjective yathābhucca with ablative-adverbial -to suffix",
+  "breakdown": [
+   [
+    "yathā",
+    "As, according to."
+   ],
+   [
+    "bhucca",
+    "Real, true (related to bhūta, “become, real”)."
+   ],
+   [
+    "-to",
+    "Adverbial ablative suffix: “according to”."
+   ]
+  ]
+ },
+ "yathābhūtaṁ": {
+  "meaning": "as it really is; in accordance with reality",
+  "summary": "Literally “as become”: seeing things as they have come to be — as they really are.",
+  "gram": "adverbial compound (yathā + bhūta, past participle), accusative singular",
+  "breakdown": [
+   [
+    "yathā",
+    "As, according to."
+   ],
+   [
+    "bhūta",
+    "Become, real (past participle of bhavati). Together: as it has become — as it really is."
+   ]
+  ],
+  "goenka": "Yathābhūta is central to how this tradition describes Vipassana: observing reality as it is, not as one would like it to be. The literal sense “as become” points to direct experiential observation — the meditator examines whatever arises in mind and body just as it actually is, with equanimity, rather than through beliefs or imagination.",
+  "forms": [
+   "yathābhūtaṃ"
+  ]
+ },
+ "yathākāmakāritaṁ": {
+  "meaning": "acting as one desires; doing whatever one wishes (with someone)",
+  "gram": "compound noun, accusative singular",
+  "breakdown": [
+   [
+    "yathā",
+    "As, how."
+   ],
+   [
+    "kāma",
+    "Desire, wish."
+   ],
+   [
+    "kārita",
+    "Acting, treatment; making act."
+   ]
+  ],
+  "forms": [
+   "yathākāmakāritaṃ"
+  ]
+ },
+ "yathārahaṁ": {
+  "meaning": "properly, duly; as is fitting",
+  "gram": "indeclinable adverb (accusative of yathāraha)",
+  "breakdown": [
+   [
+    "yathā",
+    "As, according to."
+   ],
+   [
+    "araha",
+    "Worthy, fitting. Together: according to what is fitting — duly."
+   ]
+  ],
+  "forms": [
+   "yathārahaṃ"
+  ]
+ },
+ "yattha": {
+  "meaning": "where, at which place",
+  "gram": "indeclinable adverb (from relative pronoun ya)"
+ },
+ "yatthannapānaṁ": {
+  "meaning": "where food and drink (are)",
+  "gram": "sandhi phrase: adverb + nouns (yattha + annaṁ + pānaṁ)",
+  "breakdown": [
+   [
+    "yattha",
+    "Where (sandhi doubling before anna-)."
+   ],
+   [
+    "anna",
+    "Food."
+   ],
+   [
+    "pāna",
+    "Drink."
+   ]
+  ],
+  "forms": [
+   "yatthannapānaṃ"
+  ]
+ },
+ "yatvādhikaraṇamenaṁ": {
+  "meaning": "for which reason... him; on account of which (this person)",
+  "summary": "A sandhi fusion from the sense-restraint formula: “for which reason (covetousness etc. might invade) him”.",
+  "gram": "sandhi fusion: adverb + neuter noun + pronoun (yato + va + adhikaraṇaṁ + enaṁ)",
+  "breakdown": [
+   [
+    "yato",
+    "From which, because (sandhi yato + va > yatvā-)."
+   ],
+   [
+    "adhikaraṇa",
+    "Reason, cause; here adverbial: “by reason of which”."
+   ],
+   [
+    "enaṁ",
+    "Him, this one (enclitic pronoun)."
+   ]
+  ],
+  "forms": [
+   "yatvādhikaraṇamenaṃ"
+  ]
+ },
+ "yañhi": {
+  "meaning": "that indeed; whatever indeed",
+  "gram": "sandhi fusion: relative pronoun + particle (yaṁ + hi)",
+  "breakdown": [
+   [
+    "yaṁ",
+    "What, that (relative pronoun)."
+   ],
+   [
+    "hi",
+    "Indeed, for (sandhi: yaṁ + hi > yañhi)."
+   ]
+  ]
+ },
+ "yaṁnūnāhaṁ": {
+  "meaning": "what if I...; suppose I... (introducing a deliberation)",
+  "gram": "sandhi fusion: pronoun + particle + pronoun (yaṁ + nūna + ahaṁ)",
+  "breakdown": [
+   [
+    "yaṁ",
+    "Whatever, what."
+   ],
+   [
+    "nūna",
+    "Indeed, surely; “what if”."
+   ],
+   [
+    "ahaṁ",
+    "I. Together: “suppose now I were to...”."
+   ]
+  ],
+  "forms": [
+   "yaṃnūnāhaṃ"
+  ]
+ },
+ "ye": {
+  "meaning": "who, which (plural)",
+  "gram": "relative pronoun, masculine nominative plural of ya"
+ },
+ "yena": {
+  "meaning": "by which; whereby; (with verbs of going) towards where",
+  "gram": "relative pronoun, instrumental singular of ya"
+ },
+ "yiṭṭhaṁ": {
+  "meaning": "sacrificed, offered; what is offered in sacrifice",
+  "gram": "past participle of yajati (√yaj), neuter nominative/accusative singular",
+  "breakdown": [
+   [
+    "√yaj",
+    "Root: to sacrifice, make an offering."
+   ],
+   [
+    "-ta",
+    "Past participle suffix (yaj + ta > yiṭṭha)."
+   ]
+  ],
+  "forms": [
+   "yiṭṭhaṃ"
+  ]
+ },
+ "yobbanasmiñca": {
+  "meaning": "and in youth",
+  "gram": "neuter noun, locative singular + enclitic ca",
+  "breakdown": [
+   [
+    "yobbana",
+    "Youth, the prime of life (from yuva, young)."
+   ],
+   [
+    "-smiṁ",
+    "Locative singular ending: in."
+   ],
+   [
+    "ca",
+    "And (sandhi: -smiṁ + ca > -smiñca)."
+   ]
+  ],
+  "note": "divergence: the lexicon line parses asmiṁ as “I”, but -smiṁ here is the locative singular ending; the sense is “and in youth”."
+ },
+ "yogakkhemakāmā": {
+  "meaning": "desiring safety from bondage; wishing for the peace of release from the yokes",
+  "gram": "adjective compound, masculine nominative plural",
+  "breakdown": [
+   [
+    "yoga",
+    "Yoke, bond, attachment."
+   ],
+   [
+    "khema",
+    "Safety, peace. yogakkhema: safety from bondage (the kk is junction doubling)."
+   ],
+   [
+    "kāma",
+    "Wishing, desiring."
+   ]
+  ]
+ },
+ "yogo": {
+  "meaning": "yoke, bond; application, devotion (to a practice); in the precept compound, being addicted to (intoxicants)",
+  "gram": "masculine noun, nominative singular (√yuj, to yoke)",
+  "breakdown": [
+   [
+    "√yuj",
+    "Root: to yoke, join. yoga: bond, attachment; also application, being devoted or addicted to."
+   ]
+  ],
+  "note": "divergence: the lexicon's gloss line here explains the whole precept compound surāmerayamajjappamādaṭṭhānānuyogo (“being addicted to fermented and distilled intoxicants, an occasion for carelessness”), of which (anu)yogo is the final member meaning “being addicted to, applying oneself to”."
+ },
+ "yohaṁ": {
+  "meaning": "I who; which I",
+  "gram": "sandhi fusion of pronouns (yo + ahaṁ)",
+  "breakdown": [
+   [
+    "yo",
+    "Who (relative pronoun, masculine nominative singular)."
+   ],
+   [
+    "ahaṁ",
+    "I. Sandhi: yo + ahaṁ > yohaṁ."
+   ]
+  ],
+  "forms": [
+   "yohaṃ"
+  ]
+ }
 }

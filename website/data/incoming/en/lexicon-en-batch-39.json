@@ -3,103 +3,202 @@
   "meaning": "among the wives of others; with regard to others' wives",
   "gram": "masculine noun, compound, locative plural",
   "breakdown": [
-   ["para", "Other, another's."],
-   ["dāra", "Wife."],
-   ["-esu", "Locative plural ending: \"among, with regard to\"."]
+   [
+    "para",
+    "Other, another's."
+   ],
+   [
+    "dāra",
+    "Wife."
+   ],
+   [
+    "-esu",
+    "Locative plural ending: \"among, with regard to\"."
+   ]
   ]
  },
  "parakaṭukā": {
   "meaning": "bitter towards others; sharp or harsh to others",
   "gram": "adjective, compound, plural or feminine form",
   "breakdown": [
-   ["para", "Other, others."],
-   ["kaṭuka", "Sharp, bitter, pungent."]
+   [
+    "para",
+    "Other, others."
+   ],
+   [
+    "kaṭuka",
+    "Sharp, bitter, pungent."
+   ]
   ]
  },
  "parakkamaṁ": {
   "meaning": "effort; exertion, endeavour",
   "gram": "masculine noun, accusative singular (from parakkamati, parā + √kam)",
   "breakdown": [
-   ["parā", "Prefix: onward, forward. (The doubled kk arises by assimilation.)"],
-   ["√kam", "To step; parakkama is the stepping forward, strenuous effort."]
+   [
+    "parā",
+    "Prefix: onward, forward. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√kam",
+    "To step; parakkama is the stepping forward, strenuous effort."
+   ]
   ],
-  "forms": ["parakkama"]
+  "forms": [
+   "parakkama"
+  ]
  },
  "paralokavajjabhayadassāvine": {
   "meaning": "seeing fear in faults with regard to the next world; those who see the danger of what is blameworthy for the world beyond",
   "summary": "This is a compound: \"next world + fault to be shunned + fear + seeing with insight\".",
   "gram": "adjective, compound, masculine nominative plural (irregular form of paralokavajjabhayadassāvī)",
   "breakdown": [
-   ["para", "Other, next."],
-   ["loka", "World; paraloka is the world beyond, the next life."],
-   ["vajja", "Fault, what is to be shunned, blameworthy."],
-   ["bhaya", "Fear, danger."],
-   ["dassāvī", "Seeing, one who sees with insight (from √dis \"to see\")."]
+   [
+    "para",
+    "Other, next."
+   ],
+   [
+    "loka",
+    "World; paraloka is the world beyond, the next life."
+   ],
+   [
+    "vajja",
+    "Fault, what is to be shunned, blameworthy."
+   ],
+   [
+    "bhaya",
+    "Fear, danger."
+   ],
+   [
+    "dassāvī",
+    "Seeing, one who sees with insight (from √dis \"to see\")."
+   ]
   ],
-  "forms": ["paralokavajjabhayadassāvī"]
+  "forms": [
+   "paralokavajjabhayadassāvī"
+  ]
  },
- "paralābhasakkāragarukāramānanavand": {
+ "paralābhasakkāragarukāramānanavandanapūjanāsu": {
   "meaning": "(truncated) the gain, hospitality, esteem, honour and veneration of others",
   "gram": "compound (truncated headword)",
   "breakdown": [
-   ["para", "Other, others'."],
-   ["lābha", "Gain, acquisition."],
-   ["sakkāra", "Hospitality, honour."],
-   ["garukāra", "Esteem, respect."],
-   ["mānana", "Honouring, reverence."],
-   ["vandanā", "Veneration, homage (the headword breaks off in this element)."]
+   [
+    "para",
+    "Other, others'."
+   ],
+   [
+    "lābha",
+    "Gain, acquisition."
+   ],
+   [
+    "sakkāra",
+    "Hospitality, honour."
+   ],
+   [
+    "garukāra",
+    "Esteem, respect."
+   ],
+   [
+    "mānana",
+    "Honouring, reverence."
+   ],
+   [
+    "vandanā",
+    "Veneration, homage (the headword breaks off in this element)."
+   ]
   ],
   "note": "uncertain: the headword is truncated in extraction; it is the beginning of a longer compound enumerating others' gain, hospitality, esteem, honouring and veneration."
- },
- "paralābhasakkāragarukāramānanavan­": {
-  "meaning": "(truncated) the gain, hospitality, esteem, honour and veneration of others",
-  "gram": "compound (truncated headword)",
-  "note": "uncertain: duplicate of the truncated headword above, ending in a soft-hyphen line-break artifact. See paralābhasakkāragarukāramānanavand."
  },
  "paramattakāmo": {
   "meaning": "loving oneself beyond (all else); holding the self supremely dear",
   "gram": "sandhi compound: pronoun + adjective (paraṁ + attakāma), masculine nominative singular",
   "breakdown": [
-   ["paraṁ", "Beyond, supremely (the niggahīta assimilates to m before a vowel)."],
-   ["atta", "Self."],
-   ["kāma", "Liking, loving, desiring; attakāma is \"holding the self dear\"."]
+   [
+    "paraṁ",
+    "Beyond, supremely (the niggahīta assimilates to m before a vowel)."
+   ],
+   [
+    "atta",
+    "Self."
+   ],
+   [
+    "kāma",
+    "Liking, loving, desiring; attakāma is \"holding the self dear\"."
+   ]
   ]
  },
  "paramattha": {
   "meaning": "ultimate meaning; highest truth, ultimate reality",
   "gram": "masculine noun, compound (parama + attha)",
   "breakdown": [
-   ["parama", "Highest, ultimate."],
-   ["attha", "Meaning, sense; benefit, goal."]
+   [
+    "parama",
+    "Highest, ultimate."
+   ],
+   [
+    "attha",
+    "Meaning, sense; benefit, goal."
+   ]
   ]
  },
  "paramatthenā": {
   "meaning": "in the highest sense; from the standpoint of ultimate reality",
   "gram": "masculine noun, instrumental singular of paramattha (with metrical lengthening)",
   "breakdown": [
-   ["parama", "Highest, ultimate."],
-   ["attha", "Meaning, reality."],
-   ["-ena", "Instrumental singular ending: \"in the sense of\"."]
+   [
+    "parama",
+    "Highest, ultimate."
+   ],
+   [
+    "attha",
+    "Meaning, reality."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending: \"in the sense of\"."
+   ]
   ],
-  "forms": ["paramattha"]
+  "forms": [
+   "paramattha"
+  ]
  },
  "paramatthāya": {
   "meaning": "for the highest benefit; for the supreme welfare",
   "gram": "masculine noun, dative singular of paramattha",
   "breakdown": [
-   ["parama", "Best, superior, highest."],
-   ["attha", "Benefit, welfare, goal."],
-   ["-āya", "Dative singular ending: \"for the sake of\"."]
+   [
+    "parama",
+    "Best, superior, highest."
+   ],
+   [
+    "attha",
+    "Benefit, welfare, goal."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: \"for the sake of\"."
+   ]
   ],
-  "forms": ["paramattha"]
+  "forms": [
+   "paramattha"
+  ]
  },
  "parammukhāssa": {
   "meaning": "of the highest praises; of him with utmost speech (of high praises)",
   "gram": "sandhi compound, genitive singular (paraṁ + mukha + assa)",
   "breakdown": [
-   ["paraṁ", "Highest, beyond."],
-   ["mukha", "Mouth, speech, front."],
-   ["assa", "Of him, of this (genitive singular pronoun)."]
+   [
+    "paraṁ",
+    "Highest, beyond."
+   ],
+   [
+    "mukha",
+    "Mouth, speech, front."
+   ],
+   [
+    "assa",
+    "Of him, of this (genitive singular pronoun)."
+   ]
   ],
   "note": "uncertain: the lexicon glosses the phrase contextually as \"of high praises\"; the literal segmentation is \"highest + mouth + of\"."
  },
@@ -107,78 +206,145 @@
   "meaning": "by succession; one after the other, by (a lineage of) transmission",
   "gram": "adjective/noun, instrumental or dative singular of parampara",
   "breakdown": [
-   ["para", "Other; one."],
-   ["para", "Other; another — para + para, \"one after another\". (The m is a junction consonant.)"],
-   ["-āya", "Instrumental/dative singular ending."]
+   [
+    "para",
+    "Other; one."
+   ],
+   [
+    "para",
+    "Other; another — para + para, \"one after another\". (The m is a junction consonant.)"
+   ],
+   [
+    "-āya",
+    "Instrumental/dative singular ending."
+   ]
   ]
  },
  "parantapo": {
   "meaning": "tormenting others; one who afflicts others",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["paraṁ", "Other, others (accusative)."],
-   ["tapa", "Tormenting, burning (from √tap \"to burn\")."]
+   [
+    "paraṁ",
+    "Other, others (accusative)."
+   ],
+   [
+    "tapa",
+    "Tormenting, burning (from √tap \"to burn\")."
+   ]
   ]
  },
  "parapariggahite": {
   "meaning": "what is taken possession of by others; another's property",
   "gram": "adjective, compound, locative singular (para + pariggahita)",
   "breakdown": [
-   ["para", "Other, another's."],
-   ["pariggahita", "Taken, seized, possessed (past participle of pariggaṇhāti, pari + √gah)."],
-   ["-e", "Locative singular ending."]
+   [
+    "para",
+    "Other, another's."
+   ],
+   [
+    "pariggahita",
+    "Taken, seized, possessed (past participle of pariggaṇhāti, pari + √gah)."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "paraparitāpanānuyogamanuyutto": {
   "meaning": "devoted to the practice of tormenting others; involved in afflicting another",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["para", "Another, others."],
-   ["paritāpana", "Afflicting, tormenting (pari + √tap, causative)."],
-   ["anuyoga", "Application to, devotion to, practice. (The long ā at the junction arises by vowel coalescence.)"],
-   ["anuyutta", "Practising, engaged in, involved in (past participle of anuyuñjati)."]
+   [
+    "para",
+    "Another, others."
+   ],
+   [
+    "paritāpana",
+    "Afflicting, tormenting (pari + √tap, causative)."
+   ],
+   [
+    "anuyoga",
+    "Application to, devotion to, practice. (The long ā at the junction arises by vowel coalescence.)"
+   ],
+   [
+    "anuyutta",
+    "Practising, engaged in, involved in (past participle of anuyuñjati)."
+   ]
   ]
  },
  "parappavādaṁ": {
   "meaning": "the doctrines of others; others' speech, opposing teachings",
   "gram": "masculine noun, compound, accusative singular",
   "breakdown": [
-   ["para", "Other, others'."],
-   ["pavāda", "Speech, doctrine, disputation (pa + √vad; the doubled pp is compound sandhi doubling)."]
+   [
+    "para",
+    "Other, others'."
+   ],
+   [
+    "pavāda",
+    "Speech, doctrine, disputation (pa + √vad; the doubled pp is compound sandhi doubling)."
+   ]
   ]
- },
- "paravisaṁvādanakakāyavacīpayogasa": {
-  "meaning": "(truncated) the effort of body and speech that deceives another",
-  "gram": "compound (truncated headword)",
-  "note": "uncertain: this headword is truncated in extraction; see the full entry paravisaṁvādanakakāyavacīpayogasamuṭṭhāpikā."
  },
  "paravisaṁvādanakakāyavacīpayogasamuṭṭhāpikā": {
   "meaning": "occasioning effort of body and speech to deceive another (a definition of false speech)",
   "summary": "This is a long analytical compound: \"other + deceiving + by means of body and speech + causing, occasioning\".",
   "gram": "adjective, compound, feminine nominative singular",
   "breakdown": [
-   ["para", "Other, another."],
-   ["visaṁvādanaka", "Deceiving, lying; someone who deceives (vi + saṁ + √vad)."],
-   ["kāyavacīpayoga", "Means or effort of body and speech (kāya + vacī + payoga)."],
-   ["samuṭṭhāpikā", "Causing, occasioning, setting in motion (saṁ + ud + √ṭhā, causative)."]
+   [
+    "para",
+    "Other, another."
+   ],
+   [
+    "visaṁvādanaka",
+    "Deceiving, lying; someone who deceives (vi + saṁ + √vad)."
+   ],
+   [
+    "kāyavacīpayoga",
+    "Means or effort of body and speech (kāya + vacī + payoga)."
+   ],
+   [
+    "samuṭṭhāpikā",
+    "Causing, occasioning, setting in motion (saṁ + ud + √ṭhā, causative)."
+   ]
   ]
  },
  "paravittūpakaraṇaṁ": {
   "meaning": "the property and means of support of others; others' acquired possessions and livelihood",
   "gram": "neuter noun, compound, accusative singular",
   "breakdown": [
-   ["para", "Other, beyond; another's."],
-   ["vitta", "Acquired possession, prosperity."],
-   ["upakaraṇa", "Means of support, equipment. (The long ū at the junction arises by vowel coalescence.)"]
+   [
+    "para",
+    "Other, beyond; another's."
+   ],
+   [
+    "vitta",
+    "Acquired possession, prosperity."
+   ],
+   [
+    "upakaraṇa",
+    "Means of support, equipment. (The long ū at the junction arises by vowel coalescence.)"
+   ]
   ]
  },
  "paravādappamaddanaṁ": {
   "meaning": "the crushing of others' doctrines; refuting opposing teachings",
   "gram": "neuter noun, compound, accusative/nominative singular",
   "breakdown": [
-   ["para", "Other, others'."],
-   ["vāda", "Doctrine, assertion, speech."],
-   ["pamaddana", "Crushing, overpowering (pa + √madd; the doubled pp is compound sandhi doubling)."]
+   [
+    "para",
+    "Other, others'."
+   ],
+   [
+    "vāda",
+    "Doctrine, assertion, speech."
+   ],
+   [
+    "pamaddana",
+    "Crushing, overpowering (pa + √madd; the doubled pp is compound sandhi doubling)."
+   ]
   ]
  },
  "paraṁ": {
@@ -197,88 +363,169 @@
   "meaning": "wandering mendicants; pilgrims, religious wanderers (outside the Buddha's order)",
   "gram": "masculine agent noun, nominative plural of paribbājaka (pari + √vaj)",
   "breakdown": [
-   ["pari", "Around."],
-   ["√vaj", "To go; paribbajati means to wander about as a religious mendicant."],
-   ["-aka", "Agent suffix: a wanderer."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "√vaj",
+    "To go; paribbajati means to wander about as a religious mendicant."
+   ],
+   [
+    "-aka",
+    "Agent suffix: a wanderer."
+   ]
   ],
-  "forms": ["paribbājaka"]
+  "forms": [
+   "paribbājaka"
+  ]
  },
  "paribhūto": {
   "meaning": "despised; disregarded, treated with contempt",
   "gram": "past participle of paribhavati (pari + √bhū), masculine nominative singular",
   "breakdown": [
-   ["pari", "Around; here with a pejorative force."],
-   ["√bhū", "To be; paribhavati means to despise, treat with contempt."]
+   [
+    "pari",
+    "Around; here with a pejorative force."
+   ],
+   [
+    "√bhū",
+    "To be; paribhavati means to despise, treat with contempt."
+   ]
   ],
-  "forms": ["paribhūta"]
+  "forms": [
+   "paribhūta"
+  ]
  },
  "pariccattaṁ": {
   "meaning": "given up; sacrificed, renounced",
   "gram": "past participle of pariccajati (pari + √caj), neuter/accusative singular",
   "breakdown": [
-   ["pari", "Completely. (The doubled cc arises by assimilation.)"],
-   ["√caj", "To give up; pariccajati means to renounce, sacrifice."]
+   [
+    "pari",
+    "Completely. (The doubled cc arises by assimilation.)"
+   ],
+   [
+    "√caj",
+    "To give up; pariccajati means to renounce, sacrifice."
+   ]
   ]
  },
  "paricitā": {
   "meaning": "accumulated; practised, attended to, made familiar",
   "gram": "past participle of paricināti (pari + √ci), plural or feminine form",
   "breakdown": [
-   ["pari", "Around, completely."],
-   ["√ci", "To gather; paricita means accumulated, well practised, accustomed."]
+   [
+    "pari",
+    "Around, completely."
+   ],
+   [
+    "√ci",
+    "To gather; paricita means accumulated, well practised, accustomed."
+   ]
   ]
  },
  "paricārayamānaṁ": {
   "meaning": "indulging in; amusing oneself, being waited upon",
   "gram": "present participle of paricāreti (pari + √car, causative), accusative singular",
   "breakdown": [
-   ["pari", "Around."],
-   ["√car", "To move; the causative paricāreti means to amuse oneself, indulge the senses."],
-   ["-māna", "Present participle (middle) suffix."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "√car",
+    "To move; the causative paricāreti means to amuse oneself, indulge the senses."
+   ],
+   [
+    "-māna",
+    "Present participle (middle) suffix."
+   ]
   ]
  },
  "paridahissati": {
   "meaning": "will put on; will dress oneself",
   "gram": "verb, 3rd person singular future of paridahati (pari + √dhā)",
   "breakdown": [
-   ["pari", "Around."],
-   ["√dhā", "To put; paridahati means to put on, clothe oneself."],
-   ["-issati", "Future tense ending: \"will ...\"."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "√dhā",
+    "To put; paridahati means to put on, clothe oneself."
+   ],
+   [
+    "-issati",
+    "Future tense ending: \"will ...\"."
+   ]
   ]
  },
  "paridevanā": {
   "meaning": "lamentation; crying, bewailing",
   "gram": "feminine abstract noun (from paridevati, pari + √dev)",
   "breakdown": [
-   ["pari", "Around, intensive."],
-   ["√dev", "To lament; paridevati means to wail, cry out."],
-   ["-anā", "Abstract action-noun suffix."]
+   [
+    "pari",
+    "Around, intensive."
+   ],
+   [
+    "√dev",
+    "To lament; paridevati means to wail, cry out."
+   ],
+   [
+    "-anā",
+    "Abstract action-noun suffix."
+   ]
   ]
  },
  "paridevehi": {
   "meaning": "from lamentations; by wailing (instrumental/ablative plural)",
   "gram": "masculine noun, instrumental/ablative plural of parideva",
   "breakdown": [
-   ["pari", "Around, intensive."],
-   ["√dev", "To lament."],
-   ["-ehi", "Instrumental/ablative plural ending."]
+   [
+    "pari",
+    "Around, intensive."
+   ],
+   [
+    "√dev",
+    "To lament."
+   ],
+   [
+    "-ehi",
+    "Instrumental/ablative plural ending."
+   ]
   ],
-  "forms": ["parideva"]
+  "forms": [
+   "parideva"
+  ]
  },
  "paridevitattaṁ": {
   "meaning": "the state of lamentation; the condition of crying and bewailing",
   "gram": "neuter abstract noun (from paridevita)",
   "breakdown": [
-   ["paridevita", "Lamented; lamentation (past participle of paridevati)."],
-   ["-tta", "Abstract noun suffix: \"the state of\"."]
+   [
+    "paridevita",
+    "Lamented; lamentation (past participle of paridevati)."
+   ],
+   [
+    "-tta",
+    "Abstract noun suffix: \"the state of\"."
+   ]
   ]
  },
  "paridevo": {
   "meaning": "lamentation; crying, bewailing",
   "gram": "masculine noun, nominative singular (from paridevati, pari + √dev)",
   "breakdown": [
-   ["pari", "Around, intensive."],
-   ["√dev", "To lament; parideva is wailing, lamentation."]
+   [
+    "pari",
+    "Around, intensive."
+   ],
+   [
+    "√dev",
+    "To lament; parideva is wailing, lamentation."
+   ]
   ],
   "goenka": "Parideva, lamentation, appears in the exposition of the First Noble Truth in the Mahāsatipaṭṭhānasutta studied in the tradition: birth is suffering, and so are sorrow, lamentation, pain, grief and despair (soka-parideva-dukkha-domanassa-upāyāsā). It names the audible wailing born of loss — one of the forms in which dukkha manifests and which the meditator learns to observe with equanimity."
  },
@@ -286,99 +533,194 @@
   "meaning": "will put on; will dress oneself (variant of paridahissati)",
   "gram": "verb, 3rd person singular future of paridahati (pari + √dhā)",
   "breakdown": [
-   ["pari", "Around."],
-   ["√dhā", "To put; paridahati means to put on, dress."],
-   ["-ssati", "Future tense ending."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "√dhā",
+    "To put; paridahati means to put on, dress."
+   ],
+   [
+    "-ssati",
+    "Future tense ending."
+   ]
   ],
-  "forms": ["paridahissati"]
+  "forms": [
+   "paridahissati"
+  ]
  },
  "paridīpanā": {
   "meaning": "illustration; explanation, elucidation",
   "gram": "neuter/feminine action noun (from paridīpeti, pari + √dīp)",
   "breakdown": [
-   ["pari", "Around, fully."],
-   ["√dīp", "To shine, illuminate; paridīpeti means to explain, make clear."],
-   ["-anā", "Action-noun suffix."]
+   [
+    "pari",
+    "Around, fully."
+   ],
+   [
+    "√dīp",
+    "To shine, illuminate; paridīpeti means to explain, make clear."
+   ],
+   [
+    "-anā",
+    "Action-noun suffix."
+   ]
   ]
  },
  "pariggaṇheyyāsi": {
   "meaning": "you should embrace; you would seize, take hold of, examine",
   "gram": "verb, 2nd person singular optative of pariggaṇhāti (pari + √gah)",
   "breakdown": [
-   ["pari", "Around, completely."],
-   ["√gah", "To take, seize; pariggaṇhāti means to embrace, take possession of, examine."],
-   ["-eyyāsi", "Second person singular optative ending: \"you should\"."]
+   [
+    "pari",
+    "Around, completely."
+   ],
+   [
+    "√gah",
+    "To take, seize; pariggaṇhāti means to embrace, take possession of, examine."
+   ],
+   [
+    "-eyyāsi",
+    "Second person singular optative ending: \"you should\"."
+   ]
   ]
  },
  "parigūhati": {
   "meaning": "conceals; hides away",
   "gram": "verb, 3rd person singular present (pari + √guh)",
   "breakdown": [
-   ["pari", "Around, completely."],
-   ["√guh", "To hide; parigūhati means to conceal."]
+   [
+    "pari",
+    "Around, completely."
+   ],
+   [
+    "√guh",
+    "To hide; parigūhati means to conceal."
+   ]
   ]
  },
  "pariharissāmī": {
   "meaning": "I will attend to; I will look after, take care of, preserve",
   "gram": "verb, 1st person singular future of pariharati (pari + √har), with metrical lengthening",
   "breakdown": [
-   ["pari", "Around."],
-   ["√har", "To carry; pariharati means to carry about, look after, protect."],
-   ["-issāmi", "First person singular future ending: \"I will\"."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "√har",
+    "To carry; pariharati means to carry about, look after, protect."
+   ],
+   [
+    "-issāmi",
+    "First person singular future ending: \"I will\"."
+   ]
   ]
  },
  "parihāniyeva": {
   "meaning": "just decline; only loss, nothing but diminution",
   "gram": "feminine noun + emphatic particle (parihāni + yeva)",
   "breakdown": [
-   ["pari", "Around, completely."],
-   ["√hā", "To diminish; parihāni is loss, decline."],
-   ["yeva", "Just, only (emphatic particle, sandhi form of eva)."]
+   [
+    "pari",
+    "Around, completely."
+   ],
+   [
+    "√hā",
+    "To diminish; parihāni is loss, decline."
+   ],
+   [
+    "yeva",
+    "Just, only (emphatic particle, sandhi form of eva)."
+   ]
   ]
  },
  "parihāpessanti": {
   "meaning": "they will cause to diminish; they will neglect, let decline",
   "gram": "verb, 3rd person plural future of parihāpeti (causative of parihāyati, pari + √hā)",
   "breakdown": [
-   ["pari", "Around, completely."],
-   ["√hā", "To diminish; the causative parihāpeti means to bring to decline, neglect."],
-   ["-essanti", "Third person plural future ending: \"they will\"."]
+   [
+    "pari",
+    "Around, completely."
+   ],
+   [
+    "√hā",
+    "To diminish; the causative parihāpeti means to bring to decline, neglect."
+   ],
+   [
+    "-essanti",
+    "Third person plural future ending: \"they will\"."
+   ]
   ],
-  "forms": ["parihāpeti"]
+  "forms": [
+   "parihāpeti"
+  ]
  },
  "parikathā": {
   "meaning": "roundabout talk; a hint (an improper way of seeking gains)",
   "gram": "feminine noun (pari + √kath)",
   "breakdown": [
-   ["pari", "Around."],
-   ["kathā", "Talk; parikathā is talking around a subject, hinting."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "kathā",
+    "Talk; parikathā is talking around a subject, hinting."
+   ]
   ]
  },
  "parikkhayaṁ": {
   "meaning": "decay; loss, destruction, exhaustion",
   "gram": "masculine noun, accusative singular (pari + √khī)",
   "breakdown": [
-   ["pari", "Completely. (The doubled kk arises by assimilation.)"],
-   ["√khī", "To be exhausted; parikkhaya is complete wasting away, destruction."]
+   [
+    "pari",
+    "Completely. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√khī",
+    "To be exhausted; parikkhaya is complete wasting away, destruction."
+   ]
   ],
-  "forms": ["parikkhaya"]
+  "forms": [
+   "parikkhaya"
+  ]
  },
  "parikkhayā": {
   "meaning": "from exhaustion; through the wasting away (of)",
   "gram": "masculine noun, ablative singular of parikkhaya",
   "breakdown": [
-   ["pari", "Completely."],
-   ["√khī", "To be exhausted."],
-   ["-ā", "Ablative singular ending: \"from, through\"."]
+   [
+    "pari",
+    "Completely."
+   ],
+   [
+    "√khī",
+    "To be exhausted."
+   ],
+   [
+    "-ā",
+    "Ablative singular ending: \"from, through\"."
+   ]
   ],
-  "forms": ["parikkhaya"]
+  "forms": [
+   "parikkhaya"
+  ]
  },
  "parikkhāro": {
   "meaning": "requisite; equipment, furnishing, utensil, decoration",
   "gram": "masculine noun, nominative singular (pari + √kar)",
   "breakdown": [
-   ["pari", "Around, completely."],
-   ["√kar", "To make; parikkhāra is what is made ready around one — equipment, requisites."]
+   [
+    "pari",
+    "Around, completely."
+   ],
+   [
+    "√kar",
+    "To make; parikkhāra is what is made ready around one — equipment, requisites."
+   ]
   ]
  },
  "parikkhīṇabhavasaṁyojano": {
@@ -386,9 +728,18 @@
   "summary": "This is a compound epithet of the Arahant: \"completely exhausted + becoming + fetters\".",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["parikkhīṇa", "Completely exhausted, wasted away (pari + √khī + na)."],
-   ["bhava", "Becoming, (renewed) existence."],
-   ["saṁyojana", "Fetter, bond."]
+   [
+    "parikkhīṇa",
+    "Completely exhausted, wasted away (pari + √khī + na)."
+   ],
+   [
+    "bhava",
+    "Becoming, (renewed) existence."
+   ],
+   [
+    "saṁyojana",
+    "Fetter, bond."
+   ]
   ],
   "goenka": "The phrase is a canonical epithet of the Arahant: one in whom the fetters binding to renewed becoming (bhavasaṁyojana) are completely worn away. With the exhaustion of these fetters there is no more fuel for future existence — the goal of the path, full liberation."
  },
@@ -396,36 +747,70 @@
   "meaning": "those whose fetters of becoming are completely destroyed",
   "gram": "adjective, compound, masculine nominative plural",
   "breakdown": [
-   ["parikkhīṇa", "Completely destroyed, exhausted (pari + √khī + na)."],
-   ["bhava", "Becoming, existence."],
-   ["saṁyojana", "Fetter, bond."]
+   [
+    "parikkhīṇa",
+    "Completely destroyed, exhausted (pari + √khī + na)."
+   ],
+   [
+    "bhava",
+    "Becoming, existence."
+   ],
+   [
+    "saṁyojana",
+    "Fetter, bond."
+   ]
   ],
-  "forms": ["parikkhīṇabhavasaṁyojano"]
+  "forms": [
+   "parikkhīṇabhavasaṁyojano"
+  ]
  },
  "parikkhīṇā": {
   "meaning": "completely come to an end; destroyed, extinct",
   "gram": "past participle of pari + √khī, plural or feminine form",
   "breakdown": [
-   ["pari", "Completely, all around. (The doubled kk arises by assimilation.)"],
-   ["√khī", "To be exhausted; parikkhīṇa means utterly exhausted, destroyed."]
+   [
+    "pari",
+    "Completely, all around. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√khī",
+    "To be exhausted; parikkhīṇa means utterly exhausted, destroyed."
+   ]
   ],
-  "forms": ["parikkhīṇa"]
+  "forms": [
+   "parikkhīṇa"
+  ]
  },
  "parimuccanti": {
   "meaning": "they are completely liberated; they are fully released",
   "gram": "verb, 3rd person plural present, passive of parimuñcati (pari + √muc)",
   "breakdown": [
-   ["pari", "Completely."],
-   ["√muc", "To release; parimuccati means to be fully freed."],
-   ["-anti", "Third person plural ending."]
+   [
+    "pari",
+    "Completely."
+   ],
+   [
+    "√muc",
+    "To release; parimuccati means to be fully freed."
+   ],
+   [
+    "-anti",
+    "Third person plural ending."
+   ]
   ]
  },
  "parimukhaṁ": {
   "meaning": "in front; around the mouth (the area around the entrance of the nostrils)",
   "gram": "indeclinable adverb (accusative singular of parimukha)",
   "breakdown": [
-   ["pari", "Around."],
-   ["mukha", "Mouth; face, front."]
+   [
+    "pari",
+    "Around."
+   ],
+   [
+    "mukha",
+    "Mouth; face, front."
+   ]
   ],
   "goenka": "The word occurs in the meditation instruction parimukhaṁ satiṁ upaṭṭhapetvā, \"having established awareness in front / around the mouth\". In the tradition's practice of ānāpāna this is taken concretely: attention is kept on the area around the entrance of the nostrils, where the breath can be felt as it actually is."
  },
@@ -433,9 +818,17 @@
   "meaning": "completely calmed; fully extinguished, attained to final nibbāna",
   "gram": "past participle of parinibbāti (pari + nir + √vā), plural or feminine form",
   "breakdown": [
-   ["pari", "Completely."],
-   ["nibbuta", "Calmed, quenched, extinguished (past participle of nibbāti, nir + √vā)."]
+   [
+    "pari",
+    "Completely."
+   ],
+   [
+    "nibbuta",
+    "Calmed, quenched, extinguished (past participle of nibbāti, nir + √vā)."
+   ]
   ],
-  "forms": ["parinibbuta"]
+  "forms": [
+   "parinibbuta"
+  ]
  }
 }

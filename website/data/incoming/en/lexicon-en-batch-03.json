@@ -3,10 +3,22 @@
   "meaning": "from taking what is not given; from theft",
   "gram": "neuter compound noun, ablative singular (as in adinnādānā veramaṇī, \"abstaining from taking what is not given\")",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["dinna", "Given (past participle of dadāti, √dā)."],
-   ["ādāna", "Taking, seizing (ā + √dā)."],
-   ["-ā", "Ablative singular ending, \"from\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "dinna",
+    "Given (past participle of dadāti, √dā)."
+   ],
+   [
+    "ādāna",
+    "Taking, seizing (ā + √dā)."
+   ],
+   [
+    "-ā",
+    "Ablative singular ending, \"from\"."
+   ]
   ],
   "goenka": "Adinnādāna, taking what is not given, is one of the ten unwholesome actions, and abstaining from it (adinnādānā veramaṇī) is the second precept of sīla. Observing this abstention is part of the moral foundation on which the meditator's samādhi and paññā are developed."
  },
@@ -14,17 +26,32 @@
   "meaning": "not seen, unseen",
   "gram": "past participle of na passati (√dis), plural or feminine form",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["diṭṭha", "Seen (past participle of passati, √dis)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "diṭṭha",
+    "Seen (past participle of passati, √dis)."
+   ]
   ]
  },
  "adubbhapāṇī": {
   "meaning": "with a hand that does not hurt or deceive; harmless-handed",
   "gram": "masculine compound noun/adjective",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["dubbha", "Hurting, deceiving, treacherous."],
-   ["pāṇi", "Hand."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "dubbha",
+    "Hurting, deceiving, treacherous."
+   ],
+   [
+    "pāṇi",
+    "Hand."
+   ]
   ]
  },
  "agamanīyaṭṭhānavītikkamacetanā": {
@@ -32,18 +59,36 @@
   "summary": "A long compound analysing the factor of sexual misconduct: the cetanā (volition) of vītikkama (transgression) regarding an agamanīya-ṭhāna (a \"place not to be gone to\", i.e. a forbidden object).",
   "gram": "feminine compound noun",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["gamanīya", "That ought to be gone to (future passive participle of gacchati)."],
-   ["ṭhāna", "Place, ground. (The doubled ṭṭh is sandhi doubling.)"],
-   ["vītikkama", "Transgression, going beyond."],
-   ["cetanā", "Volition, intention."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "gamanīya",
+    "That ought to be gone to (future passive participle of gacchati)."
+   ],
+   [
+    "ṭhāna",
+    "Place, ground. (The doubled ṭṭh is sandhi doubling.)"
+   ],
+   [
+    "vītikkama",
+    "Transgression, going beyond."
+   ],
+   [
+    "cetanā",
+    "Volition, intention."
+   ]
   ]
  },
  "agga": {
   "meaning": "top, highest point; (in dhajagga) the top of a standard or banner",
   "gram": "adjective/neuter noun",
   "breakdown": [
-   ["agga", "Top, tip, highest point; foremost, supreme."]
+   [
+    "agga",
+    "Top, tip, highest point; foremost, supreme."
+   ]
   ],
   "summary": "In the lexicon this entry explains the compound dhajagga: dhaja \"banner, flag; mark, emblem\" + agga \"top, highest point\", i.e. \"top of a standard\"."
  },
@@ -51,69 +96,131 @@
   "meaning": "they took, they seized",
   "gram": "verb, 3rd person plural aorist of gaṇhāti (√gah)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√gah", "Root \"to take, seize\" (stem gahe-)."],
-   ["-suṁ", "Aorist ending, 3rd person plural."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√gah",
+    "Root \"to take, seize\" (stem gahe-)."
+   ],
+   [
+    "-suṁ",
+    "Aorist ending, 3rd person plural."
+   ]
   ]
  },
  "aggamakkhāyati": {
   "meaning": "is proclaimed the highest, is declared supreme",
   "gram": "compound verb: aggaṁ (accusative) + akkhāyati, passive, 3rd person singular present",
   "breakdown": [
-   ["aggaṁ", "The highest, the supreme (accusative)."],
-   ["akkhāyati", "Is proclaimed, is declared (passive of akkhāti \"to declare\"). (The ṁ becomes m before a vowel.)"]
+   [
+    "aggaṁ",
+    "The highest, the supreme (accusative)."
+   ],
+   [
+    "akkhāyati",
+    "Is proclaimed, is declared (passive of akkhāti \"to declare\"). (The ṁ becomes m before a vowel.)"
+   ]
   ]
  },
  "agganikkhitto": {
   "meaning": "highly praised, famed; literally \"laid down as the highest\"",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["agga", "The highest, foremost."],
-   ["nikkhitta", "Laid down, placed (past participle of nikkhipati)."]
+   [
+    "agga",
+    "The highest, foremost."
+   ],
+   [
+    "nikkhitta",
+    "Laid down, placed (past participle of nikkhipati)."
+   ]
   ]
  },
  "aggaññasuttaṁ": {
   "meaning": "the Aggañña Sutta, \"the Discourse on What is Primary (on Origins)\" (sutta title)",
   "gram": "proper noun (sutta title), neuter",
   "breakdown": [
-   ["aggañña", "Known as the highest or first; primeval, original (agga + -ñña, from √ñā)."],
-   ["sutta", "Discourse."]
+   [
+    "aggañña",
+    "Known as the highest or first; primeval, original (agga + -ñña, from √ñā)."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ],
-  "forms": ["Aggaññasuttaṁ"]
+  "forms": [
+   "Aggaññasuttaṁ"
+  ]
  },
  "agiddhilobhaṁ": {
   "meaning": "free from greed and covetousness",
   "gram": "masculine compound noun/adjective, accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["giddhi", "Greed, greediness (from gijjhati \"to crave\")."],
-   ["lobha", "Covetousness, greed."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "giddhi",
+    "Greed, greediness (from gijjhati \"to crave\")."
+   ],
+   [
+    "lobha",
+    "Covetousness, greed."
+   ]
   ]
  },
  "agārasmā anagāriyaṁ": {
   "meaning": "out of the house into homelessness (the formula of going forth)",
   "gram": "phrase: ablative + accusative",
   "breakdown": [
-   ["agārasmā", "From the house, from home life (ablative singular of agāra)."],
-   ["anagāriyaṁ", "Into homelessness (accusative of anagāriya: an + agāra + -iya)."]
+   [
+    "agārasmā",
+    "From the house, from home life (ablative singular of agāra)."
+   ],
+   [
+    "anagāriyaṁ",
+    "Into homelessness (accusative of anagāriya: an + agāra + -iya)."
+   ]
   ]
  },
  "ahañceva": {
   "meaning": "and if I; I indeed thus",
   "gram": "sandhi fusion: pronoun + particles (ahaṁ + ca/ce + eva)",
   "breakdown": [
-   ["ahaṁ", "I (1st person pronoun, nominative)."],
-   ["ca/ce", "And; if."],
-   ["eva", "Emphatic particle, \"just, indeed\". (The fusion gives -ñc- by sandhi.)"]
+   [
+    "ahaṁ",
+    "I (1st person pronoun, nominative)."
+   ],
+   [
+    "ca/ce",
+    "And; if."
+   ],
+   [
+    "eva",
+    "Emphatic particle, \"just, indeed\". (The fusion gives -ñc- by sandhi.)"
+   ]
   ]
  },
  "ahaññeveko": {
   "meaning": "I alone, just I as one",
   "gram": "sandhi fusion: pronoun + particle + numeral adjective",
   "breakdown": [
-   ["ahaṁ", "I (1st person pronoun, nominative)."],
-   ["eva", "Emphatic particle, \"just, only\". (The fusion gives -ññ- by sandhi.)"],
-   ["eko", "One, alone (masculine nominative singular)."]
+   [
+    "ahaṁ",
+    "I (1st person pronoun, nominative)."
+   ],
+   [
+    "eva",
+    "Emphatic particle, \"just, only\". (The fusion gives -ññ- by sandhi.)"
+   ],
+   [
+    "eko",
+    "One, alone (masculine nominative singular)."
+   ]
   ],
   "note": "uncertain: the lexicon's breakdown includes na (\"not\"), reading ahaṁ + na + eva + eko; DPD analyses the sandhi as ahaṁ + eva + eko. The sense in context is \"just I alone\"."
  },
@@ -121,62 +228,122 @@
   "meaning": "without cause, groundless; having no reason",
   "gram": "adjective (a + hetu + -ka)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["hetu", "Cause, reason."],
-   ["-ka", "Adjectival suffix, \"having\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "hetu",
+    "Cause, reason."
+   ],
+   [
+    "-ka",
+    "Adjectival suffix, \"having\"."
+   ]
   ]
  },
  "ahitakāmā": {
   "meaning": "wishing harm; desiring what is not beneficial",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["hita", "Benefit, welfare, fortune."],
-   ["kāma", "Wishing, desiring."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "hita",
+    "Benefit, welfare, fortune."
+   ],
+   [
+    "kāma",
+    "Wishing, desiring."
+   ]
   ]
  },
  "ahitāya": {
   "meaning": "not of any benefit; for (one's) harm",
   "gram": "noun/past participle ahita, dative/genitive singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["hita", "Benefit, welfare (past participle of dahati, √dhā)."],
-   ["-āya", "Dative singular ending, \"for\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "hita",
+    "Benefit, welfare (past participle of dahati, √dhā)."
+   ],
+   [
+    "-āya",
+    "Dative singular ending, \"for\"."
+   ]
   ]
  },
  "ahorattānusikkhī": {
   "meaning": "training day and night; one who follows the training by day and by night",
   "gram": "adjective, compound",
   "breakdown": [
-   ["aho", "Day."],
-   ["ratta", "Night."],
-   ["anusikkhī", "Following the training, training oneself (anu + √sikkh + -ī)."]
+   [
+    "aho",
+    "Day."
+   ],
+   [
+    "ratta",
+    "Night."
+   ],
+   [
+    "anusikkhī",
+    "Following the training, training oneself (anu + √sikkh + -ī)."
+   ]
   ]
  },
  "ahosī": {
   "meaning": "was, became",
   "gram": "verb, 3rd person singular aorist of bhavati/hoti",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√hū", "Root \"to be\" (from √bhū)."],
-   ["-sī", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√hū",
+    "Root \"to be\" (from √bhū)."
+   ],
+   [
+    "-sī",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "ahu": {
   "meaning": "was, became",
   "gram": "verb, 3rd person singular aorist of hoti (√hū)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√hū", "Root \"to be\"."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√hū",
+    "Root \"to be\"."
+   ]
   ]
  },
  "ahuvattha": {
   "meaning": "was; (you all) were",
   "gram": "aorist of hoti; the lexicon notes it as 3rd person singular middle, DPD as 2nd person plural",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√hū", "Root \"to be\" (stem huva-)."],
-   ["-ttha", "Aorist ending."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√hū",
+    "Root \"to be\" (stem huva-)."
+   ],
+   [
+    "-ttha",
+    "Aorist ending."
+   ]
   ],
   "note": "uncertain: the lexicon parses this as 3rd person singular preterite middle of hoti; DPD parses it as aorist 2nd person plural. Both yield the past tense of \"to be\"."
  },
@@ -184,154 +351,306 @@
   "meaning": "took, took away, stole",
   "gram": "verb, 3rd person singular aorist of harati (√har)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√har", "Root \"to take, carry\"."],
-   ["-si", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√har",
+    "Root \"to take, carry\"."
+   ],
+   [
+    "-si",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "ajaḷatā": {
   "meaning": "non-dullness; being free of stupidity",
   "gram": "feminine abstract noun",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["jaḷa", "Dull, stupid."],
-   ["-tā", "Abstract noun suffix, \"-ness\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "jaḷa",
+    "Dull, stupid."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix, \"-ness\"."
+   ]
   ]
  },
  "ajeḷakapaṭiggahaṇā": {
   "meaning": "from accepting goats and sheep",
   "gram": "neuter compound action noun, ablative singular",
   "breakdown": [
-   ["aja", "Goat."],
-   ["eḷaka", "Sheep, ram."],
-   ["paṭiggahaṇa", "Accepting, receiving (paṭi + √gah)."],
-   ["-ā", "Ablative singular ending, \"from\"."]
+   [
+    "aja",
+    "Goat."
+   ],
+   [
+    "eḷaka",
+    "Sheep, ram."
+   ],
+   [
+    "paṭiggahaṇa",
+    "Accepting, receiving (paṭi + √gah)."
+   ],
+   [
+    "-ā",
+    "Ablative singular ending, \"from\"."
+   ]
   ]
  },
  "ajeṭṭhamaraṇaṁ-vāyaṁ": {
   "meaning": "this one (dies) a death that is not the best; like one dying an ignoble death",
   "gram": "sandhi compound: a + jeṭṭha + maraṇaṁ + va + ayaṁ",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["jeṭṭha", "Best, foremost, eldest."],
-   ["maraṇaṁ", "Death."],
-   ["va", "Like, as (comparison particle)."],
-   ["ayaṁ", "This one (demonstrative pronoun); fused by sandhi to -vāyaṁ."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "jeṭṭha",
+    "Best, foremost, eldest."
+   ],
+   [
+    "maraṇaṁ",
+    "Death."
+   ],
+   [
+    "va",
+    "Like, as (comparison particle)."
+   ],
+   [
+    "ayaṁ",
+    "This one (demonstrative pronoun); fused by sandhi to -vāyaṁ."
+   ]
   ]
  },
  "ajeṭṭhamaraṇaṁvāyaṁ": {
   "meaning": "this one (dies) a death that is not the best; like one dying an ignoble death",
   "gram": "sandhi compound: a + jeṭṭha + maraṇaṁ + va + ayaṁ (variant writing of the same phrase without hyphen)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["jeṭṭha", "Best, foremost, eldest."],
-   ["maraṇaṁ", "Death."],
-   ["va", "Like, as (comparison particle)."],
-   ["ayaṁ", "This one (demonstrative pronoun); fused by sandhi to -vāyaṁ."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "jeṭṭha",
+    "Best, foremost, eldest."
+   ],
+   [
+    "maraṇaṁ",
+    "Death."
+   ],
+   [
+    "va",
+    "Like, as (comparison particle)."
+   ],
+   [
+    "ayaṁ",
+    "This one (demonstrative pronoun); fused by sandhi to -vāyaṁ."
+   ]
   ]
  },
  "ajini": {
   "meaning": "defeated, surpassed, conquered",
   "gram": "verb, 3rd person singular aorist of jināti (√ji)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√ji", "Root \"to conquer\" (stem jinā-)."],
-   ["-i", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√ji",
+    "Root \"to conquer\" (stem jinā-)."
+   ],
+   [
+    "-i",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "ajjatagge": {
   "meaning": "from this day forward, from today onwards",
   "gram": "indeclinable (adverb), locative compound",
   "breakdown": [
-   ["ajja", "Today."],
-   ["-t-", "Junction consonant."],
-   ["agga", "Beginning, starting point (here: \"with today as the start\")."],
-   ["-e", "Locative singular ending."]
+   [
+    "ajja",
+    "Today."
+   ],
+   [
+    "-t-",
+    "Junction consonant."
+   ],
+   [
+    "agga",
+    "Beginning, starting point (here: \"with today as the start\")."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "ajjhabhāsi": {
   "meaning": "addressed, spoke out",
   "gram": "verb, 3rd person singular aorist of adhibhāsati",
   "breakdown": [
-   ["adhi-", "Prefix \"to, towards\"; before a vowel it becomes ajjh-."],
-   ["a-", "Augment marking the aorist."],
-   ["√bhās", "Root \"to speak\"."],
-   ["-i", "Aorist ending, 3rd person singular."]
+   [
+    "adhi-",
+    "Prefix \"to, towards\"; before a vowel it becomes ajjh-."
+   ],
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√bhās",
+    "Root \"to speak\"."
+   ],
+   [
+    "-i",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "ajjhattikabāhiresu": {
   "meaning": "in the internal and the external",
   "gram": "adjective compound, locative plural",
   "breakdown": [
-   ["ajjhattika", "Internal, personal, belonging to oneself (from ajjhatta)."],
-   ["bāhira", "External, outer."],
-   ["-esu", "Locative plural ending."]
+   [
+    "ajjhattika",
+    "Internal, personal, belonging to oneself (from ajjhatta)."
+   ],
+   [
+    "bāhira",
+    "External, outer."
+   ],
+   [
+    "-esu",
+    "Locative plural ending."
+   ]
   ]
  },
  "ajjhogāhetvā": {
   "meaning": "having plunged into, having entered",
   "gram": "gerund (absolutive) of ajjhogāhati",
   "breakdown": [
-   ["adhi-", "Prefix; before a vowel it becomes ajjh-."],
-   ["ava-/o-", "Prefix \"down, into\"."],
-   ["√gāh", "Root \"to plunge, dive\"."],
-   ["-etvā", "Gerund suffix, \"having ...-ed\"."]
+   [
+    "adhi-",
+    "Prefix; before a vowel it becomes ajjh-."
+   ],
+   [
+    "ava-/o-",
+    "Prefix \"down, into\"."
+   ],
+   [
+    "√gāh",
+    "Root \"to plunge, dive\"."
+   ],
+   [
+    "-etvā",
+    "Gerund suffix, \"having ...-ed\"."
+   ]
   ]
  },
  "ajjhoharati": {
   "meaning": "to eat, to swallow",
   "gram": "verb, 3rd person singular present (adhi + ava + √har)",
   "breakdown": [
-   ["adhi-", "Prefix; before a vowel it becomes ajjh-."],
-   ["ava-/o-", "Prefix \"down\"."],
-   ["√har", "Root \"to carry\"; with the prefixes, \"to take down, swallow\"."]
+   [
+    "adhi-",
+    "Prefix; before a vowel it becomes ajjh-."
+   ],
+   [
+    "ava-/o-",
+    "Prefix \"down\"."
+   ],
+   [
+    "√har",
+    "Root \"to carry\"; with the prefixes, \"to take down, swallow\"."
+   ]
   ]
  },
  "ajjhoharaṇādhippāyena": {
   "meaning": "with the intention of eating or swallowing",
   "gram": "compound noun, instrumental singular",
   "breakdown": [
-   ["ajjhoharaṇa", "Eating, swallowing (action noun of ajjhoharati)."],
-   ["adhippāya", "Intention, desire."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "ajjhoharaṇa",
+    "Eating, swallowing (action noun of ajjhoharati)."
+   ],
+   [
+    "adhippāya",
+    "Intention, desire."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "ajjhājīve": {
   "meaning": "as regards the way of life, concerning livelihood",
   "gram": "indeclinable/locative singular (adhi + ājīva)",
   "breakdown": [
-   ["adhi-", "Prefix \"with regard to\"; before a vowel it becomes ajjh-."],
-   ["ājīva", "Livelihood, way of life (ā + √jīv)."],
-   ["-e", "Locative singular ending."]
+   [
+    "adhi-",
+    "Prefix \"with regard to\"; before a vowel it becomes ajjh-."
+   ],
+   [
+    "ājīva",
+    "Livelihood, way of life (ā + √jīv)."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "ajjhāvasati": {
   "meaning": "to dwell in, to inhabit",
   "gram": "verb, 3rd person singular present (adhi + ā + √vas)",
   "breakdown": [
-   ["adhi-", "Prefix \"over, in\"; before a vowel it becomes ajjh-."],
-   ["ā-", "Prefix \"to, at\"."],
-   ["√vas", "Root \"to dwell\"."]
-  ]
- },
- "ajjhāvasati dwell": {
-  "meaning": "to dwell in, to inhabit",
-  "gram": "verb, 3rd person singular present (adhi + ā + √vas)",
-  "note": "uncertain: this key carries the English word \"dwell\" over from the source glossary's layout; the Pāli entry is ajjhāvasati \"to dwell in, inhabit\".",
-  "breakdown": [
-   ["adhi-", "Prefix \"over, in\"; before a vowel it becomes ajjh-."],
-   ["ā-", "Prefix \"to, at\"."],
-   ["√vas", "Root \"to dwell\"."]
+   [
+    "adhi-",
+    "Prefix \"over, in\"; before a vowel it becomes ajjh-."
+   ],
+   [
+    "ā-",
+    "Prefix \"to, at\"."
+   ],
+   [
+    "√vas",
+    "Root \"to dwell\"."
+   ]
   ]
  },
  "ajjhāvasāma": {
   "meaning": "we inhabit, we live in",
   "gram": "verb, 1st person plural present of ajjhāvasati",
   "breakdown": [
-   ["adhi-", "Prefix \"over, in\"; before a vowel it becomes ajjh-."],
-   ["ā-", "Prefix \"to, at\"."],
-   ["√vas", "Root \"to dwell\"."],
-   ["-āma", "Present ending, 1st person plural."]
+   [
+    "adhi-",
+    "Prefix \"over, in\"; before a vowel it becomes ajjh-."
+   ],
+   [
+    "ā-",
+    "Prefix \"to, at\"."
+   ],
+   [
+    "√vas",
+    "Root \"to dwell\"."
+   ],
+   [
+    "-āma",
+    "Present ending, 1st person plural."
+   ]
   ],
   "note": "divergence: the lexicon labels this form 2nd person plural; the ending -āma is the regular 1st person plural (\"we dwell\")."
  },
@@ -339,120 +658,228 @@
   "meaning": "they were produced, they were born",
   "gram": "verb, 3rd person plural aorist of jāyati (√jan)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√jan", "Root \"to be born, arise\" (passive stem jāya-)."],
-   ["-isuṁ", "Aorist ending, 3rd person plural."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√jan",
+    "Root \"to be born, arise\" (passive stem jāya-)."
+   ],
+   [
+    "-isuṁ",
+    "Aorist ending, 3rd person plural."
+   ]
   ]
  },
  "akakkasaṁ": {
   "meaning": "not rough, not harsh (of speech)",
   "gram": "adjective, neuter/accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kakkasa", "Rough, harsh."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kakkasa",
+    "Rough, harsh."
+   ]
   ]
  },
  "akammakāmā": {
   "meaning": "not desiring work; averse to action",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kamma", "Doing, work, action."],
-   ["kāma", "Desiring, wishing."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kamma",
+    "Doing, work, action."
+   ],
+   [
+    "kāma",
+    "Desiring, wishing."
+   ]
   ]
  },
  "akantā": {
   "meaning": "not pleasant, unwanted",
   "gram": "past participle of na kāmeti (√kam), plural or feminine form",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kanta", "Pleasant, desired, lovely (past participle of kāmeti)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kanta",
+    "Pleasant, desired, lovely (past participle of kāmeti)."
+   ]
   ]
  },
  "akantāya": {
   "meaning": "not desired, unwanted",
   "gram": "past participle of na kāmeti, feminine oblique singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kanta", "Desired, pleasant (past participle of kāmeti)."],
-   ["-āya", "Feminine oblique singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kanta",
+    "Desired, pleasant (past participle of kāmeti)."
+   ],
+   [
+    "-āya",
+    "Feminine oblique singular ending."
+   ]
   ]
  },
  "akaraṇaṁ": {
   "meaning": "not doing, non-performance",
   "gram": "neuter action noun (from na karoti)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["karaṇa", "Doing, performing (√kar + -aṇa)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "karaṇa",
+    "Doing, performing (√kar + -aṇa)."
+   ]
   ]
  },
  "akathito": {
   "meaning": "not spoken of, not related, untold",
   "gram": "past participle of na katheti, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kathita", "Spoken, told (past participle of katheti, √kath)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kathita",
+    "Spoken, told (past participle of katheti, √kath)."
+   ]
   ]
  },
  "akatvākusalaṁ": {
   "meaning": "not having done what is unwholesome",
   "gram": "sandhi phrase: gerund + noun (a + katvā + akusalaṁ)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["katvā", "Having done (gerund of karoti)."],
-   ["akusalaṁ", "The unwholesome. (katvā + akusalaṁ fuse to -vāku- by sandhi.)"]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "katvā",
+    "Having done (gerund of karoti)."
+   ],
+   [
+    "akusalaṁ",
+    "The unwholesome. (katvā + akusalaṁ fuse to -vāku- by sandhi.)"
+   ]
   ]
  },
  "akhaṇḍa": {
   "meaning": "unbroken, intact",
   "gram": "adjective (from na khaṇḍeti)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["khaṇḍa", "Broken, split (√khaṇḍ)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "khaṇḍa",
+    "Broken, split (√khaṇḍ)."
+   ]
   ]
  },
  "akhaṇḍakāritāya": {
   "meaning": "by unbroken performance; through practising without gap or breach",
   "gram": "feminine abstract noun, instrumental singular, compound",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["khaṇḍa", "Break, split, gap."],
-   ["kāritā", "Performing, the state of acting (from √kar)."],
-   ["-āya", "Instrumental singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "khaṇḍa",
+    "Break, split, gap."
+   ],
+   [
+    "kāritā",
+    "Performing, the state of acting (from √kar)."
+   ],
+   [
+    "-āya",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "akicchalābhī": {
   "meaning": "attained without difficulty; one who gains (the meditative states) easily",
   "gram": "adjective, compound",
   "breakdown": [
-   ["a-", "Negative prefix \"without\"."],
-   ["kiccha", "Difficulty, hardship."],
-   ["lābhī", "One who obtains, an attainer (from lābha \"gain\")."]
+   [
+    "a-",
+    "Negative prefix \"without\"."
+   ],
+   [
+    "kiccha",
+    "Difficulty, hardship."
+   ],
+   [
+    "lābhī",
+    "One who obtains, an attainer (from lābha \"gain\")."
+   ]
   ]
  },
  "akiriya": {
   "meaning": "non-action, non-doing; (as a doctrine) the denial of the efficacy of action",
   "gram": "neuter noun (from na karoti)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kiriya", "Deed, action (√kar)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kiriya",
+    "Deed, action (√kar)."
+   ]
   ]
  },
  "akittisañjananī": {
   "meaning": "producing disrepute; generating loss of renown",
   "gram": "adjective, feminine, compound",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kitti", "Renown, fame."],
-   ["sañjananī", "Producing, generating (saṁ + √jan + -anī)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kitti",
+    "Renown, fame."
+   ],
+   [
+    "sañjananī",
+    "Producing, generating (saṁ + √jan + -anī)."
+   ]
   ]
  },
  "akiñcano": {
   "meaning": "having nothing, possessionless",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kiñcana", "Something, any possession (from kiñci \"anything\")."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kiñcana",
+    "Something, any possession (from kiñci \"anything\")."
+   ]
   ]
  }
 }

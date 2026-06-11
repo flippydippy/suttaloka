@@ -3,32 +3,49 @@
   "meaning": "food and wages",
   "gram": "neuter noun, compound (bhatta + vetana)",
   "breakdown": [
-   ["bhatta", "Food, meal."],
-   ["vetanaṁ", "Wages, payment."]
+   [
+    "bhatta",
+    "Food, meal."
+   ],
+   [
+    "vetanaṁ",
+    "Wages, payment."
+   ]
   ],
-  "forms": ["bhattavetanaṃ"]
+  "forms": [
+   "bhattavetanaṃ"
+  ]
  },
  "bhattavetanānuppadānena": {
   "meaning": "by providing food and wages",
   "gram": "neuter noun, instrumental singular, compound (bhattavetana + anuppadāna)",
   "breakdown": [
-   ["bhatta", "Food."],
-   ["vetana", "Wages (vetana + anu- coalesces to vetanānu-)."],
-   ["anuppadānena", "By providing, by giving regularly; from anu + pa + √dā."]
+   [
+    "bhatta",
+    "Food."
+   ],
+   [
+    "vetana",
+    "Wages (vetana + anu- coalesces to vetanānu-)."
+   ],
+   [
+    "anuppadānena",
+    "By providing, by giving regularly; from anu + pa + √dā."
+   ]
   ]
- },
- "bhattavetanānup­": {
-  "meaning": "by providing food and wages",
-  "gram": "neuter noun, compound",
-  "note": "uncertain: this headword is a line-break fragment of bhattavetanānuppadānena in the source vocabulary; see that entry.",
-  "forms": ["bhattavetanānuppadānena"]
  },
  "bhavanetti": {
   "meaning": "the conduit to becoming; what leads to renewed existence",
   "gram": "feminine abstract noun, compound (bhava + netti)",
   "breakdown": [
-   ["bhava", "Becoming, existence."],
-   ["netti", "Leading, guide, conduit; from √nī “to lead”."]
+   [
+    "bhava",
+    "Becoming, existence."
+   ],
+   [
+    "netti",
+    "Leading, guide, conduit; from √nī “to lead”."
+   ]
   ]
  },
  "bhavataṇhā": {
@@ -36,15 +53,23 @@
   "summary": "This is the second of the three cravings named in the Second Noble Truth.",
   "gram": "feminine noun, compound (bhava + taṇhā)",
   "breakdown": [
-   ["bhava", "Becoming, existence."],
-   ["taṇhā", "Craving, thirst."]
+   [
+    "bhava",
+    "Becoming, existence."
+   ],
+   [
+    "taṇhā",
+    "Craving, thirst."
+   ]
   ],
   "goenka": "Bhavataṇhā, the craving for becoming, for repeated rebirth, is one of the three forms of craving (taṇhā) named in the Noble Truth of the Arising of Suffering, together with kāmataṇhā, the craving for sensual pleasures, and vibhavataṇhā, the craving for annihilation. It is this craving, occurring again and again and finding delight now here, now there, that keeps the round of suffering turning."
  },
  "bhayaṁ": {
   "meaning": "fear; danger",
   "gram": "neuter noun (from √bhī “to fear”)",
-  "forms": ["bhayaṃ"]
+  "forms": [
+   "bhayaṃ"
+  ]
  },
  "bhañjeyya": {
   "meaning": "should break; would break",
@@ -54,8 +79,14 @@
   "meaning": "while being spoken; as it was being told, preached",
   "gram": "present participle (passive) of bhaṇati, locative singular (locative absolute)",
   "breakdown": [
-   ["bhañña", "Passive stem of bhaṇati “to speak”."],
-   ["-māne", "Present participle suffix, locative singular."]
+   [
+    "bhañña",
+    "Passive stem of bhaṇati “to speak”."
+   ],
+   [
+    "-māne",
+    "Present participle suffix, locative singular."
+   ]
   ]
  },
  "bhaṇantiyā": {
@@ -74,27 +105,54 @@
   "meaning": "fallen into quarrelling; in whom strife has arisen",
   "gram": "adjective, plural, compound (bhaṇḍana + jāta)",
   "breakdown": [
-   ["bhaṇḍana", "Quarrelling, strife."],
-   ["jātā", "Produced, born, arisen; past participle of jāyati."]
+   [
+    "bhaṇḍana",
+    "Quarrelling, strife."
+   ],
+   [
+    "jātā",
+    "Produced, born, arisen; past participle of jāyati."
+   ]
   ]
  },
  "bhaṇḍanakalahaviggahavivādā": {
   "meaning": "quarrels, fights, disputes and controversies",
   "gram": "masculine noun, plural, compound (bhaṇḍana + kalaha + viggaha + vivāda)",
   "breakdown": [
-   ["bhaṇḍana", "Quarrelling."],
-   ["kalaha", "Fight, strife."],
-   ["viggaha", "Dispute, contention."],
-   ["vivādā", "Controversies, disputes."]
+   [
+    "bhaṇḍana",
+    "Quarrelling."
+   ],
+   [
+    "kalaha",
+    "Fight, strife."
+   ],
+   [
+    "viggaha",
+    "Dispute, contention."
+   ],
+   [
+    "vivādā",
+    "Controversies, disputes."
+   ]
   ]
  },
  "bhedapurekkhāratā": {
   "meaning": "preferring division; taking pleasure in causing breach",
   "gram": "feminine abstract noun, compound (bheda + purekkhāra + -tā)",
   "breakdown": [
-   ["bheda", "Breaking, division, breach."],
-   ["purekkhāra", "Preference, putting in front; esteem."],
-   ["-tā", "Abstract noun suffix: “the state of”."]
+   [
+    "bheda",
+    "Breaking, division, breach."
+   ],
+   [
+    "purekkhāra",
+    "Preference, putting in front; esteem."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: “the state of”."
+   ]
   ]
  },
  "bhedo": {
@@ -109,15 +167,23 @@
   "meaning": "a breaker; one who divides",
   "gram": "masculine agent noun, nominative singular of bhettar (from bhedeti)",
   "breakdown": [
-   ["√bhid", "Root “to break” (bhed- in the agent stem)."],
-   ["-tā", "Agent noun ending (bhettar, nominative bhettā): “one who breaks”."]
+   [
+    "√bhid",
+    "Root “to break” (bhed- in the agent stem)."
+   ],
+   [
+    "-tā",
+    "Agent noun ending (bhettar, nominative bhettā): “one who breaks”."
+   ]
   ]
  },
  "bhikkhave": {
   "meaning": "Bhikkhus! (vocative address); monks",
   "gram": "masculine noun, vocative plural of bhikkhu (irregular)",
   "goenka": "Bhikkhave, here left untranslated as “Bhikkhus”, is the term the Buddha generally used to address his assembly. That assembly often consisted not only of monks and nuns but of laypeople as well; the address therefore reaches everyone who has gathered to hear and practise the teaching.",
-  "forms": ["bhikkhave"]
+  "forms": [
+   "bhikkhave"
+  ]
  },
  "bhindeyya": {
   "meaning": "should split; would break",
@@ -143,8 +209,14 @@
   "meaning": "for increase; for becoming more",
   "gram": "masculine abstract noun, dative singular, compound (bhiyyo + bhāva)",
   "breakdown": [
-   ["bhiyyo", "More, further."],
-   ["bhāvāya", "For the state, for the making; dative singular of bhāva."]
+   [
+    "bhiyyo",
+    "More, further."
+   ],
+   [
+    "bhāvāya",
+    "For the state, for the making; dative singular of bhāva."
+   ]
   ]
  },
  "bho": {
@@ -156,10 +228,18 @@
   "meaning": "a mass of wealth; an accumulation of riches",
   "gram": "masculine noun, accusative singular, compound (bhoga + khandha)",
   "breakdown": [
-   ["bhoga", "Wealth, possessions (with sandhi doubling of the following k)."],
-   ["khandhaṁ", "Mass, heap, collection."]
+   [
+    "bhoga",
+    "Wealth, possessions (with sandhi doubling of the following k)."
+   ],
+   [
+    "khandhaṁ",
+    "Mass, heap, collection."
+   ]
   ],
-  "forms": ["bhogakkhandhaṃ"]
+  "forms": [
+   "bhogakkhandhaṃ"
+  ]
  },
  "bhoti": {
   "meaning": "dear madam; you (respectful-familiar address to a woman)",
@@ -169,8 +249,14 @@
   "meaning": "much careless; greatly negligent",
   "gram": "adjective, compound (bhusa + pamatta)",
   "breakdown": [
-   ["bhusa", "Much, greatly (with sandhi doubling of the following p)."],
-   ["pamattā", "Careless, negligent; past participle of pamajjati."]
+   [
+    "bhusa",
+    "Much, greatly (with sandhi doubling of the following p)."
+   ],
+   [
+    "pamattā",
+    "Careless, negligent; past participle of pamajjati."
+   ]
   ]
  },
  "bhuñjamānā": {
@@ -180,16 +266,26 @@
  "bhuñjamānānaṁ": {
   "meaning": "of those eating; of those enjoying",
   "gram": "present participle of bhuñjati, genitive plural",
-  "forms": ["bhuñjamānānaṃ"]
+  "forms": [
+   "bhuñjamānānaṃ"
+  ]
  },
  "bhāgamakāsiṁ": {
   "meaning": "I made a portion; I divided into shares",
   "gram": "verb, aorist 1st person singular, compound (bhāgaṁ + akāsiṁ)",
   "breakdown": [
-   ["bhāgaṁ", "Portion, share (the m bridges in sandhi)."],
-   ["akāsiṁ", "I made, I did; aorist of karoti."]
+   [
+    "bhāgaṁ",
+    "Portion, share (the m bridges in sandhi)."
+   ],
+   [
+    "akāsiṁ",
+    "I made, I did; aorist of karoti."
+   ]
   ],
-  "forms": ["bhāgamakāsiṃ"]
+  "forms": [
+   "bhāgamakāsiṃ"
+  ]
  },
  "bhākuṭikā": {
   "meaning": "frowning; superciliousness",
@@ -198,27 +294,55 @@
  "bhākuṭiyaṁ": {
   "meaning": "arrogance; frowning haughtiness",
   "gram": "feminine noun, compound (bhā + kuṭi)",
-  "forms": ["bhākuṭiyaṃ"]
+  "forms": [
+   "bhākuṭiyaṃ"
+  ]
  },
  "bhāratayuddhasītāharaṇādiniratthakakathāpurekkhāratā": {
   "meaning": "preference for meaningless talk such as the Bhārata war, the abduction of Sītā and the like",
   "summary": "This long compound describes the fondness for frivolous worldly storytelling (the epics) as a kind of pointless talk.",
   "gram": "feminine abstract noun, compound",
   "breakdown": [
-   ["bhārata", "The Bhārata (the Mahābhārata epic)."],
-   ["yuddha", "War."],
-   ["sītā", "Sītā (heroine of the Rāmāyaṇa)."],
-   ["haraṇa", "Taking, abduction."],
-   ["ādi", "Beginning with, and so on."],
-   ["niratthaka", "Meaningless, pointless."],
-   ["kathā", "Talk, story."],
-   ["purekkhāratā", "Preference for, putting in front."]
+   [
+    "bhārata",
+    "The Bhārata (the Mahābhārata epic)."
+   ],
+   [
+    "yuddha",
+    "War."
+   ],
+   [
+    "sītā",
+    "Sītā (heroine of the Rāmāyaṇa)."
+   ],
+   [
+    "haraṇa",
+    "Taking, abduction."
+   ],
+   [
+    "ādi",
+    "Beginning with, and so on."
+   ],
+   [
+    "niratthaka",
+    "Meaningless, pointless."
+   ],
+   [
+    "kathā",
+    "Talk, story."
+   ],
+   [
+    "purekkhāratā",
+    "Preference for, putting in front."
+   ]
   ]
  },
  "bhāriyaṁ": {
   "meaning": "serious, grave; weighty",
   "gram": "adjective (from bhāra “burden”)",
-  "forms": ["bhāriyaṃ"]
+  "forms": [
+   "bhāriyaṃ"
+  ]
  },
  "bhāsissāmī": {
   "meaning": "I will speak",
@@ -227,7 +351,9 @@
  "bhāsitaṁ": {
   "meaning": "that which is spoken; the saying, the utterance",
   "gram": "neuter noun, past participle of bhāsati (√bhās + ita)",
-  "forms": ["bhāsitaṃ"]
+  "forms": [
+   "bhāsitaṃ"
+  ]
  },
  "bhātā": {
   "meaning": "brother",
@@ -238,8 +364,14 @@
   "summary": "Bhāvanā is sustained meditative cultivation — actually developing a quality in the mind, not merely thinking about it.",
   "gram": "feminine noun (causative of √bhū “to be, become” + -anā: “causing to become, developing”)",
   "breakdown": [
-   ["√bhū", "Root “to be, become”; the causative stem bhāve- means “to cause to become, to develop”."],
-   ["-anā", "Action-noun suffix: the act of cultivating, developing."]
+   [
+    "√bhū",
+    "Root “to be, become”; the causative stem bhāve- means “to cause to become, to develop”."
+   ],
+   [
+    "-anā",
+    "Action-noun suffix: the act of cultivating, developing."
+   ]
   ],
   "goenka": "Bhāvanā is mental cultivation — meditation as the sustained development of the mind, not mere thinking about, visualisation or imagination. The word appears throughout the texts in compounds naming the cultivation of specific qualities: mettābhāvanā, karuṇābhāvanā, muditābhāvanā, upekkhābhāvanā, asubhabhāvanā, aniccasaññābhāvanā, ānāpānassatibhāvanā. This pattern shows bhāvanā as sustained meditative cultivation in which a quality is actually developed in the mind. The tradition distinguishes bhāvanāmayā paññā — wisdom arising from direct meditative experience — as the highest of the three kinds of wisdom, the kind that Vipassana develops, beyond wisdom gained by hearing or by intellectual reflection."
  },
@@ -247,17 +379,32 @@
   "meaning": "engaged in the practice of mental development; devoted to the pursuit of bhāvanā",
   "gram": "adjective, plural, compound (bhāvanā + anuyogaṁ + anuyutta)",
   "breakdown": [
-   ["bhāvanā", "Mental cultivation, meditation development (bhāvanā + anu- coalesces to bhāvanānu-)."],
-   ["anuyogaṁ", "Practice of, application to (the m bridges in sandhi)."],
-   ["anuyuttā", "Engaged in, devoted to; past participle of anuyuñjati."]
+   [
+    "bhāvanā",
+    "Mental cultivation, meditation development (bhāvanā + anu- coalesces to bhāvanānu-)."
+   ],
+   [
+    "anuyogaṁ",
+    "Practice of, application to (the m bridges in sandhi)."
+   ],
+   [
+    "anuyuttā",
+    "Engaged in, devoted to; past participle of anuyuñjati."
+   ]
   ]
  },
  "bhāvaye": {
   "meaning": "should cultivate; may one develop",
   "gram": "verb, optative 3rd person singular of bhāveti (causative of bhavati)",
   "breakdown": [
-   ["bhāvaya", "Causative stem of bhavati: “to cause to become, to cultivate”."],
-   ["-e", "Optative ending."]
+   [
+    "bhāvaya",
+    "Causative stem of bhavati: “to cause to become, to cultivate”."
+   ],
+   [
+    "-e",
+    "Optative ending."
+   ]
   ]
  },
  "bhāvessati": {
@@ -267,12 +414,16 @@
  "bhāvetabban": {
   "meaning": "should be developed; must be cultivated (of the path: “to be developed”)",
   "gram": "potential participle of bhāveti (with -n for -ṁ before ti in quotation sandhi)",
-  "forms": ["bhāvetabbaṁ"]
+  "forms": [
+   "bhāvetabbaṁ"
+  ]
  },
  "bhāvitan": {
   "meaning": "has been developed; is fulfilled through cultivation",
   "gram": "past participle of bhāveti (with -n for -ṁ before ti in quotation sandhi)",
-  "forms": ["bhāvitaṁ"]
+  "forms": [
+   "bhāvitaṁ"
+  ]
  },
  "bhāvitā": {
   "meaning": "developed, cultivated; cultured",
@@ -294,17 +445,31 @@
   "meaning": "of one who is frightened; for the fearful",
   "gram": "past participle of bhāyati (√bhī + ta), genitive singular",
   "breakdown": [
-   ["bhīta", "Frightened; past participle of bhāyati “to fear”."],
-   ["-assa", "Genitive singular ending: “of”."]
+   [
+    "bhīta",
+    "Frightened; past participle of bhāyati “to fear”."
+   ],
+   [
+    "-assa",
+    "Genitive singular ending: “of”."
+   ]
   ]
  },
  "bhūmiladdhaṁ": {
   "meaning": "having gained a footing; obtained at that stage or state",
   "gram": "adjective, compound (bhūmi + laddha)",
   "breakdown": [
-   ["bhūmi", "Stage, state, ground."],
-   ["laddhaṁ", "Achieved, gained, obtained; past participle of labhati."]
+   [
+    "bhūmi",
+    "Stage, state, ground."
+   ],
+   [
+    "laddhaṁ",
+    "Achieved, gained, obtained; past participle of labhati."
+   ]
   ],
-  "forms": ["bhūmiladdhaṃ"]
+  "forms": [
+   "bhūmiladdhaṃ"
+  ]
  }
 }

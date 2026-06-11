@@ -3,80 +3,158 @@
   "meaning": "of (things) not yet arisen",
   "gram": "past participle of na uppajjati, genitive plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["uppanna", "Arisen (past participle of uppajjati, ud + √pad)."],
-   ["-ānaṁ", "Genitive plural ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "uppanna",
+    "Arisen (past participle of uppajjati, ud + √pad)."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive plural ending."
+   ]
   ]
  },
  "anuppattasadattho": {
   "meaning": "having attained one's own welfare; one who has reached his own true goal",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["anuppatta", "Attained, reached (past participle of anupāpuṇāti; the pp is sandhi doubling)."],
-   ["sadattha", "One's own welfare, one's own good (sa(ka) + attha)."]
+   [
+    "anuppatta",
+    "Attained, reached (past participle of anupāpuṇāti; the pp is sandhi doubling)."
+   ],
+   [
+    "sadattha",
+    "One's own welfare, one's own good (sa(ka) + attha)."
+   ]
   ]
  },
  "anuppattasadatthā": {
   "meaning": "having attained their own welfare (plural)",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["anuppatta", "Attained, reached (past participle of anupāpuṇāti)."],
-   ["sadattha", "One's own welfare, one's own good."]
+   [
+    "anuppatta",
+    "Attained, reached (past participle of anupāpuṇāti)."
+   ],
+   [
+    "sadattha",
+    "One's own welfare, one's own good."
+   ]
   ]
  },
  "anuppatto": {
   "meaning": "attained, reached",
   "gram": "past participle of anupāpuṇāti, masculine nominative singular",
   "breakdown": [
-   ["anu-", "Prefix \"along, up to\"."],
-   ["pa-", "Prefix \"forth\" (with pp doubling)."],
-   ["√ap", "Root \"to reach, obtain\" + past participle suffix -ta."]
+   [
+    "anu-",
+    "Prefix \"along, up to\"."
+   ],
+   [
+    "pa-",
+    "Prefix \"forth\" (with pp doubling)."
+   ],
+   [
+    "√ap",
+    "Root \"to reach, obtain\" + past participle suffix -ta."
+   ]
   ]
  },
  "anuppaveccheyya": {
   "meaning": "should give, supply, present",
   "gram": "verb, 3rd person singular optative of anuppavecchati",
   "breakdown": [
-   ["anu-", "Prefix \"along, in addition\"."],
-   ["pa-", "Prefix \"forth\" (with pp doubling)."],
-   ["veccha", "Present stem \"to give, bestow\" (√yam)."],
-   ["-eyya", "Optative ending, 3rd person singular."]
+   [
+    "anu-",
+    "Prefix \"along, in addition\"."
+   ],
+   [
+    "pa-",
+    "Prefix \"forth\" (with pp doubling)."
+   ],
+   [
+    "veccha",
+    "Present stem \"to give, bestow\" (√yam)."
+   ],
+   [
+    "-eyya",
+    "Optative ending, 3rd person singular."
+   ]
   ]
  },
  "anuppiyabhāṇī": {
   "meaning": "a flatterer, a sycophant; one who speaks only what is pleasing",
   "gram": "adjective/noun, compound",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with pp doubling)."],
-   ["piya", "Dear, pleasant."],
-   ["bhāṇī", "Speaker (√bhaṇ \"to speak\" + -ī)."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with pp doubling)."
+   ],
+   [
+    "piya",
+    "Dear, pleasant."
+   ],
+   [
+    "bhāṇī",
+    "Speaker (√bhaṇ \"to speak\" + -ī)."
+   ]
   ]
  },
  "anuppādāya": {
   "meaning": "for the non-arising (of unarisen unwholesome states)",
   "gram": "masculine noun anuppāda, dative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["uppāda", "Arising (ud + √pad)."],
-   ["-āya", "Dative singular ending, \"for\"."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "uppāda",
+    "Arising (ud + √pad)."
+   ],
+   [
+    "-āya",
+    "Dative singular ending, \"for\"."
+   ]
   ]
  },
  "anupubbena": {
   "meaning": "in due course, gradually, in succession",
   "gram": "adverb (instrumental singular of anupubba)",
   "breakdown": [
-   ["anu-", "Prefix \"along, following\"."],
-   ["pubba", "Former, preceding; anupubba = \"one after the other\"."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "anu-",
+    "Prefix \"along, following\"."
+   ],
+   [
+    "pubba",
+    "Former, preceding; anupubba = \"one after the other\"."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "anupubbiṁ": {
   "meaning": "successive, gradual (as in anupubbiṁ kathaṁ, the gradual discourse)",
   "gram": "adjective, accusative singular",
   "breakdown": [
-   ["anu-", "Prefix \"along, following\"."],
-   ["pubba", "Former, preceding."],
-   ["-ī", "Adjectival suffix (accusative -iṁ)."]
+   [
+    "anu-",
+    "Prefix \"along, following\"."
+   ],
+   [
+    "pubba",
+    "Former, preceding."
+   ],
+   [
+    "-ī",
+    "Adjectival suffix (accusative -iṁ)."
+   ]
   ]
  },
  "anupādisesāya": {
@@ -84,312 +162,582 @@
   "summary": "Used of the nibbāna element in which no fuel of existence remains (anupādisesa nibbānadhātu).",
   "gram": "adjective, feminine oblique singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["upādi", "Substratum of becoming, fuel of clinging."],
-   ["sesa", "Remaining, left over."],
-   ["-āya", "Feminine oblique singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "upādi",
+    "Substratum of becoming, fuel of clinging."
+   ],
+   [
+    "sesa",
+    "Remaining, left over."
+   ],
+   [
+    "-āya",
+    "Feminine oblique singular ending."
+   ]
   ]
  },
  "anupādiyanto": {
   "meaning": "not grasping, not clinging",
   "gram": "present participle of na upādiyati, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["upādiya", "Present stem \"to grasp, cling\" (upa + ā + √dā)."],
-   ["-nta", "Present participle suffix."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "upādiya",
+    "Present stem \"to grasp, cling\" (upa + ā + √dā)."
+   ],
+   [
+    "-nta",
+    "Present participle suffix."
+   ]
   ]
  },
  "anupādā": {
   "meaning": "without attachment, without clinging",
   "gram": "indeclinable/gerund form (an + upādā)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["upādā", "Grasping, clinging (upa + ā + √dā)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "upādā",
+    "Grasping, clinging (upa + ā + √dā)."
+   ]
   ]
  },
  "anupādāya": {
   "meaning": "not holding on to; free from clinging",
   "gram": "negated gerund (an + upādāya, \"not having clung\")",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["upādāya", "Having grasped, clinging (gerund of upādiyati)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "upādāya",
+    "Having grasped, clinging (gerund of upādiyati)."
+   ]
   ]
  },
  "anusitthakāranaṁ": {
   "meaning": "doing as instructed; acting according to the instruction",
   "gram": "neuter compound noun",
   "breakdown": [
-   ["anusittha", "Instructed (past participle of anusāsati)."],
-   ["kāraṇa", "Doing, performing."]
-  ]
- },
- "anusitthakāranaṁ doing as": {
-  "meaning": "doing as instructed",
-  "gram": "neuter compound noun",
-  "note": "uncertain: this key carries the English words \"doing as\" over from the source glossary's layout; the Pāli entry is anusitthakāranaṁ \"doing as instructed\".",
-  "breakdown": [
-   ["anusittha", "Instructed (past participle of anusāsati)."],
-   ["kāraṇa", "Doing, performing."]
+   [
+    "anusittha",
+    "Instructed (past participle of anusāsati)."
+   ],
+   [
+    "kāraṇa",
+    "Doing, performing."
+   ]
   ]
  },
  "anussarati": {
   "meaning": "to remember, to recollect",
   "gram": "verb, 3rd person singular present (anu + √sar)",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with ss doubling)."],
-   ["√sar", "Root \"to remember, to flow along\"."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with ss doubling)."
+   ],
+   [
+    "√sar",
+    "Root \"to remember, to flow along\"."
+   ]
   ]
  },
  "anussaretha": {
   "meaning": "you should remember, you should recollect",
   "gram": "verb, 2nd person plural optative of anussarati",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with ss doubling)."],
-   ["√sar", "Root \"to remember\"."],
-   ["-etha", "Optative ending."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with ss doubling)."
+   ],
+   [
+    "√sar",
+    "Root \"to remember\"."
+   ],
+   [
+    "-etha",
+    "Optative ending."
+   ]
   ]
  },
  "anussareyyātha": {
   "meaning": "you should recollect, you should remember",
   "gram": "verb, 2nd person plural optative of anussarati",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with ss doubling)."],
-   ["√sar", "Root \"to remember\"."],
-   ["-eyyātha", "Optative ending, 2nd person plural."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with ss doubling)."
+   ],
+   [
+    "√sar",
+    "Root \"to remember\"."
+   ],
+   [
+    "-eyyātha",
+    "Optative ending, 2nd person plural."
+   ]
   ]
  },
  "anussaritā": {
   "meaning": "remembered, followed up in memory; one who recollects",
   "gram": "past participle of anussarati (also agent noun anussaritā \"a rememberer\")",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with ss doubling)."],
-   ["√sar", "Root \"to remember\" + participle suffix -ita."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with ss doubling)."
+   ],
+   [
+    "√sar",
+    "Root \"to remember\" + participle suffix -ita."
+   ]
   ]
  },
  "anussavena": {
   "meaning": "by hearsay, through oral report",
   "gram": "masculine noun anussava, instrumental singular",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with ss doubling)."],
-   ["√su", "Root \"to hear\"; anussava = hearsay, tradition received by ear."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with ss doubling)."
+   ],
+   [
+    "√su",
+    "Root \"to hear\"; anussava = hearsay, tradition received by ear."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "anussavādivasena": {
   "meaning": "on account of hearsay, tradition and so forth",
   "gram": "compound noun, instrumental singular used adverbially",
   "breakdown": [
-   ["anussava", "Hearsay, oral tradition."],
-   ["ādi", "And so forth, et cetera (literally \"beginning with\")."],
-   ["vasena", "On account of, by way of."]
+   [
+    "anussava",
+    "Hearsay, oral tradition."
+   ],
+   [
+    "ādi",
+    "And so forth, et cetera (literally \"beginning with\")."
+   ],
+   [
+    "vasena",
+    "On account of, by way of."
+   ]
   ]
  },
  "anussito": {
   "meaning": "not erected, not hoisted; not haughty",
   "gram": "past participle of na usseti, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["ussita", "Erected, hoisted, raised (ud + √si + -ta)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "ussita",
+    "Erected, hoisted, raised (ud + √si + -ta)."
+   ]
   ]
  },
  "anusāsanti": {
   "meaning": "they teach, instruct, admonish",
   "gram": "verb, 3rd person plural present of anusāsati (anu + √sās)",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\"."],
-   ["√sās", "Root \"to instruct, command\"."],
-   ["-anti", "Present ending, 3rd person plural."]
+   [
+    "anu-",
+    "Prefix \"along, after\"."
+   ],
+   [
+    "√sās",
+    "Root \"to instruct, command\"."
+   ],
+   [
+    "-anti",
+    "Present ending, 3rd person plural."
+   ]
   ]
  },
  "anusāsanī": {
   "meaning": "teaching, advice, instruction",
   "gram": "feminine noun (from anusāsana)",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\"."],
-   ["√sās", "Root \"to instruct\"."],
-   ["-anī", "Feminine noun suffix."]
+   [
+    "anu-",
+    "Prefix \"along, after\"."
+   ],
+   [
+    "√sās",
+    "Root \"to instruct\"."
+   ],
+   [
+    "-anī",
+    "Feminine noun suffix."
+   ]
   ]
  },
  "anusāsi": {
   "meaning": "instructed, taught, admonished",
   "gram": "verb, 3rd person singular aorist of anusāsati",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\"."],
-   ["√sās", "Root \"to instruct\"."],
-   ["-i", "Aorist ending, 3rd person singular."]
+   [
+    "anu-",
+    "Prefix \"along, after\"."
+   ],
+   [
+    "√sās",
+    "Root \"to instruct\"."
+   ],
+   [
+    "-i",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "anusūyāyamāno": {
   "meaning": "not envying, free of jealousy",
   "gram": "present participle of na usūyati, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["usūyāya", "Present stem \"to envy, be jealous\" (√usūy)."],
-   ["-māna", "Present participle suffix (middle voice)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "usūyāya",
+    "Present stem \"to envy, be jealous\" (√usūy)."
+   ],
+   [
+    "-māna",
+    "Present participle suffix (middle voice)."
+   ]
   ]
  },
  "anutappā": {
   "meaning": "to be regretted, causing remorse",
   "gram": "future passive participle of anutappati (anu + √tapp)",
   "breakdown": [
-   ["anu-", "Prefix \"after\"."],
-   ["√tapp", "Root \"to burn, torment\"; anutappati = \"to feel remorse\"."],
-   ["-ya", "Participle suffix, \"to be ...-ed\"."]
+   [
+    "anu-",
+    "Prefix \"after\"."
+   ],
+   [
+    "√tapp",
+    "Root \"to burn, torment\"; anutappati = \"to feel remorse\"."
+   ],
+   [
+    "-ya",
+    "Participle suffix, \"to be ...-ed\"."
+   ]
   ]
  },
  "anuttaro": {
   "meaning": "unsurpassed, supreme; with none higher",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["uttara", "Higher, superior (comparative of ud \"up\")."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "uttara",
+    "Higher, superior (comparative of ud \"up\")."
+   ]
   ]
  },
  "anuviccāpi": {
   "meaning": "even after coming to know, also having found out",
   "gram": "gerund of anuvijjati + particle api",
   "breakdown": [
-   ["anu-", "Prefix \"after, through\"."],
-   ["√vid", "Root \"to know, find\" + gerund suffix -tya (giving -vicca)."],
-   ["api", "Also, even (fused by sandhi to -āpi)."]
+   [
+    "anu-",
+    "Prefix \"after, through\"."
+   ],
+   [
+    "√vid",
+    "Root \"to know, find\" + gerund suffix -tya (giving -vicca)."
+   ],
+   [
+    "api",
+    "Also, even (fused by sandhi to -āpi)."
+   ]
   ]
  },
  "anuvicāreti": {
   "meaning": "to think about, to ponder upon",
   "gram": "verb, 3rd person singular present, causative of anuvicarati",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\"."],
-   ["vi-", "Prefix \"apart, about\"."],
-   ["√car", "Root \"to move\"; causative cāre- — \"to make the mind range over, ponder\"."]
+   [
+    "anu-",
+    "Prefix \"along, after\"."
+   ],
+   [
+    "vi-",
+    "Prefix \"apart, about\"."
+   ],
+   [
+    "√car",
+    "Root \"to move\"; causative cāre- — \"to make the mind range over, ponder\"."
+   ]
   ]
  },
  "anuviloketvā": {
   "meaning": "having looked around, having surveyed",
   "gram": "gerund (absolutive) of anuviloketi",
   "breakdown": [
-   ["anu-", "Prefix \"along\"."],
-   ["vi-", "Prefix \"apart, around\"."],
-   ["√lok", "Root \"to look\"."],
-   ["-etvā", "Gerund suffix, \"having ...-ed\"."]
+   [
+    "anu-",
+    "Prefix \"along\"."
+   ],
+   [
+    "vi-",
+    "Prefix \"apart, around\"."
+   ],
+   [
+    "√lok",
+    "Root \"to look\"."
+   ],
+   [
+    "-etvā",
+    "Gerund suffix, \"having ...-ed\"."
+   ]
   ]
  },
  "anuyantesu": {
   "meaning": "among subjects, among those who follow; applying themselves to",
   "gram": "present participle of anuyāti, locative plural",
   "breakdown": [
-   ["anu-", "Prefix \"after, following\"."],
-   ["√yā", "Root \"to go\"; anuyāti = \"to follow, be subject to\"."],
-   ["-ntesu", "Present participle, locative plural."]
+   [
+    "anu-",
+    "Prefix \"after, following\"."
+   ],
+   [
+    "√yā",
+    "Root \"to go\"; anuyāti = \"to follow, be subject to\"."
+   ],
+   [
+    "-ntesu",
+    "Present participle, locative plural."
+   ]
   ]
  },
  "anuyogamanvāya": {
   "meaning": "in consequence of application; as a result of devoted practice",
   "gram": "adverbial compound: anuyogaṁ (accusative) + anvāya (gerund)",
   "breakdown": [
-   ["anuyoga", "Zeal, application, devoted practice (anu + √yuj)."],
-   ["anvāya", "Undergoing, in consequence of (gerund of anveti). (The ṁ becomes m before a vowel.)"]
+   [
+    "anuyoga",
+    "Zeal, application, devoted practice (anu + √yuj)."
+   ],
+   [
+    "anvāya",
+    "Undergoing, in consequence of (gerund of anveti). (The ṁ becomes m before a vowel.)"
+   ]
   ]
  },
  "anuyogaṁ": {
   "meaning": "application, practice; engaging in (the development of)",
   "gram": "masculine noun anuyoga, accusative singular",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\"."],
-   ["√yuj", "Root \"to yoke, engage\"; anuyoga = application, devotion to practice."]
+   [
+    "anu-",
+    "Prefix \"along, after\"."
+   ],
+   [
+    "√yuj",
+    "Root \"to yoke, engage\"; anuyoga = application, devotion to practice."
+   ]
   ]
  },
  "anuyyutaṁ": {
   "meaning": "intent upon, devoted to",
   "gram": "past participle of anu + √yu, accusative singular",
   "breakdown": [
-   ["anu-", "Prefix \"along, after\" (with yy doubling)."],
-   ["√yu", "Root \"to bind, join\" + past participle suffix -ta."]
+   [
+    "anu-",
+    "Prefix \"along, after\" (with yy doubling)."
+   ],
+   [
+    "√yu",
+    "Root \"to bind, join\" + past participle suffix -ta."
+   ]
   ]
  },
  "anuññātaṁ": {
   "meaning": "permitted, allowed, granted",
   "gram": "past participle of anujānāti, neuter/accusative singular",
   "breakdown": [
-   ["anu-", "Prefix \"along, in favour of\"."],
-   ["√ñā", "Root \"to know\" + past participle suffix -ta (giving -ññāta)."]
+   [
+    "anu-",
+    "Prefix \"along, in favour of\"."
+   ],
+   [
+    "√ñā",
+    "Root \"to know\" + past participle suffix -ta (giving -ññāta)."
+   ]
   ]
  },
  "anuṭṭhātā": {
   "meaning": "one who does not get up; not rising to action, inactive",
   "gram": "masculine agent noun (from na uṭṭhahati)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["uṭṭhātā", "One who rises, gets up to act (ud + √ṭhā + -tar)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "uṭṭhātā",
+    "One who rises, gets up to act (ud + √ṭhā + -tar)."
+   ]
   ]
  },
  "anvāgacchati": {
   "meaning": "to follow, to pursue",
   "gram": "verb, 3rd person singular present (anu + ā + √gam)",
   "breakdown": [
-   ["anu-", "Prefix \"after\" (becoming anv- before a vowel)."],
-   ["ā-", "Prefix \"to, towards\"."],
-   ["√gam", "Root \"to go\" (present stem gaccha-)."]
+   [
+    "anu-",
+    "Prefix \"after\" (becoming anv- before a vowel)."
+   ],
+   [
+    "ā-",
+    "Prefix \"to, towards\"."
+   ],
+   [
+    "√gam",
+    "Root \"to go\" (present stem gaccha-)."
+   ]
   ]
  },
  "anvāgata": {
   "meaning": "endowed with; having attained",
   "gram": "past participle of anvāgacchati",
   "breakdown": [
-   ["anu-", "Prefix \"after\" (becoming anv- before a vowel)."],
-   ["ā-", "Prefix \"to, towards\"."],
-   ["√gam", "Root \"to go\" + past participle suffix -ta."]
+   [
+    "anu-",
+    "Prefix \"after\" (becoming anv- before a vowel)."
+   ],
+   [
+    "ā-",
+    "Prefix \"to, towards\"."
+   ],
+   [
+    "√gam",
+    "Root \"to go\" + past participle suffix -ta."
+   ]
   ]
  },
  "anvāssaveyyuṁ": {
   "meaning": "would flow in upon, would befall, would result",
   "gram": "verb, 3rd person plural optative of anvāssavati",
   "breakdown": [
-   ["anu-", "Prefix \"after, along\" (becoming anv- before a vowel)."],
-   ["ā-", "Prefix \"towards\" (with ss doubling)."],
-   ["√su", "Root \"to flow\"."],
-   ["-eyyuṁ", "Optative ending, 3rd person plural."]
+   [
+    "anu-",
+    "Prefix \"after, along\" (becoming anv- before a vowel)."
+   ],
+   [
+    "ā-",
+    "Prefix \"towards\" (with ss doubling)."
+   ],
+   [
+    "√su",
+    "Root \"to flow\"."
+   ],
+   [
+    "-eyyuṁ",
+    "Optative ending, 3rd person plural."
+   ]
   ]
  },
  "anvāya": {
   "meaning": "undergoing, in consequence of, following upon",
   "gram": "gerund of anveti (anu + √i)",
   "breakdown": [
-   ["anu-", "Prefix \"after\" (becoming anv- before a vowel)."],
-   ["√i", "Root \"to go\"."],
-   ["-ya", "Gerund suffix."]
+   [
+    "anu-",
+    "Prefix \"after\" (becoming anv- before a vowel)."
+   ],
+   [
+    "√i",
+    "Root \"to go\"."
+   ],
+   [
+    "-ya",
+    "Gerund suffix."
+   ]
   ]
  },
  "anāgata": {
   "meaning": "not yet come; the future",
   "gram": "past participle of na āgacchati; as a noun, the future",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["āgata", "Come, arrived (past participle of āgacchati)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "āgata",
+    "Come, arrived (past participle of āgacchati)."
+   ]
   ]
  },
  "anāgataddhānaṁ": {
   "meaning": "the future period, future time",
   "gram": "adverbial compound, accusative singular",
   "breakdown": [
-   ["anāgata", "Future (literally \"not yet come\")."],
-   ["addhāna", "Time, period, stretch."]
+   [
+    "anāgata",
+    "Future (literally \"not yet come\")."
+   ],
+   [
+    "addhāna",
+    "Time, period, stretch."
+   ]
   ]
  },
  "anāgatamaddhānaṁ": {
   "meaning": "in the future, in time to come",
   "gram": "adverbial compound, accusative singular (with junction consonant m)",
   "breakdown": [
-   ["anāgata", "Future (literally \"not yet come\")."],
-   ["-m-", "Junction consonant."],
-   ["addhāna", "Time, period."]
+   [
+    "anāgata",
+    "Future (literally \"not yet come\")."
+   ],
+   [
+    "-m-",
+    "Junction consonant."
+   ],
+   [
+    "addhāna",
+    "Time, period."
+   ]
   ]
  },
  "anāgatappajappāya": {
   "meaning": "longing for the future; hankering after what is yet to come",
   "gram": "feminine abstract compound noun, oblique singular",
   "breakdown": [
-   ["anāgata", "Future (literally \"not yet come\")."],
-   ["pajappā", "Longing, hankering (pa + √japp; the pp is sandhi doubling)."]
+   [
+    "anāgata",
+    "Future (literally \"not yet come\")."
+   ],
+   [
+    "pajappā",
+    "Longing, hankering (pa + √japp; the pp is sandhi doubling)."
+   ]
   ]
  },
  "anāgāmi": {
@@ -397,8 +745,14 @@
   "summary": "The third of the four stages of liberation: one who, having abandoned the five lower fetters, is not reborn in the sensual world.",
   "gram": "masculine noun/adjective (anāgāmī)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["āgāmī", "One who comes (back) (ā + √gam + -ī)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "āgāmī",
+    "One who comes (back) (ā + √gam + -ī)."
+   ]
   ],
   "goenka": "The anāgāmī, non-returner, stands at the third of the four stages of liberation recognised in the tradition — after the sotāpanna (stream-enterer) and sakadāgāmī (once-returner), and before the arahant. Having eradicated the lower fetters through the progressive purification of the mind, such a one is not born again in the sensual world but reaches final liberation from a higher plane."
  },
@@ -406,34 +760,64 @@
   "meaning": "the fruit of non-return; attainment of the stage of a non-returner",
   "gram": "neuter compound noun, nominative/accusative singular",
   "breakdown": [
-   ["anāgāmi", "Non-returner."],
-   ["phala", "Fruit, result, attainment."]
+   [
+    "anāgāmi",
+    "Non-returner."
+   ],
+   [
+    "phala",
+    "Fruit, result, attainment."
+   ]
   ]
  },
  "anākulā": {
   "meaning": "not entangled; untroubled, free from conflict",
   "gram": "adjective, plural or feminine form",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["ākula", "Entangled, confused (ā + √kul)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "ākula",
+    "Entangled, confused (ā + √kul)."
+   ]
   ]
  },
  "anālayo": {
   "meaning": "free from attachment; without shelter or abode (for craving)",
   "gram": "masculine noun/adjective, nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["ālaya", "Shelter, abode; attachment, clinging (ā + √lī)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "ālaya",
+    "Shelter, abode; attachment, clinging (ā + √lī)."
+   ]
   ]
  },
  "anāsavacittassa": {
   "meaning": "of one whose mind is free from impurities (the āsavas)",
   "gram": "adjective, compound, genitive singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["āsava", "Impurity, mental taint, outflow."],
-   ["citta", "Mind."],
-   ["-ssa", "Genitive singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "āsava",
+    "Impurity, mental taint, outflow."
+   ],
+   [
+    "citta",
+    "Mind."
+   ],
+   [
+    "-ssa",
+    "Genitive singular ending."
+   ]
   ]
  }
 }

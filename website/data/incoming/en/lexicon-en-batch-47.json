@@ -3,18 +3,36 @@
   "meaning": "in a chariot-maker's clan; in a family of carriage builders",
   "gram": "neuter noun, compound, locative singular",
   "breakdown": [
-   ["ratha", "Chariot, carriage."],
-   ["kāra", "Maker (from karoti)."],
-   ["kule", "In a clan, family (locative of kula)."]
+   [
+    "ratha",
+    "Chariot, carriage."
+   ],
+   [
+    "kāra",
+    "Maker (from karoti)."
+   ],
+   [
+    "kule",
+    "In a clan, family (locative of kula)."
+   ]
   ]
  },
  "rathassāṇīva": {
   "meaning": "like the axle-pin of a chariot",
   "gram": "phrase in sandhi: genitive + feminine noun + comparison particle",
   "breakdown": [
-   ["rathassa", "Of the chariot (genitive)."],
-   ["āṇī", "Axle-pin, linchpin."],
-   ["va", "Like, as (iva shortened); the vowels fuse at the boundaries."]
+   [
+    "rathassa",
+    "Of the chariot (genitive)."
+   ],
+   [
+    "āṇī",
+    "Axle-pin, linchpin."
+   ],
+   [
+    "va",
+    "Like, as (iva shortened); the vowels fuse at the boundaries."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line runs into the next entry (raho “secret”); the phrase itself means “like the linchpin of a chariot”."
  },
@@ -22,20 +40,44 @@
   "meaning": "having mounted the excellent chariot",
   "gram": "phrase in sandhi: noun + adjective (accusative) + gerund",
   "breakdown": [
-   ["ratha", "Chariot."],
-   ["varaṁ", "Excellent, best (accusative)."],
-   ["m", "The niggahīta joins the following vowel as m."],
-   ["āruyha", "Having ascended, mounted (gerund of āruhati)."]
+   [
+    "ratha",
+    "Chariot."
+   ],
+   [
+    "varaṁ",
+    "Excellent, best (accusative)."
+   ],
+   [
+    "m",
+    "The niggahīta joins the following vowel as m."
+   ],
+   [
+    "āruyha",
+    "Having ascended, mounted (gerund of āruhati)."
+   ]
   ]
  },
  "rattindivamatandito": {
   "meaning": "diligent night and day; tireless by night and day",
   "gram": "adjective, compound, nominative masculine singular",
   "breakdown": [
-   ["rattiṁ", "By night."],
-   ["divaṁ", "By day (rattindivaṁ “night and day”)."],
-   ["m", "The niggahīta joins the following vowel as m."],
-   ["atandito", "Not lazy, diligent (a + tandita)."]
+   [
+    "rattiṁ",
+    "By night."
+   ],
+   [
+    "divaṁ",
+    "By day (rattindivaṁ “night and day”)."
+   ],
+   [
+    "m",
+    "The niggahīta joins the following vowel as m."
+   ],
+   [
+    "atandito",
+    "Not lazy, diligent (a + tandita)."
+   ]
   ]
  },
  "rattiyā": {
@@ -46,116 +88,190 @@
   "meaning": "abstaining (from food) at night; having ceased by night",
   "gram": "adjective, compound, nominative masculine singular",
   "breakdown": [
-   ["ratti", "Night (ratti + uparata coalesce to rattūparata)."],
-   ["uparato", "Abstained from, ceased (past participle of uparamati)."]
+   [
+    "ratti",
+    "Night (ratti + uparata coalesce to rattūparata)."
+   ],
+   [
+    "uparato",
+    "Abstained from, ceased (past participle of uparamati)."
+   ]
   ]
  },
  "ratā": {
   "meaning": "delighting in; devoted to",
   "gram": "past participle of ramati (√ram + ta), nominative plural (or feminine singular)",
   "breakdown": [
-   ["√ram", "Root meaning “to delight”."],
-   ["-ta", "Past participle suffix."]
+   [
+    "√ram",
+    "Root meaning “to delight”."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
   ]
  },
  "re": {
   "meaning": "hey!; hello; go on! (exclamation, often contemptuous)",
   "gram": "indeclinable particle (interjection)"
  },
- "receiving the": {
-  "meaning": "receiving the son's portion; getting what is left over, an heir (glossary artifact for dāyādo)",
-  "gram": "glossary artifact (English fragment from the source glossary)",
-  "note": "uncertain: the headword is an English run-on glossary fragment, apparently the tail of the gloss for dāyāda “heir”; the line continues into kammanto “action”."
- },
- "ripening": {
-  "meaning": "ripening (glossary artifact: English fragment, likely from a gloss of vipāka, the ripening of kamma)",
-  "gram": "glossary artifact (English fragment from the source glossary)",
-  "note": "uncertain: the headword is an English fragment with no Pāli term or gloss attached in the source."
- },
  "rittaṁ": {
   "meaning": "devoid; empty",
   "gram": "past participle of riñcati (√ric + ta), neuter/accusative singular",
   "breakdown": [
-   ["√ric", "Root meaning “to empty, to leave behind”."],
-   ["-ta", "Past participle suffix (ric + ta > ritta)."]
+   [
+    "√ric",
+    "Root meaning “to empty, to leave behind”."
+   ],
+   [
+    "-ta",
+    "Past participle suffix (ric + ta > ritta)."
+   ]
   ],
-  "forms": ["rittaṃ"]
+  "forms": [
+   "rittaṃ"
+  ]
  },
  "rocaye": {
   "meaning": "would find pleasure in; should approve of",
   "gram": "verb, optative of rocayati/roceti (causative of √ruc)",
   "breakdown": [
-   ["√ruc", "Root meaning “to shine, to please”."],
-   ["-aye", "Optative ending of the causative stem."]
+   [
+    "√ruc",
+    "Root meaning “to shine, to please”."
+   ],
+   [
+    "-aye",
+    "Optative ending of the causative stem."
+   ]
   ]
  },
  "roceti": {
   "meaning": "is pleased with; agrees to, approves",
   "gram": "verb, 3rd person singular present, causative of √ruc",
   "breakdown": [
-   ["√ruc", "Root meaning “to shine, to please”."],
-   ["-eti", "Causative present ending."]
+   [
+    "√ruc",
+    "Root meaning “to shine, to please”."
+   ],
+   [
+    "-eti",
+    "Causative present ending."
+   ]
   ]
  },
  "rodantiyā": {
   "meaning": "of/for the weeping (woman); while she was crying",
   "gram": "present participle of rodati, feminine oblique singular",
   "breakdown": [
-   ["√rud", "Root meaning “to weep”."],
-   ["-antī", "Feminine present participle."],
-   ["-yā", "Oblique singular ending."]
+   [
+    "√rud",
+    "Root meaning “to weep”."
+   ],
+   [
+    "-antī",
+    "Feminine present participle."
+   ],
+   [
+    "-yā",
+    "Oblique singular ending."
+   ]
   ]
- },
- "rogāmanussa-": {
-  "meaning": "(fragment of rogāmanussa-dubbhikkhaṁ) disease, non-human beings and famine",
-  "gram": "glossary artifact; line-broken fragment of a compound",
-  "note": "uncertain: the headword is a hyphenation fragment; see the entry rogāmanussa-dubbhikkhaṁ."
  },
  "rogāmanussa-dubbhikkhaṁ": {
   "meaning": "disease, non-human beings (evil spirits) and famine (the three dangers dispelled at Vesāli)",
   "gram": "compound, neuter/accusative singular",
   "breakdown": [
-   ["roga", "Disease, illness."],
-   ["amanussa", "Non-human being, spirit (roga + amanussa coalesce to rogāmanussa)."],
-   ["dubbhikkhaṁ", "Famine (du “bad” + bhikkha “alms-food”)."]
+   [
+    "roga",
+    "Disease, illness."
+   ],
+   [
+    "amanussa",
+    "Non-human being, spirit (roga + amanussa coalesce to rogāmanussa)."
+   ],
+   [
+    "dubbhikkhaṁ",
+    "Famine (du “bad” + bhikkha “alms-food”)."
+   ]
   ],
-  "forms": ["rogāmanussa-dubbhikkhaṃ"]
+  "forms": [
+   "rogāmanussa-dubbhikkhaṃ"
+  ]
  },
  "rohinītherīgāthā": {
   "meaning": "the Verses of the Elder Nun Rohinī (Rohinītherīgāthā)",
   "gram": "proper noun (text title), feminine plural",
   "breakdown": [
-   ["Rohinī", "Name of the elder nun."],
-   ["therī", "Elder nun (feminine of thera)."],
-   ["gāthā", "Verses, stanzas."]
+   [
+    "Rohinī",
+    "Name of the elder nun."
+   ],
+   [
+    "therī",
+    "Elder nun (feminine of thera)."
+   ],
+   [
+    "gāthā",
+    "Verses, stanzas."
+   ]
   ],
-  "forms": ["Rohinītherīgāthā"]
+  "forms": [
+   "Rohinītherīgāthā"
+  ]
  },
  "ruciraṁ": {
   "meaning": "brilliant; pleasant, lovely",
   "gram": "adjective rucira (from √ruc), neuter/accusative singular",
   "breakdown": [
-   ["√ruc", "Root meaning “to shine, to please”."],
-   ["-ira", "Adjectival suffix."]
+   [
+    "√ruc",
+    "Root meaning “to shine, to please”."
+   ],
+   [
+    "-ira",
+    "Adjectival suffix."
+   ]
   ],
-  "forms": ["ruciraṃ"]
+  "forms": [
+   "ruciraṃ"
+  ]
  },
  "rukkhamūle": {
   "meaning": "at the root of a tree; at the foot of a tree",
   "gram": "neuter noun, compound, locative singular",
   "breakdown": [
-   ["rukkha", "Tree."],
-   ["mūle", "At the root (locative of mūla)."]
+   [
+    "rukkha",
+    "Tree."
+   ],
+   [
+    "mūle",
+    "At the root (locative of mūla)."
+   ]
   ]
  },
  "rāgadosaparetehi": {
   "meaning": "by those overcome by craving and aversion",
   "gram": "adjective, compound, instrumental plural",
   "breakdown": [
-   ["rāga", "Craving, passion."],
-   ["dosa", "Aversion, ill will."],
-   ["parete", "Overcome, afflicted by (past participle pareta)."],
-   ["-hi", "Instrumental plural ending."]
+   [
+    "rāga",
+    "Craving, passion."
+   ],
+   [
+    "dosa",
+    "Aversion, ill will."
+   ],
+   [
+    "parete",
+    "Overcome, afflicted by (past participle pareta)."
+   ],
+   [
+    "-hi",
+    "Instrumental plural ending."
+   ]
   ],
   "goenka": "Rāga (craving) and dosa (aversion) are the two root reactions out of which all mental defilement grows. One overcome by them keeps generating saṅkhāra and suffering; the whole work of vipassana is to observe the sensations on which craving and aversion feed with equanimity, so that these two are gradually eradicated rather than multiplied."
  },
@@ -163,8 +279,14 @@
   "meaning": "the destruction of craving",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["rāga", "Craving, passion."],
-   ["khayo", "Destruction, exhaustion; sandhi doubling of k at the boundary."]
+   [
+    "rāga",
+    "Craving, passion."
+   ],
+   [
+    "khayo",
+    "Destruction, exhaustion; sandhi doubling of k at the boundary."
+   ]
   ],
   "goenka": "Rāgakkhayo, the complete destruction of craving — together with the destruction of aversion (dosakkhayo) and delusion (mohakkhayo) — is a canonical definition of nibbāna itself. It is not a suppression but a full eradication, accomplished by the meditator who observes every arising and passing sensation without reacting."
  },
@@ -172,20 +294,43 @@
   "meaning": "pervaded by craving; possessed, obsessed by passion",
   "gram": "adjective, compound, accusative singular",
   "breakdown": [
-   ["rāga", "Craving, passion."],
-   ["pari-", "Prefix “all around”."],
-   ["y", "Linking glide at the vowel boundary."],
-   ["uṭṭhitaṁ", "Risen up, taken hold (past participle of uṭṭhahati): risen up all around, pervading."]
+   [
+    "rāga",
+    "Craving, passion."
+   ],
+   [
+    "pari-",
+    "Prefix “all around”."
+   ],
+   [
+    "y",
+    "Linking glide at the vowel boundary."
+   ],
+   [
+    "uṭṭhitaṁ",
+    "Risen up, taken hold (past participle of uṭṭhahati): risen up all around, pervading."
+   ]
   ],
-  "forms": ["rāgapariyuṭṭhitaṃ"]
+  "forms": [
+   "rāgapariyuṭṭhitaṃ"
+  ]
  },
  "rāgavinayapariyosānā": {
   "meaning": "terminating in the driving away of craving; culminating in the removal of greed",
   "gram": "adjective, compound, feminine nominative singular",
   "breakdown": [
-   ["rāga", "Craving, greed."],
-   ["vinaya", "Driving away, removal, discipline."],
-   ["pariyosānā", "Termination, culmination."]
+   [
+    "rāga",
+    "Craving, greed."
+   ],
+   [
+    "vinaya",
+    "Driving away, removal, discipline."
+   ],
+   [
+    "pariyosānā",
+    "Termination, culmination."
+   ]
   ],
   "goenka": "In the Brahmayāna passage each factor of the Noble Eightfold Path, when developed and cultivated, “terminates in driving away greed, in driving away ill will, in driving away delusion”. The path is thus measured by its result: every step is for the actual removal of rāga, dosa and moha."
  },
@@ -193,65 +338,120 @@
   "meaning": "in the king's service; among government men",
   "gram": "neuter noun, compound, locative singular",
   "breakdown": [
-   ["rāja", "King."],
-   ["porise", "Man, servant (from purisa): in the service of the king."]
+   [
+    "rāja",
+    "King."
+   ],
+   [
+    "porise",
+    "Man, servant (from purisa): in the service of the king."
+   ]
   ]
  },
  "rājā": {
   "meaning": "king",
   "gram": "masculine noun (rājan stem), nominative singular",
   "breakdown": [
-   ["√rāj", "Root meaning “to rule, to shine”."]
+   [
+    "√rāj",
+    "Root meaning “to rule, to shine”."
+   ]
   ]
  },
  "rūhati": {
   "meaning": "grows; flourishes",
   "gram": "verb, 3rd person singular present (√ruh)",
   "breakdown": [
-   ["√ruh", "Root meaning “to grow, to ascend”."],
-   ["-ati", "Present tense, 3rd person singular ending."]
+   [
+    "√ruh",
+    "Root meaning “to grow, to ascend”."
+   ],
+   [
+    "-ati",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "rūpanibbattipassanākārakathā, visuddhimagga.": {
   "meaning": "the “Discussion of the Mode of Seeing the Arising of Materiality” (a section of the Visuddhimagga)",
   "gram": "proper noun (commentarial section title), feminine singular",
   "breakdown": [
-   ["rūpa", "Matter, materiality."],
-   ["nibbatti", "Arising, production."],
-   ["passanā", "Seeing, observing."],
-   ["ākāra", "Mode, manner."],
-   ["kathā", "Discussion, talk."],
-   ["Visuddhimagga", "The Path of Purification, Buddhaghosa's commentary."]
+   [
+    "rūpa",
+    "Matter, materiality."
+   ],
+   [
+    "nibbatti",
+    "Arising, production."
+   ],
+   [
+    "passanā",
+    "Seeing, observing."
+   ],
+   [
+    "ākāra",
+    "Mode, manner."
+   ],
+   [
+    "kathā",
+    "Discussion, talk."
+   ],
+   [
+    "Visuddhimagga",
+    "The Path of Purification, Buddhaghosa's commentary."
+   ]
   ],
-  "forms": ["Rūpanibbattipassanākārakathā"]
+  "forms": [
+   "Rūpanibbattipassanākārakathā"
+  ]
  },
  "rūpasañcetanā": {
   "meaning": "volition regarding visible forms; intention directed towards forms",
   "gram": "feminine noun, compound",
   "breakdown": [
-   ["rūpa", "Form, visible object."],
-   ["sañcetanā", "Volition, intention, cognition (saṁ + cetanā)."]
+   [
+    "rūpa",
+    "Form, visible object."
+   ],
+   [
+    "sañcetanā",
+    "Volition, intention, cognition (saṁ + cetanā)."
+   ]
   ]
  },
  "rūpattāya": {
   "meaning": "for formhood; for the state of (having) form, shaping",
   "gram": "neuter abstract noun rūpatta, dative/genitive singular",
   "breakdown": [
-   ["rūpa", "Form, matter."],
-   ["-tta", "Abstract noun suffix “-hood, -ness”."],
-   ["-āya", "Dative/genitive singular ending."]
+   [
+    "rūpa",
+    "Form, matter."
+   ],
+   [
+    "-tta",
+    "Abstract noun suffix “-hood, -ness”."
+   ],
+   [
+    "-āya",
+    "Dative/genitive singular ending."
+   ]
   ]
  },
  "rūpiyaṁ": {
   "meaning": "silver; money",
   "gram": "neuter noun (from rūpa), nominative/accusative singular",
-  "forms": ["rūpiyaṃ"]
+  "forms": [
+   "rūpiyaṃ"
+  ]
  },
  "rūpā": {
   "meaning": "forms; visible objects; body",
   "gram": "neuter noun rūpa, nominative plural (or ablative singular)",
   "breakdown": [
-   ["√rūp", "Root associated with form, appearance."]
+   [
+    "√rūp",
+    "Root associated with form, appearance."
+   ]
   ],
   "goenka": "Rūpa is matter, the material form — the first of the five aggregates and one half of mind-and-matter (nāma-rūpa). In vipassana the entire field of rūpa is explored within the framework of one's own body, where its arising and passing is experienced directly as sensations."
  },
@@ -259,8 +459,14 @@
   "meaning": "true, real (prefixed form of sant, as in saddhamma “the true Dhamma”)",
   "gram": "prefix (reduced form of sant, present participle of atthi “to be”)",
   "breakdown": [
-   ["sant", "Being, existing, true (present participle of atthi); by sandhi sant > sat > sad before dhamma."],
-   ["d", "Sandhi doubling at the compound boundary (sad + dhamma > saddhamma)."]
+   [
+    "sant",
+    "Being, existing, true (present participle of atthi); by sandhi sant > sat > sad before dhamma."
+   ],
+   [
+    "d",
+    "Sandhi doubling at the compound boundary (sad + dhamma > saddhamma)."
+   ]
   ],
   "goenka": "Klaus notes the derivation of saddhamma: sa + d + dhamma, “with true dhamma”. The element sa- is literally sant, the present participle of atthi “to be, existing” — what truly exists, the real. By the sandhi rules sant develops through sat and sad to give saddhamma, the true teaching."
  },
@@ -268,79 +474,150 @@
   "meaning": "with endeavour; possessed of effort",
   "gram": "adjective (sa + ussāha), nominative masculine singular",
   "breakdown": [
-   ["sa-", "Prefix “with, possessing”."],
-   ["ussāho", "Endeavour, effort, energy."]
+   [
+    "sa-",
+    "Prefix “with, possessing”."
+   ],
+   [
+    "ussāho",
+    "Endeavour, effort, energy."
+   ]
   ]
- },
- "sa-ussāho with the": {
-  "meaning": "with endeavour, effort",
-  "gram": "glossary artifact; adjective sa-ussāha, nominative masculine singular",
-  "note": "uncertain: the headword is a run-on glossary line for sa-ussāho “with endeavour”."
  },
  "sabalampi": {
   "meaning": "even spotted; though blotched, inconsistent (of sīla)",
   "gram": "adjective sabala + emphatic particle pi, accusative singular",
   "breakdown": [
-   ["sabala", "Spotted, blotched; (of virtue) inconsistent."],
-   ["pi", "Even, also (api); the niggahīta becomes m before p."]
+   [
+    "sabala",
+    "Spotted, blotched; (of virtue) inconsistent."
+   ],
+   [
+    "pi",
+    "Even, also (api); the niggahīta becomes m before p."
+   ]
   ]
  },
  "sabbabhūtesu": {
   "meaning": "towards all beings; among all creatures",
   "gram": "compound, locative plural",
   "breakdown": [
-   ["sabba", "All."],
-   ["bhūtesu", "Towards/among beings (locative plural of bhūta)."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "bhūtesu",
+    "Towards/among beings (locative plural of bhūta)."
+   ]
   ]
  },
  "sabbakilesabyādhiparipīḷitaṁ": {
   "meaning": "oppressed by the disease of all the mental impurities",
   "gram": "adjective, compound, accusative singular",
   "breakdown": [
-   ["sabba", "All."],
-   ["kilesa", "Mental impurity, defilement."],
-   ["byādhi", "Disease, sickness."],
-   ["paripīḷitaṁ", "Oppressed, afflicted all around."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "kilesa",
+    "Mental impurity, defilement."
+   ],
+   [
+    "byādhi",
+    "Disease, sickness."
+   ],
+   [
+    "paripīḷitaṁ",
+    "Oppressed, afflicted all around."
+   ]
   ],
-  "forms": ["sabbakilesabyādhiparipīḷitaṃ"]
+  "forms": [
+   "sabbakilesabyādhiparipīḷitaṃ"
+  ]
  },
  "sabbaphāliphullā": {
   "meaning": "all in full blossom; everywhere burst into flower",
   "gram": "adjective, compound, nominative plural (or feminine singular)",
   "breakdown": [
-   ["sabba", "All."],
-   ["phāli", "Bursting (of fruit/blossom)."],
-   ["phullā", "Blossomed, in flower."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "phāli",
+    "Bursting (of fruit/blossom)."
+   ],
+   [
+    "phullā",
+    "Blossomed, in flower."
+   ]
   ]
  },
  "sabbapāṇabhūtahitānukampī": {
   "meaning": "compassionate for the welfare of all breathing beings",
   "gram": "adjective, compound, nominative singular",
   "breakdown": [
-   ["sabba", "All."],
-   ["pāṇa", "Breathing being."],
-   ["bhūta", "Being, creature."],
-   ["hita", "Benefit, welfare."],
-   ["anukampī", "Compassionate towards (hita + anukampī coalesce to hitānukampī)."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "pāṇa",
+    "Breathing being."
+   ],
+   [
+    "bhūta",
+    "Being, creature."
+   ],
+   [
+    "hita",
+    "Benefit, welfare."
+   ],
+   [
+    "anukampī",
+    "Compassionate towards (hita + anukampī coalesce to hitānukampī)."
+   ]
   ]
  },
  "sabbasantharisanthataṁ": {
   "meaning": "spread all over with coverings; fully carpeted and prepared",
   "gram": "adjective, compound, accusative singular",
   "breakdown": [
-   ["sabba", "All."],
-   ["santhari", "Spread, covering."],
-   ["santhataṁ", "Covered, strewn (past participle of santharati)."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "santhari",
+    "Spread, covering."
+   ],
+   [
+    "santhataṁ",
+    "Covered, strewn (past participle of santharati)."
+   ]
   ],
-  "forms": ["sabbasantharisanthataṃ"]
+  "forms": [
+   "sabbasantharisanthataṃ"
+  ]
  },
  "sabbasaṅkhārasamatho": {
   "meaning": "the calming of all mental conditioning; the stilling of all saṅkhāra",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["sabba", "All."],
-   ["saṅkhāra", "Mental conditioning, conditioned reactions."],
-   ["samatho", "Calming, appeasing, stilling."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "saṅkhāra",
+    "Mental conditioning, conditioned reactions."
+   ],
+   [
+    "samatho",
+    "Calming, appeasing, stilling."
+   ]
   ],
   "goenka": "Sabbasaṅkhārasamatho, the calming of all saṅkhāra, appears in the canonical praise of nibbāna: “this is peaceful, this is sublime — the stilling of all conditioning, the relinquishment of all attachment, the destruction of craving, dispassion, cessation, nibbāna.” Saṅkhāra here is the mental preconditioning, the conditioned reactions accumulating mostly unnoticed below the threshold of consciousness; their complete stilling, experienced by the meditator who has ceased generating new reactions, is liberation itself."
  },
@@ -348,8 +625,14 @@
   "meaning": "all white; with an entirely white (chariot)",
   "gram": "adjective, compound, instrumental singular",
   "breakdown": [
-   ["sabba", "All, entirely."],
-   ["setena", "White (instrumental)."]
+   [
+    "sabba",
+    "All, entirely."
+   ],
+   [
+    "setena",
+    "White (instrumental)."
+   ]
   ]
  },
  "sabbathā": {
@@ -364,28 +647,54 @@
   "meaning": "identifying all beings with oneself; with compassion towards all equally, everywhere",
   "gram": "indeclinable adverb / feminine abstract noun, instrumental singular",
   "breakdown": [
-   ["sabba", "All."],
-   ["attatā", "Selfhood: regarding all as oneself."],
-   ["-āya", "Instrumental ending."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "attatā",
+    "Selfhood: regarding all as oneself."
+   ],
+   [
+    "-āya",
+    "Instrumental ending."
+   ]
   ]
  },
  "sabbatthamaparājitā": {
   "meaning": "everywhere undefeated",
   "gram": "adjective phrase in sandhi, nominative plural",
   "breakdown": [
-   ["sabbatthaṁ", "Everywhere."],
-   ["m", "Linking consonant at the vowel boundary."],
-   ["aparājitā", "Undefeated (a + parājita)."]
+   [
+    "sabbatthaṁ",
+    "Everywhere."
+   ],
+   [
+    "m",
+    "Linking consonant at the vowel boundary."
+   ],
+   [
+    "aparājitā",
+    "Undefeated (a + parājita)."
+   ]
   ]
  },
  "sabbatthasotthiṁ": {
   "meaning": "safety everywhere; well-being in every place",
   "gram": "compound, accusative singular",
   "breakdown": [
-   ["sabbattha", "Everywhere."],
-   ["sotthiṁ", "Safety, well-being (accusative)."]
+   [
+    "sabbattha",
+    "Everywhere."
+   ],
+   [
+    "sotthiṁ",
+    "Safety, well-being (accusative)."
+   ]
   ],
-  "forms": ["sabbatthasotthiṃ"]
+  "forms": [
+   "sabbatthasotthiṃ"
+  ]
  },
  "sabbo": {
   "meaning": "all; the whole (he in his entirety, with so: that whole person)",
@@ -395,16 +704,28 @@
   "meaning": "he in his entirety; that whole person",
   "gram": "phrase: pronoun sabba + demonstrative so, nominative masculine singular",
   "breakdown": [
-   ["sabbo", "All, whole."],
-   ["so", "He, that one."]
+   [
+    "sabbo",
+    "All, whole."
+   ],
+   [
+    "so",
+    "He, that one."
+   ]
   ]
  },
  "sabbāvanta": {
   "meaning": "all; entire, complete",
   "gram": "adjective (sabba + vant)",
   "breakdown": [
-   ["sabba", "All."],
-   ["-vant", "Possessive suffix: comprising all, entire."]
+   [
+    "sabba",
+    "All."
+   ],
+   [
+    "-vant",
+    "Possessive suffix: comprising all, entire."
+   ]
   ]
  }
 }

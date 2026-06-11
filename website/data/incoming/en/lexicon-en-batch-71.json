@@ -1,274 +1,449 @@
 {
-  "āvuṭa": {
-    "meaning": "covered, hindered, obstructed",
-    "gram": "past participle of āvarati (ā + √var)",
-    "breakdown": [
-      ["ā-", "Prefix: over."],
-      ["√var", "Root: to cover, obstruct."],
-      ["-ta", "Past participle suffix (var > vur + ta > vuṭa)."]
-    ]
-  },
-  "āvuṭā": {
-    "meaning": "covered, hindered (plural or feminine)",
-    "gram": "past participle of āvarati, feminine singular or masculine plural",
-    "breakdown": [
-      ["ā-", "Prefix: over."],
-      ["√var", "Root: to cover, obstruct."],
-      ["-ta (-ṭā)", "Past participle suffix with plural/feminine ending."]
-    ]
-  },
-  "āvāhavivāhakānaṁ": {
-    "meaning": "of marriages and weddings; concerning the giving and taking in marriage (finding a suitable wife)",
-    "gram": "masculine compound noun, genitive plural",
-    "breakdown": [
-      ["āvāha", "Marriage; bringing in (a bride)."],
-      ["vivāhaka", "Wedding; giving away (a daughter) in marriage (vi + vāhaka)."]
-    ],
-    "forms": ["āvāhavivāhakānaṃ"]
-  },
-  "āya": {
-    "meaning": "gain, profit; (in the phrase bahujanahitāya) for the welfare and happiness of many people",
-    "gram": "masculine noun (in compounds); here read as the dative ending of the phrase",
-    "breakdown": [
-      ["ā-", "Prefix: towards."],
-      ["√i", "Root: to go. āya: income, what comes in — gain."]
-    ],
-    "note": "uncertain: the lexicon line glosses the phrase context “many + people + happiness + for” (bahujanahitāya), of which -āya is the dative ending."
-  },
-  "āyamukhāni": {
-    "meaning": "inlets; the entrances of increase (channels by which income flows in)",
-    "gram": "neuter compound noun, nominative/accusative plural",
-    "breakdown": [
-      ["āya", "Increase, income, gain."],
-      ["mukha", "Mouth, entrance. Together: inlet, channel of inflow."]
-    ]
-  },
-  "āyasmā": {
-    "meaning": "the Venerable (respectful title for a monk)",
-    "gram": "masculine noun (āyasmant), nominative singular",
-    "breakdown": [
-      ["āyu", "Life, long life (the -s- belongs to the stem āyas-)."],
-      ["-mant (-mā)", "Possessive suffix: possessed of (long) life — venerable."]
-    ]
-  },
-  "āyasmā the": {
-    "meaning": "āyasmā: the Venerable",
-    "summary": "A glossary fragment; the entry is simply āyasmā, “the Venerable”.",
-    "gram": "masculine noun, nominative singular (glossary fragment)"
-  },
-  "āyatana": {
-    "meaning": "sense sphere: the sense organs (internal) and their respective objects (external)",
-    "summary": "The six internal āyatanas are the sense organs (eye, ear, nose, tongue, body, mind) and the six external ones their objects.",
-    "gram": "neuter noun (ā + √yat)",
-    "breakdown": [
-      ["ā-", "Prefix: towards."],
-      ["√yat", "Root: to stretch, strive."],
-      ["-ana", "Noun suffix: the sphere of extension — sense base."]
-    ],
-    "goenka": "The āyatanas are the six internal sense organs — eye, ear, nose, tongue, body and mind — together with their six external objects. In this tradition they matter practically: every contact of a sense organ with its object gives rise to sensation (vedanā), and it is at this point that the meditator, observing with equanimity, can break the chain of blind reaction."
-  },
-  "āyatanānaṁ": {
-    "meaning": "of the sense spheres; of the sense organs and their objects",
-    "gram": "neuter noun, genitive/dative plural of āyatana",
-    "breakdown": [
-      ["āyatana", "Sense organ, sense sphere."],
-      ["-ānaṁ", "Genitive/dative plural ending."]
-    ],
-    "forms": ["āyatanānaṃ"]
-  },
-  "āyatiṁ": {
-    "meaning": "in the future; for the future",
-    "gram": "feminine noun āyati, accusative singular used adverbially",
-    "breakdown": [
-      ["ā-", "Prefix: towards."],
-      ["√yat", "Root: to stretch. āyati: what stretches ahead — the future."]
-    ],
-    "forms": ["āyatiṃ"]
-  },
-  "āyo": {
-    "meaning": "revenue, income; entrance, inflow",
-    "gram": "masculine noun, nominative singular (ā + √i, to go)",
-    "breakdown": [
-      ["ā-", "Prefix: towards."],
-      ["√i", "Root: to go. āya: what comes in — income."]
-    ]
-  },
-  "āyuno": {
-    "meaning": "of life; of the life span, of age",
-    "gram": "neuter noun āyu, genitive/dative singular",
-    "breakdown": [
-      ["āyu", "Life, life span, age."],
-      ["-no", "Genitive/dative singular ending of u-stems."]
-    ]
-  },
-  "āyuppamāṇaṁ": {
-    "meaning": "the life span; the measure or period of life",
-    "gram": "neuter compound noun, nominative/accusative singular",
-    "breakdown": [
-      ["āyu", "Life."],
-      ["pamāṇa", "Measure, extent (the pp is junction doubling)."]
-    ],
-    "forms": ["āyuppamāṇaṃ"]
-  },
-  "āyusā": {
-    "meaning": "with one's life; in respect of life span",
-    "gram": "neuter noun āyu, instrumental singular",
-    "breakdown": [
-      ["āyu", "Life (instrumental stem āyus-)."],
-      ["-ā", "Instrumental singular ending: with, by."]
-    ]
-  },
-  "āyusā with": {
-    "meaning": "āyusā: with one's life",
-    "summary": "A glossary fragment; the entry is simply āyusā, “with one's life”.",
-    "gram": "neuter noun, instrumental singular (glossary fragment)"
-  },
-  "āyuvaṇṇādipariyānikathā": {
-    "meaning": "talk that turns around age, complexion and so forth; a sermon revolving on life span, beauty and the like",
-    "gram": "feminine compound noun",
-    "breakdown": [
-      ["āyu", "Age, life span."],
-      ["vaṇṇa", "Complexion, beauty."],
-      ["ādi", "Starting with, and so forth."],
-      ["pariyāni", "Turning round, revolving."],
-      ["kathā", "Talk, sermon."]
-    ]
-  },
-  "āyuvaṇṇādipari­": {
-    "meaning": "talk that turns around age, complexion and so forth (first part of āyuvaṇṇādipariyānikathā, broken across a line)",
-    "summary": "A typographic line-break fragment; the full word is āyuvaṇṇādipariyānikathā.",
-    "gram": "fragment of a feminine compound noun",
-    "breakdown": [
-      ["āyu", "Age, life span."],
-      ["vaṇṇa", "Complexion, beauty."],
-      ["ādi", "Starting with, and so forth."],
-      ["pariyāni", "Turning round (the remainder -yānikathā completes the word)."]
-    ],
-    "note": "uncertain: this headword is a hyphenation fragment from the printed source; the full word is āyuvaṇṇādipariyānikathā."
-  },
-  "āyāsitattaṁ": {
-    "meaning": "the state of trouble; the condition of sorrow and distress",
-    "gram": "neuter abstract noun (āyāsita + -tta), nominative/accusative singular",
-    "breakdown": [
-      ["āyāsita", "Troubled, distressed (from āyāsa, trouble; ā + √yas)."],
-      ["-tta", "Abstract suffix: the state of."]
-    ],
-    "forms": ["āyāsitattaṃ"]
-  },
-  "āyāso": {
-    "meaning": "trouble, sorrow; distress",
-    "gram": "masculine noun, nominative singular (ā + √yas)",
-    "breakdown": [
-      ["ā-", "Prefix: intensive."],
-      ["√yas", "Root: to exert, weary. āyāsa: weariness, trouble, distress."]
-    ]
-  },
-  "āṭānāṭiyasuttaṁ,": {
-    "meaning": "the Āṭānāṭiya Sutta (a protective discourse), in the Pāthikavagga of the Dīghanikāya",
-    "gram": "proper noun (title of a sutta)",
-    "breakdown": [
-      ["āṭānāṭiya", "Relating to Āṭānāṭā (the city of the Four Great Kings, from which the protective verses are named)."],
-      ["sutta", "Discourse of the Buddha."]
-    ],
-    "forms": ["Āṭānāṭiyasuttaṃ"]
-  },
-  "ūhaññī": {
-    "meaning": "was disturbed, was soiled",
-    "gram": "verb, aorist of ūhaññati (passive of ud + √han)",
-    "breakdown": [
-      ["ud (ū-)", "Prefix: up (ud > ū before h)."],
-      ["√han", "Root: to strike. Passive hañña: to be struck up — disturbed, stirred."],
-      ["-ī", "Aorist ending."]
-    ]
-  },
-  "ḍayhamānena": {
-    "meaning": "by what is burning, consuming, tormenting; by (one) being burned",
-    "gram": "present participle (passive) of ḍayhati (√ḍah), instrumental singular",
-    "breakdown": [
-      ["√ḍah", "Root: to burn. Passive stem ḍayha: to be burned."],
-      ["-māna", "Present participle suffix."],
-      ["-ena", "Instrumental singular ending: by."]
-    ],
-    "forms": ["ḍahamānena"]
-  },
-  "ṭhapana": {
-    "meaning": "letting alone, omission; setting aside",
-    "gram": "neuter action noun, from ṭhapeti (causative of √ṭhā)",
-    "breakdown": [
-      ["√ṭhā", "Root: to stand. Causative ṭhape: to place, set."],
-      ["-ana", "Action-noun suffix: the placing aside, omission."]
-    ]
-  },
-  "ṭhapanā": {
-    "meaning": "placing; deportment, fixing",
-    "gram": "feminine action noun, from ṭhapeti (causative of √ṭhā)",
-    "breakdown": [
-      ["√ṭhā", "Root: to stand. Causative ṭhape: to place."],
-      ["-anā", "Feminine action-noun suffix: the act of placing."]
-    ]
-  },
-  "ṭhapetvāposathagge": {
-    "meaning": "having placed (it) in the Uposatha hall",
-    "gram": "sandhi phrase: gerund + locative noun (ṭhapetvā + uposathagge)",
-    "breakdown": [
-      ["ṭhapetvā", "Having placed (gerund of ṭhapeti)."],
-      ["uposatha", "The Uposatha observance day (the initial u- merges by sandhi with the preceding -ā)."],
-      ["agga", "Hall, house (here locative agge): the Uposatha hall."]
-    ]
-  },
-  "ṭhapitāni": {
-    "meaning": "left out, placed aside; set up",
-    "gram": "past participle of ṭhapeti, neuter nominative/accusative plural",
-    "breakdown": [
-      ["√ṭhā", "Root: to stand. Causative ṭhape: to place."],
-      ["-ita", "Past participle suffix."],
-      ["-āni", "Neuter plural ending."]
-    ]
-  },
-  "ṭhitiyā": {
-    "meaning": "for the stability, for the persistence (of); of the maintenance",
-    "gram": "feminine abstract noun ṭhiti, dative/genitive singular",
-    "breakdown": [
-      ["√ṭhā", "Root: to stand."],
-      ["-ti", "Feminine abstract-noun suffix: standing — stability, persistence."],
-      ["-yā", "Dative/genitive singular ending."]
-    ]
-  },
-  "ṭhānehi": {
-    "meaning": "by these motivators, motivating conditions; from these causes or grounds (that instigate unwholesome actions)",
-    "summary": "In this context the four “grounds” are the motivators of wrong action: greed, hatred, delusion — and fear as the fourth.",
-    "gram": "neuter noun ṭhāna, instrumental plural",
-    "breakdown": [
-      ["√ṭhā", "Root: to stand. ṭhāna: place, ground, occasion; here motive, instigating condition."],
-      ["-ehi", "Instrumental plural ending: by."]
-    ],
-    "goenka": "Klaus explains that ṭhānā here are translated as motivators or motivating conditions — the motives, causes or instigators that stimulate unwholesome actions. The fourth motivator, fear, is added to the three roots of evil usually mentioned: lobhamūla (greed), dosamūla (hatred) and mohamūla (delusion). The commentary explains fear as the potential harm that may occur to oneself if one does not act accordingly."
-  },
-  "ṭhānesu": {
-    "meaning": "in the places; at the occasions",
-    "gram": "neuter noun ṭhāna, locative plural",
-    "breakdown": [
-      ["√ṭhā", "Root: to stand. ṭhāna: place, occasion."],
-      ["-esu", "Locative plural ending: in, at."]
-    ]
-  },
-  "ṭhānārahenā": {
-    "meaning": "with what is worthy of the position; by (conduct) fit for one's standing",
-    "gram": "compound noun/adjective, instrumental singular",
-    "breakdown": [
-      ["ṭhāna", "Standing, position, place."],
-      ["araha", "Worthy of, fit for."],
-      ["-enā", "Instrumental singular ending (with metrically long final vowel)."]
-    ]
-  },
-  "‘asucikhādako’.": {
-    "meaning": "“an eater of filth”; one who feeds on impurity (a term of abuse, quoted)",
-    "gram": "masculine compound noun, nominative singular, quoted with punctuation",
-    "breakdown": [
-      ["asuci", "Impure, filth (a- negative + suci “clean, pure”)."],
-      ["khādaka", "Eater, one who chews (√khād, to eat)."]
-    ],
-    "note": "uncertain: the lexicon record carries no gloss for this quoted headword; the meaning is derived from the transparent compound asuci + khādaka.",
-    "forms": ["asucikhādako"]
-  }
+ "āvuṭa": {
+  "meaning": "covered, hindered, obstructed",
+  "gram": "past participle of āvarati (ā + √var)",
+  "breakdown": [
+   [
+    "ā-",
+    "Prefix: over."
+   ],
+   [
+    "√var",
+    "Root: to cover, obstruct."
+   ],
+   [
+    "-ta",
+    "Past participle suffix (var > vur + ta > vuṭa)."
+   ]
+  ]
+ },
+ "āvuṭā": {
+  "meaning": "covered, hindered (plural or feminine)",
+  "gram": "past participle of āvarati, feminine singular or masculine plural",
+  "breakdown": [
+   [
+    "ā-",
+    "Prefix: over."
+   ],
+   [
+    "√var",
+    "Root: to cover, obstruct."
+   ],
+   [
+    "-ta (-ṭā)",
+    "Past participle suffix with plural/feminine ending."
+   ]
+  ]
+ },
+ "āvāhavivāhakānaṁ": {
+  "meaning": "of marriages and weddings; concerning the giving and taking in marriage (finding a suitable wife)",
+  "gram": "masculine compound noun, genitive plural",
+  "breakdown": [
+   [
+    "āvāha",
+    "Marriage; bringing in (a bride)."
+   ],
+   [
+    "vivāhaka",
+    "Wedding; giving away (a daughter) in marriage (vi + vāhaka)."
+   ]
+  ],
+  "forms": [
+   "āvāhavivāhakānaṃ"
+  ]
+ },
+ "āyamukhāni": {
+  "meaning": "inlets; the entrances of increase (channels by which income flows in)",
+  "gram": "neuter compound noun, nominative/accusative plural",
+  "breakdown": [
+   [
+    "āya",
+    "Increase, income, gain."
+   ],
+   [
+    "mukha",
+    "Mouth, entrance. Together: inlet, channel of inflow."
+   ]
+  ]
+ },
+ "āyasmā": {
+  "meaning": "the Venerable (respectful title for a monk)",
+  "gram": "masculine noun (āyasmant), nominative singular",
+  "breakdown": [
+   [
+    "āyu",
+    "Life, long life (the -s- belongs to the stem āyas-)."
+   ],
+   [
+    "-mant (-mā)",
+    "Possessive suffix: possessed of (long) life — venerable."
+   ]
+  ]
+ },
+ "āyasmā the": {
+  "meaning": "āyasmā: the Venerable",
+  "summary": "A glossary fragment; the entry is simply āyasmā, “the Venerable”.",
+  "gram": "masculine noun, nominative singular (glossary fragment)"
+ },
+ "āyatana": {
+  "meaning": "sense sphere: the sense organs (internal) and their respective objects (external)",
+  "summary": "The six internal āyatanas are the sense organs (eye, ear, nose, tongue, body, mind) and the six external ones their objects.",
+  "gram": "neuter noun (ā + √yat)",
+  "breakdown": [
+   [
+    "ā-",
+    "Prefix: towards."
+   ],
+   [
+    "√yat",
+    "Root: to stretch, strive."
+   ],
+   [
+    "-ana",
+    "Noun suffix: the sphere of extension — sense base."
+   ]
+  ],
+  "goenka": "The āyatanas are the six internal sense organs — eye, ear, nose, tongue, body and mind — together with their six external objects. In this tradition they matter practically: every contact of a sense organ with its object gives rise to sensation (vedanā), and it is at this point that the meditator, observing with equanimity, can break the chain of blind reaction."
+ },
+ "āyatanānaṁ": {
+  "meaning": "of the sense spheres; of the sense organs and their objects",
+  "gram": "neuter noun, genitive/dative plural of āyatana",
+  "breakdown": [
+   [
+    "āyatana",
+    "Sense organ, sense sphere."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive/dative plural ending."
+   ]
+  ],
+  "forms": [
+   "āyatanānaṃ"
+  ]
+ },
+ "āyatiṁ": {
+  "meaning": "in the future; for the future",
+  "gram": "feminine noun āyati, accusative singular used adverbially",
+  "breakdown": [
+   [
+    "ā-",
+    "Prefix: towards."
+   ],
+   [
+    "√yat",
+    "Root: to stretch. āyati: what stretches ahead — the future."
+   ]
+  ],
+  "forms": [
+   "āyatiṃ"
+  ]
+ },
+ "āyo": {
+  "meaning": "revenue, income; entrance, inflow",
+  "gram": "masculine noun, nominative singular (ā + √i, to go)",
+  "breakdown": [
+   [
+    "ā-",
+    "Prefix: towards."
+   ],
+   [
+    "√i",
+    "Root: to go. āya: what comes in — income."
+   ]
+  ]
+ },
+ "āyuno": {
+  "meaning": "of life; of the life span, of age",
+  "gram": "neuter noun āyu, genitive/dative singular",
+  "breakdown": [
+   [
+    "āyu",
+    "Life, life span, age."
+   ],
+   [
+    "-no",
+    "Genitive/dative singular ending of u-stems."
+   ]
+  ]
+ },
+ "āyuppamāṇaṁ": {
+  "meaning": "the life span; the measure or period of life",
+  "gram": "neuter compound noun, nominative/accusative singular",
+  "breakdown": [
+   [
+    "āyu",
+    "Life."
+   ],
+   [
+    "pamāṇa",
+    "Measure, extent (the pp is junction doubling)."
+   ]
+  ],
+  "forms": [
+   "āyuppamāṇaṃ"
+  ]
+ },
+ "āyusā": {
+  "meaning": "with one's life; in respect of life span",
+  "gram": "neuter noun āyu, instrumental singular",
+  "breakdown": [
+   [
+    "āyu",
+    "Life (instrumental stem āyus-)."
+   ],
+   [
+    "-ā",
+    "Instrumental singular ending: with, by."
+   ]
+  ]
+ },
+ "āyusā with": {
+  "meaning": "āyusā: with one's life",
+  "summary": "A glossary fragment; the entry is simply āyusā, “with one's life”.",
+  "gram": "neuter noun, instrumental singular (glossary fragment)"
+ },
+ "āyuvaṇṇādipariyānikathā": {
+  "meaning": "talk that turns around age, complexion and so forth; a sermon revolving on life span, beauty and the like",
+  "gram": "feminine compound noun",
+  "breakdown": [
+   [
+    "āyu",
+    "Age, life span."
+   ],
+   [
+    "vaṇṇa",
+    "Complexion, beauty."
+   ],
+   [
+    "ādi",
+    "Starting with, and so forth."
+   ],
+   [
+    "pariyāni",
+    "Turning round, revolving."
+   ],
+   [
+    "kathā",
+    "Talk, sermon."
+   ]
+  ]
+ },
+ "āyāsitattaṁ": {
+  "meaning": "the state of trouble; the condition of sorrow and distress",
+  "gram": "neuter abstract noun (āyāsita + -tta), nominative/accusative singular",
+  "breakdown": [
+   [
+    "āyāsita",
+    "Troubled, distressed (from āyāsa, trouble; ā + √yas)."
+   ],
+   [
+    "-tta",
+    "Abstract suffix: the state of."
+   ]
+  ],
+  "forms": [
+   "āyāsitattaṃ"
+  ]
+ },
+ "āyāso": {
+  "meaning": "trouble, sorrow; distress",
+  "gram": "masculine noun, nominative singular (ā + √yas)",
+  "breakdown": [
+   [
+    "ā-",
+    "Prefix: intensive."
+   ],
+   [
+    "√yas",
+    "Root: to exert, weary. āyāsa: weariness, trouble, distress."
+   ]
+  ]
+ },
+ "āṭānāṭiyasuttaṁ,": {
+  "meaning": "the Āṭānāṭiya Sutta (a protective discourse), in the Pāthikavagga of the Dīghanikāya",
+  "gram": "proper noun (title of a sutta)",
+  "breakdown": [
+   [
+    "āṭānāṭiya",
+    "Relating to Āṭānāṭā (the city of the Four Great Kings, from which the protective verses are named)."
+   ],
+   [
+    "sutta",
+    "Discourse of the Buddha."
+   ]
+  ],
+  "forms": [
+   "Āṭānāṭiyasuttaṃ"
+  ]
+ },
+ "ūhaññī": {
+  "meaning": "was disturbed, was soiled",
+  "gram": "verb, aorist of ūhaññati (passive of ud + √han)",
+  "breakdown": [
+   [
+    "ud (ū-)",
+    "Prefix: up (ud > ū before h)."
+   ],
+   [
+    "√han",
+    "Root: to strike. Passive hañña: to be struck up — disturbed, stirred."
+   ],
+   [
+    "-ī",
+    "Aorist ending."
+   ]
+  ]
+ },
+ "ḍayhamānena": {
+  "meaning": "by what is burning, consuming, tormenting; by (one) being burned",
+  "gram": "present participle (passive) of ḍayhati (√ḍah), instrumental singular",
+  "breakdown": [
+   [
+    "√ḍah",
+    "Root: to burn. Passive stem ḍayha: to be burned."
+   ],
+   [
+    "-māna",
+    "Present participle suffix."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending: by."
+   ]
+  ],
+  "forms": [
+   "ḍahamānena"
+  ]
+ },
+ "ṭhapana": {
+  "meaning": "letting alone, omission; setting aside",
+  "gram": "neuter action noun, from ṭhapeti (causative of √ṭhā)",
+  "breakdown": [
+   [
+    "√ṭhā",
+    "Root: to stand. Causative ṭhape: to place, set."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix: the placing aside, omission."
+   ]
+  ]
+ },
+ "ṭhapanā": {
+  "meaning": "placing; deportment, fixing",
+  "gram": "feminine action noun, from ṭhapeti (causative of √ṭhā)",
+  "breakdown": [
+   [
+    "√ṭhā",
+    "Root: to stand. Causative ṭhape: to place."
+   ],
+   [
+    "-anā",
+    "Feminine action-noun suffix: the act of placing."
+   ]
+  ]
+ },
+ "ṭhapetvāposathagge": {
+  "meaning": "having placed (it) in the Uposatha hall",
+  "gram": "sandhi phrase: gerund + locative noun (ṭhapetvā + uposathagge)",
+  "breakdown": [
+   [
+    "ṭhapetvā",
+    "Having placed (gerund of ṭhapeti)."
+   ],
+   [
+    "uposatha",
+    "The Uposatha observance day (the initial u- merges by sandhi with the preceding -ā)."
+   ],
+   [
+    "agga",
+    "Hall, house (here locative agge): the Uposatha hall."
+   ]
+  ]
+ },
+ "ṭhapitāni": {
+  "meaning": "left out, placed aside; set up",
+  "gram": "past participle of ṭhapeti, neuter nominative/accusative plural",
+  "breakdown": [
+   [
+    "√ṭhā",
+    "Root: to stand. Causative ṭhape: to place."
+   ],
+   [
+    "-ita",
+    "Past participle suffix."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
+  ]
+ },
+ "ṭhitiyā": {
+  "meaning": "for the stability, for the persistence (of); of the maintenance",
+  "gram": "feminine abstract noun ṭhiti, dative/genitive singular",
+  "breakdown": [
+   [
+    "√ṭhā",
+    "Root: to stand."
+   ],
+   [
+    "-ti",
+    "Feminine abstract-noun suffix: standing — stability, persistence."
+   ],
+   [
+    "-yā",
+    "Dative/genitive singular ending."
+   ]
+  ]
+ },
+ "ṭhānehi": {
+  "meaning": "by these motivators, motivating conditions; from these causes or grounds (that instigate unwholesome actions)",
+  "summary": "In this context the four “grounds” are the motivators of wrong action: greed, hatred, delusion — and fear as the fourth.",
+  "gram": "neuter noun ṭhāna, instrumental plural",
+  "breakdown": [
+   [
+    "√ṭhā",
+    "Root: to stand. ṭhāna: place, ground, occasion; here motive, instigating condition."
+   ],
+   [
+    "-ehi",
+    "Instrumental plural ending: by."
+   ]
+  ],
+  "goenka": "Klaus explains that ṭhānā here are translated as motivators or motivating conditions — the motives, causes or instigators that stimulate unwholesome actions. The fourth motivator, fear, is added to the three roots of evil usually mentioned: lobhamūla (greed), dosamūla (hatred) and mohamūla (delusion). The commentary explains fear as the potential harm that may occur to oneself if one does not act accordingly."
+ },
+ "ṭhānesu": {
+  "meaning": "in the places; at the occasions",
+  "gram": "neuter noun ṭhāna, locative plural",
+  "breakdown": [
+   [
+    "√ṭhā",
+    "Root: to stand. ṭhāna: place, occasion."
+   ],
+   [
+    "-esu",
+    "Locative plural ending: in, at."
+   ]
+  ]
+ },
+ "ṭhānārahenā": {
+  "meaning": "with what is worthy of the position; by (conduct) fit for one's standing",
+  "gram": "compound noun/adjective, instrumental singular",
+  "breakdown": [
+   [
+    "ṭhāna",
+    "Standing, position, place."
+   ],
+   [
+    "araha",
+    "Worthy of, fit for."
+   ],
+   [
+    "-enā",
+    "Instrumental singular ending (with metrically long final vowel)."
+   ]
+  ]
+ }
 }

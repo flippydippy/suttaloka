@@ -3,50 +3,92 @@
   "meaning": "message-sending; errand (in the compound pahiṇagamanānuyoga, the practice of going on errands as a messenger)",
   "gram": "neuter noun, in compounds (from pahiṇāti, √hi)",
   "breakdown": [
-   ["pa", "Prefix: forth."],
-   ["√hi", "To send; pahiṇa is the sending, the errand."]
+   [
+    "pa",
+    "Prefix: forth."
+   ],
+   [
+    "√hi",
+    "To send; pahiṇa is the sending, the errand."
+   ]
   ]
  },
  "pahoti": {
   "meaning": "proceeds from, originates; is able, is competent",
   "gram": "verb, 3rd person singular present (pa + √hū/√bhū)",
   "breakdown": [
-   ["pa", "Prefix: forth."],
-   ["√hū", "To be; pahoti means to arise from, and also to be capable, suffice."]
+   [
+    "pa",
+    "Prefix: forth."
+   ],
+   [
+    "√hū",
+    "To be; pahoti means to arise from, and also to be capable, suffice."
+   ]
   ]
  },
  "pahoti/pabhavati": {
   "meaning": "(in verse) proceeds from, originates; is able, is competent, suffices",
   "gram": "verb, 3rd person singular present (two equivalent forms, pa + √hū / pa + √bhū)",
   "breakdown": [
-   ["pahoti", "Contracted form (pa + hoti)."],
-   ["pabhavati", "Full form (pa + bhavati); both mean to originate from, to be able."]
+   [
+    "pahoti",
+    "Contracted form (pa + hoti)."
+   ],
+   [
+    "pabhavati",
+    "Full form (pa + bhavati); both mean to originate from, to be able."
+   ]
   ]
  },
  "pahānasaññā": {
   "meaning": "perception of abandoning; contemplation of the rejection (of the defilements)",
   "gram": "feminine abstract noun, compound",
   "breakdown": [
-   ["pahāna", "Rejection, abandoning, elimination (pa + √hā)."],
-   ["saññā", "Perception, contemplation."]
+   [
+    "pahāna",
+    "Rejection, abandoning, elimination (pa + √hā)."
+   ],
+   [
+    "saññā",
+    "Perception, contemplation."
+   ]
   ]
  },
  "pahāsi": {
   "meaning": "abandoned; dispelled, gave up",
   "gram": "verb, 3rd person singular aorist of pajahati (pa + √hā)",
   "breakdown": [
-   ["pa", "Prefix: forth, away."],
-   ["√hā", "To abandon; pajahati means to give up, dispel."],
-   ["-si", "Aorist ending."]
+   [
+    "pa",
+    "Prefix: forth, away."
+   ],
+   [
+    "√hā",
+    "To abandon; pajahati means to give up, dispel."
+   ],
+   [
+    "-si",
+    "Aorist ending."
+   ]
   ]
  },
  "pahātabbaṁ": {
   "meaning": "to be eliminated; should be abandoned",
   "gram": "future passive participle of pajahati (pa + √hā), neuter/accusative singular",
   "breakdown": [
-   ["pa", "Prefix: forth, away."],
-   ["√hā", "To abandon."],
-   ["-tabba", "Future passive participle suffix: \"to be ...-ed\"."]
+   [
+    "pa",
+    "Prefix: forth, away."
+   ],
+   [
+    "√hā",
+    "To abandon."
+   ],
+   [
+    "-tabba",
+    "Future passive participle suffix: \"to be ...-ed\"."
+   ]
   ],
   "goenka": "The word carries the imperative of the Second Noble Truth as the tradition presents it: the arising of suffering, craving, is dukkhasamudayaṁ ariyasaccaṁ pahātabbaṁ — a truth that has to be eliminated, not merely understood intellectually. Each Noble Truth has its task: to be fully understood, to be eliminated, to be realized, to be developed."
  },
@@ -54,162 +96,304 @@
   "meaning": "eliminated; abandoned, given up",
   "gram": "past participle of pajahati (pa + √hā), neuter/accusative singular",
   "breakdown": [
-   ["pa", "Prefix: forth, away."],
-   ["√hā", "To abandon; the past participle pahīna means eliminated, abandoned."]
+   [
+    "pa",
+    "Prefix: forth, away."
+   ],
+   [
+    "√hā",
+    "To abandon; the past participle pahīna means eliminated, abandoned."
+   ]
   ],
-  "forms": ["pahīna"]
+  "forms": [
+   "pahīna"
+  ]
  },
  "pahīnesaṁ": {
   "meaning": "of these (now) destroyed; these having been eliminated",
   "gram": "sandhi: past participle + pronoun, genitive plural (pahīna + esaṁ)",
   "breakdown": [
-   ["pahīna", "Destroyed, abandoned (past participle of pajahati)."],
-   ["esaṁ", "Of these (genitive plural pronoun)."]
+   [
+    "pahīna",
+    "Destroyed, abandoned (past participle of pajahati)."
+   ],
+   [
+    "esaṁ",
+    "Of these (genitive plural pronoun)."
+   ]
   ]
  },
  "pahīyamānā": {
   "meaning": "being abandoned; being eliminated, being forsaken",
   "gram": "present participle, passive, of pahīyati (pa + √hā), plural or feminine form",
   "breakdown": [
-   ["pahīyati", "To be abandoned, vanish (passive of pajahati)."],
-   ["-māna", "Present participle (middle/passive) suffix: \"being ...-ed\"."]
+   [
+    "pahīyati",
+    "To be abandoned, vanish (passive of pajahati)."
+   ],
+   [
+    "-māna",
+    "Present participle (middle/passive) suffix: \"being ...-ed\"."
+   ]
   ]
  },
  "pahīyanti": {
   "meaning": "they vanish; they are abandoned, they disappear",
   "gram": "verb, 3rd person plural present, passive of pajahati (pa + √hā)",
   "breakdown": [
-   ["pahīyati", "To vanish, be eliminated (passive of pajahati)."],
-   ["-anti", "Third person plural ending."]
+   [
+    "pahīyati",
+    "To vanish, be eliminated (passive of pajahati)."
+   ],
+   [
+    "-anti",
+    "Third person plural ending."
+   ]
   ]
  },
  "pahīyissati": {
   "meaning": "will vanish; will get abandoned, will pass away",
   "gram": "verb, 3rd person singular future of pahīyati (passive of pajahati)",
   "breakdown": [
-   ["pahīyati", "To vanish, be eliminated (passive of pajahati, pa + √hā)."],
-   ["-issati", "Future tense ending: \"will ...\"."]
+   [
+    "pahīyati",
+    "To vanish, be eliminated (passive of pajahati, pa + √hā)."
+   ],
+   [
+    "-issati",
+    "Future tense ending: \"will ...\"."
+   ]
   ]
  },
  "pahūtadhanadhaññe": {
   "meaning": "having abundant wealth and grain; rich in money and corn",
   "gram": "adjective, compound, locative singular or plural form",
   "breakdown": [
-   ["pahūta", "Abundant, much."],
-   ["dhana", "Wealth, riches."],
-   ["dhañña", "Grain, corn."]
+   [
+    "pahūta",
+    "Abundant, much."
+   ],
+   [
+    "dhana",
+    "Wealth, riches."
+   ],
+   [
+    "dhañña",
+    "Grain, corn."
+   ]
   ]
  },
  "pahūtajātarūparajate": {
   "meaning": "having much gold and silver",
   "gram": "adjective, compound, locative singular or plural form",
   "breakdown": [
-   ["pahūta", "Abundant, much."],
-   ["jātarūpa", "Gold (literally \"natural form\")."],
-   ["rajata", "Silver; silver coin."]
+   [
+    "pahūta",
+    "Abundant, much."
+   ],
+   [
+    "jātarūpa",
+    "Gold (literally \"natural form\")."
+   ],
+   [
+    "rajata",
+    "Silver; silver coin."
+   ]
   ]
  },
  "pahūtavittūpakaraṇe": {
   "meaning": "having ample prosperity and means of existence",
   "gram": "adjective, compound, locative singular or plural form",
   "breakdown": [
-   ["pahūta", "Abundant, much."],
-   ["vitta", "Prosperity, property."],
-   ["upakaraṇa", "Means of existence, equipment, support. (The long ū at the junction arises by vowel coalescence.)"]
+   [
+    "pahūta",
+    "Abundant, much."
+   ],
+   [
+    "vitta",
+    "Prosperity, property."
+   ],
+   [
+    "upakaraṇa",
+    "Means of existence, equipment, support. (The long ū at the junction arises by vowel coalescence.)"
+   ]
   ]
  },
  "pajappati": {
   "meaning": "hungers for; yearns, craves (literally \"prattles after\")",
   "gram": "verb, 3rd person singular present (pa + √japp)",
   "breakdown": [
-   ["pa", "Prefix: forth."],
-   ["√japp", "To mutter, prattle; pajappati means to crave, hanker after."]
+   [
+    "pa",
+    "Prefix: forth."
+   ],
+   [
+    "√japp",
+    "To mutter, prattle; pajappati means to crave, hanker after."
+   ]
   ]
  },
  "pajjhāyati": {
   "meaning": "is consumed (as if in flames); figuratively, is overcome with grief or remorse, broods",
   "gram": "verb, 3rd person singular present (pa + √jhā), often with a derogatory nuance",
   "breakdown": [
-   ["pa", "Prefix: forth, intensive. (The doubled jj arises by assimilation.)"],
-   ["√jhā", "To burn; also to brood, muse; pajjhāyati means to be aflame, to brood in remorse."]
+   [
+    "pa",
+    "Prefix: forth, intensive. (The doubled jj arises by assimilation.)"
+   ],
+   [
+    "√jhā",
+    "To burn; also to brood, muse; pajjhāyati means to be aflame, to brood in remorse."
+   ]
   ]
  },
  "pajā": {
   "meaning": "progeny; offspring; beings, mankind",
   "gram": "feminine noun (from pajāyati, pa + √jan)",
   "breakdown": [
-   ["pa", "Prefix: forth."],
-   ["√jan", "To be born; pajā is what is brought forth — offspring, the race of beings."]
+   [
+    "pa",
+    "Prefix: forth."
+   ],
+   [
+    "√jan",
+    "To be born; pajā is what is brought forth — offspring, the race of beings."
+   ]
   ]
  },
  "pajāya": {
   "meaning": "of beings; for the offspring, among mankind",
   "gram": "feminine noun, genitive/dative singular of pajā",
   "breakdown": [
-   ["pajā", "Beings, progeny (pa + √jan)."],
-   ["-āya", "Genitive/dative singular ending."]
+   [
+    "pajā",
+    "Beings, progeny (pa + √jan)."
+   ],
+   [
+    "-āya",
+    "Genitive/dative singular ending."
+   ]
   ],
-  "forms": ["pajā"]
+  "forms": [
+   "pajā"
+  ]
  },
  "pakataṁ": {
   "meaning": "done; performed, made",
   "gram": "past participle of pakaroti (pa + √kar), neuter/accusative singular",
   "breakdown": [
-   ["pa", "Prefix: forth."],
-   ["√kar", "To do, make; pakata means done, performed."]
+   [
+    "pa",
+    "Prefix: forth."
+   ],
+   [
+    "√kar",
+    "To do, make; pakata means done, performed."
+   ]
   ]
  },
  "pakativajjato": {
   "meaning": "blameable by nature; what is wrong in its natural state (as opposed to wrong by convention)",
   "gram": "compound, ablative singular",
   "breakdown": [
-   ["pakati", "Natural state, nature."],
-   ["vajja", "Blameable, fault."],
-   ["-to", "Ablative suffix: \"from the standpoint of\"."]
+   [
+    "pakati",
+    "Natural state, nature."
+   ],
+   [
+    "vajja",
+    "Blameable, fault."
+   ],
+   [
+    "-to",
+    "Ablative suffix: \"from the standpoint of\"."
+   ]
   ]
  },
  "pakiṇṇakakathā, visuddhimagga.": {
   "meaning": "Pakiṇṇakakathā (\"Miscellaneous Discussion\"), a section of the Visuddhimagga",
   "gram": "phrase; textual citation",
   "breakdown": [
-   ["pakiṇṇaka", "Miscellaneous, scattered (pa + √kir \"to scatter\")."],
-   ["kathā", "Talk, discussion, chapter."],
-   ["Visuddhimagga", "\"The Path of Purification\", Buddhaghosa's commentarial compendium."]
+   [
+    "pakiṇṇaka",
+    "Miscellaneous, scattered (pa + √kir \"to scatter\")."
+   ],
+   [
+    "kathā",
+    "Talk, discussion, chapter."
+   ],
+   [
+    "Visuddhimagga",
+    "\"The Path of Purification\", Buddhaghosa's commentarial compendium."
+   ]
   ]
  },
  "pakkamiṁsu": {
   "meaning": "they departed; they left, they set out",
   "gram": "verb, 3rd person plural aorist of pakkamati (pa + √kam)",
   "breakdown": [
-   ["pa", "Prefix: forth. (The doubled kk arises by assimilation.)"],
-   ["√kam", "To step; pakkamati means to set out, depart."],
-   ["-iṁsu", "Third person plural aorist ending."]
+   [
+    "pa",
+    "Prefix: forth. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√kam",
+    "To step; pakkamati means to set out, depart."
+   ],
+   [
+    "-iṁsu",
+    "Third person plural aorist ending."
+   ]
   ]
  },
  "pakkhahato": {
   "meaning": "paralysed on one side; a cripple (literally \"struck on one side\")",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["pakkha", "Side, flank; wing."],
-   ["hata", "Struck, injured (past participle of hanati)."]
+   [
+    "pakkha",
+    "Side, flank; wing."
+   ],
+   [
+    "hata",
+    "Struck, injured (past participle of hanati)."
+   ]
   ]
  },
  "pakkhassupavassuposathaṁ": {
   "meaning": "the fortnightly observance kept at the approach of the rains",
   "gram": "sandhi compound: genitive + noun + noun (pakkhassa + upavassa + uposathaṁ)",
   "breakdown": [
-   ["pakkhassa", "Of the fortnight (genitive of pakkha \"half-month\")."],
-   ["upavassa", "The approach of the rainy season (upa + vassa \"rains\")."],
-   ["uposatha", "The observance day, the day of religious vigil."]
+   [
+    "pakkhassa",
+    "Of the fortnight (genitive of pakkha \"half-month\")."
+   ],
+   [
+    "upavassa",
+    "The approach of the rainy season (upa + vassa \"rains\")."
+   ],
+   [
+    "uposatha",
+    "The observance day, the day of religious vigil."
+   ]
   ]
  },
  "pakkhipeyya": {
   "meaning": "would throw in; should place into",
   "gram": "verb, 3rd person singular optative of pakkhipati (pa + √khip)",
   "breakdown": [
-   ["pa", "Prefix: forth, in. (The doubled kk arises by assimilation.)"],
-   ["√khip", "To throw; pakkhipati means to throw into, place in."],
-   ["-eyya", "Optative ending: \"would, should\"."]
+   [
+    "pa",
+    "Prefix: forth, in. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√khip",
+    "To throw; pakkhipati means to throw into, place in."
+   ],
+   [
+    "-eyya",
+    "Optative ending: \"would, should\"."
+   ]
   ]
  },
  "pakkho": {
@@ -220,98 +404,173 @@
   "meaning": "washed; cleansed",
   "gram": "verb, 3rd person singular aorist of pakkhāleti (pa + √khal, causative)",
   "breakdown": [
-   ["pa", "Prefix: forth. (The doubled kk arises by assimilation.)"],
-   ["√khal", "To wash; pakkhāleti means to wash, cleanse."],
-   ["-esi", "Aorist ending."]
+   [
+    "pa",
+    "Prefix: forth. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√khal",
+    "To wash; pakkhāleti means to wash, cleanse."
+   ],
+   [
+    "-esi",
+    "Aorist ending."
+   ]
   ]
  },
  "pakkhāletvā": {
   "meaning": "having washed; washing",
   "gram": "gerund (absolutive) of pakkhāleti (pa + √khal)",
   "breakdown": [
-   ["pakkhāleti", "To wash, cleanse (pa + √khal)."],
-   ["-tvā", "Gerund ending: \"having ...-ed\"."]
+   [
+    "pakkhāleti",
+    "To wash, cleanse (pa + √khal)."
+   ],
+   [
+    "-tvā",
+    "Gerund ending: \"having ...-ed\"."
+   ]
   ]
  },
  "pakkhī": {
   "meaning": "bird (literally \"the winged one\")",
   "gram": "masculine noun (from pakkha \"wing\")",
   "breakdown": [
-   ["pakkha", "Wing."],
-   ["-ī", "Possessive suffix: \"having wings\"."]
+   [
+    "pakkha",
+    "Wing."
+   ],
+   [
+    "-ī",
+    "Possessive suffix: \"having wings\"."
+   ]
   ]
- },
- "pakkhī bird pakkho": {
-  "meaning": "bird; side, part, associate",
-  "gram": "phrase (glossary row)",
-  "note": "uncertain: this back-glossary row runs together the entries pakkhī (bird) and pakkho (side, part, associate) with their English glosses. See pakkhī and pakkho."
  },
  "pakāseti": {
   "meaning": "makes known; explains, proclaims, illuminates",
   "gram": "verb, 3rd person singular present, causative of pakāsati (pa + √kās)",
   "breakdown": [
-   ["pa", "Prefix: forth."],
-   ["√kās", "To shine; the causative pakāseti means to make clear, proclaim."]
+   [
+    "pa",
+    "Prefix: forth."
+   ],
+   [
+    "√kās",
+    "To shine; the causative pakāseti means to make clear, proclaim."
+   ]
   ]
  },
  "pakāsito": {
   "meaning": "explained; made known, proclaimed",
   "gram": "past participle of pakāseti, masculine nominative singular",
   "breakdown": [
-   ["pakāseti", "To make known, explain (pa + √kās, causative)."],
-   ["-ita", "Past participle suffix."]
+   [
+    "pakāseti",
+    "To make known, explain (pa + √kās, causative)."
+   ],
+   [
+    "-ita",
+    "Past participle suffix."
+   ]
   ],
-  "forms": ["pakāsita"]
+  "forms": [
+   "pakāsita"
+  ]
  },
  "palāyatampi": {
   "meaning": "even of one running away; also while fleeing",
   "gram": "present participle of palāyati, genitive singular, + particle pi",
   "breakdown": [
-   ["palāyati", "To run away, flee (√palā)."],
-   ["-taṁ", "Participial genitive ending (with niggahīta assimilated before pi)."],
-   ["pi", "Even, also."]
+   [
+    "palāyati",
+    "To run away, flee (√palā)."
+   ],
+   [
+    "-taṁ",
+    "Participial genitive ending (with niggahīta assimilated before pi)."
+   ],
+   [
+    "pi",
+    "Even, also."
+   ]
   ]
  },
  "palāyatanti": {
   "meaning": "\"they run away\" (quoted)",
   "gram": "verb, 3rd person plural present of palāyati with quotation marker ti",
   "breakdown": [
-   ["palāyati", "To run away, flee (√palā)."],
-   ["-anti + ti", "Third person plural ending followed by the quotation marker ti (the niggahīta becomes dental n before ti)."]
+   [
+    "palāyati",
+    "To run away, flee (√palā)."
+   ],
+   [
+    "-anti + ti",
+    "Third person plural ending followed by the quotation marker ti (the niggahīta becomes dental n before ti)."
+   ]
   ]
  },
  "palāyīti": {
   "meaning": "\"(he) escaped, ran away\" (quoted)",
   "gram": "verb, 3rd person singular aorist of palāyati with quotation marker ti",
   "breakdown": [
-   ["palāyi", "Escaped, ran away (aorist of palāyati, √palā)."],
-   ["ti", "Quotation marker ending direct speech (the preceding vowel lengthens before ti)."]
+   [
+    "palāyi",
+    "Escaped, ran away (aorist of palāyati, √palā)."
+   ],
+   [
+    "ti",
+    "Quotation marker ending direct speech (the preceding vowel lengthens before ti)."
+   ]
   ]
  },
  "pamuttatālaphalassa": {
   "meaning": "of a palm fruit released (from its stalk); of the freed palm-tree fruit",
   "gram": "compound, genitive singular",
   "breakdown": [
-   ["pamutta", "Freed, released (past participle of pamuñcati)."],
-   ["tāla", "Palm tree."],
-   ["phala", "Fruit."],
-   ["-assa", "Genitive singular ending."]
+   [
+    "pamutta",
+    "Freed, released (past participle of pamuñcati)."
+   ],
+   [
+    "tāla",
+    "Palm tree."
+   ],
+   [
+    "phala",
+    "Fruit."
+   ],
+   [
+    "-assa",
+    "Genitive singular ending."
+   ]
   ]
  },
  "pamutyatthi": {
   "meaning": "there is release; release exists (for one)",
   "gram": "sandhi fusion: feminine noun + verb (pamutti + atthi)",
   "breakdown": [
-   ["pamutti", "Release, deliverance (pa + √muc + ti)."],
-   ["atthi", "There is (3rd person singular of √as). (The i + a fuse as -ya-.)"]
+   [
+    "pamutti",
+    "Release, deliverance (pa + √muc + ti)."
+   ],
+   [
+    "atthi",
+    "There is (3rd person singular of √as). (The i + a fuse as -ya-.)"
+   ]
   ]
  },
  "pamādavihārino": {
   "meaning": "dwelling in negligence; one who lives heedlessly",
   "gram": "adjective, compound, genitive singular or nominative plural of pamādavihārī",
   "breakdown": [
-   ["pamāda", "Negligence, heedlessness."],
-   ["vihārī", "Dwelling in, abiding (from viharati \"to dwell\")."]
+   [
+    "pamāda",
+    "Negligence, heedlessness."
+   ],
+   [
+    "vihārī",
+    "Dwelling in, abiding (from viharati \"to dwell\")."
+   ]
   ],
   "goenka": "Pamāda, negligence or heedlessness, is the opposite of the appamāda (diligence, heedfulness) that the Buddha urged in his final words. One who is pamādavihārī, dwelling in negligence, lets craving and aversion multiply unobserved; the meditator is exhorted instead to work diligently, with continuity of awareness."
  },
@@ -319,8 +578,14 @@
   "meaning": "in consequence of negligence; because of heedlessness",
   "gram": "indeclinable adverb, compound",
   "breakdown": [
-   ["pamāda", "Negligence, heedlessness."],
-   ["adhikaraṇa", "In consequence of, on account of. (The long ā at the junction arises by vowel coalescence.)"]
+   [
+    "pamāda",
+    "Negligence, heedlessness."
+   ],
+   [
+    "adhikaraṇa",
+    "In consequence of, on account of. (The long ā at the junction arises by vowel coalescence.)"
+   ]
   ]
  },
  "pana": {
@@ -331,86 +596,162 @@
   "meaning": "on the fifteenth day (of the fortnight, the full-moon day)",
   "gram": "masculine numeral noun, locative singular (pañca + dasa)",
   "breakdown": [
-   ["pannarasa", "Fifteen; the fifteenth (from pañca \"five\" + dasa \"ten\")."],
-   ["-e", "Locative singular ending: \"on\"."]
+   [
+    "pannarasa",
+    "Fifteen; the fifteenth (from pañca \"five\" + dasa \"ten\")."
+   ],
+   [
+    "-e",
+    "Locative singular ending: \"on\"."
+   ]
   ]
  },
  "pantañca": {
   "meaning": "and the remote; and a secluded (dwelling)",
   "gram": "adjective, accusative singular + conjunction (pantaṁ + ca)",
   "breakdown": [
-   ["panta", "Remote, distant, secluded (pa + anta \"edge\")."],
-   ["ca", "And. (The niggahīta becomes ñ before c.)"]
+   [
+    "panta",
+    "Remote, distant, secluded (pa + anta \"edge\")."
+   ],
+   [
+    "ca",
+    "And. (The niggahīta becomes ñ before c.)"
+   ]
   ]
  },
  "panthaduhanampi": {
   "meaning": "highway robbery too; waylaying and hurting travellers on the road",
   "gram": "masculine noun, compound, accusative singular + particle pi",
   "breakdown": [
-   ["pantha", "Road, path."],
-   ["duhana", "Robbing, hurting, plundering."],
-   ["pi", "Also, too, even."]
+   [
+    "pantha",
+    "Road, path."
+   ],
+   [
+    "duhana",
+    "Robbing, hurting, plundering."
+   ],
+   [
+    "pi",
+    "Also, too, even."
+   ]
   ]
  },
  "panupāsakāse": {
   "meaning": "and the lay disciples",
   "gram": "particle + masculine noun, metrical locative/nominative plural (pana + upāsakāse)",
   "breakdown": [
-   ["pana", "And, but, further."],
-   ["upāsaka", "Lay disciple, lay follower."],
-   ["-āse", "Archaic/metrical plural ending."]
+   [
+    "pana",
+    "And, but, further."
+   ],
+   [
+    "upāsaka",
+    "Lay disciple, lay follower."
+   ],
+   [
+    "-āse",
+    "Archaic/metrical plural ending."
+   ]
   ]
- },
- "papamagama": {
-  "meaning": "not coming into connection with evil",
-  "gram": "phrase (uncertain segmentation)",
-  "note": "uncertain: the headword appears garbled in extraction; the lexicon's gloss \"not coming into connection with evil\" suggests an underlying phrase such as pāpaṁ na āgamā (na ... āgama \"not coming to evil\"). Parse not confirmed."
  },
  "pappuyya": {
   "meaning": "having obtained; having reached",
   "gram": "gerund of pappoti (pa + √ap)",
   "breakdown": [
-   ["pa", "Prefix: forth. (The doubled pp arises by assimilation.)"],
-   ["√ap", "To obtain, reach; pappoti means to attain."],
-   ["-ya", "Gerund ending."]
+   [
+    "pa",
+    "Prefix: forth. (The doubled pp arises by assimilation.)"
+   ],
+   [
+    "√ap",
+    "To obtain, reach; pappoti means to attain."
+   ],
+   [
+    "-ya",
+    "Gerund ending."
+   ]
   ]
  },
  "parabyābādhāyapi": {
   "meaning": "also to the affliction of others; even for the pain, evil or misery of others",
   "gram": "masculine noun, compound, dative singular + particle pi",
   "breakdown": [
-   ["para", "Other, others."],
-   ["byābādha", "Affliction, pain, harm (vi + ā + √bādh)."],
-   ["-āya", "Dative singular ending: \"to, for\"."],
-   ["pi", "Also, even."]
+   [
+    "para",
+    "Other, others."
+   ],
+   [
+    "byābādha",
+    "Affliction, pain, harm (vi + ā + √bādh)."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: \"to, for\"."
+   ],
+   [
+    "pi",
+    "Also, even."
+   ]
   ]
  },
  "paradattūpajīvino": {
   "meaning": "living on what is given by others",
   "gram": "adjective, compound, genitive singular or nominative plural of paradattūpajīvī",
   "breakdown": [
-   ["para", "Other, others."],
-   ["datta", "Given (past participle of dadāti)."],
-   ["upajīvī", "Living on, subsisting by (upa + √jīv). (The long ū at the junction arises by vowel coalescence.)"]
+   [
+    "para",
+    "Other, others."
+   ],
+   [
+    "datta",
+    "Given (past participle of dadāti)."
+   ],
+   [
+    "upajīvī",
+    "Living on, subsisting by (upa + √jīv). (The long ū at the junction arises by vowel coalescence.)"
+   ]
   ]
  },
  "paradāragamanañceva": {
   "meaning": "and likewise going to the wives of others; adultery and suchlike",
   "gram": "sandhi compound: noun + conjunctions (paradāragamanaṁ + ca + eva)",
   "breakdown": [
-   ["para", "Other, another's."],
-   ["dāra", "Wife."],
-   ["gamana", "Going to, resorting to."],
-   ["ca + eva", "And + suchlike, likewise (fused as ceva; the niggahīta becomes ñ before c)."]
+   [
+    "para",
+    "Other, another's."
+   ],
+   [
+    "dāra",
+    "Wife."
+   ],
+   [
+    "gamana",
+    "Going to, resorting to."
+   ],
+   [
+    "ca + eva",
+    "And + suchlike, likewise (fused as ceva; the niggahīta becomes ñ before c)."
+   ]
   ]
  },
  "paradārampi": {
   "meaning": "another's wife too; even the wife of another",
   "gram": "masculine noun, compound, accusative singular + particle pi",
   "breakdown": [
-   ["para", "Other, another's."],
-   ["dāra", "Wife."],
-   ["pi", "Also, even."]
+   [
+    "para",
+    "Other, another's."
+   ],
+   [
+    "dāra",
+    "Wife."
+   ],
+   [
+    "pi",
+    "Also, even."
+   ]
   ]
  }
 }

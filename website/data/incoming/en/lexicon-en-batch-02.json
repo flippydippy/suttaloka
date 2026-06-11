@@ -3,9 +3,18 @@
   "meaning": "having spoken, having declared",
   "gram": "gerund (absolutive) of abhivādeti",
   "breakdown": [
-   ["abhi-", "Prefix \"towards, out\"."],
-   ["√vad", "Root \"to speak\" (causative stem vāde-)."],
-   ["-tvā", "Gerund suffix, \"having ...-ed\"."]
+   [
+    "abhi-",
+    "Prefix \"towards, out\"."
+   ],
+   [
+    "√vad",
+    "Root \"to speak\" (causative stem vāde-)."
+   ],
+   [
+    "-tvā",
+    "Gerund suffix, \"having ...-ed\"."
+   ]
   ],
   "note": "divergence: general dictionaries gloss abhivādeti as \"to salute respectfully, pay homage\"; the lexicon glosses this occurrence as \"having spoken, declared\" (from the same root √vad). The lexicon's gloss is followed here."
  },
@@ -13,25 +22,46 @@
   "meaning": "recognised, distinguished, well-known",
   "gram": "past participle of abhijānāti, instrumental plural",
   "breakdown": [
-   ["abhi-", "Intensifying prefix."],
-   ["√ñā", "Root \"to know\" + past participle suffix -ta."],
-   ["-ehi", "Instrumental plural ending."]
+   [
+    "abhi-",
+    "Intensifying prefix."
+   ],
+   [
+    "√ñā",
+    "Root \"to know\" + past participle suffix -ta."
+   ],
+   [
+    "-ehi",
+    "Instrumental plural ending."
+   ]
   ]
  },
  "abhiññāya": {
   "meaning": "with special knowledge, through true understanding; having directly known",
   "gram": "feminine noun abhiññā, instrumental singular; also gerund of abhijānāti",
   "breakdown": [
-   ["abhi-", "Intensifying prefix, \"directly, fully\"."],
-   ["√ñā", "Root \"to know\"; abhiññā = special, direct knowledge."]
+   [
+    "abhi-",
+    "Intensifying prefix, \"directly, fully\"."
+   ],
+   [
+    "√ñā",
+    "Root \"to know\"; abhiññā = special, direct knowledge."
+   ]
   ]
  },
  "abhiṇha": {
   "meaning": "repeatedly, continuous",
   "gram": "adjective/adverb (contraction of abhikkhaṇa)",
   "breakdown": [
-   ["abhi-", "Intensifying prefix."],
-   ["√ikkh", "Root \"to see\"; abhikkhaṇa contracts to abhiṇha, \"repeated, constant\"."]
+   [
+    "abhi-",
+    "Intensifying prefix."
+   ],
+   [
+    "√ikkh",
+    "Root \"to see\"; abhikkhaṇa contracts to abhiṇha, \"repeated, constant\"."
+   ]
   ]
  },
  "abhiṇhapaccavekkhitabbaṭhānasuttaṁ": {
@@ -39,27 +69,53 @@
   "summary": "This is a sutta title compounded from abhiṇha \"repeatedly\", paccavekkhitabba \"to be reflected upon\", ṭhāna \"subject, ground\" and sutta \"discourse\".",
   "gram": "proper noun (sutta title), neuter compound",
   "breakdown": [
-   ["abhiṇha", "Repeatedly, constantly."],
-   ["paccavekkhitabba", "To be reflected upon, to be reviewed (future passive participle of paccavekkhati)."],
-   ["ṭhāna", "Subject, ground, basis."],
-   ["sutta", "Discourse."]
+   [
+    "abhiṇha",
+    "Repeatedly, constantly."
+   ],
+   [
+    "paccavekkhitabba",
+    "To be reflected upon, to be reviewed (future passive participle of paccavekkhati)."
+   ],
+   [
+    "ṭhāna",
+    "Subject, ground, basis."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ],
-  "forms": ["Abhiṇhapaccavekkhitabbaṭhānasuttaṁ"]
+  "forms": [
+   "Abhiṇhapaccavekkhitabbaṭhānasuttaṁ"
+  ]
  },
  "abhiṇhaṁ": {
   "meaning": "repeatedly, often",
   "gram": "adverb (accusative of abhiṇha)",
   "breakdown": [
-   ["abhi-", "Intensifying prefix."],
-   ["√ikkh", "Root \"to see\"; abhikkhaṇa contracts to abhiṇha, \"repeated, constant\"."]
+   [
+    "abhi-",
+    "Intensifying prefix."
+   ],
+   [
+    "√ikkh",
+    "Root \"to see\"; abhikkhaṇa contracts to abhiṇha, \"repeated, constant\"."
+   ]
   ]
  },
  "abhūtaṁ": {
   "meaning": "untrue, not according to fact; what has not happened",
   "gram": "adjective (past participle of na bhavati), neuter/accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["bhūta", "Become, true, factual (past participle of bhavati, √bhū)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "bhūta",
+    "Become, true, factual (past participle of bhavati, √bhū)."
+   ]
   ]
  },
  "abrahmacariyā": {
@@ -67,55 +123,108 @@
   "summary": "The negation of brahmacariya, the chaste \"walking on the path of Brahma\", i.e. the celibate holy life.",
   "gram": "neuter noun, compound; here with ablative ending -ā (abstaining \"from unchastity\")",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["brahma", "Holy, sublime; related to Brahma."],
-   ["cariyā", "Conduct, walking, way of life (√car)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "brahma",
+    "Holy, sublime; related to Brahma."
+   ],
+   [
+    "cariyā",
+    "Conduct, walking, way of life (√car)."
+   ]
   ]
  },
  "abravuṁ:": {
   "meaning": "they said, they told, they spoke",
   "gram": "verb, 3rd person plural aorist of brūti (√brū)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√brū", "Root \"to say, speak\"."],
-   ["-uṁ", "Aorist ending, 3rd person plural."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√brū",
+    "Root \"to say, speak\"."
+   ],
+   [
+    "-uṁ",
+    "Aorist ending, 3rd person plural."
+   ]
   ],
-  "forms": ["abravuṁ"]
+  "forms": [
+   "abravuṁ"
+  ]
  },
  "abyākata": {
   "meaning": "unexplained, undefined, not declared",
   "summary": "Used of the questions the Buddha set aside without answering (the \"undeclared points\").",
   "gram": "past participle of na byākaroti",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["byākata", "Explained, declared (past participle of byākaroti: vi + ā + √kar)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "byākata",
+    "Explained, declared (past participle of byākaroti: vi + ā + √kar)."
+   ]
   ]
  },
  "abyākatāni": {
   "meaning": "unexplained, undefined (things); the undeclared points",
   "gram": "past participle of na byākaroti, neuter plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["byākata", "Explained, declared (past participle of byākaroti: vi + ā + √kar)."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "byākata",
+    "Explained, declared (past participle of byākaroti: vi + ā + √kar)."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
  },
  "abyāpajjharatā": {
   "meaning": "delighting in non-ill will; taking delight in freedom from ill will",
   "gram": "adjective, compound (here plural)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["byāpajjha", "Ill will, malevolence, affliction."],
-   ["rata", "Delighting in, devoted to (past participle of ramati)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "byāpajjha",
+    "Ill will, malevolence, affliction."
+   ],
+   [
+    "rata",
+    "Delighting in, devoted to (past participle of ramati)."
+   ]
   ]
  },
  "abyāpajjhārāmā": {
   "meaning": "taking pleasure in non-ill will",
   "gram": "adjective, compound (here plural)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["byāpajjha", "Ill will, malevolence, affliction."],
-   ["ārāma", "Pleasure, delight."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "byāpajjha",
+    "Ill will, malevolence, affliction."
+   ],
+   [
+    "ārāma",
+    "Pleasure, delight."
+   ]
   ]
  },
  "abyāpādasaṅkappo": {
@@ -123,9 +232,18 @@
   "summary": "One of the three right thoughts (sammāsaṅkappa) of the Noble Eightfold Path.",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["byāpāda", "Ill will, aversion, hatred."],
-   ["saṅkappa", "Thought, intention."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "byāpāda",
+    "Ill will, aversion, hatred."
+   ],
+   [
+    "saṅkappa",
+    "Thought, intention."
+   ]
   ],
   "goenka": "Abyāpādasaṅkappa, the thought of non-ill will, is one of the three components of sammāsaṅkappa (right thought) in the Noble Eightfold Path, together with thoughts of renunciation (nekkhamma) and non-violence (avihiṁsā). In the Dvedhāvitakka-sutta the Bodhisatta observes that when such thoughts are repeatedly thought and pondered over, the mind becomes predisposed towards them — harming neither oneself nor others, strengthening wisdom and being conducive to nibbāna."
  },
@@ -133,169 +251,311 @@
   "meaning": "unimpaired, untouched happiness",
   "gram": "neuter abstract noun, compound, accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["byāseka", "Sprinkled over, defiled, impaired (vi + ā + √sic)."],
-   ["sukha", "Happiness, ease."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "byāseka",
+    "Sprinkled over, defiled, impaired (vi + ā + √sic)."
+   ],
+   [
+    "sukha",
+    "Happiness, ease."
+   ]
   ]
  },
  "acalaṭṭhānaṁ": {
   "meaning": "the unmoving place; the unshakeable sphere",
   "gram": "neuter noun, compound, accusative singular",
   "breakdown": [
-   ["acala", "Not moving, unshakeable (a + √cal)."],
-   ["ṭhāna", "Place, sphere, state. (The doubled ṭṭh is sandhi doubling at the compound seam.)"]
+   [
+    "acala",
+    "Not moving, unshakeable (a + √cal)."
+   ],
+   [
+    "ṭhāna",
+    "Place, sphere, state. (The doubled ṭṭh is sandhi doubling at the compound seam.)"
+   ]
   ]
  },
  "acarī": {
   "meaning": "moved about; here: behaved",
   "gram": "verb, 3rd person singular aorist of carati (√car)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√car", "Root \"to move, walk, behave\"."],
-   ["-ī", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√car",
+    "Root \"to move, walk, behave\"."
+   ],
+   [
+    "-ī",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "accayena": {
   "meaning": "after the lapse of, with the passing of",
   "gram": "masculine noun accaya, instrumental singular, used adverbially",
   "breakdown": [
-   ["ati-", "Prefix \"beyond, past\"; before a vowel it becomes acc-."],
-   ["√i", "Root \"to go\"; accaya = lapse, passing away."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "ati-",
+    "Prefix \"beyond, past\"; before a vowel it becomes acc-."
+   ],
+   [
+    "√i",
+    "Root \"to go\"; accaya = lapse, passing away."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "accayo maṁ": {
   "meaning": "a fault has overcome me (formula of confessing a transgression)",
   "gram": "phrase",
   "breakdown": [
-   ["accayo", "Fault, transgression; lapse (masculine noun, nominative singular)."],
-   ["maṁ", "Me (accusative singular of ahaṁ)."]
+   [
+    "accayo",
+    "Fault, transgression; lapse (masculine noun, nominative singular)."
+   ],
+   [
+    "maṁ",
+    "Me (accusative singular of ahaṁ)."
+   ]
   ]
- },
- "acceptance": {
-  "meaning": "to address, invite, inform (glossary line for āmantayati, āmanteti, glossed in English as \"acceptance, addressing\")",
-  "gram": "glossary cross-reference entry",
-  "note": "uncertain: this key is an English word carried over from the source glossary's layout; the underlying Pāli entry is āmantayati/āmanteti \"to address, invite, inform\"."
  },
  "acchariyamanusso": {
   "meaning": "a wonderful man, an exceptional human being",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["acchariya", "Wonderful, marvellous, exceptional."],
-   ["manussa", "Man, human being."]
+   [
+    "acchariya",
+    "Wonderful, marvellous, exceptional."
+   ],
+   [
+    "manussa",
+    "Man, human being."
+   ]
   ]
  },
  "acchecchi": {
   "meaning": "cut off, destroyed",
   "gram": "verb, 3rd person singular aorist of chindati (√chid)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√chid", "Root \"to cut\"."],
-   ["-i", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√chid",
+    "Root \"to cut\"."
+   ],
+   [
+    "-i",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "acchiddakāritāya": {
   "meaning": "by faultless performance; through acting without defect",
   "gram": "feminine abstract noun, instrumental singular, compound",
   "breakdown": [
-   ["a-", "Negative prefix \"not\". (The doubled cch is sandhi doubling.)"],
-   ["chidda", "Fault, defect, hole."],
-   ["kāritā", "Performing, the state of acting (from √kar)."],
-   ["-āya", "Instrumental singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\". (The doubled cch is sandhi doubling.)"
+   ],
+   [
+    "chidda",
+    "Fault, defect, hole."
+   ],
+   [
+    "kāritā",
+    "Performing, the state of acting (from √kar)."
+   ],
+   [
+    "-āya",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "acchinnavutti": {
   "meaning": "of impeccable conduct; whose conduct is free of defect",
   "gram": "adjective, compound",
   "breakdown": [
-   ["acchinna", "Removed, cut off (here: with faults removed)."],
-   ["vutti", "Conduct, behaviour, way of life."]
+   [
+    "acchinna",
+    "Removed, cut off (here: with faults removed)."
+   ],
+   [
+    "vutti",
+    "Conduct, behaviour, way of life."
+   ]
   ]
  },
  "acchādetvā": {
   "meaning": "having put on, having dressed",
   "gram": "gerund (absolutive) of acchādeti",
   "breakdown": [
-   ["ā-", "Prefix \"to, on\" (with cch doubling by sandhi)."],
-   ["√chad", "Root \"to cover\"; acchādeti = \"to clothe, dress\"."],
-   ["-etvā", "Gerund suffix, \"having ...-ed\"."]
+   [
+    "ā-",
+    "Prefix \"to, on\" (with cch doubling by sandhi)."
+   ],
+   [
+    "√chad",
+    "Root \"to cover\"; acchādeti = \"to clothe, dress\"."
+   ],
+   [
+    "-etvā",
+    "Gerund suffix, \"having ...-ed\"."
+   ]
   ]
  },
  "accuggatassa": {
   "meaning": "very high, lofty",
   "gram": "adjective, genitive/dative singular",
   "breakdown": [
-   ["ati-", "Intensifying prefix \"exceedingly\"; before a vowel it becomes acc-."],
-   ["uggata", "Risen, elevated (past participle of uggacchati, ud + √gam)."],
-   ["-ssa", "Genitive/dative singular ending."]
+   [
+    "ati-",
+    "Intensifying prefix \"exceedingly\"; before a vowel it becomes acc-."
+   ],
+   [
+    "uggata",
+    "Risen, elevated (past participle of uggacchati, ud + √gam)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
- "acelakā.": {
+ "acelakā": {
   "meaning": "naked ascetics (a class of unclothed wanderers)",
   "gram": "masculine noun, nominative plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not, without\"."],
-   ["cela", "Cloth, garment."],
-   ["-ka", "Adjectival/noun suffix: \"one without clothes\"."]
+   [
+    "a-",
+    "Negative prefix \"not, without\"."
+   ],
+   [
+    "cela",
+    "Cloth, garment."
+   ],
+   [
+    "-ka",
+    "Adjectival/noun suffix: \"one without clothes\"."
+   ]
   ],
-  "note": "uncertain: the lexicon records this headword without a gloss; the sense given is the standard meaning of acelaka.",
-  "forms": ["acelakā"]
+  "forms": [
+   "acelakā"
+  ]
  },
  "acintayuṁ": {
   "meaning": "they thought over, considered, reflected",
   "gram": "verb, 3rd person plural aorist of cinteti (√cint)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√cint", "Root \"to think\" (stem cintaya-)."],
-   ["-uṁ", "Aorist ending, 3rd person plural."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√cint",
+    "Root \"to think\" (stem cintaya-)."
+   ],
+   [
+    "-uṁ",
+    "Aorist ending, 3rd person plural."
+   ]
   ]
  },
  "adayāpanno": {
   "meaning": "not compassionate; devoid of mercy",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["dayā", "Compassion, sympathy, mercy."],
-   ["āpanna", "Entered upon, possessed of (past participle of āpajjati)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "dayā",
+    "Compassion, sympathy, mercy."
+   ],
+   [
+    "āpanna",
+    "Entered upon, possessed of (past participle of āpajjati)."
+   ]
   ]
  },
  "adaṇḍāraho": {
   "meaning": "not deserving punishment; not worthy of the stick",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["daṇḍa", "Stick, rod; punishment."],
-   ["araha", "Worthy of, deserving."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "daṇḍa",
+    "Stick, rod; punishment."
+   ],
+   [
+    "araha",
+    "Worthy of, deserving."
+   ]
   ]
  },
  "addasā": {
   "meaning": "he saw",
   "gram": "verb, 3rd person singular aorist of dassati/passati (√dis)",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√dis", "Root \"to see\" (with dd doubling)."],
-   ["-ā", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√dis",
+    "Root \"to see\" (with dd doubling)."
+   ],
+   [
+    "-ā",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "addhānaṁ": {
   "meaning": "time; a long stretch (of time or road)",
   "gram": "neuter noun, accusative singular (from addhan)",
   "breakdown": [
-   ["addhan/addhāna", "Road, journey; stretch of time."]
+   [
+    "addhan/addhāna",
+    "Road, journey; stretch of time."
+   ]
   ]
  },
  "adhi": {
   "meaning": "above, upon, over; in respect of (prefix)",
   "gram": "prefix",
-  "forms": ["adhi-"]
+  "forms": [
+   "adhi-"
+  ]
  },
  "adhiccamidaṁ": {
   "meaning": "this (arises) without a cause; this is fortuitous",
   "summary": "A sandhi fusion of adhiccaṁ \"without cause, by chance\" and idaṁ \"this\".",
   "gram": "sandhi compound: adverb/adjective + pronoun",
   "breakdown": [
-   ["adhiccaṁ", "Without a cause, fortuitously, by chance."],
-   ["idaṁ", "This (neuter demonstrative pronoun). (The ṁ becomes m before a vowel.)"]
+   [
+    "adhiccaṁ",
+    "Without a cause, fortuitously, by chance."
+   ],
+   [
+    "idaṁ",
+    "This (neuter demonstrative pronoun). (The ṁ becomes m before a vowel.)"
+   ]
   ]
  },
  "adhicitta": {
@@ -303,8 +563,14 @@
   "summary": "Part of the threefold training: adhisīla (higher morality), adhicitta (higher mind, i.e. concentration), adhipaññā (higher wisdom).",
   "gram": "neuter noun (adhi + citta)",
   "breakdown": [
-   ["adhi-", "Prefix \"higher, superior\"."],
-   ["citta", "Mind (√cit)."]
+   [
+    "adhi-",
+    "Prefix \"higher, superior\"."
+   ],
+   [
+    "citta",
+    "Mind (√cit)."
+   ]
   ],
   "goenka": "Adhicitta, the higher or meditative mind, names the training of samādhi within the threefold division of the path: adhisīla (higher morality), adhicitta (higher mind) and adhipaññā (higher wisdom). It is the mind developed and unified through meditation, the basis on which experiential wisdom can arise."
  },
@@ -312,87 +578,168 @@
   "meaning": "to acquire, to attain, to find",
   "gram": "verb, 3rd person singular present (adhi + √gam)",
   "breakdown": [
-   ["adhi-", "Prefix \"over, on to\"."],
-   ["√gam", "Root \"to go\" (present stem gaccha-); with adhi-, \"to attain, come into possession of\"."]
+   [
+    "adhi-",
+    "Prefix \"over, on to\"."
+   ],
+   [
+    "√gam",
+    "Root \"to go\" (present stem gaccha-); with adhi-, \"to attain, come into possession of\"."
+   ]
   ]
  },
  "adhigama": {
   "meaning": "attainment, acquisition",
   "gram": "masculine noun (from adhigacchati)",
   "breakdown": [
-   ["adhi-", "Prefix \"over, on to\"."],
-   ["√gam", "Root \"to go\"."],
-   ["-a", "Noun-forming suffix."]
+   [
+    "adhi-",
+    "Prefix \"over, on to\"."
+   ],
+   [
+    "√gam",
+    "Root \"to go\"."
+   ],
+   [
+    "-a",
+    "Noun-forming suffix."
+   ]
   ]
  },
  "adhigata": {
   "meaning": "attained, in possession of",
   "gram": "past participle of adhigacchati",
   "breakdown": [
-   ["adhi-", "Prefix \"over, on to\"."],
-   ["√gam", "Root \"to go\" + past participle suffix -ta."]
+   [
+    "adhi-",
+    "Prefix \"over, on to\"."
+   ],
+   [
+    "√gam",
+    "Root \"to go\" + past participle suffix -ta."
+   ]
   ]
  },
  "adhigatavant": {
   "meaning": "one who has found or attained",
   "gram": "possessive adjective/noun (past participle adhigata + -vant)",
   "breakdown": [
-   ["adhigata", "Attained (past participle of adhigacchati)."],
-   ["-vant", "Possessive suffix, \"one who has\"."]
+   [
+    "adhigata",
+    "Attained (past participle of adhigacchati)."
+   ],
+   [
+    "-vant",
+    "Possessive suffix, \"one who has\"."
+   ]
   ]
  },
  "adhimuccissati": {
   "meaning": "will be inclined to, will resolve upon",
   "gram": "verb, 3rd person singular future of adhimuccati",
   "breakdown": [
-   ["adhi-", "Prefix \"on to\"."],
-   ["√muc", "Root \"to release\"; adhimuccati = \"to incline to, resolve on, be drawn to\"."],
-   ["-issati", "Future ending, 3rd person singular."]
+   [
+    "adhi-",
+    "Prefix \"on to\"."
+   ],
+   [
+    "√muc",
+    "Root \"to release\"; adhimuccati = \"to incline to, resolve on, be drawn to\"."
+   ],
+   [
+    "-issati",
+    "Future ending, 3rd person singular."
+   ]
   ]
  },
  "adhipati": {
   "meaning": "master, ruler; (as adjective) ruled or governed by",
   "gram": "masculine noun (adhi + pati)",
   "breakdown": [
-   ["adhi-", "Prefix \"over\"."],
-   ["pati", "Lord, master (√pat)."]
+   [
+    "adhi-",
+    "Prefix \"over\"."
+   ],
+   [
+    "pati",
+    "Lord, master (√pat)."
+   ]
   ]
  },
  "adhippāyena": {
   "meaning": "with the intention, with the thought",
   "gram": "masculine noun adhippāya, instrumental singular",
   "breakdown": [
-   ["adhi-", "Prefix \"towards\"."],
-   ["pa-", "Prefix \"forth\" (with pp doubling)."],
-   ["√i", "Root \"to go\"; adhippāya = intention, wish, sense."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "adhi-",
+    "Prefix \"towards\"."
+   ],
+   [
+    "pa-",
+    "Prefix \"forth\" (with pp doubling)."
+   ],
+   [
+    "√i",
+    "Root \"to go\"; adhippāya = intention, wish, sense."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "adhivacanaṁ": {
   "meaning": "designation, name, appellation",
   "gram": "neuter noun, nominative/accusative singular",
   "breakdown": [
-   ["adhi-", "Prefix \"over, in respect of\"."],
-   ["√vac", "Root \"to speak\"."],
-   ["-ana", "Noun-forming suffix: \"a term applied to something\"."]
+   [
+    "adhi-",
+    "Prefix \"over, in respect of\"."
+   ],
+   [
+    "√vac",
+    "Root \"to speak\"."
+   ],
+   [
+    "-ana",
+    "Noun-forming suffix: \"a term applied to something\"."
+   ]
   ]
  },
  "adhivāsetu": {
   "meaning": "may (he) consent, comply with, accept, approve",
   "gram": "verb, 3rd person singular imperative of adhivāseti (causative of adhivasati)",
   "breakdown": [
-   ["adhi-", "Prefix \"over, on\"."],
-   ["√vas", "Root \"to dwell\"; causative vāseti — adhivāseti = \"to consent, accept (an invitation)\"."],
-   ["-tu", "Imperative ending, 3rd person singular."]
+   [
+    "adhi-",
+    "Prefix \"over, on\"."
+   ],
+   [
+    "√vas",
+    "Root \"to dwell\"; causative vāseti — adhivāseti = \"to consent, accept (an invitation)\"."
+   ],
+   [
+    "-tu",
+    "Imperative ending, 3rd person singular."
+   ]
   ]
  },
  "adhiṭṭheyya": {
   "meaning": "should practise; should fix one's attention upon, should resolve upon",
   "gram": "verb, 3rd person singular optative of adhiṭṭhāti/adhiṭṭhahati",
   "breakdown": [
-   ["adhi-", "Prefix \"on to\"."],
-   ["√ṭhā", "Root \"to stand\"; adhiṭṭhāti = \"to stand firmly on, resolve, fix one's attention\"."],
-   ["-eyya", "Optative ending, 3rd person singular."]
+   [
+    "adhi-",
+    "Prefix \"on to\"."
+   ],
+   [
+    "√ṭhā",
+    "Root \"to stand\"; adhiṭṭhāti = \"to stand firmly on, resolve, fix one's attention\"."
+   ],
+   [
+    "-eyya",
+    "Optative ending, 3rd person singular."
+   ]
   ]
  },
  "adhiṭṭhānābhinivesānusayā": {
@@ -400,9 +747,18 @@
   "summary": "A three-member compound: adhiṭṭhāna (resolution, determination) + abhinivesa (tendency, inclination, clinging) + anusaya (underlying tendency, predisposition).",
   "gram": "masculine compound noun, plural",
   "breakdown": [
-   ["adhiṭṭhāna", "Resolution, determination; fixed standpoint."],
-   ["abhinivesa", "Inclination, adherence, clinging to views."],
-   ["anusaya", "Underlying tendency, latent predisposition."]
+   [
+    "adhiṭṭhāna",
+    "Resolution, determination; fixed standpoint."
+   ],
+   [
+    "abhinivesa",
+    "Inclination, adherence, clinging to views."
+   ],
+   [
+    "anusaya",
+    "Underlying tendency, latent predisposition."
+   ]
   ]
  },
  "adho": {
@@ -417,9 +773,18 @@
   "meaning": "even what is not given; also the not-given",
   "gram": "neuter past participle adinna, accusative singular + emphatic particle pi",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["dinna", "Given (past participle of dadāti, √dā)."],
-   ["-m-pi", "Particle pi \"also, even\", with junction consonant m."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "dinna",
+    "Given (past participle of dadāti, √dā)."
+   ],
+   [
+    "-m-pi",
+    "Particle pi \"also, even\", with junction consonant m."
+   ]
   ]
  },
  "adinnādānaṁ": {
@@ -427,9 +792,18 @@
   "summary": "A compound of adinna \"not given\" and ādāna \"taking\": the second of the unwholesome courses of action, abstention from which is the second precept.",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["dinna", "Given (past participle of dadāti, √dā)."],
-   ["ādāna", "Taking, seizing (ā + √dā)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "dinna",
+    "Given (past participle of dadāti, √dā)."
+   ],
+   [
+    "ādāna",
+    "Taking, seizing (ā + √dā)."
+   ]
   ],
   "goenka": "Adinnādāna, taking what is not given, is listed among the ten unwholesome actions and is the object of the second precept of sīla: adinnādānā veramaṇī, abstaining from taking what is not given, is wholesome. In the tradition's training, observing this precept is part of the foundation of morality on which samādhi and paññā are built."
  }

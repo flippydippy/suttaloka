@@ -11,32 +11,58 @@
   "meaning": "in a refuse-cleaner's clan; in a family of the pukkusa (scavenger) caste",
   "gram": "neuter noun, compound, locative singular",
   "breakdown": [
-   ["pukkusa", "Refuse-cleaner, a low-caste occupation."],
-   ["kule", "In a clan, family (locative of kula)."]
+   [
+    "pukkusa",
+    "Refuse-cleaner, a low-caste occupation."
+   ],
+   [
+    "kule",
+    "In a clan, family (locative of kula)."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line runs into the next entry (puggalo “individual”); only “refuse-cleaner + clan” belongs to pukkusakule."
  },
  "punappunaṁ": {
   "meaning": "again and again; repeatedly",
   "gram": "indeclinable adverb (puna + puna, with sandhi doubling)",
-  "forms": ["punappunaṃ"]
+  "forms": [
+   "punappunaṃ"
+  ]
  },
  "punareti": {
   "meaning": "comes again; returns (to birth)",
   "gram": "compound verb, 3rd person singular present (puna + eti, with linking r)",
   "breakdown": [
-   ["puna", "Again."],
-   ["r", "Linking consonant at the vowel boundary."],
-   ["eti", "Comes, goes (from √i)."]
+   [
+    "puna",
+    "Again."
+   ],
+   [
+    "r",
+    "Linking consonant at the vowel boundary."
+   ],
+   [
+    "eti",
+    "Comes, goes (from √i)."
+   ]
   ]
  },
  "puppekatahetu": {
   "meaning": "by reason of deeds done previously; because of past actions",
   "gram": "compound (pubbe + kata + hetu), used adverbially",
   "breakdown": [
-   ["puppe", "Previously, before (as printed; = pubbe)."],
-   ["kata", "Done, deed (past participle of karoti)."],
-   ["hetu", "Reason, cause."]
+   [
+    "puppe",
+    "Previously, before (as printed; = pubbe)."
+   ],
+   [
+    "kata",
+    "Done, deed (past participle of karoti)."
+   ],
+   [
+    "hetu",
+    "Reason, cause."
+   ]
   ],
   "note": "uncertain: the printed form puppe- appears to stand for pubbe- (pubbekatahetu, the view that all experience is caused by past deeds)."
  },
@@ -44,16 +70,28 @@
   "meaning": "from a heap of flowers",
   "gram": "masculine noun, compound, ablative singular",
   "breakdown": [
-   ["puppha", "Flower."],
-   ["rāsimhā", "From a heap (ablative of rāsi)."]
+   [
+    "puppha",
+    "Flower."
+   ],
+   [
+    "rāsimhā",
+    "From a heap (ablative of rāsi)."
+   ]
   ]
  },
  "purakkhatvā": {
   "meaning": "having put in front; having honoured, placed before oneself",
   "gram": "gerund of purakkharoti",
   "breakdown": [
-   ["pura", "In front, before."],
-   ["khatvā", "Having made/done (from karoti, with sandhi doubling of k): “having placed in front”."]
+   [
+    "pura",
+    "In front, before."
+   ],
+   [
+    "khatvā",
+    "Having made/done (from karoti, with sandhi doubling of k): “having placed in front”."
+   ]
   ]
  },
  "purato": {
@@ -64,16 +102,28 @@
   "meaning": "eastern",
   "gram": "adjective, nominative masculine singular",
   "breakdown": [
-   ["puratthā", "In the east, before."],
-   ["-ima", "Adjectival suffix of direction."]
+   [
+    "puratthā",
+    "In the east, before."
+   ],
+   [
+    "-ima",
+    "Adjectival suffix of direction."
+   ]
   ]
  },
  "puratthābhimukho": {
   "meaning": "facing east",
   "gram": "adjective, compound, nominative masculine singular",
   "breakdown": [
-   ["puratthā", "East, eastward."],
-   ["abhimukho", "Facing towards."]
+   [
+    "puratthā",
+    "East, eastward."
+   ],
+   [
+    "abhimukho",
+    "Facing towards."
+   ]
   ]
  },
  "pure": {
@@ -85,17 +135,32 @@
   "gram": "compound, neuter nominative/accusative plural",
   "summary": "From the stock praise of the Saṅgha: cattāri purisayugāni, “the four pairs of persons” who have reached the stages of the path and their fruits.",
   "breakdown": [
-   ["purisa", "Man, person."],
-   ["yugāni", "Pairs (plural of yuga)."]
+   [
+    "purisa",
+    "Man, person."
+   ],
+   [
+    "yugāni",
+    "Pairs (plural of yuga)."
+   ]
   ]
  },
  "purisadammasārathi": {
   "meaning": "trainer of men to be tamed; charioteer of the human beings who need taming (an epithet of the Buddha)",
   "gram": "masculine noun, compound, nominative singular",
   "breakdown": [
-   ["purisa", "Man, person."],
-   ["damma", "To be tamed (future passive participle related to dameti “to tame”)."],
-   ["sārathi", "Charioteer, trainer."]
+   [
+    "purisa",
+    "Man, person."
+   ],
+   [
+    "damma",
+    "To be tamed (future passive participle related to dameti “to tame”)."
+   ],
+   [
+    "sārathi",
+    "Charioteer, trainer."
+   ]
   ],
   "goenka": "Purisadammasārathi is one of the nine qualities of the Buddha recited in the stock formula iti'pi so bhagavā: he is the incomparable trainer of those who are fit to be tamed, guiding beings out of their unwholesome conditioning the way a skilled charioteer masters his horses."
  },
@@ -103,26 +168,49 @@
   "meaning": "manly deed; human effort, the act of a man",
   "gram": "masculine noun, compound, accusative singular",
   "breakdown": [
-   ["purisa", "Man, person."],
-   ["kāra", "Deed, act, making."]
+   [
+    "purisa",
+    "Man, person."
+   ],
+   [
+    "kāra",
+    "Deed, act, making."
+   ]
   ],
-  "forms": ["purisakāraṃ"]
+  "forms": [
+   "purisakāraṃ"
+  ]
  },
  "purisapuggalassa": {
   "meaning": "of a person; of an individual man",
   "gram": "masculine noun, compound, genitive/dative singular",
   "breakdown": [
-   ["purisa", "Man, person."],
-   ["puggala", "Individual."],
-   ["-assa", "Genitive/dative singular ending."]
+   [
+    "purisa",
+    "Man, person."
+   ],
+   [
+    "puggala",
+    "Individual."
+   ],
+   [
+    "-assa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "purisādhame": {
   "meaning": "the vilest of men; the lowest, meanest person",
   "gram": "masculine noun, compound, locative singular (or accusative plural)",
   "breakdown": [
-   ["purisa", "Man, person."],
-   ["adhame", "Lowest, vilest, worst (purisa + adhama coalesce)."]
+   [
+    "purisa",
+    "Man, person."
+   ],
+   [
+    "adhame",
+    "Lowest, vilest, worst (purisa + adhama coalesce)."
+   ]
   ]
  },
  "puthu": {
@@ -133,8 +221,14 @@
   "meaning": "common person; worldling (one who has not reached any stage of liberation)",
   "gram": "masculine noun, compound",
   "breakdown": [
-   ["puthu", "Common, many, separate."],
-   ["jana", "Person; sandhi doubling of j: the “many-folk”, the ordinary unliberated person."]
+   [
+    "puthu",
+    "Common, many, separate."
+   ],
+   [
+    "jana",
+    "Person; sandhi doubling of j: the “many-folk”, the ordinary unliberated person."
+   ]
   ],
   "goenka": "A puthujjana is the ordinary worldling who has not yet experienced nibbāna — one who keeps reacting blindly to sensations with craving and aversion, multiplying saṅkhāra. The path of vipassana is the way by which a puthujjana becomes an ariya, a noble one, through the direct experience of the truth within."
  },
@@ -142,103 +236,173 @@
   "meaning": "numerous in body; with separate, individual forms",
   "gram": "adjective, compound, nominative plural",
   "breakdown": [
-   ["puthu", "Numerous, individual, separate."],
-   ["kāyā", "Bodies, forms (plural of kāya)."]
+   [
+    "puthu",
+    "Numerous, individual, separate."
+   ],
+   [
+    "kāyā",
+    "Bodies, forms (plural of kāya)."
+   ]
   ]
  },
  "puttadārassa": {
   "meaning": "of children and wife; of one's family",
   "gram": "masculine noun, compound, genitive/dative singular",
   "breakdown": [
-   ["putta", "Son, child."],
-   ["dāra", "Wife, spouse."],
-   ["-assa", "Genitive/dative singular ending."]
+   [
+    "putta",
+    "Son, child."
+   ],
+   [
+    "dāra",
+    "Wife, spouse."
+   ],
+   [
+    "-assa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "puttasambādhasayanaṁ": {
   "meaning": "a bed crowded with children; the household life hemmed in by sons",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "breakdown": [
-   ["putta", "Son, child."],
-   ["sambādha", "Crowding, oppression, confinement."],
-   ["sayanaṁ", "Bed, sleeping place."]
+   [
+    "putta",
+    "Son, child."
+   ],
+   [
+    "sambādha",
+    "Crowding, oppression, confinement."
+   ],
+   [
+    "sayanaṁ",
+    "Bed, sleeping place."
+   ]
   ],
-  "forms": ["puttasambādhasayanaṃ"]
+  "forms": [
+   "puttasambādhasayanaṃ"
+  ]
  },
  "puttaṁ": {
   "meaning": "son; child (accusative)",
   "gram": "masculine noun putta, accusative singular",
-  "forms": ["puttaṃ"]
- },
- "put­": {
-  "meaning": "(fragment of puttasambādhasayanaṁ) a bed crowded with children",
-  "gram": "glossary artifact; line-broken fragment of the compound puttasambādhasayanaṁ",
-  "note": "uncertain: the headword is a hyphenation fragment; see the entry puttasambādhasayanaṁ."
+  "forms": [
+   "puttaṃ"
+  ]
  },
  "puññabhāgiyo": {
   "meaning": "connected with merit; conducive to merit",
   "gram": "adjective, compound, nominative masculine singular",
   "breakdown": [
-   ["puñña", "Merit, wholesome action."],
-   ["bhāgiyo", "Sharing in, connected with, conducive to."]
+   [
+    "puñña",
+    "Merit, wholesome action."
+   ],
+   [
+    "bhāgiyo",
+    "Sharing in, connected with, conducive to."
+   ]
   ]
  },
  "puññabhāgiyā": {
   "meaning": "connected with merit; conducive to merit (plural/feminine)",
   "gram": "adjective puññabhāgiya, nominative plural or feminine singular",
   "breakdown": [
-   ["puñña", "Merit, wholesome action."],
-   ["bhāgiyā", "Sharing in, conducive to."]
+   [
+    "puñña",
+    "Merit, wholesome action."
+   ],
+   [
+    "bhāgiyā",
+    "Sharing in, conducive to."
+   ]
   ]
  },
  "puññakammasampattiṁ": {
   "meaning": "the attainment resulting from meritorious actions",
   "gram": "feminine noun, compound, accusative singular",
   "breakdown": [
-   ["puñña", "Merit."],
-   ["kamma", "Action, deed."],
-   ["sampattiṁ", "Attainment, success (accusative)."]
+   [
+    "puñña",
+    "Merit."
+   ],
+   [
+    "kamma",
+    "Action, deed."
+   ],
+   [
+    "sampattiṁ",
+    "Attainment, success (accusative)."
+   ]
   ],
-  "forms": ["puññakammasampattiṃ"]
+  "forms": [
+   "puññakammasampattiṃ"
+  ]
  },
  "puññakkhettaṁ": {
   "meaning": "field of merit",
   "gram": "neuter noun, compound, nominative/accusative singular",
   "summary": "From the stock praise of the Saṅgha: anuttaraṁ puññakkhettaṁ lokassa, “the incomparable field of merit for the world”.",
   "breakdown": [
-   ["puñña", "Merit."],
-   ["khettaṁ", "Field; sandhi doubling of k. As seeds planted in a fertile field yield abundantly, so do wholesome deeds done towards the Saṅgha."]
+   [
+    "puñña",
+    "Merit."
+   ],
+   [
+    "khettaṁ",
+    "Field; sandhi doubling of k. As seeds planted in a fertile field yield abundantly, so do wholesome deeds done towards the Saṅgha."
+   ]
   ],
-  "forms": ["puññakkhettaṃ"]
+  "forms": [
+   "puññakkhettaṃ"
+  ]
  },
  "puṇṇamāya": {
   "meaning": "on the full-moon (night); of the full moon",
   "gram": "feminine noun puṇṇamā, locative/genitive singular",
   "breakdown": [
-   ["puṇṇa", "Full (past participle of pūrati)."],
-   ["mā", "Moon (shortened form in the compound)."]
+   [
+    "puṇṇa",
+    "Full (past participle of pūrati)."
+   ],
+   [
+    "mā",
+    "Moon (shortened form in the compound)."
+   ]
   ]
- },
- "puṇṇamāya made": {
-  "meaning": "made full; full moon",
-  "gram": "glossary artifact; feminine noun puṇṇamā, locative/genitive singular",
-  "note": "uncertain: the headword is a run-on glossary line for puṇṇamāya “(on the night) of the full moon”."
  },
  "puṇṇāya": {
   "meaning": "full (oblique case)",
   "gram": "past participle puṇṇa (of pūrati), feminine oblique singular",
   "breakdown": [
-   ["√pūr", "Root meaning “to fill”."],
-   ["-na", "Past participle suffix (pūr + na > puṇṇa)."]
+   [
+    "√pūr",
+    "Root meaning “to fill”."
+   ],
+   [
+    "-na",
+    "Past participle suffix (pūr + na > puṇṇa)."
+   ]
   ]
  },
  "puṭosenāpi": {
   "meaning": "even with a provision bag; moreover with a food container (for the journey)",
   "gram": "compound, instrumental singular + emphatic particle",
   "breakdown": [
-   ["puṭo", "Container, bag."],
-   ["aṁsa/osa", "Per the lexicon, associated with carrying; puṭosa is a provision bag."],
-   ["api", "Even, moreover (api > pi, fused at the boundary)."]
+   [
+    "puṭo",
+    "Container, bag."
+   ],
+   [
+    "aṁsa/osa",
+    "Per the lexicon, associated with carrying; puṭosa is a provision bag."
+   ],
+   [
+    "api",
+    "Even, moreover (api > pi, fused at the boundary)."
+   ]
   ],
   "note": "uncertain: the lexicon parses puṭo + aṁsa + api while DPD reads puṭa + osa; the sense “(travelling) even with provision bag” is common to both."
  },
@@ -246,96 +410,168 @@
   "meaning": "having come to ask",
   "gram": "compound verb phrase: infinitive + gerund",
   "breakdown": [
-   ["puṭṭhuṁ", "To ask (infinitive of pucchati)."],
-   ["m", "The niggahīta joins the following vowel as m."],
-   ["āgamma", "Having come (gerund of āgacchati)."]
+   [
+    "puṭṭhuṁ",
+    "To ask (infinitive of pucchati)."
+   ],
+   [
+    "m",
+    "The niggahīta joins the following vowel as m."
+   ],
+   [
+    "āgamma",
+    "Having come (gerund of āgacchati)."
+   ]
   ]
  },
  "pābhataṁ": {
   "meaning": "money; capital; a present brought",
   "gram": "past participle of pa + ā + √bhar used as neuter noun, nominative/accusative singular",
   "breakdown": [
-   ["pa-", "Prefix “forth”."],
-   ["ā-", "Prefix “towards”."],
-   ["√bhar", "Root meaning “to carry”: “what is brought along”, hence capital, a gift."],
-   ["-ta", "Past participle suffix."]
+   [
+    "pa-",
+    "Prefix “forth”."
+   ],
+   [
+    "ā-",
+    "Prefix “towards”."
+   ],
+   [
+    "√bhar",
+    "Root meaning “to carry”: “what is brought along”, hence capital, a gift."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
   ],
-  "forms": ["pābhataṃ"]
+  "forms": [
+   "pābhataṃ"
+  ]
  },
  "pācīnaninnā pācīnapoṇā pācīnapabbhārā": {
   "meaning": "bending towards the east, sloping towards the east, inclining towards the east",
   "gram": "phrase: three parallel compound adjectives, nominative plural",
   "summary": "A stock simile: as rivers bend, slope and incline towards the east, so the practitioner of the path bends, slopes and inclines towards nibbāna.",
   "breakdown": [
-   ["pācīna", "Eastern, towards the east."],
-   ["ninnā", "Bent down, flowing downwards."],
-   ["poṇā", "Sloping down."],
-   ["pabbhārā", "Inclining, leading to."]
+   [
+    "pācīna",
+    "Eastern, towards the east."
+   ],
+   [
+    "ninnā",
+    "Bent down, flowing downwards."
+   ],
+   [
+    "poṇā",
+    "Sloping down."
+   ],
+   [
+    "pabbhārā",
+    "Inclining, leading to."
+   ]
   ]
  },
  "pāde": {
   "meaning": "the feet; at the feet",
   "gram": "masculine noun pāda, accusative plural or locative singular",
   "breakdown": [
-   ["√pad", "Root meaning “to step, to go” (lengthened to pād): the foot."]
+   [
+    "√pad",
+    "Root meaning “to step, to go” (lengthened to pād): the foot."
+   ]
   ]
  },
  "pādānaṁ": {
   "meaning": "of/for the feet",
   "gram": "masculine noun pāda, genitive/dative plural",
-  "forms": ["pādānaṃ"]
+  "forms": [
+   "pādānaṃ"
+  ]
  },
  "pāhuna": {
   "meaning": "guest",
   "gram": "masculine noun (pa + ā + √hu + ana)",
   "breakdown": [
-   ["pa-", "Prefix “forth”."],
-   ["ā-", "Prefix “towards”."],
-   ["√hu", "Root meaning “to offer”: one to whom offering/hospitality is due, a guest."]
+   [
+    "pa-",
+    "Prefix “forth”."
+   ],
+   [
+    "ā-",
+    "Prefix “towards”."
+   ],
+   [
+    "√hu",
+    "Root meaning “to offer”: one to whom offering/hospitality is due, a guest."
+   ]
   ]
  },
  "pāhuneyyo": {
   "meaning": "worthy of hospitality",
   "gram": "adjective (from pāhuna), nominative masculine singular",
   "breakdown": [
-   ["pāhuna", "Guest, hospitality offering."],
-   ["-eyya", "Adjectival suffix “worthy of”: deserving the offerings made to guests — said of the Saṅgha."]
+   [
+    "pāhuna",
+    "Guest, hospitality offering."
+   ],
+   [
+    "-eyya",
+    "Adjectival suffix “worthy of”: deserving the offerings made to guests — said of the Saṅgha."
+   ]
   ]
  },
  "pāhuneyyā": {
   "meaning": "worthy of hospitality (plural)",
   "gram": "adjective pāhuneyya, nominative plural",
   "breakdown": [
-   ["pāhuna", "Guest, hospitality offering."],
-   ["-eyyā", "Adjectival suffix “worthy of”, plural ending."]
+   [
+    "pāhuna",
+    "Guest, hospitality offering."
+   ],
+   [
+    "-eyyā",
+    "Adjectival suffix “worthy of”, plural ending."
+   ]
   ]
- },
- "pāhuneyyā worthy of": {
-  "meaning": "worthy of hospitality",
-  "gram": "glossary artifact; adjective pāhuneyya, nominative plural",
-  "note": "uncertain: the headword is a run-on glossary line for pāhuneyyā “worthy of hospitality”."
  },
  "pāli": {
   "meaning": "Pāli (the language of the texts, Pāli bhāsā); the canonical texts maintained in the Pāli Tipiṭaka",
   "gram": "feminine noun; proper noun as language name",
   "goenka": "In this collection, Pāli is taken as Pāli bhāsā — the language of the texts preserved in the Pāli Tipiṭaka, valued as the medium in which the Buddha's words are maintained. The question of the language's historical origin — its development from the Indo-Aryan languages of Māgadhī and/or Prakrit and Sanskrit — is deliberately left aside.",
-  "forms": ["Pāli"]
+  "forms": [
+   "Pāli"
+  ]
  },
  "pāliccaṁ": {
   "meaning": "greyness of hair",
   "gram": "neuter abstract noun (from palita “grey-haired”)",
   "breakdown": [
-   ["palita", "Grey, grey-haired (lengthened to pālita)."],
-   ["-ya", "Abstract noun suffix: the state of grey hair, a mark of ageing."]
+   [
+    "palita",
+    "Grey, grey-haired (lengthened to pālita)."
+   ],
+   [
+    "-ya",
+    "Abstract noun suffix: the state of grey hair, a mark of ageing."
+   ]
   ],
-  "forms": ["pāliccaṃ"]
+  "forms": [
+   "pāliccaṃ"
+  ]
  },
  "pāna": {
   "meaning": "drink; beverage (in the compound appāhārapānabhojana: little food, drink and nourishment)",
   "gram": "neuter noun (√pā “to drink”)",
   "breakdown": [
-   ["√pā", "Root meaning “to drink”."],
-   ["-ana", "Noun suffix: drinking, a drink."]
+   [
+    "√pā",
+    "Root meaning “to drink”."
+   ],
+   [
+    "-ana",
+    "Noun suffix: drinking, a drink."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line carries a larger compound (… + pāna + bhojane “little + food + drink + nourishment”); only “drink” belongs to pāna."
  },
@@ -343,53 +579,100 @@
   "meaning": "and even of his evil (deed); evil-doing too, of him",
   "gram": "sandhi cluster: adjective pāpakaṁ + particle pi + genitive assa",
   "breakdown": [
-   ["pāpakaṁ", "Evil, bad (accusative/neuter of pāpaka)."],
-   ["pi", "And, even, too."],
-   ["assa", "Of him, his (genitive); pi + assa fuse to pissa."]
+   [
+    "pāpakaṁ",
+    "Evil, bad (accusative/neuter of pāpaka)."
+   ],
+   [
+    "pi",
+    "And, even, too."
+   ],
+   [
+    "assa",
+    "Of him, his (genitive); pi + assa fuse to pissa."
+   ]
   ],
-  "forms": ["pāpakaṃpissa"],
+  "forms": [
+   "pāpakaṃpissa"
+  ],
   "note": "uncertain: the lexicon parses pāpakamma + pi + issa; the more regular reading is pāpakaṁ + pi + assa."
  },
  "pāpakārī": {
   "meaning": "evil-doer; one who does evil",
   "gram": "adjective/masculine noun, compound",
   "breakdown": [
-   ["pāpa", "Evil, bad."],
-   ["kārī", "Doer, one who does (from karoti)."]
+   [
+    "pāpa",
+    "Evil, bad."
+   ],
+   [
+    "kārī",
+    "Doer, one who does (from karoti)."
+   ]
   ]
  },
  "pāpamariyehi": {
   "meaning": "(what is) evil by the noble ones; evil in the eyes of the noble ones",
   "gram": "compound phrase: pāpa + ariyehi (instrumental plural), with linking m",
   "breakdown": [
-   ["pāpa", "Evil, bad."],
-   ["m", "Linking consonant at the vowel boundary."],
-   ["ariyehi", "By the noble ones (instrumental plural of ariya)."]
+   [
+    "pāpa",
+    "Evil, bad."
+   ],
+   [
+    "m",
+    "Linking consonant at the vowel boundary."
+   ],
+   [
+    "ariyehi",
+    "By the noble ones (instrumental plural of ariya)."
+   ]
   ]
  },
  "pāpasampavaṅko": {
   "meaning": "inclined towards evil companions; a friend of the wicked",
   "gram": "adjective, compound, nominative masculine singular",
   "breakdown": [
-   ["pāpa", "Evil, bad."],
-   ["sampavaṅko", "Companion, intimate, one who leans towards."]
+   [
+    "pāpa",
+    "Evil, bad."
+   ],
+   [
+    "sampavaṅko",
+    "Companion, intimate, one who leans towards."
+   ]
   ]
  },
  "pāpeti": {
   "meaning": "causes to attain; makes reach, lets go to",
   "gram": "verb, 3rd person singular present, causative of pāpuṇāti (pa + √ap)",
   "breakdown": [
-   ["pa-", "Prefix “fully”."],
-   ["āpe", "Causative stem of √ap “to reach”: “cause to reach”."],
-   ["-ti", "Present tense, 3rd person singular ending."]
+   [
+    "pa-",
+    "Prefix “fully”."
+   ],
+   [
+    "āpe",
+    "Causative stem of √ap “to reach”: “cause to reach”."
+   ],
+   [
+    "-ti",
+    "Present tense, 3rd person singular ending."
+   ]
   ]
  },
  "pāragu": {
   "meaning": "gone beyond; one who has crossed over (to the far shore)",
   "gram": "masculine agent noun pāragū, compound",
   "breakdown": [
-   ["pāra", "The far shore, the beyond."],
-   ["gū", "Gone, one who has gone (from √gam)."]
+   [
+    "pāra",
+    "The far shore, the beyond."
+   ],
+   [
+    "gū",
+    "Gone, one who has gone (from √gam)."
+   ]
   ],
   "goenka": "“Gone beyond” describes one who has crossed the flood of saṁsāra to the far shore of nibbāna. In the tradition's imagery the practice of the path is the crossing: the meditator works patiently and persistently until the ocean of dukkha is fully traversed."
  }

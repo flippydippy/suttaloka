@@ -1,414 +1,752 @@
 {
-  "ekaṁ disaṁ pharitvā": {
-    "meaning": "having suffused one direction; having pervaded one quarter (with mettā etc.)",
-    "gram": "phrase; accusative numeral + accusative noun + gerund",
-    "breakdown": [
-      ["ekaṁ", "One (accusative)."],
-      ["disaṁ", "Direction, quarter (accusative)."],
-      ["pharitvā", "Having suffused, filled, permeated (gerund of pharati)."]
-    ],
-    "goenka": "This phrase comes from the formula for radiating mettā: the meditator dwells having suffused first one direction, then the second, third and fourth, above, below and all around, with a mind filled with mettā — boundless goodwill pervading all beings in every quarter."
-  },
-  "ekaṁsabyākaraṇīyo": {
-    "meaning": "to be answered categorically; (a question) that should be given a one-sided, definite explanation",
-    "gram": "compound adjective (potential participle), masculine nominative singular",
-    "breakdown": [
-      ["ekaṁsa", "One-sided, categorical, definite (eka, one + aṁsa, side)."],
-      ["byākaraṇīyo", "To be explained, to be answered (potential participle of byākaroti)."]
-    ],
-    "forms": ["ekaṁsabyākaraṇīyo"]
-  },
-  "ekindriyaṁ jīvaṁ": {
-    "meaning": "life having only one sense faculty",
-    "gram": "phrase; compound adjective + neuter noun, accusative singular",
-    "breakdown": [
-      ["eka", "One. Sandhi: eka + indriya > ekindriya."],
-      ["indriyaṁ", "Sense faculty."],
-      ["jīvaṁ", "Life, living being."]
-    ],
-    "goenka": "The phrase describes life that has only one sense faculty, namely the outward form (kāya) — used in the texts of plant life, regarded as possessing the body-faculty alone.",
-    "forms": ["ekindriyaṁ jīvaṁ"]
-  },
-  "ekodakāassa": {
-    "meaning": "would be one (mass of) water",
-    "gram": "phrase: compound adjective + 3rd person singular optative of atthi",
-    "breakdown": [
-      ["eka", "One."],
-      ["odakā", "Water (udaka/odaka)."],
-      ["assa", "Would be (optative of atthi)."]
-    ]
-  },
-  "ekodibhāvaṁ": {
-    "meaning": "the establishing of oneness of mind; unification, one-pointedness",
-    "gram": "masculine abstract compound noun, accusative singular",
-    "breakdown": [
-      ["ekodi", "Unified, brought to oneness (from eka, one)."],
-      ["bhāvaṁ", "State, becoming (accusative): the state of unification."]
-    ],
-    "forms": ["ekodibhāvaṁ"]
-  },
-  "ekāhaṁ": {
-    "meaning": "one day; for a single day",
-    "gram": "neuter compound noun, accusative singular (adverbial)",
-    "breakdown": [
-      ["eka", "One."],
-      ["ahaṁ (aha)", "Day. Sandhi: eka + aha > ekāha."]
-    ],
-    "forms": ["ekāhaṁ"]
-  },
-  "esohamasmi": {
-    "meaning": "\"this am I\"; \"I am this\"",
-    "summary": "One of the three modes of misidentification (etaṁ mama, esohamasmi, eso me attā): this is mine, this am I, this is my self.",
-    "gram": "sandhi fusion: pronoun + pronoun + verb, 1st person singular present",
-    "breakdown": [
-      ["eso", "This (masculine nominative)."],
-      ["ahaṁ", "I. Sandhi: eso + ahaṁ > esohaṁ."],
-      ["asmi", "Am (1st person singular of atthi); -ṁ > -m- before a vowel."]
-    ]
-  },
-  "esāhaṁ": {
-    "meaning": "this I; I, this very one",
-    "gram": "sandhi fusion: demonstrative pronoun + 1st person pronoun",
-    "breakdown": [
-      ["esa (eso)", "This."],
-      ["ahaṁ", "I. Sandhi: esa + ahaṁ > esāhaṁ."]
-    ],
-    "forms": ["esāhaṁ"]
-  },
-  "esānisaṁso": {
-    "meaning": "this is the benefit; this blessing, this advantage",
-    "gram": "sandhi fusion: demonstrative pronoun + masculine noun, nominative singular",
-    "breakdown": [
-      ["esa (eso)", "This."],
-      ["ānisaṁso", "Benefit, result, blessing. Sandhi: esa + ānisaṁso > esānisaṁso."]
-    ]
-  },
-  "etadagga": {
-    "meaning": "foremost; pre-eminent; the highest of these",
-    "gram": "compound adjective",
-    "breakdown": [
-      ["etad", "This (neuter pronoun stem with junction -d-)."],
-      ["agga", "Top, summit: the topmost of this (class), foremost."]
-    ]
-  },
-  "etadavoca": {
-    "meaning": "said this; spoke thus",
-    "gram": "pronoun + verb, 3rd person singular aorist of vacati",
-    "breakdown": [
-      ["etad", "This (neuter pronoun with junction -d-)."],
-      ["avoca", "Said, spoke (aorist of vacati, √vac)."]
-    ]
-  },
-  "etadeva": {
-    "meaning": "just this; this very thing",
-    "gram": "pronoun + emphatic particle",
-    "breakdown": [
-      ["etad", "This (neuter pronoun with junction -d-)."],
-      ["eva", "Just, only (emphatic)."]
-    ]
-  },
-  "etamatthaṁ": {
-    "meaning": "this meaning; this matter, this goal",
-    "gram": "sandhi fusion: pronoun + masculine noun, accusative singular",
-    "breakdown": [
-      ["etaṁ", "This (accusative); -ṁ > -m- before a vowel."],
-      ["atthaṁ", "Meaning, matter, goal (accusative)."]
-    ],
-    "forms": ["etamatthaṁ"]
-  },
-  "etarahi": {
-    "meaning": "now; at present",
-    "gram": "indeclinable adverb"
-  },
-  "ettha": {
-    "meaning": "here; in this matter",
-    "gram": "indeclinable adverb, from the pronoun stem ima"
-  },
-  "etthāvacarā": {
-    "meaning": "the spheres therein; the realms moving in this",
-    "gram": "adverb + masculine noun, plural, fused by sandhi",
-    "breakdown": [
-      ["ettha", "Here, therein."],
-      ["avacarā", "Spheres, realms; moving in. Sandhi: ettha + avacarā > etthāvacarā."]
-    ]
-  },
-  "ettāvatā": {
-    "meaning": "to that extent; in so far",
-    "gram": "indeclinable adverb (instrumental of ettāvant)"
-  },
-  "ettāvatāpi": {
-    "meaning": "even to that extent; in this way too",
-    "gram": "indeclinable adverb + enclitic particle",
-    "breakdown": [
-      ["ettāvatā", "To that extent (instrumental of ettāvant)."],
-      ["api (pi)", "Also, even. Sandhi: ettāvatā + api > ettāvatāpi."]
-    ]
-  },
-  "etādisāni": {
-    "meaning": "such; of this kind (plural)",
-    "gram": "compound adjective, neuter nominative/accusative plural",
-    "breakdown": [
-      ["etā- (etaṁ)", "This."],
-      ["disa", "Looking like, of the kind of (√dis): such as this."],
-      ["-āni", "Neuter plural ending."]
-    ]
-  },
-  "etāneva": {
-    "meaning": "just these; these very ones",
-    "gram": "pronoun, neuter plural + emphatic particle",
-    "breakdown": [
-      ["etāni", "These (neuter plural)."],
-      ["eva", "Just, only (emphatic). Sandhi: etāni + eva > etāneva."]
-    ]
-  },
-  "eva": {
-    "meaning": "only; just; precisely (emphatic)",
-    "gram": "emphatic enclitic particle"
-  },
-  "evameva": {
-    "meaning": "just so; in just the same way",
-    "gram": "sandhi fusion: adverb + emphatic particle",
-    "breakdown": [
-      ["evaṁ", "Thus, so; -ṁ > -m- before a vowel."],
-      ["eva", "Just, precisely (emphatic)."]
-    ]
-  },
-  "evampi": {
-    "meaning": "even so; so also",
-    "gram": "sandhi fusion: adverb + enclitic particle",
-    "breakdown": [
-      ["evaṁ", "Thus, so."],
-      ["(a)pi", "Also, even."]
-    ]
-  },
-  "evamādi": {
-    "meaning": "and so on; beginning like this, et cetera",
-    "gram": "compound adjective",
-    "breakdown": [
-      ["evaṁ", "Thus, like this; -ṁ > -m- before a vowel."],
-      ["ādi", "Beginning with: things of this sort and so on."]
-    ]
-  },
-  "evamādīnañca": {
-    "meaning": "and of such things; and of these and the like",
-    "gram": "compound adjective, genitive plural + particle ca",
-    "breakdown": [
-      ["evaṁ", "Thus."],
-      ["ādīnaṁ", "Of those beginning with (genitive plural of ādi); -ṁ > -ñ- before ca."],
-      ["ca", "And."]
-    ]
-  },
-  "evarūpehi": {
-    "meaning": "with such; among those of such a form",
-    "gram": "compound adjective, instrumental/ablative plural",
-    "breakdown": [
-      ["eva(ṁ)", "Thus, such."],
-      ["rūpehi", "Form, kind (instrumental/ablative plural): with those of such kind."]
-    ]
-  },
-  "evaṁ": {
-    "meaning": "thus; so; yes",
-    "gram": "indeclinable adverb",
-    "forms": ["evaṁ"]
-  },
-  "eḷakasaṁvāsaññeva": {
-    "meaning": "just living together (like) goats",
-    "gram": "masculine compound noun, accusative singular + emphatic particle, fused by sandhi",
-    "breakdown": [
-      ["eḷaka", "Goat, ram."],
-      ["saṁvāsaṁ", "Living together, cohabitation (accusative)."],
-      ["yeva (eva)", "Just, precisely. Sandhi: -ṁ + yeva > -ññeva."]
-    ],
-    "forms": ["eḷakasaṁvāsaññeva"]
-  },
-  "gabbhaseyyaṁ": {
-    "meaning": "lying in the womb; rebirth in a womb",
-    "gram": "feminine compound noun, accusative singular",
-    "breakdown": [
-      ["gabbha", "Womb."],
-      ["seyyaṁ", "Lying down, bed (accusative): the lying in a womb, conception."]
-    ],
-    "forms": ["gabbhaseyyaṁ"]
-  },
-  "gacchati": {
-    "meaning": "goes; moves",
-    "gram": "verb, 3rd person singular present (√gam)",
-    "breakdown": [
-      ["√gam", "Root meaning to go (present stem gaccha-)."],
-      ["-ti", "3rd person singular present ending."]
-    ],
-    "goenka": "Gacchati is found in the well-known refuge formula: Buddhaṁ saraṇaṁ gacchāmi — literally, \"to the surrender of the Buddha I go\", I go to the Buddha as refuge."
-  },
-  "gadati": {
-    "meaning": "enunciates; speaks",
-    "gram": "verb, 3rd person singular present (√gad)",
-    "breakdown": [
-      ["√gad", "Root meaning to speak, utter."],
-      ["-ati", "3rd person singular present ending."]
-    ]
-  },
-  "gadattāpi": {
-    "meaning": "and because of the fact of speaking",
-    "gram": "abstract noun, ablative + enclitic particle",
-    "breakdown": [
-      ["gadatta", "The fact of speaking (gada + abstract suffix -tta)."],
-      ["api (pi)", "Also, and. Sandhi: gadattā + api > gadattāpi."]
-    ]
-  },
-  "gahapatimahāsālakule": {
-    "meaning": "in a householder family of great means; in a wealthy householder clan",
-    "gram": "neuter compound noun, locative singular",
-    "breakdown": [
-      ["gahapati", "Householder, master of the house (gaha, house + pati, master)."],
-      ["mahāsāla", "Of great halls, very wealthy (mahā, great + sāla, hall)."],
-      ["kule", "Family, clan (locative)."]
-    ]
-  },
-  "gahapatiputtaṁ": {
-    "meaning": "the householder's son",
-    "gram": "masculine compound noun, accusative singular",
-    "breakdown": [
-      ["gahapati", "Householder (gaha, house + pati, master)."],
-      ["puttaṁ", "Son (accusative)."]
-    ],
-    "forms": ["gahapatiputtaṁ"]
-  },
-  "gahapatiṁ": {
-    "meaning": "householder; master of the house",
-    "gram": "masculine compound noun, accusative singular",
-    "breakdown": [
-      ["gaha", "House."],
-      ["patiṁ", "Master, lord (accusative)."]
-    ],
-    "forms": ["gahapatiṁ"]
-  },
-  "gahaṭṭhavattaṁ": {
-    "meaning": "the practice of a layperson; the duty of householders",
-    "gram": "neuter compound noun, nominative/accusative singular",
-    "breakdown": [
-      ["gahaṭṭha", "Layperson; literally one standing in the house (gaha + ṭha, standing)."],
-      ["vattaṁ", "Practice, duty, observance (past participle of vattati)."]
-    ],
-    "forms": ["gahaṭṭhavattaṁ"]
-  },
-  "gahaṭṭhena": {
-    "meaning": "by a householder; with a layperson",
-    "gram": "masculine compound noun, instrumental singular",
-    "breakdown": [
-      ["gaha", "House."],
-      ["ṭha", "Standing (√ṭhā): one standing in the house, a householder."],
-      ["-ena", "Instrumental singular ending."]
-    ]
-  },
-  "gahetvā": {
-    "meaning": "having taken; taking",
-    "gram": "gerund (absolutive) of gaṇhāti (√gah)",
-    "breakdown": [
-      ["gahe-", "Stem of gaṇhāti, to take, seize (√gah)."],
-      ["-tvā", "Absolutive ending: having done."]
-    ]
-  },
-  "gahitani": {
-    "meaning": "taken; seized (plural)",
-    "gram": "past participle of gaṇhāti, neuter plural",
-    "breakdown": [
-      ["gahita", "Taken (past participle of gaṇhāti, √gah)."],
-      ["-āni (-ani)", "Neuter plural ending."]
-    ],
-    "note": "uncertain: expected spelling gahitāni; the source shows gahitani."
-  },
-  "gamana": {
-    "meaning": "movement; going; journey",
-    "gram": "neuter action noun, from gacchati (√gam)",
-    "breakdown": [
-      ["√gam", "Root meaning to go."],
-      ["-ana", "Action noun suffix: the act of going."]
-    ]
-  },
-  "gamanāya": {
-    "meaning": "for going; for the manner of going",
-    "gram": "neuter action noun, dative singular, from gacchati (√gam)",
-    "breakdown": [
-      ["gamana", "Going, movement (√gam + ana)."],
-      ["-āya", "Dative singular ending: for the sake of."]
-    ]
-  },
-  "gamanīya": {
-    "meaning": "that ought to be gone to; bound to go",
-    "gram": "potential participle of gacchati (√gam), in compounds",
-    "breakdown": [
-      ["√gam", "Root meaning to go."],
-      ["-anīya", "Potential participle suffix: that should be."]
-    ]
-  },
-  "gambhīranipuṇaduddasaduranubodhasukhumaduppaṭivedhataṁ": {
-    "meaning": "the state of being deep, subtle, hard to see, hard to understand, fine and hard to penetrate (said of the Dhamma)",
-    "gram": "long compound abstract noun, accusative singular",
-    "breakdown": [
-      ["gambhīra", "Deep, profound."],
-      ["nipuṇa", "Subtle, refined."],
-      ["duddasa", "Hard to see (du(r)- + dasa, seeing)."],
-      ["duranubodha", "Hard to understand (du(r)- + anubodha, comprehension)."],
-      ["sukhuma", "Fine, subtle."],
-      ["duppaṭivedha", "Hard to penetrate (du(r)- + paṭivedha, penetration)."],
-      ["-taṁ", "Abstract suffix -tā in the accusative: the state of being so."]
-    ],
-    "forms": ["gambhīranipuṇaduddasaduranubodhasukhumaduppaṭivedhataṁ"]
-  },
-  "gambhīrapaññena": {
-    "meaning": "by one of deep wisdom",
-    "gram": "compound adjective, instrumental singular",
-    "breakdown": [
-      ["gambhīra", "Deep, profound."],
-      ["paññena", "Wisdom (paññā); instrumental: by the one possessing deep wisdom."]
-    ]
-  },
-  "gameti": {
-    "meaning": "causes to go; sends",
-    "gram": "verb, 3rd person singular present, causative of gacchati (√gam)",
-    "breakdown": [
-      ["game-", "Causative stem of √gam: to make go."],
-      ["-ti", "3rd person singular present ending."]
-    ]
-  },
-  "gamika": {
-    "meaning": "one setting out on a journey; one who goes away",
-    "gram": "masculine agent noun, from gacchati (√gam)",
-    "breakdown": [
-      ["√gam", "Root meaning to go."],
-      ["-ika", "Agent suffix: one connected with going, a traveller."]
-    ]
-  },
-  "gamina": {
-    "meaning": "going out; going",
-    "gram": "adjective, from gacchati (√gam)",
-    "breakdown": [
-      ["√gam", "Root meaning to go."],
-      ["-ina", "Adjective-forming suffix."]
-    ]
-  },
-  "gamma": {
-    "meaning": "belonging to the village; low, vulgar, inferior",
-    "gram": "adjective, from gāma (village)",
-    "breakdown": [
-      ["gāma", "Village."],
-      ["-ya", "Adjective suffix: gāma + ya > gamma, villagish, common."]
-    ]
-  },
-  "gammo": {
-    "meaning": "ordinary; common, vulgar",
-    "gram": "adjective, masculine nominative singular, from gāma",
-    "breakdown": [
-      ["gāma", "Village."],
-      ["-ya", "Adjective suffix: gāma + ya > gamma; nominative singular -o."]
-    ]
-  },
-  "gandha": {
-    "meaning": "smell; scent; fragrance",
-    "gram": "masculine noun (√ghā, to smell)",
-    "breakdown": [
-      ["√ghā", "Root meaning to smell."],
-      ["-na (-ndha)", "Noun-forming element: that which is smelled."]
-    ]
-  }
+ "ekaṁ disaṁ pharitvā": {
+  "meaning": "having suffused one direction; having pervaded one quarter (with mettā etc.)",
+  "gram": "phrase; accusative numeral + accusative noun + gerund",
+  "breakdown": [
+   [
+    "ekaṁ",
+    "One (accusative)."
+   ],
+   [
+    "disaṁ",
+    "Direction, quarter (accusative)."
+   ],
+   [
+    "pharitvā",
+    "Having suffused, filled, permeated (gerund of pharati)."
+   ]
+  ],
+  "goenka": "This phrase comes from the formula for radiating mettā: the meditator dwells having suffused first one direction, then the second, third and fourth, above, below and all around, with a mind filled with mettā — boundless goodwill pervading all beings in every quarter."
+ },
+ "ekaṁsabyākaraṇīyo": {
+  "meaning": "to be answered categorically; (a question) that should be given a one-sided, definite explanation",
+  "gram": "compound adjective (potential participle), masculine nominative singular",
+  "breakdown": [
+   [
+    "ekaṁsa",
+    "One-sided, categorical, definite (eka, one + aṁsa, side)."
+   ],
+   [
+    "byākaraṇīyo",
+    "To be explained, to be answered (potential participle of byākaroti)."
+   ]
+  ],
+  "forms": [
+   "ekaṁsabyākaraṇīyo"
+  ]
+ },
+ "ekindriyaṁ jīvaṁ": {
+  "meaning": "life having only one sense faculty",
+  "gram": "phrase; compound adjective + neuter noun, accusative singular",
+  "breakdown": [
+   [
+    "eka",
+    "One. Sandhi: eka + indriya > ekindriya."
+   ],
+   [
+    "indriyaṁ",
+    "Sense faculty."
+   ],
+   [
+    "jīvaṁ",
+    "Life, living being."
+   ]
+  ],
+  "goenka": "The phrase describes life that has only one sense faculty, namely the outward form (kāya) — used in the texts of plant life, regarded as possessing the body-faculty alone.",
+  "forms": [
+   "ekindriyaṁ jīvaṁ"
+  ]
+ },
+ "ekodakāassa": {
+  "meaning": "would be one (mass of) water",
+  "gram": "phrase: compound adjective + 3rd person singular optative of atthi",
+  "breakdown": [
+   [
+    "eka",
+    "One."
+   ],
+   [
+    "odakā",
+    "Water (udaka/odaka)."
+   ],
+   [
+    "assa",
+    "Would be (optative of atthi)."
+   ]
+  ]
+ },
+ "ekodibhāvaṁ": {
+  "meaning": "the establishing of oneness of mind; unification, one-pointedness",
+  "gram": "masculine abstract compound noun, accusative singular",
+  "breakdown": [
+   [
+    "ekodi",
+    "Unified, brought to oneness (from eka, one)."
+   ],
+   [
+    "bhāvaṁ",
+    "State, becoming (accusative): the state of unification."
+   ]
+  ],
+  "forms": [
+   "ekodibhāvaṁ"
+  ]
+ },
+ "ekāhaṁ": {
+  "meaning": "one day; for a single day",
+  "gram": "neuter compound noun, accusative singular (adverbial)",
+  "breakdown": [
+   [
+    "eka",
+    "One."
+   ],
+   [
+    "ahaṁ (aha)",
+    "Day. Sandhi: eka + aha > ekāha."
+   ]
+  ],
+  "forms": [
+   "ekāhaṁ"
+  ]
+ },
+ "esohamasmi": {
+  "meaning": "\"this am I\"; \"I am this\"",
+  "summary": "One of the three modes of misidentification (etaṁ mama, esohamasmi, eso me attā): this is mine, this am I, this is my self.",
+  "gram": "sandhi fusion: pronoun + pronoun + verb, 1st person singular present",
+  "breakdown": [
+   [
+    "eso",
+    "This (masculine nominative)."
+   ],
+   [
+    "ahaṁ",
+    "I. Sandhi: eso + ahaṁ > esohaṁ."
+   ],
+   [
+    "asmi",
+    "Am (1st person singular of atthi); -ṁ > -m- before a vowel."
+   ]
+  ]
+ },
+ "esāhaṁ": {
+  "meaning": "this I; I, this very one",
+  "gram": "sandhi fusion: demonstrative pronoun + 1st person pronoun",
+  "breakdown": [
+   [
+    "esa (eso)",
+    "This."
+   ],
+   [
+    "ahaṁ",
+    "I. Sandhi: esa + ahaṁ > esāhaṁ."
+   ]
+  ],
+  "forms": [
+   "esāhaṁ"
+  ]
+ },
+ "esānisaṁso": {
+  "meaning": "this is the benefit; this blessing, this advantage",
+  "gram": "sandhi fusion: demonstrative pronoun + masculine noun, nominative singular",
+  "breakdown": [
+   [
+    "esa (eso)",
+    "This."
+   ],
+   [
+    "ānisaṁso",
+    "Benefit, result, blessing. Sandhi: esa + ānisaṁso > esānisaṁso."
+   ]
+  ]
+ },
+ "etadagga": {
+  "meaning": "foremost; pre-eminent; the highest of these",
+  "gram": "compound adjective",
+  "breakdown": [
+   [
+    "etad",
+    "This (neuter pronoun stem with junction -d-)."
+   ],
+   [
+    "agga",
+    "Top, summit: the topmost of this (class), foremost."
+   ]
+  ]
+ },
+ "etadavoca": {
+  "meaning": "said this; spoke thus",
+  "gram": "pronoun + verb, 3rd person singular aorist of vacati",
+  "breakdown": [
+   [
+    "etad",
+    "This (neuter pronoun with junction -d-)."
+   ],
+   [
+    "avoca",
+    "Said, spoke (aorist of vacati, √vac)."
+   ]
+  ]
+ },
+ "etadeva": {
+  "meaning": "just this; this very thing",
+  "gram": "pronoun + emphatic particle",
+  "breakdown": [
+   [
+    "etad",
+    "This (neuter pronoun with junction -d-)."
+   ],
+   [
+    "eva",
+    "Just, only (emphatic)."
+   ]
+  ]
+ },
+ "etamatthaṁ": {
+  "meaning": "this meaning; this matter, this goal",
+  "gram": "sandhi fusion: pronoun + masculine noun, accusative singular",
+  "breakdown": [
+   [
+    "etaṁ",
+    "This (accusative); -ṁ > -m- before a vowel."
+   ],
+   [
+    "atthaṁ",
+    "Meaning, matter, goal (accusative)."
+   ]
+  ],
+  "forms": [
+   "etamatthaṁ"
+  ]
+ },
+ "etarahi": {
+  "meaning": "now; at present",
+  "gram": "indeclinable adverb"
+ },
+ "ettha": {
+  "meaning": "here; in this matter",
+  "gram": "indeclinable adverb, from the pronoun stem ima"
+ },
+ "etthāvacarā": {
+  "meaning": "the spheres therein; the realms moving in this",
+  "gram": "adverb + masculine noun, plural, fused by sandhi",
+  "breakdown": [
+   [
+    "ettha",
+    "Here, therein."
+   ],
+   [
+    "avacarā",
+    "Spheres, realms; moving in. Sandhi: ettha + avacarā > etthāvacarā."
+   ]
+  ]
+ },
+ "ettāvatā": {
+  "meaning": "to that extent; in so far",
+  "gram": "indeclinable adverb (instrumental of ettāvant)"
+ },
+ "ettāvatāpi": {
+  "meaning": "even to that extent; in this way too",
+  "gram": "indeclinable adverb + enclitic particle",
+  "breakdown": [
+   [
+    "ettāvatā",
+    "To that extent (instrumental of ettāvant)."
+   ],
+   [
+    "api (pi)",
+    "Also, even. Sandhi: ettāvatā + api > ettāvatāpi."
+   ]
+  ]
+ },
+ "etādisāni": {
+  "meaning": "such; of this kind (plural)",
+  "gram": "compound adjective, neuter nominative/accusative plural",
+  "breakdown": [
+   [
+    "etā- (etaṁ)",
+    "This."
+   ],
+   [
+    "disa",
+    "Looking like, of the kind of (√dis): such as this."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
+  ]
+ },
+ "etāneva": {
+  "meaning": "just these; these very ones",
+  "gram": "pronoun, neuter plural + emphatic particle",
+  "breakdown": [
+   [
+    "etāni",
+    "These (neuter plural)."
+   ],
+   [
+    "eva",
+    "Just, only (emphatic). Sandhi: etāni + eva > etāneva."
+   ]
+  ]
+ },
+ "eva": {
+  "meaning": "only; just; precisely (emphatic)",
+  "gram": "emphatic enclitic particle"
+ },
+ "evameva": {
+  "meaning": "just so; in just the same way",
+  "gram": "sandhi fusion: adverb + emphatic particle",
+  "breakdown": [
+   [
+    "evaṁ",
+    "Thus, so; -ṁ > -m- before a vowel."
+   ],
+   [
+    "eva",
+    "Just, precisely (emphatic)."
+   ]
+  ]
+ },
+ "evampi": {
+  "meaning": "even so; so also",
+  "gram": "sandhi fusion: adverb + enclitic particle",
+  "breakdown": [
+   [
+    "evaṁ",
+    "Thus, so."
+   ],
+   [
+    "(a)pi",
+    "Also, even."
+   ]
+  ]
+ },
+ "evamādi": {
+  "meaning": "and so on; beginning like this, et cetera",
+  "gram": "compound adjective",
+  "breakdown": [
+   [
+    "evaṁ",
+    "Thus, like this; -ṁ > -m- before a vowel."
+   ],
+   [
+    "ādi",
+    "Beginning with: things of this sort and so on."
+   ]
+  ]
+ },
+ "evamādīnañca": {
+  "meaning": "and of such things; and of these and the like",
+  "gram": "compound adjective, genitive plural + particle ca",
+  "breakdown": [
+   [
+    "evaṁ",
+    "Thus."
+   ],
+   [
+    "ādīnaṁ",
+    "Of those beginning with (genitive plural of ādi); -ṁ > -ñ- before ca."
+   ],
+   [
+    "ca",
+    "And."
+   ]
+  ]
+ },
+ "evarūpehi": {
+  "meaning": "with such; among those of such a form",
+  "gram": "compound adjective, instrumental/ablative plural",
+  "breakdown": [
+   [
+    "eva(ṁ)",
+    "Thus, such."
+   ],
+   [
+    "rūpehi",
+    "Form, kind (instrumental/ablative plural): with those of such kind."
+   ]
+  ]
+ },
+ "evaṁ": {
+  "meaning": "thus; so; yes",
+  "gram": "indeclinable adverb",
+  "forms": [
+   "evaṁ"
+  ]
+ },
+ "eḷakasaṁvāsaññeva": {
+  "meaning": "just living together (like) goats",
+  "gram": "masculine compound noun, accusative singular + emphatic particle, fused by sandhi",
+  "breakdown": [
+   [
+    "eḷaka",
+    "Goat, ram."
+   ],
+   [
+    "saṁvāsaṁ",
+    "Living together, cohabitation (accusative)."
+   ],
+   [
+    "yeva (eva)",
+    "Just, precisely. Sandhi: -ṁ + yeva > -ññeva."
+   ]
+  ],
+  "forms": [
+   "eḷakasaṁvāsaññeva"
+  ]
+ },
+ "gabbhaseyyaṁ": {
+  "meaning": "lying in the womb; rebirth in a womb",
+  "gram": "feminine compound noun, accusative singular",
+  "breakdown": [
+   [
+    "gabbha",
+    "Womb."
+   ],
+   [
+    "seyyaṁ",
+    "Lying down, bed (accusative): the lying in a womb, conception."
+   ]
+  ],
+  "forms": [
+   "gabbhaseyyaṁ"
+  ]
+ },
+ "gacchati": {
+  "meaning": "goes; moves",
+  "gram": "verb, 3rd person singular present (√gam)",
+  "breakdown": [
+   [
+    "√gam",
+    "Root meaning to go (present stem gaccha-)."
+   ],
+   [
+    "-ti",
+    "3rd person singular present ending."
+   ]
+  ],
+  "goenka": "Gacchati is found in the well-known refuge formula: Buddhaṁ saraṇaṁ gacchāmi — literally, \"to the surrender of the Buddha I go\", I go to the Buddha as refuge."
+ },
+ "gadati": {
+  "meaning": "enunciates; speaks",
+  "gram": "verb, 3rd person singular present (√gad)",
+  "breakdown": [
+   [
+    "√gad",
+    "Root meaning to speak, utter."
+   ],
+   [
+    "-ati",
+    "3rd person singular present ending."
+   ]
+  ]
+ },
+ "gadattāpi": {
+  "meaning": "and because of the fact of speaking",
+  "gram": "abstract noun, ablative + enclitic particle",
+  "breakdown": [
+   [
+    "gadatta",
+    "The fact of speaking (gada + abstract suffix -tta)."
+   ],
+   [
+    "api (pi)",
+    "Also, and. Sandhi: gadattā + api > gadattāpi."
+   ]
+  ]
+ },
+ "gahapatimahāsālakule": {
+  "meaning": "in a householder family of great means; in a wealthy householder clan",
+  "gram": "neuter compound noun, locative singular",
+  "breakdown": [
+   [
+    "gahapati",
+    "Householder, master of the house (gaha, house + pati, master)."
+   ],
+   [
+    "mahāsāla",
+    "Of great halls, very wealthy (mahā, great + sāla, hall)."
+   ],
+   [
+    "kule",
+    "Family, clan (locative)."
+   ]
+  ]
+ },
+ "gahapatiputtaṁ": {
+  "meaning": "the householder's son",
+  "gram": "masculine compound noun, accusative singular",
+  "breakdown": [
+   [
+    "gahapati",
+    "Householder (gaha, house + pati, master)."
+   ],
+   [
+    "puttaṁ",
+    "Son (accusative)."
+   ]
+  ],
+  "forms": [
+   "gahapatiputtaṁ"
+  ]
+ },
+ "gahapatiṁ": {
+  "meaning": "householder; master of the house",
+  "gram": "masculine compound noun, accusative singular",
+  "breakdown": [
+   [
+    "gaha",
+    "House."
+   ],
+   [
+    "patiṁ",
+    "Master, lord (accusative)."
+   ]
+  ],
+  "forms": [
+   "gahapatiṁ"
+  ]
+ },
+ "gahaṭṭhavattaṁ": {
+  "meaning": "the practice of a layperson; the duty of householders",
+  "gram": "neuter compound noun, nominative/accusative singular",
+  "breakdown": [
+   [
+    "gahaṭṭha",
+    "Layperson; literally one standing in the house (gaha + ṭha, standing)."
+   ],
+   [
+    "vattaṁ",
+    "Practice, duty, observance (past participle of vattati)."
+   ]
+  ],
+  "forms": [
+   "gahaṭṭhavattaṁ"
+  ]
+ },
+ "gahaṭṭhena": {
+  "meaning": "by a householder; with a layperson",
+  "gram": "masculine compound noun, instrumental singular",
+  "breakdown": [
+   [
+    "gaha",
+    "House."
+   ],
+   [
+    "ṭha",
+    "Standing (√ṭhā): one standing in the house, a householder."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
+  ]
+ },
+ "gahetvā": {
+  "meaning": "having taken; taking",
+  "gram": "gerund (absolutive) of gaṇhāti (√gah)",
+  "breakdown": [
+   [
+    "gahe-",
+    "Stem of gaṇhāti, to take, seize (√gah)."
+   ],
+   [
+    "-tvā",
+    "Absolutive ending: having done."
+   ]
+  ]
+ },
+ "gahitāni": {
+  "meaning": "taken; seized (plural)",
+  "gram": "past participle of gaṇhāti, neuter plural",
+  "breakdown": [
+   [
+    "gahita",
+    "Taken (past participle of gaṇhāti, √gah)."
+   ],
+   [
+    "-āni (-ani)",
+    "Neuter plural ending."
+   ]
+  ],
+  "note": "uncertain: expected spelling gahitāni; the source shows gahitani."
+ },
+ "gamana": {
+  "meaning": "movement; going; journey",
+  "gram": "neuter action noun, from gacchati (√gam)",
+  "breakdown": [
+   [
+    "√gam",
+    "Root meaning to go."
+   ],
+   [
+    "-ana",
+    "Action noun suffix: the act of going."
+   ]
+  ]
+ },
+ "gamanāya": {
+  "meaning": "for going; for the manner of going",
+  "gram": "neuter action noun, dative singular, from gacchati (√gam)",
+  "breakdown": [
+   [
+    "gamana",
+    "Going, movement (√gam + ana)."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: for the sake of."
+   ]
+  ]
+ },
+ "gamanīya": {
+  "meaning": "that ought to be gone to; bound to go",
+  "gram": "potential participle of gacchati (√gam), in compounds",
+  "breakdown": [
+   [
+    "√gam",
+    "Root meaning to go."
+   ],
+   [
+    "-anīya",
+    "Potential participle suffix: that should be."
+   ]
+  ]
+ },
+ "gambhīranipuṇaduddasaduranubodhasukhumaduppaṭivedhataṁ": {
+  "meaning": "the state of being deep, subtle, hard to see, hard to understand, fine and hard to penetrate (said of the Dhamma)",
+  "gram": "long compound abstract noun, accusative singular",
+  "breakdown": [
+   [
+    "gambhīra",
+    "Deep, profound."
+   ],
+   [
+    "nipuṇa",
+    "Subtle, refined."
+   ],
+   [
+    "duddasa",
+    "Hard to see (du(r)- + dasa, seeing)."
+   ],
+   [
+    "duranubodha",
+    "Hard to understand (du(r)- + anubodha, comprehension)."
+   ],
+   [
+    "sukhuma",
+    "Fine, subtle."
+   ],
+   [
+    "duppaṭivedha",
+    "Hard to penetrate (du(r)- + paṭivedha, penetration)."
+   ],
+   [
+    "-taṁ",
+    "Abstract suffix -tā in the accusative: the state of being so."
+   ]
+  ],
+  "forms": [
+   "gambhīranipuṇaduddasaduranubodhasukhumaduppaṭivedhataṁ"
+  ]
+ },
+ "gambhīrapaññena": {
+  "meaning": "by one of deep wisdom",
+  "gram": "compound adjective, instrumental singular",
+  "breakdown": [
+   [
+    "gambhīra",
+    "Deep, profound."
+   ],
+   [
+    "paññena",
+    "Wisdom (paññā); instrumental: by the one possessing deep wisdom."
+   ]
+  ]
+ },
+ "gameti": {
+  "meaning": "causes to go; sends",
+  "gram": "verb, 3rd person singular present, causative of gacchati (√gam)",
+  "breakdown": [
+   [
+    "game-",
+    "Causative stem of √gam: to make go."
+   ],
+   [
+    "-ti",
+    "3rd person singular present ending."
+   ]
+  ]
+ },
+ "gamika": {
+  "meaning": "one setting out on a journey; one who goes away",
+  "gram": "masculine agent noun, from gacchati (√gam)",
+  "breakdown": [
+   [
+    "√gam",
+    "Root meaning to go."
+   ],
+   [
+    "-ika",
+    "Agent suffix: one connected with going, a traveller."
+   ]
+  ]
+ },
+ "gamina": {
+  "meaning": "going out; going",
+  "gram": "adjective, from gacchati (√gam)",
+  "breakdown": [
+   [
+    "√gam",
+    "Root meaning to go."
+   ],
+   [
+    "-ina",
+    "Adjective-forming suffix."
+   ]
+  ]
+ },
+ "gamma": {
+  "meaning": "belonging to the village; low, vulgar, inferior",
+  "gram": "adjective, from gāma (village)",
+  "breakdown": [
+   [
+    "gāma",
+    "Village."
+   ],
+   [
+    "-ya",
+    "Adjective suffix: gāma + ya > gamma, villagish, common."
+   ]
+  ]
+ },
+ "gammo": {
+  "meaning": "ordinary; common, vulgar",
+  "gram": "adjective, masculine nominative singular, from gāma",
+  "breakdown": [
+   [
+    "gāma",
+    "Village."
+   ],
+   [
+    "-ya",
+    "Adjective suffix: gāma + ya > gamma; nominative singular -o."
+   ]
+  ]
+ },
+ "gandha": {
+  "meaning": "smell; scent; fragrance",
+  "gram": "masculine noun (√ghā, to smell)",
+  "breakdown": [
+   [
+    "√ghā",
+    "Root meaning to smell."
+   ],
+   [
+    "-na (-ndha)",
+    "Noun-forming element: that which is smelled."
+   ]
+  ]
+ }
 }

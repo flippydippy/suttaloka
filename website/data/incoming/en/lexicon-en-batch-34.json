@@ -3,55 +3,110 @@
   "meaning": "not disagreeing; in accordance, free from doubt or dissent",
   "gram": "adjective, masculine nominative singular (nir + vimati + ika)",
   "breakdown": [
-   ["ni(r)-", "Prefix: without, free from. (The doubled bb arises by assimilation of nir + v.)"],
-   ["vimati", "Doubt, disagreement, perplexity (vi + √man \"to think\")."],
-   ["-ika", "Adjectival suffix."]
+   [
+    "ni(r)-",
+    "Prefix: without, free from. (The doubled bb arises by assimilation of nir + v.)"
+   ],
+   [
+    "vimati",
+    "Doubt, disagreement, perplexity (vi + √man \"to think\")."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix."
+   ]
   ]
  },
  "nibbidāya": {
   "meaning": "for weariness; for disgust with worldly life; for turning away",
   "gram": "feminine abstract noun, dative singular of nibbidā",
   "breakdown": [
-   ["ni(r)-", "Prefix: out, away. (The doubled bb arises by assimilation of nir + v.)"],
-   ["√vid", "To find, experience; nibbidā is weariness, disenchantment, disgust with worldly life (from nibbijjati)."],
-   ["-āya", "Dative singular ending: \"for the sake of\"."]
+   [
+    "ni(r)-",
+    "Prefix: out, away. (The doubled bb arises by assimilation of nir + v.)"
+   ],
+   [
+    "√vid",
+    "To find, experience; nibbidā is weariness, disenchantment, disgust with worldly life (from nibbijjati)."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: \"for the sake of\"."
+   ]
   ],
-  "forms": ["nibbidā"]
+  "forms": [
+   "nibbidā"
+  ]
  },
  "nibbindati": {
   "meaning": "is disgusted; becomes wearied of, turns away from",
   "gram": "verb, 3rd person singular present (ni + √vid)",
   "breakdown": [
-   ["ni(r)-", "Prefix: out, away. (The doubled bb arises by assimilation of nir + v.)"],
-   ["√vid", "To find, experience; with nir-, to become weary of, disenchanted with."]
+   [
+    "ni(r)-",
+    "Prefix: out, away. (The doubled bb arises by assimilation of nir + v.)"
+   ],
+   [
+    "√vid",
+    "To find, experience; with nir-, to become weary of, disenchanted with."
+   ]
   ]
  },
  "nibbutiṁ": {
   "meaning": "peace; quenching, the bliss of extinguished craving",
   "gram": "feminine abstract noun, accusative singular of nibbuti (from nibbāti, √vā)",
   "breakdown": [
-   ["ni(r)-", "Prefix: out. (The doubled bb arises by assimilation.)"],
-   ["√vā", "To blow; nibbuti, like nibbāna, is the \"blowing out\" or quenching, hence peace."],
-   ["-ti", "Abstract noun suffix."]
+   [
+    "ni(r)-",
+    "Prefix: out. (The doubled bb arises by assimilation.)"
+   ],
+   [
+    "√vā",
+    "To blow; nibbuti, like nibbāna, is the \"blowing out\" or quenching, hence peace."
+   ],
+   [
+    "-ti",
+    "Abstract noun suffix."
+   ]
   ],
-  "forms": ["nibbuti"]
+  "forms": [
+   "nibbuti"
+  ]
  },
  "nibbāhitabbo": {
   "meaning": "to be pulled out; to be removed",
   "gram": "future passive participle of nibbāhati (ni + √vah), masculine nominative singular",
   "breakdown": [
-   ["ni(r)-", "Prefix: out. (The doubled bb arises by assimilation of nir + v.)"],
-   ["√vah", "To carry; nibbāhati means to pull out, remove."],
-   ["-itabba", "Future passive participle suffix: \"to be ...-ed\"."]
+   [
+    "ni(r)-",
+    "Prefix: out. (The doubled bb arises by assimilation of nir + v.)"
+   ],
+   [
+    "√vah",
+    "To carry; nibbāhati means to pull out, remove."
+   ],
+   [
+    "-itabba",
+    "Future passive participle suffix: \"to be ...-ed\"."
+   ]
   ]
  },
  "nibbāna": {
   "meaning": "the ultimate liberation; the highest well-being; final freedom from suffering",
   "gram": "neuter noun (nir + √vā + ana, literally \"blowing out, quenching\")",
   "breakdown": [
-   ["ni(r)-", "Prefix: out, away. (The doubled bb arises by assimilation of nir + v.)"],
-   ["√vā", "To blow; nibbāna is literally the \"blowing out\" or quenching of the fires of craving, aversion and ignorance."],
-   ["-ana", "Action-noun suffix."]
+   [
+    "ni(r)-",
+    "Prefix: out, away. (The doubled bb arises by assimilation of nir + v.)"
+   ],
+   [
+    "√vā",
+    "To blow; nibbāna is literally the \"blowing out\" or quenching of the fires of craving, aversion and ignorance."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ]
   ],
   "goenka": "In the tradition nibbāna is introduced as the ultimate benefit and the highest well-being — final freedom from suffering. The canonical formula cited in the study material defines it through the ending of craving: taṇhākkhayo virāgo nibbāna, \"annihilation of craving, fading away, nibbāna\", and taṇhākkhayo nirodho nibbāna, \"annihilation of craving, cessation, nibbāna\". It is the third and final stage of the path's beauty: having walked the path of sīla, samādhi and paññā, the meditator ends \"by realizing the fruit of nibbāna\" — an experience to be realized directly, not a concept to be believed. The Pāli term is kept; \"nirvana\" (the Sanskrit form) is not used in tradition material."
  },
@@ -60,9 +115,18 @@
   "summary": "This is a compound meaning \"nibbāna + path/state + fixing, application\".",
   "gram": "neuter noun, compound",
   "breakdown": [
-   ["nibbāna", "The ultimate liberation, final freedom from suffering."],
-   ["pada", "Path, way; state, footing."],
-   ["abhiniropana", "Fixing upon, applying, implanting (abhi + ni + √ruh, causative). (The long ā at the junction arises by vowel coalescence.)"]
+   [
+    "nibbāna",
+    "The ultimate liberation, final freedom from suffering."
+   ],
+   [
+    "pada",
+    "Path, way; state, footing."
+   ],
+   [
+    "abhiniropana",
+    "Fixing upon, applying, implanting (abhi + ni + √ruh, causative). (The long ā at the junction arises by vowel coalescence.)"
+   ]
   ]
  },
  "nibbānasacchikiriyā": {
@@ -70,8 +134,14 @@
   "summary": "This is a compound meaning \"nibbāna + realization, direct experience\".",
   "gram": "feminine abstract noun, compound",
   "breakdown": [
-   ["nibbāna", "The ultimate liberation, final freedom from suffering."],
-   ["sacchikiriyā", "Realization, making real for oneself, direct experience (sacchi- \"with one's own eyes\" + kiriyā \"doing\")."]
+   [
+    "nibbāna",
+    "The ultimate liberation, final freedom from suffering."
+   ],
+   [
+    "sacchikiriyā",
+    "Realization, making real for oneself, direct experience (sacchi- \"with one's own eyes\" + kiriyā \"doing\")."
+   ]
   ],
   "goenka": "The term appears in the Maṅgalasutta among the highest welfares: nibbānasacchikiriyā, the realization of nibbāna. In the tradition this realization is the culmination of the path — nibbāna is not an object of belief or speculation but something the meditator experiences directly, by walking the path of sīla, samādhi and paññā to its end."
  },
@@ -79,264 +149,464 @@
   "meaning": "resolution; determination",
   "gram": "masculine noun (from nicchināti, ni + √ci)",
   "breakdown": [
-   ["ni(r)-", "Prefix: out, definitively."],
-   ["√ci", "To discern, decide; nicchaya is firm decision, resolution."]
+   [
+    "ni(r)-",
+    "Prefix: out, definitively."
+   ],
+   [
+    "√ci",
+    "To discern, decide; nicchaya is firm decision, resolution."
+   ]
   ]
  },
  "niddisati": {
   "meaning": "declares; describes, narrates, points out",
   "gram": "verb, 3rd person singular present (ni + √dis)",
   "breakdown": [
-   ["ni(r)-", "Prefix: out, forth. (The doubled dd is assimilation.)"],
-   ["√dis", "To point out, show; niddisati means to declare, describe."]
+   [
+    "ni(r)-",
+    "Prefix: out, forth. (The doubled dd is assimilation.)"
+   ],
+   [
+    "√dis",
+    "To point out, show; niddisati means to declare, describe."
+   ]
   ]
  },
  "niddāsīlī": {
   "meaning": "given to sleep; slothful, having the habit of drowsiness",
   "gram": "adjective, compound",
   "breakdown": [
-   ["niddā", "Sleep, drowsiness."],
-   ["sīlī", "Having the habit or character of (from sīla \"habit, conduct\")."]
+   [
+    "niddā",
+    "Sleep, drowsiness."
+   ],
+   [
+    "sīlī",
+    "Having the habit or character of (from sīla \"habit, conduct\")."
+   ]
   ]
  },
  "nidhānavatiṁ": {
   "meaning": "worth treasuring; having great value",
   "gram": "adjective, feminine accusative singular of nidhānavant",
   "breakdown": [
-   ["nidhāna", "Treasure, something stored away (ni + √dhā \"to put down, deposit\")."],
-   ["-vant", "Possessive suffix: \"having, endowed with\"."]
+   [
+    "nidhāna",
+    "Treasure, something stored away (ni + √dhā \"to put down, deposit\")."
+   ],
+   [
+    "-vant",
+    "Possessive suffix: \"having, endowed with\"."
+   ]
   ],
-  "forms": ["nidhānavant"]
- },
- "nidhānavatiṁ worth": {
-  "meaning": "worth treasuring; having great value",
-  "gram": "phrase (glossary row)",
-  "note": "uncertain: this back-glossary row duplicates the entry nidhānavatiṁ; the English word \"worth\" was carried into the headword during extraction. See nidhānavatiṁ."
+  "forms": [
+   "nidhānavant"
+  ]
  },
  "nidhīnaṁva": {
   "meaning": "like hidden treasures",
   "gram": "sandhi fusion: masculine noun, genitive plural + comparison particle (nidhīnaṁ + va)",
   "breakdown": [
-   ["nidhi", "Hidden treasure, deposit (ni + √dhā)."],
-   ["-īnaṁ", "Genitive plural ending."],
-   ["va", "Like, as (shortened iva)."]
+   [
+    "nidhi",
+    "Hidden treasure, deposit (ni + √dhā)."
+   ],
+   [
+    "-īnaṁ",
+    "Genitive plural ending."
+   ],
+   [
+    "va",
+    "Like, as (shortened iva)."
+   ]
   ]
  },
  "nidānāni": {
   "meaning": "causes; origins, sources",
   "gram": "neuter noun, nominative/accusative plural of nidāna",
   "breakdown": [
-   ["ni-", "Prefix: down."],
-   ["√dā", "To bind; nidāna is literally \"tying down\", hence ground, cause, origin."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "ni-",
+    "Prefix: down."
+   ],
+   [
+    "√dā",
+    "To bind; nidāna is literally \"tying down\", hence ground, cause, origin."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ],
-  "forms": ["nidāna"]
+  "forms": [
+   "nidāna"
+  ]
  },
  "nigama": {
   "meaning": "market town",
   "gram": "masculine noun (ni + √gam)",
   "breakdown": [
-   ["ni-", "Prefix: down, into."],
-   ["√gam", "To go; nigama is a place people resort to, a market town."]
+   [
+    "ni-",
+    "Prefix: down, into."
+   ],
+   [
+    "√gam",
+    "To go; nigama is a place people resort to, a market town."
+   ]
   ]
  },
  "nigamana": {
   "meaning": "explanation; illustration; conclusion",
   "gram": "neuter action noun (from nigacchati, ni + √gam)",
   "breakdown": [
-   ["ni-", "Prefix: down, into."],
-   ["√gam", "To go."],
-   ["-ana", "Action-noun suffix."]
+   [
+    "ni-",
+    "Prefix: down, into."
+   ],
+   [
+    "√gam",
+    "To go."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ]
   ]
  },
  "nigamo": {
   "meaning": "little town; marketplace, market town",
   "gram": "masculine noun, nominative singular of nigama",
   "breakdown": [
-   ["ni-", "Prefix: down, into."],
-   ["√gam", "To go; nigama is a place people resort to, a market town."]
+   [
+    "ni-",
+    "Prefix: down, into."
+   ],
+   [
+    "√gam",
+    "To go; nigama is a place people resort to, a market town."
+   ]
   ]
  },
  "niggacchati": {
   "meaning": "proceeds from; goes out, comes forth",
   "gram": "verb, 3rd person singular present (nir + √gam)",
   "breakdown": [
-   ["ni(r)-", "Prefix: out. (The doubled gg arises by assimilation.)"],
-   ["√gam", "To go."]
+   [
+    "ni(r)-",
+    "Prefix: out. (The doubled gg arises by assimilation.)"
+   ],
+   [
+    "√gam",
+    "To go."
+   ]
   ]
  },
  "niggahaṁ": {
   "meaning": "censure; chastisement, refutation",
   "gram": "masculine noun, accusative singular (from niggaṇhāti, ni + √gah)",
   "breakdown": [
-   ["ni(r)-", "Prefix: down, against. (The doubled gg arises by assimilation.)"],
-   ["√gah", "To seize; niggaha is \"holding down\", hence censure, rebuke, refutation."]
+   [
+    "ni(r)-",
+    "Prefix: down, against. (The doubled gg arises by assimilation.)"
+   ],
+   [
+    "√gah",
+    "To seize; niggaha is \"holding down\", hence censure, rebuke, refutation."
+   ]
   ]
  },
  "niggayhavādiṁ": {
   "meaning": "one who speaks censuring; a speaker of rebuke (one who admonishes)",
   "gram": "adjective, compound, accusative singular of niggayhavādī",
   "breakdown": [
-   ["niggayha", "Having censured, rebuking (gerund of niggaṇhāti)."],
-   ["vādī", "One who speaks, a speaker of (from vāda \"speech\")."]
+   [
+    "niggayha",
+    "Having censured, rebuking (gerund of niggaṇhāti)."
+   ],
+   [
+    "vādī",
+    "One who speaks, a speaker of (from vāda \"speech\")."
+   ]
   ],
-  "forms": ["niggayhavādī"]
+  "forms": [
+   "niggayhavādī"
+  ]
  },
  "nihita": {
   "meaning": "laid down; put aside, deposited; set up, applied",
   "gram": "past participle of nidahati (ni + √dhā)",
   "breakdown": [
-   ["ni-", "Prefix: down, away from."],
-   ["√dhā", "To put, place; the past participle nihita means laid down, deposited."]
+   [
+    "ni-",
+    "Prefix: down, away from."
+   ],
+   [
+    "√dhā",
+    "To put, place; the past participle nihita means laid down, deposited."
+   ]
   ]
  },
  "nihitadaṇḍo": {
   "meaning": "one who has laid down the stick; having renounced violence",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["nihita", "Laid down (past participle of nidahati)."],
-   ["daṇḍa", "Stick, rod; by extension punishment, violence."]
+   [
+    "nihita",
+    "Laid down (past participle of nidahati)."
+   ],
+   [
+    "daṇḍa",
+    "Stick, rod; by extension punishment, violence."
+   ]
   ]
  },
  "nihitasattho": {
   "meaning": "one who has laid down the sword; having renounced weapons",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["nihita", "Laid down (past participle of nidahati)."],
-   ["sattha", "Sword, knife, weapon."]
+   [
+    "nihita",
+    "Laid down (past participle of nidahati)."
+   ],
+   [
+    "sattha",
+    "Sword, knife, weapon."
+   ]
   ]
  },
  "nihīyati": {
   "meaning": "perishes; goes to waste, is ruined",
   "gram": "verb, 3rd person singular present, passive of ni + √hā",
   "breakdown": [
-   ["ni-", "Prefix: down."],
-   ["√hā", "To abandon, diminish; the passive nihīyati means to be brought low, perish."]
+   [
+    "ni-",
+    "Prefix: down."
+   ],
+   [
+    "√hā",
+    "To abandon, diminish; the passive nihīyati means to be brought low, perish."
+   ]
   ]
  },
  "nijigīsanatā": {
   "meaning": "covetousness; ardent desire for gain",
   "gram": "feminine abstract noun (from nijigīsana, desiderative of √ji)",
   "breakdown": [
-   ["ni-", "Prefix: down, after."],
-   ["jigīsa", "Desiderative stem of √ji \"to win\": wanting to gain."],
-   ["-ana", "Action-noun suffix."],
-   ["-tā", "Abstract noun suffix: the state of hankering after gain."]
+   [
+    "ni-",
+    "Prefix: down, after."
+   ],
+   [
+    "jigīsa",
+    "Desiderative stem of √ji \"to win\": wanting to gain."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: the state of hankering after gain."
+   ]
   ],
-  "forms": ["nijigiṁsanatā"]
- },
- "nijigīsanatā/": {
-  "meaning": "covetousness; ardent desire",
-  "gram": "feminine abstract noun (glossary row)",
-  "note": "uncertain: this glossary row duplicates the entry nijigīsanatā (variant spelling nijigiṁsanatā); the trailing slash and appended sutta text are extraction artifacts. See nijigīsanatā."
+  "forms": [
+   "nijigiṁsanatā"
+  ]
  },
  "nijjhāpetha": {
   "meaning": "may you give to understand; cause to see, convince",
   "gram": "verb, 2nd person plural imperative/optative, causative of nijjhāyati (ni + √jhā)",
   "breakdown": [
-   ["ni-", "Prefix: down, into. (The doubled jj arises by assimilation.)"],
-   ["√jhā", "To contemplate, meditate; the causative nijjhāpeti means to make someone see, to give to understand."],
-   ["-etha", "Second person plural ending."]
+   [
+    "ni-",
+    "Prefix: down, into. (The doubled jj arises by assimilation.)"
+   ],
+   [
+    "√jhā",
+    "To contemplate, meditate; the causative nijjhāpeti means to make someone see, to give to understand."
+   ],
+   [
+    "-etha",
+    "Second person plural ending."
+   ]
   ],
-  "forms": ["nijjhāpeti"]
+  "forms": [
+   "nijjhāpeti"
+  ]
  },
  "nijjiṇṇā": {
   "meaning": "destroyed; worn away, overcome",
   "gram": "past participle of nijjīrati (nir + √jīr), plural or feminine form",
   "breakdown": [
-   ["ni(r)-", "Prefix: out, away. (The doubled jj arises by assimilation.)"],
-   ["√jīr", "To decay, wear out; the past participle nijjiṇṇa means worn away, destroyed."]
+   [
+    "ni(r)-",
+    "Prefix: out, away. (The doubled jj arises by assimilation.)"
+   ],
+   [
+    "√jīr",
+    "To decay, wear out; the past participle nijjiṇṇa means worn away, destroyed."
+   ]
   ]
  },
  "nikkhepo": {
   "meaning": "putting down; discarding, laying aside",
   "gram": "masculine noun, nominative singular (from nikkhipati, ni + √khip)",
   "breakdown": [
-   ["ni(r)-", "Prefix: down, away. (The doubled kk arises by assimilation.)"],
-   ["√khip", "To throw; nikkhepa is the act of putting down, discarding."]
+   [
+    "ni(r)-",
+    "Prefix: down, away. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√khip",
+    "To throw; nikkhepa is the act of putting down, discarding."
+   ]
   ]
  },
  "nikkhipitvā": {
   "meaning": "having put aside; having laid down",
   "gram": "gerund (absolutive) of nikkhipati (ni + √khip)",
   "breakdown": [
-   ["nikkhipati", "To put down, lay aside (ni + √khip \"to throw\")."],
-   ["-itvā", "Gerund ending: \"having ...-ed\"."]
+   [
+    "nikkhipati",
+    "To put down, lay aside (ni + √khip \"to throw\")."
+   ],
+   [
+    "-itvā",
+    "Gerund ending: \"having ...-ed\"."
+   ]
   ]
  },
  "nikkhittaṁ": {
   "meaning": "thrown down; put down, laid aside",
   "gram": "past participle of nikkhipati (ni + √khip), neuter/accusative singular",
   "breakdown": [
-   ["ni(r)-", "Prefix: down, away. (The doubled kk arises by assimilation.)"],
-   ["√khip", "To throw; the past participle nikkhitta means thrown down, deposited."]
+   [
+    "ni(r)-",
+    "Prefix: down, away. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√khip",
+    "To throw; the past participle nikkhitta means thrown down, deposited."
+   ]
   ]
  },
  "nikkujjita": {
   "meaning": "overturned; turned upside down",
   "gram": "past participle of nikkujjeti (nir + √kujj)",
   "breakdown": [
-   ["ni(r)-", "Prefix: down. (The doubled kk arises by assimilation.)"],
-   ["√kujj", "To bend, turn over; nikkujjita means overturned, upside down."]
+   [
+    "ni(r)-",
+    "Prefix: down. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "√kujj",
+    "To bend, turn over; nikkujjita means overturned, upside down."
+   ]
   ]
  },
  "nikkujjitaṁ": {
   "meaning": "overturned; fallen down, lying upside down",
   "gram": "past participle of nikkujjeti, neuter/accusative singular",
   "breakdown": [
-   ["nikkujjita", "Overturned, upside down (nir + √kujj + ita)."],
-   ["-ṁ", "Neuter/accusative singular ending."]
+   [
+    "nikkujjita",
+    "Overturned, upside down (nir + √kujj + ita)."
+   ],
+   [
+    "-ṁ",
+    "Neuter/accusative singular ending."
+   ]
   ]
- },
- "nikkujjitaṁ fallen": {
-  "meaning": "fallen down; lying upside down",
-  "gram": "phrase (glossary row)",
-  "note": "uncertain: this back-glossary row duplicates the entry nikkujjitaṁ; the English word \"fallen\" was carried into the headword during extraction. See nikkujjitaṁ."
  },
  "nikkujjitaṁ vā ukkujjeyya…": {
   "meaning": "as if one were to set upright what was overturned",
   "summary": "This is the opening of the stock simile spoken by listeners gladdened by the Buddha's teaching.",
   "gram": "phrase",
   "breakdown": [
-   ["nikkujjitaṁ", "What is overturned, lying upside down (past participle of nikkujjeti)."],
-   ["vā", "Or; as it were."],
-   ["ukkujjeyya", "Would set upright (optative of ukkujjeti \"to turn up\")."]
+   [
+    "nikkujjitaṁ",
+    "What is overturned, lying upside down (past participle of nikkujjeti)."
+   ],
+   [
+    "vā",
+    "Or; as it were."
+   ],
+   [
+    "ukkujjeyya",
+    "Would set upright (optative of ukkujjeti \"to turn up\")."
+   ]
   ]
  },
  "nikkāmino": {
   "meaning": "those free from craving; desireless ones",
   "gram": "adjective, masculine nominative plural of nikkāmī",
   "breakdown": [
-   ["ni(r)-", "Prefix: without, free from. (The doubled kk arises by assimilation.)"],
-   ["kāma", "Sensual desire, craving."],
-   ["-ī", "Possessive adjectival suffix: characterized by (here, by the absence of) desire."]
+   [
+    "ni(r)-",
+    "Prefix: without, free from. (The doubled kk arises by assimilation.)"
+   ],
+   [
+    "kāma",
+    "Sensual desire, craving."
+   ],
+   [
+    "-ī",
+    "Possessive adjectival suffix: characterized by (here, by the absence of) desire."
+   ]
   ],
-  "forms": ["nikkāmī"]
+  "forms": [
+   "nikkāmī"
+  ]
  },
  "nikubbetha": {
   "meaning": "may deceive; should cheat",
   "gram": "verb, 3rd person singular optative, middle voice of nikubbati (ni + √kar)",
   "breakdown": [
-   ["ni-", "Prefix: down, towards (here with a sense of doing someone down)."],
-   ["√kar", "To do, make; nikubbati means to deceive, cheat."],
-   ["-etha", "Optative middle ending: \"may, should\"."]
+   [
+    "ni-",
+    "Prefix: down, towards (here with a sense of doing someone down)."
+   ],
+   [
+    "√kar",
+    "To do, make; nikubbati means to deceive, cheat."
+   ],
+   [
+    "-etha",
+    "Optative middle ending: \"may, should\"."
+   ]
   ],
-  "forms": ["nikubbeti"]
+  "forms": [
+   "nikubbeti"
+  ]
  },
  "nikāmalābhī": {
   "meaning": "obtaining at will; one who gains easily and voluntarily",
   "gram": "adjective, compound",
   "breakdown": [
-   ["nikāma", "Willingness, one's own desire; at will, voluntarily."],
-   ["lābhī", "One who attains, a gainer (from lābha \"gain\")."]
+   [
+    "nikāma",
+    "Willingness, one's own desire; at will, voluntarily."
+   ],
+   [
+    "lābhī",
+    "One who attains, a gainer (from lābha \"gain\")."
+   ]
   ]
  },
  "nikāmeti": {
   "meaning": "strives after; desires, longs for",
   "gram": "verb, 3rd person singular present (ni + √kam)",
   "breakdown": [
-   ["ni-", "Prefix: down, intensive."],
-   ["√kam", "To desire; nikāmeti means to desire, strive after."]
+   [
+    "ni-",
+    "Prefix: down, intensive."
+   ],
+   [
+    "√kam",
+    "To desire; nikāmeti means to desire, strive after."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss reads \"not strive after\", which reflects a negated occurrence (na nikāmeti) in the source passage; the verb itself means to strive after, desire."
  },
@@ -344,26 +614,49 @@
   "meaning": "of one who has been invited",
   "gram": "past participle of nimanteti (ni + √mant), genitive/dative singular",
   "breakdown": [
-   ["nimanteti", "To invite (ni + √mant \"to address, consult\")."],
-   ["-ita", "Past participle suffix: invited."],
-   ["-assa", "Genitive/dative singular ending."]
+   [
+    "nimanteti",
+    "To invite (ni + √mant \"to address, consult\")."
+   ],
+   [
+    "-ita",
+    "Past participle suffix: invited."
+   ],
+   [
+    "-assa",
+    "Genitive/dative singular ending."
+   ]
   ],
-  "forms": ["nimantita"]
+  "forms": [
+   "nimantita"
+  ]
  },
  "nimbabījaṁ": {
   "meaning": "neem seed; seed of the neem tree",
   "gram": "neuter noun, compound",
   "breakdown": [
-   ["nimba", "The neem tree, known for its bitterness."],
-   ["bīja", "Seed."]
+   [
+    "nimba",
+    "The neem tree, known for its bitterness."
+   ],
+   [
+    "bīja",
+    "Seed."
+   ]
   ]
  },
  "nimittaggāhī": {
   "meaning": "grasping at signs; taking up the outward appearance (of sense objects)",
   "gram": "adjective, compound",
   "breakdown": [
-   ["nimitta", "Sign, outward mark, general appearance."],
-   ["gāhī", "Taking, seizing, receiving (from √gah; the doubled gg is compound sandhi doubling)."]
+   [
+    "nimitta",
+    "Sign, outward mark, general appearance."
+   ],
+   [
+    "gāhī",
+    "Taking, seizing, receiving (from √gah; the doubled gg is compound sandhi doubling)."
+   ]
   ],
   "goenka": "The term appears in the teaching on sense restraint (indriyasaṁvara): when seeing a form or hearing a sound, the practitioner does not become nimittaggāhī, one who grasps at the sign or outward appearance — the first step by which craving and aversion arise at the sense doors."
  },
@@ -371,24 +664,41 @@
   "meaning": "immersed and nourished; sunk in and fed upon",
   "gram": "adjective, compound, neuter/feminine plural form",
   "breakdown": [
-   ["nimugga", "Immersed, sunk (past participle of nimujjati \"to sink down\")."],
-   ["posī", "Fed, nourished; nourishing (from √pus \"to nourish\")."]
+   [
+    "nimugga",
+    "Immersed, sunk (past participle of nimujjati \"to sink down\")."
+   ],
+   [
+    "posī",
+    "Fed, nourished; nourishing (from √pus \"to nourish\")."
+   ]
   ]
  },
  "nindaṁ": {
   "meaning": "blame; finding fault, reproach",
   "gram": "feminine noun, accusative singular (from nindati, √nind)",
   "breakdown": [
-   ["√nind", "To blame, reproach; nindā is blame, fault-finding."]
+   [
+    "√nind",
+    "To blame, reproach; nindā is blame, fault-finding."
+   ]
   ],
-  "forms": ["nindā"]
+  "forms": [
+   "nindā"
+  ]
  },
  "ninnagā": {
   "meaning": "river (literally \"going downhill\")",
   "gram": "feminine noun, compound",
   "breakdown": [
-   ["ninna", "Low ground, downward slope."],
-   ["gā", "Going (from √gam); a river is \"that which goes to the low ground\"."]
+   [
+    "ninna",
+    "Low ground, downward slope."
+   ],
+   [
+    "gā",
+    "Going (from √gam); a river is \"that which goes to the low ground\"."
+   ]
   ]
  },
  "nipako": {
@@ -399,27 +709,53 @@
   "meaning": "this one free from chatter; without prattle is this",
   "gram": "sandhi fusion: adjective + pronoun (nippalāpa + ayaṁ)",
   "breakdown": [
-   ["ni(r)-", "Prefix: without, free from. (The doubled pp arises by assimilation.)"],
-   ["palāpa", "Chatter, prattle, idle talk (pa + √lap \"to talk\")."],
-   ["ayaṁ", "This (nominative singular). (Fused with the preceding vowel.)"]
+   [
+    "ni(r)-",
+    "Prefix: without, free from. (The doubled pp arises by assimilation.)"
+   ],
+   [
+    "palāpa",
+    "Chatter, prattle, idle talk (pa + √lap \"to talk\")."
+   ],
+   [
+    "ayaṁ",
+    "This (nominative singular). (Fused with the preceding vowel.)"
+   ]
   ]
  },
  "nippesikatā": {
   "meaning": "trickery; deception, jugglery (an improper way of seeking gains)",
   "gram": "feminine abstract noun (from nippesika)",
   "breakdown": [
-   ["nippesika", "A trickster, one who wheedles or extorts (nir + √pis)."],
-   ["-tā", "Abstract noun suffix: the practice of trickery."]
+   [
+    "nippesika",
+    "A trickster, one who wheedles or extorts (nir + √pis)."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: the practice of trickery."
+   ]
   ]
  },
  "niratthaka": {
   "meaning": "meaningless; useless, unprofitable, vain",
   "gram": "adjective (from nirattha)",
   "breakdown": [
-   ["ni(r)-", "Prefix: without."],
-   ["attha", "Meaning, purpose, benefit."],
-   ["-ka", "Adjectival suffix: devoid of purpose."]
+   [
+    "ni(r)-",
+    "Prefix: without."
+   ],
+   [
+    "attha",
+    "Meaning, purpose, benefit."
+   ],
+   [
+    "-ka",
+    "Adjectival suffix: devoid of purpose."
+   ]
   ],
-  "forms": ["niratthakena"]
+  "forms": [
+   "niratthakena"
+  ]
  }
 }

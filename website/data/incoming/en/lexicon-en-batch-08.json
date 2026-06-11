@@ -3,126 +3,239 @@
   "meaning": "not liable to return; by nature not coming back (to this world)",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["āvatti", "Returning, coming back (ā + √vatt)."],
-   ["dhamma", "(At the end of a compound) having the nature of, liable to."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "āvatti",
+    "Returning, coming back (ā + √vatt)."
+   ],
+   [
+    "dhamma",
+    "(At the end of a compound) having the nature of, liable to."
+   ]
   ]
  },
  "anāvaṭadvāratāya": {
   "meaning": "by keeping the door not shut; the state of having an open door (hospitality)",
   "gram": "feminine abstract compound noun, instrumental singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["āvaṭa", "Shut, closed (past participle of āvarati)."],
-   ["dvāra", "Door."],
-   ["-tāya", "Abstract suffix -tā, instrumental singular."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "āvaṭa",
+    "Shut, closed (past participle of āvarati)."
+   ],
+   [
+    "dvāra",
+    "Door."
+   ],
+   [
+    "-tāya",
+    "Abstract suffix -tā, instrumental singular."
+   ]
   ]
  },
  "anāvilo": {
   "meaning": "not agitated, unstirred; clean, clear",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["āvila", "Stirred up, turbid, agitated."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "āvila",
+    "Stirred up, turbid, agitated."
+   ]
   ]
  },
  "anūhate": {
   "meaning": "not removed, not taken out, not destroyed",
   "gram": "past participle of na ūhanati (√han), locative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["ūhata", "Taken out, rooted out, destroyed (ud + √han + -ta)."],
-   ["-e", "Locative singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "ūhata",
+    "Taken out, rooted out, destroyed (ud + √han + -ta)."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "anūpaghāto": {
   "meaning": "non-injuring, not hurting",
   "gram": "masculine noun (from na upaghāteti), nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel, with lengthened ū)."],
-   ["upaghāta", "Injuring, hurting (upa + √ghaṭ)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel, with lengthened ū)."
+   ],
+   [
+    "upaghāta",
+    "Injuring, hurting (upa + √ghaṭ)."
+   ]
   ]
  },
  "anūpavādo": {
   "meaning": "not finding fault, not complaining; non-blaming",
   "gram": "masculine noun (from na upavadati), nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel, with lengthened ū)."],
-   ["upavāda", "Finding fault, blaming (upa + √vad)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel, with lengthened ū)."
+   ],
+   [
+    "upavāda",
+    "Finding fault, blaming (upa + √vad)."
+   ]
   ]
  },
  "apa": {
   "meaning": "off, away, from (prefix)",
   "gram": "prefix",
-  "forms": ["apa-"]
+  "forms": [
+   "apa-"
+  ]
  },
  "apabodhati": {
   "meaning": "to render oneself conspicuous; to keep alert",
   "gram": "verb, 3rd person singular present (apa + √budh, irregular causative)",
   "breakdown": [
-   ["apa-", "Prefix \"off, away\"."],
-   ["√budh", "Root \"to awaken\" (stem bodha-)."]
+   [
+    "apa-",
+    "Prefix \"off, away\"."
+   ],
+   [
+    "√budh",
+    "Root \"to awaken\" (stem bodha-)."
+   ]
   ]
  },
  "apacayassa": {
   "meaning": "of diminution, of decrease",
   "gram": "masculine noun apacaya, genitive singular",
   "breakdown": [
-   ["apa-", "Prefix \"away, off\"."],
-   ["√ci", "Root \"to heap up\"; apacaya = \"un-heaping\", decrease."],
-   ["-ssa", "Genitive singular ending."]
+   [
+    "apa-",
+    "Prefix \"away, off\"."
+   ],
+   [
+    "√ci",
+    "Root \"to heap up\"; apacaya = \"un-heaping\", decrease."
+   ],
+   [
+    "-ssa",
+    "Genitive singular ending."
+   ]
   ]
  },
  "apaccanīkapaṭipadaṁ": {
   "meaning": "the practice that is not contrary; walking the path without going against (the teaching)",
   "gram": "feminine compound noun, accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["paccanīka", "Contrary, adverse, opposed."],
-   ["paṭipadā", "Path, way of practice."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "paccanīka",
+    "Contrary, adverse, opposed."
+   ],
+   [
+    "paṭipadā",
+    "Path, way of practice."
+   ]
   ]
  },
  "apaciyati": {
   "meaning": "to be esteemed, to be honoured",
   "gram": "verb, 3rd person singular present passive (apa + √cāy)",
   "breakdown": [
-   ["apa-", "Prefix (here in the sense of reverence)."],
-   ["√cāy", "Root \"to honour, respect\" (passive stem ciya-)."]
+   [
+    "apa-",
+    "Prefix (here in the sense of reverence)."
+   ],
+   [
+    "√cāy",
+    "Root \"to honour, respect\" (passive stem ciya-)."
+   ]
   ]
  },
  "apacāyamāno": {
   "meaning": "honouring, paying reverence",
   "gram": "present participle of apacāyati, masculine nominative singular",
   "breakdown": [
-   ["apa-", "Prefix (here in the sense of reverence)."],
-   ["√cāy", "Root \"to honour, respect\"."],
-   ["-māna", "Present participle suffix (middle voice)."]
+   [
+    "apa-",
+    "Prefix (here in the sense of reverence)."
+   ],
+   [
+    "√cāy",
+    "Root \"to honour, respect\"."
+   ],
+   [
+    "-māna",
+    "Present participle suffix (middle voice)."
+   ]
   ]
  },
  "apagacchati": {
   "meaning": "to go away, to leave",
   "gram": "verb, 3rd person singular present (apa + √gam)",
   "breakdown": [
-   ["apa-", "Prefix \"away, off\"."],
-   ["√gam", "Root \"to go\" (present stem gaccha-)."]
+   [
+    "apa-",
+    "Prefix \"away, off\"."
+   ],
+   [
+    "√gam",
+    "Root \"to go\" (present stem gaccha-)."
+   ]
   ]
  },
  "apalāpāyaṁ": {
   "meaning": "this one (is) without prattle; free of idle talk",
   "gram": "adjective + demonstrative pronoun (a + palāpa + ayaṁ, fused by sandhi)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["palāpa", "Prattle, idle talk (pa + √lap)."],
-   ["ayaṁ", "This one (demonstrative pronoun)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "palāpa",
+    "Prattle, idle talk (pa + √lap)."
+   ],
+   [
+    "ayaṁ",
+    "This one (demonstrative pronoun)."
+   ]
   ]
  },
  "aparappaccayo": {
   "meaning": "not dependent on others; having confidence grounded in oneself (in the Dhamma seen for oneself)",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["para", "Other, another. (The pp is sandhi doubling.)"],
-   ["paccaya", "Ground, support, confidence; condition."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "para",
+    "Other, another. (The pp is sandhi doubling.)"
+   ],
+   [
+    "paccaya",
+    "Ground, support, confidence; condition."
+   ]
   ],
   "note": "divergence: the lexicon's gloss line reads \"further + confidence\"; the established sense of aparappaccaya, supported by DPD's analysis (na + para + paccaya), is \"not relying on others\" — having direct confidence independent of another's word."
  },
@@ -130,16 +243,28 @@
   "meaning": "further, afterwards; another",
   "gram": "adjective/adverb, neuter or accusative singular",
   "breakdown": [
-   ["apa-", "Prefix \"away, after\"."],
-   ["-ra", "Adjectival suffix: apara = \"later, following, other\"."]
+   [
+    "apa-",
+    "Prefix \"away, after\"."
+   ],
+   [
+    "-ra",
+    "Adjectival suffix: apara = \"later, following, other\"."
+   ]
   ]
  },
  "apare": {
   "meaning": "others; \"by others\" — the formula with which the commentators introduce diverging interpretations",
   "gram": "adjective/pronoun apara, masculine nominative plural",
   "breakdown": [
-   ["apara", "Other, further, following."],
-   ["-e", "Masculine nominative plural ending."]
+   [
+    "apara",
+    "Other, further, following."
+   ],
+   [
+    "-e",
+    "Masculine nominative plural ending."
+   ]
   ],
   "note": "divergence: the lexicon notes that commentators collect diverging views introduced with apare (\"others [say]\"), e.g. the varying interpretations of the stages of the 5000 years in the Anāgatavaṁsa."
  },
@@ -148,34 +273,64 @@
   "summary": "Used of the aparihāniyā dhammā, the conditions of non-decline taught in the Mahāparinibbāna-sutta.",
   "gram": "adjective, locative singular or accusative plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["parihāni", "Decay, loss, decline (pari + √hā)."],
-   ["-iya", "Adjectival suffix, \"connected with\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "parihāni",
+    "Decay, loss, decline (pari + √hā)."
+   ],
+   [
+    "-iya",
+    "Adjectival suffix, \"connected with\"."
+   ]
   ]
  },
  "aparimāṇaṁ": {
   "meaning": "boundless, immeasurable",
   "gram": "adjective, neuter/accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["parimāṇa", "Measure, limit (pari + √mā)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "parimāṇa",
+    "Measure, limit (pari + √mā)."
+   ]
   ]
  },
  "aparisaṅkita": {
   "meaning": "not suspected, unsuspected",
   "gram": "past participle of na parisaṅkati",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["parisaṅkita", "Suspected (past participle of parisaṅkati, pari + √saṅk)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "parisaṅkita",
+    "Suspected (past participle of parisaṅkati, pari + √saṅk)."
+   ]
   ]
  },
  "aparisuddhasīlo": {
   "meaning": "whose sīla is not completely purified; of impure morality",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["parisuddha", "Completely purified (pari + √sudh + -ta)."],
-   ["sīla", "Morality, moral conduct."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "parisuddha",
+    "Completely purified (pari + √sudh + -ta)."
+   ],
+   [
+    "sīla",
+    "Morality, moral conduct."
+   ]
   ],
   "goenka": "Sīla, morality, is the indispensable foundation of the path in the tradition: only on the basis of pure conduct can samādhi and paññā develop. One who is aparisuddhasīla — whose sīla is not completely purified — lacks this foundation; hence the emphasis on scrupulous observance of the precepts as the starting point of meditation practice."
  },
@@ -183,60 +338,114 @@
   "meaning": "not seeing",
   "gram": "negated present participle of passati (√dis), nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["passaṁ", "Seeing (present participle of passati)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "passaṁ",
+    "Seeing (present participle of passati)."
+   ]
   ]
  },
  "apaṇṇakappaṭipadaṁ": {
   "meaning": "the certain path, the true (unmistaken) way of practice",
   "gram": "feminine abstract compound noun, accusative singular",
   "breakdown": [
-   ["apaṇṇaka", "Certain, true, not mistaken."],
-   ["paṭipadā", "Path, way of practice. (The pp is sandhi doubling at the compound seam.)"]
+   [
+    "apaṇṇaka",
+    "Certain, true, not mistaken."
+   ],
+   [
+    "paṭipadā",
+    "Path, way of practice. (The pp is sandhi doubling at the compound seam.)"
+   ]
   ]
  },
  "apesayī": {
   "meaning": "sent forth, dispatched",
   "gram": "verb, 3rd person singular aorist of peseti/pesayati",
   "breakdown": [
-   ["a-", "Augment marking the aorist."],
-   ["√pis", "Root \"to send\" (stem pesaya-)."],
-   ["-ī", "Aorist ending, 3rd person singular."]
+   [
+    "a-",
+    "Augment marking the aorist."
+   ],
+   [
+    "√pis",
+    "Root \"to send\" (stem pesaya-)."
+   ],
+   [
+    "-ī",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "apeto": {
   "meaning": "without, freed from, deprived of",
   "gram": "past participle of apeti (apa + √i), masculine nominative singular",
   "breakdown": [
-   ["apa-", "Prefix \"away, off\"."],
-   ["√i", "Root \"to go\" + past participle suffix -ta: \"gone away from\"."]
+   [
+    "apa-",
+    "Prefix \"away, off\"."
+   ],
+   [
+    "√i",
+    "Root \"to go\" + past participle suffix -ta: \"gone away from\"."
+   ]
   ]
  },
  "apetteyyatā": {
   "meaning": "disrespect towards one's father; absence of filial duty to the father",
   "gram": "feminine abstract noun",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["petteyya", "Dutiful, respectful towards one's father (from pitar)."],
-   ["-tā", "Abstract noun suffix, \"-ness\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "petteyya",
+    "Dutiful, respectful towards one's father (from pitar)."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix, \"-ness\"."
+   ]
   ]
  },
  "aphāsukakāmā": {
   "meaning": "wishing discomfort; desiring (another's) trouble and uneasiness",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["phāsuka", "Pleasant, comfortable."],
-   ["kāma", "Wishing, desiring."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "phāsuka",
+    "Pleasant, comfortable."
+   ],
+   [
+    "kāma",
+    "Wishing, desiring."
+   ]
   ]
  },
  "aphāsuññeva": {
   "meaning": "just discomfort, only unease",
   "gram": "noun aphāsu, accusative singular + emphatic particle yeva (fused by sandhi)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["phāsu", "Ease, comfort."],
-   ["yeva", "Emphatic particle \"just, only\" (ṁ + y fuse to -ññ-)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "phāsu",
+    "Ease, comfort."
+   ],
+   [
+    "yeva",
+    "Emphatic particle \"just, only\" (ṁ + y fuse to -ññ-)."
+   ]
   ]
  },
  "api": {
@@ -247,26 +456,50 @@
   "meaning": "and displeasure; and without cause",
   "gram": "noun/adjective appaccaya, accusative singular + conjunction ca",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["paccaya", "Cause, reason, ground."],
-   ["-ñca", "= ca \"and\", with sandhi ṁ + c → ñc."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "paccaya",
+    "Cause, reason, ground."
+   ],
+   [
+    "-ñca",
+    "= ca \"and\", with sandhi ṁ + c → ñc."
+   ]
   ]
  },
  "appagabbho": {
   "meaning": "retiring, modest, not aggressive",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pagabbha", "Bold, forward, impudent (√gabbh)."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pagabbha",
+    "Bold, forward, impudent (√gabbh)."
+   ]
   ]
  },
  "appahontassa": {
   "meaning": "of what does not suffice; of one for whom (the remainder) is too little",
   "gram": "present participle of na pahoti, genitive/dative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pahonta", "Sufficing, being enough (present participle of pahoti, pa + √hū)."],
-   ["-ssa", "Genitive/dative singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pahonta",
+    "Sufficing, being enough (present participle of pahoti, pa + √hū)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line reads \"little + of what remains\" (appa + hontassa); DPD analyses the form as the negated present participle of pahoti \"to suffice\". Both point to insufficiency of what remains."
  },
@@ -274,43 +507,82 @@
   "meaning": "having few duties",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["appa", "Little, few."],
-   ["kicca", "Duty, task, what is to be done (√kar)."]
+   [
+    "appa",
+    "Little, few."
+   ],
+   [
+    "kicca",
+    "Duty, task, what is to be done (√kar)."
+   ]
   ]
  },
  "appakā": {
   "meaning": "few, not many",
   "gram": "adjective, plural",
   "breakdown": [
-   ["appa", "Little, few."],
-   ["-ka", "Adjectival suffix."]
+   [
+    "appa",
+    "Little, few."
+   ],
+   [
+    "-ka",
+    "Adjectival suffix."
+   ]
   ]
  },
  "appamattakaṁ": {
   "meaning": "of little measure, trifling; of rare occurrence",
   "gram": "adjective, neuter/accusative singular",
   "breakdown": [
-   ["appa", "Little, few."],
-   ["matta", "Measure, amount."],
-   ["-ka", "Adjectival suffix."]
+   [
+    "appa",
+    "Little, few."
+   ],
+   [
+    "matta",
+    "Measure, amount."
+   ],
+   [
+    "-ka",
+    "Adjectival suffix."
+   ]
   ]
  },
  "appamattakāni": {
   "meaning": "of little, limited measure; trifling (things)",
   "gram": "adjective, neuter plural",
   "breakdown": [
-   ["appa", "Little, few."],
-   ["matta", "Measure, amount."],
-   ["-ka", "Adjectival suffix."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "appa",
+    "Little, few."
+   ],
+   [
+    "matta",
+    "Measure, amount."
+   ],
+   [
+    "-ka",
+    "Adjectival suffix."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
  },
  "appamatto": {
   "meaning": "heedful, diligent, ardent",
   "gram": "past participle of na pamajjati, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pamatta", "Negligent, heedless (past participle of pamajjati, pa + √mad)."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pamatta",
+    "Negligent, heedless (past participle of pamajjati, pa + √mad)."
+   ]
   ],
   "goenka": "Appamatta, heedful, is the quality of one established in appamāda — diligence, non-negligence. The Buddha's final exhortation, appamādena sampādetha (\"strive on diligently\"), is repeatedly emphasised in the tradition: the meditator is to work patiently and persistently, with unremitting awareness, never letting heedlessness interrupt the practice."
  },
@@ -318,17 +590,14 @@
   "meaning": "heedful, diligent (plural); diligently",
   "gram": "past participle of na pamajjati, plural",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pamatta", "Negligent, heedless (past participle of pamajjati)."]
-  ]
- },
- "appamattā diligently appamatto": {
-  "meaning": "heedful, diligent, ardent",
-  "gram": "past participle of na pamajjati (plural appamattā, singular appamatto)",
-  "note": "uncertain: this key carries the English word \"diligently\" over from the source glossary's layout; the Pāli entries are appamattā (plural) and appamatto (singular), \"heedful, diligent\".",
-  "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pamatta", "Negligent, heedless (past participle of pamajjati)."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pamatta",
+    "Negligent, heedless (past participle of pamajjati)."
+   ]
   ]
  },
  "appamādena": {
@@ -336,9 +605,18 @@
   "summary": "Familiar from the Buddha's last words: appamādena sampādetha, \"strive on diligently\".",
   "gram": "masculine abstract noun appamāda, instrumental singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pamāda", "Negligence, heedlessness (pa + √mad)."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pamāda",
+    "Negligence, heedlessness (pa + √mad)."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ],
   "goenka": "Appamāda, non-negligence or diligence, carries the weight of the Buddha's final exhortation: appamādena sampādetha — strive on diligently. In the tradition this is the call to work patiently and persistently, maintaining the continuity of awareness in every posture and activity, since heedlessness allows the old habit pattern of reaction to reassert itself."
  },
@@ -346,52 +624,100 @@
   "meaning": "in consequence of diligence; on account of vigilance and zeal",
   "gram": "adverbial compound, accusative singular",
   "breakdown": [
-   ["appamāda", "Diligence, non-negligence, vigilance."],
-   ["adhikaraṇa", "In consequence of, on account of (fused by vowel sandhi to -dādhi-)."]
+   [
+    "appamāda",
+    "Diligence, non-negligence, vigilance."
+   ],
+   [
+    "adhikaraṇa",
+    "In consequence of, on account of (fused by vowel sandhi to -dādhi-)."
+   ]
   ]
  },
  "appamāṇo": {
   "meaning": "boundless, infinite, immeasurable",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pamāṇa", "Measure, limit (pa + √mā)."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pamāṇa",
+    "Measure, limit (pa + √mā)."
+   ]
   ]
  },
  "appanigghosañca": {
   "meaning": "and with little noise; and free of shouting and voices",
   "gram": "adjective, compound, accusative singular + conjunction ca",
   "breakdown": [
-   ["appa", "Little, few."],
-   ["nigghosa", "Noise, shouting, voices."],
-   ["-ñca", "= ca \"and\", with sandhi ṁ + c → ñc."]
+   [
+    "appa",
+    "Little, few."
+   ],
+   [
+    "nigghosa",
+    "Noise, shouting, voices."
+   ],
+   [
+    "-ñca",
+    "= ca \"and\", with sandhi ṁ + c → ñc."
+   ]
   ]
  },
  "appannapānabhojane": {
   "meaning": "in little food, drink and nourishment; (a household) with scant food and drink",
   "gram": "adjective compound, locative singular",
   "breakdown": [
-   ["appa", "Little, few (with junction nasal before anna)."],
-   ["anna", "Food."],
-   ["pāna", "Drink."],
-   ["bhojana", "Nourishment, meal."],
-   ["-e", "Locative singular ending."]
+   [
+    "appa",
+    "Little, few (with junction nasal before anna)."
+   ],
+   [
+    "anna",
+    "Food."
+   ],
+   [
+    "pāna",
+    "Drink."
+   ],
+   [
+    "bhojana",
+    "Nourishment, meal."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "appanā": {
   "meaning": "fixed application of the mind; (in the lexicon's gloss) thought, reasoning",
   "gram": "feminine abstract noun (from appeti, √ar)",
   "breakdown": [
-   ["appe-", "Stem of appeti \"to fix on, apply\" (√ar)."],
-   ["-anā", "Feminine action-noun suffix."]
+   [
+    "appe-",
+    "Stem of appeti \"to fix on, apply\" (√ar)."
+   ],
+   [
+    "-anā",
+    "Feminine action-noun suffix."
+   ]
   ]
  },
  "appanāppattaṁ": {
   "meaning": "having reached full application of mind; attained to fixed thought or resolve",
   "gram": "compound: appanā + patta (past participle of pāpuṇāti), accusative singular",
   "breakdown": [
-   ["appanā", "Application of mind, fixed thought, resolve."],
-   ["patta", "Attained, reached (past participle of pāpuṇāti; the pp is sandhi doubling)."]
+   [
+    "appanā",
+    "Application of mind, fixed thought, resolve."
+   ],
+   [
+    "patta",
+    "Attained, reached (past participle of pāpuṇāti; the pp is sandhi doubling)."
+   ]
   ]
  },
  "apparajakkhajātikā": {
@@ -399,36 +725,72 @@
   "summary": "From the Brahmā Sahampati episode: beings \"with little dust in their eyes\" who are able to understand the Dhamma.",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["appa", "Little, few."],
-   ["rajakkha", "Having dust (raja \"dust, defilement\" + akkha \"eye\"; the kk is sandhi doubling)."],
-   ["jātika", "Of such a clan or nature; beings of that kind."]
+   [
+    "appa",
+    "Little, few."
+   ],
+   [
+    "rajakkha",
+    "Having dust (raja \"dust, defilement\" + akkha \"eye\"; the kk is sandhi doubling)."
+   ],
+   [
+    "jātika",
+    "Of such a clan or nature; beings of that kind."
+   ]
   ]
  },
  "appasannānañceva": {
   "meaning": "and just for those who are not (yet) favourably disposed; for the unconverted",
   "gram": "adjective appasanna, genitive plural + particles ca + eva",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["pasanna", "Pleased, favourably disposed, having faith (past participle of pasīdati)."],
-   ["-ānaṁ", "Genitive plural ending."],
-   ["ca + eva", "\"And just\" (fused by sandhi to -ñceva)."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "pasanna",
+    "Pleased, favourably disposed, having faith (past participle of pasīdati)."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive plural ending."
+   ],
+   [
+    "ca + eva",
+    "\"And just\" (fused by sandhi to -ñceva)."
+   ]
   ]
  },
  "appassakā": {
   "meaning": "having little of one's own; possessing little",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["appa", "Little, few. (The ss is sandhi doubling.)"],
-   ["saka", "One's own."]
+   [
+    "appa",
+    "Little, few. (The ss is sandhi doubling.)"
+   ],
+   [
+    "saka",
+    "One's own."
+   ]
   ]
  },
  "appattassa": {
   "meaning": "of what has not been attained, reached or gained",
   "gram": "past participle of na pāpuṇāti, genitive/dative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with pp doubling)."],
-   ["patta", "Attained, reached (past participle of pāpuṇāti, √ap)."],
-   ["-ssa", "Genitive/dative singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\" (with pp doubling)."
+   ],
+   [
+    "patta",
+    "Attained, reached (past participle of pāpuṇāti, √ap)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
   ]
  }
 }

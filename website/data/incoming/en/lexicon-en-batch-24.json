@@ -1,402 +1,715 @@
 {
-  "icchāpakatassa": {
-    "meaning": "of one overcome by desire; of one in whom desire has worked",
-    "gram": "masculine compound (past participle), genitive/dative singular",
-    "breakdown": [
-      ["icchā", "Desire, wish."],
-      ["apakata", "Done away with, put off; affected, overcome (past participle of apakaroti)."],
-      ["-ssa", "Genitive/dative singular ending."]
-    ],
-    "note": "uncertain: the lexicon parses icchā + apakata, \"desire put off / done away with\"; in canonical usage icchāpakata commonly means \"overcome by desire\"."
-  },
-  "idamavoca": {
-    "meaning": "he spoke this; thus he said",
-    "gram": "sandhi fusion: neuter pronoun + 3rd person singular aorist of vacati",
-    "breakdown": [
-      ["idaṁ", "This; -ṁ > -m- before a vowel."],
-      ["avoca", "Said, spoke (aorist of vacati, √vac)."]
-    ]
-  },
-  "idampi": {
-    "meaning": "this too; this also",
-    "gram": "sandhi fusion: neuter pronoun + enclitic particle",
-    "breakdown": [
-      ["idaṁ", "This."],
-      ["(a)pi", "Also, too."]
-    ]
-  },
-  "idampissa": {
-    "meaning": "this too might be (for him); this also would be considered as",
-    "gram": "sandhi fusion: pronoun + particle + 3rd person singular optative",
-    "breakdown": [
-      ["idaṁ", "This."],
-      ["pi", "Also, too."],
-      ["assa", "Would be (optative of atthi); or, of him (genitive)."]
-    ]
-  },
-  "idappaccayatāpaccasamuppādo": {
-    "meaning": "conditionality (\"having this as its cause\") and dependent origination",
-    "gram": "compound noun, nominative singular",
-    "breakdown": [
-      ["ida", "This (pronoun stem)."],
-      ["paccayatā", "The state of having as condition: idappaccayatā, specific conditionality (the doubled pp is sandhi doubling)."],
-      ["paṭiccasamuppādo", "Dependent origination, arising because of a cause (paṭicca, dependent on + samuppāda, arising)."]
-    ],
-    "note": "uncertain: the source spelling -paccasamuppādo appears to be a contraction of paṭiccasamuppādo, dependent origination."
-  },
-  "idaṁ": {
-    "meaning": "this; thus",
-    "gram": "pronoun, neuter nominative/accusative singular of ima",
-    "forms": ["idaṁ"]
-  },
-  "idaṁ thus iddhi": {
-    "meaning": "iddhi: strength, power; psychic power",
-    "gram": "feminine noun (see iddhi)",
-    "note": "uncertain: the key is an artifact of merged vocabulary rows (\"idaṁ thus / iddhi strength, power / idha here\"); the content belongs under iddhi."
-  },
-  "idha": {
-    "meaning": "here; in this world, in this teaching",
-    "gram": "indeclinable adverb, from the pronoun stem ima"
-  },
-  "idhupāli": {
-    "meaning": "here, Upāli",
-    "gram": "sandhi fusion: adverb + vocative proper noun",
-    "breakdown": [
-      ["idha", "Here."],
-      ["upāli", "Upāli (vocative), the monk foremost in the discipline. Sandhi: idha + upāli > idhupāli."]
-    ]
-  },
-  "iha": {
-    "meaning": "here; in this case",
-    "gram": "indeclinable adverb, from the pronoun stem ima"
-  },
-  "iminā": {
-    "meaning": "by this; with this",
-    "gram": "pronoun, instrumental singular of idaṁ/ima"
-  },
-  "indriyānaṁ": {
-    "meaning": "of the sense faculties",
-    "gram": "neuter noun, genitive/dative plural of indriya",
-    "breakdown": [
-      ["indriya", "Sense faculty; controlling principle (from inda/indra, ruler)."],
-      ["-ānaṁ", "Genitive/dative plural ending."]
-    ],
-    "forms": ["indriyānaṁ"]
-  },
-  "iriyatīti": {
-    "meaning": "\"...moves, behaves\" (with closing quotation marker)",
-    "gram": "verb, 3rd person singular present + quotation particle ti",
-    "breakdown": [
-      ["iriyati", "Moves, behaves, goes on (√īr); final -i lengthened before ti."],
-      ["ti", "Quotation marker (iti)."]
-    ]
-  },
-  "iriyāpathassa": {
-    "meaning": "of the posture; of deportment",
-    "gram": "masculine compound noun, genitive/dative singular",
-    "breakdown": [
-      ["iriyā", "Movement, deportment (√īr)."],
-      ["patha", "Path, way: iriyāpatha, the postures (walking, standing, sitting, lying)."],
-      ["-ssa", "Genitive/dative singular ending."]
-    ]
-  },
-  "iriyāpathato": {
-    "meaning": "outside the (four) postures; apart from the modes of deportment",
-    "gram": "masculine compound noun with ablative suffix -to",
-    "breakdown": [
-      ["iriyā", "Movement, deportment."],
-      ["patha", "Path, way: the four postures of standing, sitting, walking and lying."],
-      ["-to", "Ablative suffix: from, outside of."]
-    ]
-  },
-  "isigaṇaṁ": {
-    "meaning": "a group of sages; a crowd of holy men",
-    "gram": "masculine compound noun, accusative singular",
-    "breakdown": [
-      ["isi", "Sage, saint, holy man, seer."],
-      ["gaṇaṁ", "Group, crowd, company (accusative)."]
-    ],
-    "forms": ["isigaṇaṁ"]
-  },
-  "issariyakāraṇā": {
-    "meaning": "for the sake of rulership; because of (exercising) supremacy",
-    "gram": "neuter compound noun, ablative singular",
-    "breakdown": [
-      ["issariya", "Rulership, supremacy, lordship."],
-      ["kāraṇā", "Making, cause; ablative: by reason of."]
-    ]
-  },
-  "issariyavossaggena": {
-    "meaning": "by handing over dominion; through relinquishing lordship",
-    "gram": "masculine compound noun, instrumental singular",
-    "breakdown": [
-      ["issariya", "Dominion, rulership."],
-      ["vossaggena", "Handing over, relinquishing (vi + ava + √sajj), instrumental singular."]
-    ]
-  },
-  "issarādhipaccaṁ": {
-    "meaning": "the sovereignty of a lord; mastery and supreme power",
-    "gram": "neuter abstract compound noun, nominative/accusative singular",
-    "breakdown": [
-      ["issara", "Lord, master, ruler."],
-      ["ādhipaccaṁ", "Sovereignty, supreme power (from adhipati, overlord). Sandhi: issara + ādhi- > issarādhi-."]
-    ],
-    "forms": ["issarādhipaccaṁ"]
-  },
-  "issatta/issattha": {
-    "meaning": "archery; an archer",
-    "gram": "neuter noun (issattha, with variant spelling issatta)",
-    "breakdown": [
-      ["isu", "Arrow."],
-      ["sattha", "Craft, science: the craft of the arrow, archery."]
-    ]
-  },
-  "issāmacchariyasaṁyojanā": {
-    "meaning": "the fetters of envy and stinginess",
-    "gram": "compound noun/adjective, plural",
-    "breakdown": [
-      ["issā", "Envy, jealousy."],
-      ["macchariya", "Stinginess, avarice."],
-      ["saṁyojanā", "Fetter, bondage (saṁ + √yuj)."]
-    ],
-    "forms": ["issāmacchariyasaṁyojanā"]
-  },
-  "issāmanako": {
-    "meaning": "filled with envy; of jealous mind",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["issā", "Envy, jealousy."],
-      ["manako", "Having a mind of, minded (from mano, mind)."]
-    ]
-  },
-  "isīti tāpaso.": {
-    "meaning": "\"isi\" means an ascetic (tāpasa)",
-    "gram": "phrase; noun + quotation particle + masculine noun (commentarial gloss)",
-    "breakdown": [
-      ["isī", "Sage, seer; lengthened before ti."],
-      ["ti", "Quotation marker (iti): \"(called) isi\"."],
-      ["tāpaso", "Ascetic, one who practises austerity (from tapa, austerity)."]
-    ],
-    "forms": ["Isīti tāpaso"]
-  },
-  "itarā": {
-    "meaning": "the other; the other one (feminine)",
-    "gram": "pronoun/adjective, feminine nominative singular, from ima + -tara"
-  },
-  "itibhavābhavakathaṁ": {
-    "meaning": "talk of becoming this and not becoming that; chatter about existence and non-existence",
-    "gram": "feminine compound noun, accusative singular",
-    "breakdown": [
-      ["iti", "Thus, suchlike."],
-      ["bhava", "Becoming, existence."],
-      ["abhava", "Non-becoming, non-existence. Sandhi: bhava + abhava > bhavābhava."],
-      ["kathaṁ", "Talk, conversation (accusative)."]
-    ],
-    "forms": ["itibhavābhavakathaṁ"]
-  },
-  "iticiticeva": {
-    "meaning": "thus and thus indeed; here and there, this way and that",
-    "gram": "sandhi fusion: iti + ca + iti + ca + eva",
-    "breakdown": [
-      ["iti", "Thus (repeated: this way and that)."],
-      ["ca", "And (repeated)."],
-      ["eva", "Just, indeed (emphatic)."]
-    ]
-  },
-  "itikirāya": {
-    "meaning": "by hearsay; on rumour",
-    "gram": "feminine abstract noun, instrumental singular",
-    "breakdown": [
-      ["iti", "Thus."],
-      ["kira", "It is said, reportedly: itikirā, hearsay."],
-      ["-āya", "Instrumental singular ending."]
-    ],
-    "goenka": "Itikirāya appears in the Kālāma-type advice not to accept a teaching merely on hearsay — the Dhamma is to be verified by one's own direct experience, not accepted on report or rumour."
-  },
-  "itipi": {
-    "meaning": "thus also; thus indeed (opening of the Buddha-recollection formula itipi so bhagavā)",
-    "gram": "indeclinable adverb + enclitic particle",
-    "breakdown": [
-      ["iti", "Thus."],
-      ["pi", "Also, indeed."]
-    ]
-  },
-  "itthannāmaṁ": {
-    "meaning": "of such and such a name; so-named",
-    "gram": "compound adjective, accusative singular",
-    "breakdown": [
-      ["itthaṁ", "Thus, in this way; -ṁ assimilates to -n- before n."],
-      ["nāmaṁ", "Name: named thus, so-and-so."]
-    ],
-    "forms": ["itthannāmaṁ"]
-  },
-  "itthattāyā": {
-    "meaning": "for this state of existence; of being in this world",
-    "gram": "neuter abstract noun, dative/genitive singular",
-    "breakdown": [
-      ["ittha", "Here, in this way (from ima)."],
-      ["-tta", "Abstract suffix: the state of being thus, this existence."],
-      ["-āya", "Dative/genitive singular ending."]
-    ]
-  },
-  "itthattāyāti": {
-    "meaning": "\"...for this state of becoming\" (with closing quotation marker, ending the arahant's declaration)",
-    "gram": "neuter abstract noun, dative/genitive singular + quotation particle ti",
-    "breakdown": [
-      ["itthatta", "This state of becoming, being in this world (ittha + -tta)."],
-      ["-āya", "Dative/genitive singular ending."],
-      ["ti", "Quotation marker (iti): closes the formula nāparaṁ itthattāyā ti, \"there is no more of this state of becoming\"."]
-    ]
-  },
-  "itthaṁ": {
-    "meaning": "in this way; thus",
-    "gram": "indeclinable adverb, from the pronoun stem ima",
-    "forms": ["itthaṁ"]
-  },
-  "itthidhutto": {
-    "meaning": "a womanizer; one leading a wild life with women",
-    "gram": "masculine compound noun, nominative singular",
-    "breakdown": [
-      ["itthi (itthī)", "Woman."],
-      ["dhutto", "Rogue, one leading a wild, dissolute life."]
-    ]
-  },
-  "itthikumārikapaṭiggahaṇā": {
-    "meaning": "(abstaining) from accepting women and girls",
-    "gram": "neuter compound action noun, ablative singular",
-    "breakdown": [
-      ["itthi", "Woman."],
-      ["kumārika (kumārikā)", "Girl, young maiden."],
-      ["paṭiggahaṇā", "Accepting, receiving; ablative: from accepting."]
-    ]
-  },
-  "iṭṭhā": {
-    "meaning": "pleasant; agreeable; wished-for",
-    "gram": "past participle of icchati (√is), plural or feminine form",
-    "breakdown": [
-      ["√is", "Root meaning to wish, desire."],
-      ["-ta", "Past participle suffix: is + ta > iṭṭha, desired, agreeable."]
-    ]
-  },
-  "jagatippadeso": {
-    "meaning": "a spot on the earth; a place or region of the world",
-    "gram": "masculine compound noun, nominative singular",
-    "breakdown": [
-      ["jagati (jagatī)", "Earth, world."],
-      ["padeso", "Spot, place, region (the doubled pp is sandhi doubling)."]
-    ]
-  },
-  "jagāma": {
-    "meaning": "went; went forth",
-    "gram": "verb, 3rd person singular (reduplicated) aorist/perfect of gacchati (√gam)",
-    "breakdown": [
-      ["ja-", "Reduplication syllable."],
-      ["gāma", "From √gam, to go: went."]
-    ],
-    "note": "uncertain: the lexicon row conflates this with the neighbouring entry bījagāmabhūtagāmasamārambhā (injury to seeds and plants); jagāma itself is the aorist \"went\"."
-  },
-  "jahe": {
-    "meaning": "should abandon; would give up, renounce",
-    "gram": "verb, 3rd person singular optative of jahāti (√hā); variant jaheyya",
-    "breakdown": [
-      ["jaha-", "Present stem of jahāti, to abandon (√hā)."],
-      ["-e", "3rd person singular optative ending."]
-    ],
-    "forms": ["jaheyya"]
-  },
-  "jahitā": {
-    "meaning": "dropped off; abandoned",
-    "gram": "past participle of jahati (√hā), plural or feminine form",
-    "breakdown": [
-      ["jaha-", "Present stem of jahati, to abandon (√hā)."],
-      ["-ita", "Past participle suffix: abandoned."]
-    ]
-  },
-  "jahitā dropped": {
-    "meaning": "dropped off; abandoned",
-    "gram": "past participle of jahati (see jahitā)",
-    "note": "uncertain: the key is an artifact of a split vocabulary row (\"jahitā dropped / off, abandoned\"); the entry belongs under jahitā."
-  },
-  "jambudīpa": {
-    "meaning": "Jambudīpa, the land of the rose-apple (the Indian subcontinent)",
-    "gram": "masculine compound proper noun",
-    "breakdown": [
-      ["jambu", "The rose-apple tree."],
-      ["dīpa", "Island, continent."]
-    ]
-  },
-  "janeti": {
-    "meaning": "puts forth; produces; generates",
-    "gram": "verb, 3rd person singular present, causative of jāyati (√jan)",
-    "breakdown": [
-      ["jane-", "Causative stem of √jan, to be born: to cause to be born, produce."],
-      ["-ti", "3rd person singular present ending."]
-    ]
-  },
-  "janetā": {
-    "meaning": "one who brings into being; a producer; a mother",
-    "gram": "masculine agent noun from janeti (√jan), nominative singular",
-    "breakdown": [
-      ["jane-", "Causative stem of √jan: to bring into being."],
-      ["-tā (-tar)", "Agent suffix: the one who produces, the genetrix."]
-    ]
-  },
-  "jantuno": {
-    "meaning": "of a man; of a person, creature",
-    "gram": "masculine noun (jantu), genitive/dative singular, irregular (√jan)",
-    "breakdown": [
-      ["√jan", "Root meaning to be born."],
-      ["-tu", "Noun suffix: a born being, creature."],
-      ["-no", "Genitive/dative singular ending."]
-    ]
-  },
-  "janā": {
-    "meaning": "people; folks",
-    "gram": "masculine noun, nominative plural of jana (√jan)",
-    "breakdown": [
-      ["√jan", "Root meaning to be born: jana, a person."],
-      ["-ā", "Nominative plural ending."]
-    ]
-  },
-  "jarādhammomhi": {
-    "meaning": "\"I am of the nature to age\"; I am subject to old age",
-    "gram": "sandhi fusion: feminine noun + masculine noun + 1st person singular present of atthi",
-    "breakdown": [
-      ["jarā", "Old age, ageing."],
-      ["dhammo", "Nature, having the nature of."],
-      ["amhi", "I am (1st person singular of atthi). Sandhi: dhammo + amhi > dhammomhi."]
-    ],
-    "goenka": "The phrase opens the five subjects for frequent recollection: jarādhammomhi, jaraṁ anatikkanto — \"I am of the nature to age, I have not gone beyond ageing.\" The reflection turns the universal facts of ageing, sickness and death into objects of direct contemplation rather than abstract belief."
-  },
-  "jarādhammā": {
-    "meaning": "having the nature of old age; subject to ageing",
-    "gram": "compound adjective, plural or feminine form",
-    "breakdown": [
-      ["jarā", "Old age, ageing."],
-      ["dhammā", "Having the nature of: bound to age."]
-    ]
-  },
-  "jarāpi": {
-    "meaning": "also old age; ageing too",
-    "gram": "feminine noun + enclitic particle",
-    "breakdown": [
-      ["jarā", "Ageing, old age (√jar, to grow old)."],
-      ["pi", "Also, too (enclitic)."]
-    ]
-  },
-  "jayamaṅgalagāthā,": {
-    "meaning": "the Jayamaṅgala Gāthā, the Verses of Blessing and Victory",
-    "gram": "feminine compound noun, chant title",
-    "breakdown": [
-      ["jaya", "Victory."],
-      ["maṅgala", "Blessing, auspiciousness."],
-      ["gāthā", "Verses, stanzas."]
-    ],
-    "goenka": "The Jayamaṅgalagāthā is recited on day four of the 10-day course by S. N. Goenka; the verse referred to here recalls the incident and \"attack\" caused by Devadatta.",
-    "forms": ["Jayamaṅgalagāthā"]
-  },
-  "jaṅgala": {
-    "meaning": "jungle; rough wasteland",
-    "gram": "neuter noun"
-  }
+ "icchāpakatassa": {
+  "meaning": "of one overcome by desire; of one in whom desire has worked",
+  "gram": "masculine compound (past participle), genitive/dative singular",
+  "breakdown": [
+   [
+    "icchā",
+    "Desire, wish."
+   ],
+   [
+    "apakata",
+    "Done away with, put off; affected, overcome (past participle of apakaroti)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
+  ],
+  "note": "uncertain: the lexicon parses icchā + apakata, \"desire put off / done away with\"; in canonical usage icchāpakata commonly means \"overcome by desire\"."
+ },
+ "idamavoca": {
+  "meaning": "he spoke this; thus he said",
+  "gram": "sandhi fusion: neuter pronoun + 3rd person singular aorist of vacati",
+  "breakdown": [
+   [
+    "idaṁ",
+    "This; -ṁ > -m- before a vowel."
+   ],
+   [
+    "avoca",
+    "Said, spoke (aorist of vacati, √vac)."
+   ]
+  ]
+ },
+ "idampi": {
+  "meaning": "this too; this also",
+  "gram": "sandhi fusion: neuter pronoun + enclitic particle",
+  "breakdown": [
+   [
+    "idaṁ",
+    "This."
+   ],
+   [
+    "(a)pi",
+    "Also, too."
+   ]
+  ]
+ },
+ "idampissa": {
+  "meaning": "this too might be (for him); this also would be considered as",
+  "gram": "sandhi fusion: pronoun + particle + 3rd person singular optative",
+  "breakdown": [
+   [
+    "idaṁ",
+    "This."
+   ],
+   [
+    "pi",
+    "Also, too."
+   ],
+   [
+    "assa",
+    "Would be (optative of atthi); or, of him (genitive)."
+   ]
+  ]
+ },
+ "idappaccayatāpaccasamuppādo": {
+  "meaning": "conditionality (\"having this as its cause\") and dependent origination",
+  "gram": "compound noun, nominative singular",
+  "breakdown": [
+   [
+    "ida",
+    "This (pronoun stem)."
+   ],
+   [
+    "paccayatā",
+    "The state of having as condition: idappaccayatā, specific conditionality (the doubled pp is sandhi doubling)."
+   ],
+   [
+    "paṭiccasamuppādo",
+    "Dependent origination, arising because of a cause (paṭicca, dependent on + samuppāda, arising)."
+   ]
+  ],
+  "note": "uncertain: the source spelling -paccasamuppādo appears to be a contraction of paṭiccasamuppādo, dependent origination."
+ },
+ "idaṁ": {
+  "meaning": "this; thus",
+  "gram": "pronoun, neuter nominative/accusative singular of ima",
+  "forms": [
+   "idaṁ"
+  ]
+ },
+ "iddhi": {
+  "meaning": "strength; supernormal power",
+  "gram": "feminine noun (see iddhi)"
+ },
+ "idha": {
+  "meaning": "here; in this world, in this teaching",
+  "gram": "indeclinable adverb, from the pronoun stem ima"
+ },
+ "idhupāli": {
+  "meaning": "here, Upāli",
+  "gram": "sandhi fusion: adverb + vocative proper noun",
+  "breakdown": [
+   [
+    "idha",
+    "Here."
+   ],
+   [
+    "upāli",
+    "Upāli (vocative), the monk foremost in the discipline. Sandhi: idha + upāli > idhupāli."
+   ]
+  ]
+ },
+ "iha": {
+  "meaning": "here; in this case",
+  "gram": "indeclinable adverb, from the pronoun stem ima"
+ },
+ "iminā": {
+  "meaning": "by this; with this",
+  "gram": "pronoun, instrumental singular of idaṁ/ima"
+ },
+ "indriyānaṁ": {
+  "meaning": "of the sense faculties",
+  "gram": "neuter noun, genitive/dative plural of indriya",
+  "breakdown": [
+   [
+    "indriya",
+    "Sense faculty; controlling principle (from inda/indra, ruler)."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive/dative plural ending."
+   ]
+  ],
+  "forms": [
+   "indriyānaṁ"
+  ]
+ },
+ "iriyatīti": {
+  "meaning": "\"...moves, behaves\" (with closing quotation marker)",
+  "gram": "verb, 3rd person singular present + quotation particle ti",
+  "breakdown": [
+   [
+    "iriyati",
+    "Moves, behaves, goes on (√īr); final -i lengthened before ti."
+   ],
+   [
+    "ti",
+    "Quotation marker (iti)."
+   ]
+  ]
+ },
+ "iriyāpathassa": {
+  "meaning": "of the posture; of deportment",
+  "gram": "masculine compound noun, genitive/dative singular",
+  "breakdown": [
+   [
+    "iriyā",
+    "Movement, deportment (√īr)."
+   ],
+   [
+    "patha",
+    "Path, way: iriyāpatha, the postures (walking, standing, sitting, lying)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
+  ]
+ },
+ "iriyāpathato": {
+  "meaning": "outside the (four) postures; apart from the modes of deportment",
+  "gram": "masculine compound noun with ablative suffix -to",
+  "breakdown": [
+   [
+    "iriyā",
+    "Movement, deportment."
+   ],
+   [
+    "patha",
+    "Path, way: the four postures of standing, sitting, walking and lying."
+   ],
+   [
+    "-to",
+    "Ablative suffix: from, outside of."
+   ]
+  ]
+ },
+ "isigaṇaṁ": {
+  "meaning": "a group of sages; a crowd of holy men",
+  "gram": "masculine compound noun, accusative singular",
+  "breakdown": [
+   [
+    "isi",
+    "Sage, saint, holy man, seer."
+   ],
+   [
+    "gaṇaṁ",
+    "Group, crowd, company (accusative)."
+   ]
+  ],
+  "forms": [
+   "isigaṇaṁ"
+  ]
+ },
+ "issariyakāraṇā": {
+  "meaning": "for the sake of rulership; because of (exercising) supremacy",
+  "gram": "neuter compound noun, ablative singular",
+  "breakdown": [
+   [
+    "issariya",
+    "Rulership, supremacy, lordship."
+   ],
+   [
+    "kāraṇā",
+    "Making, cause; ablative: by reason of."
+   ]
+  ]
+ },
+ "issariyavossaggena": {
+  "meaning": "by handing over dominion; through relinquishing lordship",
+  "gram": "masculine compound noun, instrumental singular",
+  "breakdown": [
+   [
+    "issariya",
+    "Dominion, rulership."
+   ],
+   [
+    "vossaggena",
+    "Handing over, relinquishing (vi + ava + √sajj), instrumental singular."
+   ]
+  ]
+ },
+ "issarādhipaccaṁ": {
+  "meaning": "the sovereignty of a lord; mastery and supreme power",
+  "gram": "neuter abstract compound noun, nominative/accusative singular",
+  "breakdown": [
+   [
+    "issara",
+    "Lord, master, ruler."
+   ],
+   [
+    "ādhipaccaṁ",
+    "Sovereignty, supreme power (from adhipati, overlord). Sandhi: issara + ādhi- > issarādhi-."
+   ]
+  ],
+  "forms": [
+   "issarādhipaccaṁ"
+  ]
+ },
+ "issatta/issattha": {
+  "meaning": "archery; an archer",
+  "gram": "neuter noun (issattha, with variant spelling issatta)",
+  "breakdown": [
+   [
+    "isu",
+    "Arrow."
+   ],
+   [
+    "sattha",
+    "Craft, science: the craft of the arrow, archery."
+   ]
+  ]
+ },
+ "issāmacchariyasaṁyojanā": {
+  "meaning": "the fetters of envy and stinginess",
+  "gram": "compound noun/adjective, plural",
+  "breakdown": [
+   [
+    "issā",
+    "Envy, jealousy."
+   ],
+   [
+    "macchariya",
+    "Stinginess, avarice."
+   ],
+   [
+    "saṁyojanā",
+    "Fetter, bondage (saṁ + √yuj)."
+   ]
+  ],
+  "forms": [
+   "issāmacchariyasaṁyojanā"
+  ]
+ },
+ "issāmanako": {
+  "meaning": "filled with envy; of jealous mind",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "issā",
+    "Envy, jealousy."
+   ],
+   [
+    "manako",
+    "Having a mind of, minded (from mano, mind)."
+   ]
+  ]
+ },
+ "isīti tāpaso.": {
+  "meaning": "\"isi\" means an ascetic (tāpasa)",
+  "gram": "phrase; noun + quotation particle + masculine noun (commentarial gloss)",
+  "breakdown": [
+   [
+    "isī",
+    "Sage, seer; lengthened before ti."
+   ],
+   [
+    "ti",
+    "Quotation marker (iti): \"(called) isi\"."
+   ],
+   [
+    "tāpaso",
+    "Ascetic, one who practises austerity (from tapa, austerity)."
+   ]
+  ],
+  "forms": [
+   "Isīti tāpaso"
+  ]
+ },
+ "itarā": {
+  "meaning": "the other; the other one (feminine)",
+  "gram": "pronoun/adjective, feminine nominative singular, from ima + -tara"
+ },
+ "itibhavābhavakathaṁ": {
+  "meaning": "talk of becoming this and not becoming that; chatter about existence and non-existence",
+  "gram": "feminine compound noun, accusative singular",
+  "breakdown": [
+   [
+    "iti",
+    "Thus, suchlike."
+   ],
+   [
+    "bhava",
+    "Becoming, existence."
+   ],
+   [
+    "abhava",
+    "Non-becoming, non-existence. Sandhi: bhava + abhava > bhavābhava."
+   ],
+   [
+    "kathaṁ",
+    "Talk, conversation (accusative)."
+   ]
+  ],
+  "forms": [
+   "itibhavābhavakathaṁ"
+  ]
+ },
+ "iticiticeva": {
+  "meaning": "thus and thus indeed; here and there, this way and that",
+  "gram": "sandhi fusion: iti + ca + iti + ca + eva",
+  "breakdown": [
+   [
+    "iti",
+    "Thus (repeated: this way and that)."
+   ],
+   [
+    "ca",
+    "And (repeated)."
+   ],
+   [
+    "eva",
+    "Just, indeed (emphatic)."
+   ]
+  ]
+ },
+ "itikirāya": {
+  "meaning": "by hearsay; on rumour",
+  "gram": "feminine abstract noun, instrumental singular",
+  "breakdown": [
+   [
+    "iti",
+    "Thus."
+   ],
+   [
+    "kira",
+    "It is said, reportedly: itikirā, hearsay."
+   ],
+   [
+    "-āya",
+    "Instrumental singular ending."
+   ]
+  ],
+  "goenka": "Itikirāya appears in the Kālāma-type advice not to accept a teaching merely on hearsay — the Dhamma is to be verified by one's own direct experience, not accepted on report or rumour."
+ },
+ "itipi": {
+  "meaning": "thus also; thus indeed (opening of the Buddha-recollection formula itipi so bhagavā)",
+  "gram": "indeclinable adverb + enclitic particle",
+  "breakdown": [
+   [
+    "iti",
+    "Thus."
+   ],
+   [
+    "pi",
+    "Also, indeed."
+   ]
+  ]
+ },
+ "itthannāmaṁ": {
+  "meaning": "of such and such a name; so-named",
+  "gram": "compound adjective, accusative singular",
+  "breakdown": [
+   [
+    "itthaṁ",
+    "Thus, in this way; -ṁ assimilates to -n- before n."
+   ],
+   [
+    "nāmaṁ",
+    "Name: named thus, so-and-so."
+   ]
+  ],
+  "forms": [
+   "itthannāmaṁ"
+  ]
+ },
+ "itthattāyā": {
+  "meaning": "for this state of existence; of being in this world",
+  "gram": "neuter abstract noun, dative/genitive singular",
+  "breakdown": [
+   [
+    "ittha",
+    "Here, in this way (from ima)."
+   ],
+   [
+    "-tta",
+    "Abstract suffix: the state of being thus, this existence."
+   ],
+   [
+    "-āya",
+    "Dative/genitive singular ending."
+   ]
+  ]
+ },
+ "itthattāyāti": {
+  "meaning": "\"...for this state of becoming\" (with closing quotation marker, ending the arahant's declaration)",
+  "gram": "neuter abstract noun, dative/genitive singular + quotation particle ti",
+  "breakdown": [
+   [
+    "itthatta",
+    "This state of becoming, being in this world (ittha + -tta)."
+   ],
+   [
+    "-āya",
+    "Dative/genitive singular ending."
+   ],
+   [
+    "ti",
+    "Quotation marker (iti): closes the formula nāparaṁ itthattāyā ti, \"there is no more of this state of becoming\"."
+   ]
+  ]
+ },
+ "itthaṁ": {
+  "meaning": "in this way; thus",
+  "gram": "indeclinable adverb, from the pronoun stem ima",
+  "forms": [
+   "itthaṁ"
+  ]
+ },
+ "itthidhutto": {
+  "meaning": "a womanizer; one leading a wild life with women",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   [
+    "itthi (itthī)",
+    "Woman."
+   ],
+   [
+    "dhutto",
+    "Rogue, one leading a wild, dissolute life."
+   ]
+  ]
+ },
+ "itthikumārikapaṭiggahaṇā": {
+  "meaning": "(abstaining) from accepting women and girls",
+  "gram": "neuter compound action noun, ablative singular",
+  "breakdown": [
+   [
+    "itthi",
+    "Woman."
+   ],
+   [
+    "kumārika (kumārikā)",
+    "Girl, young maiden."
+   ],
+   [
+    "paṭiggahaṇā",
+    "Accepting, receiving; ablative: from accepting."
+   ]
+  ]
+ },
+ "iṭṭhā": {
+  "meaning": "pleasant; agreeable; wished-for",
+  "gram": "past participle of icchati (√is), plural or feminine form",
+  "breakdown": [
+   [
+    "√is",
+    "Root meaning to wish, desire."
+   ],
+   [
+    "-ta",
+    "Past participle suffix: is + ta > iṭṭha, desired, agreeable."
+   ]
+  ]
+ },
+ "jagatippadeso": {
+  "meaning": "a spot on the earth; a place or region of the world",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   [
+    "jagati (jagatī)",
+    "Earth, world."
+   ],
+   [
+    "padeso",
+    "Spot, place, region (the doubled pp is sandhi doubling)."
+   ]
+  ]
+ },
+ "jagāma": {
+  "meaning": "went; went forth",
+  "gram": "verb, 3rd person singular (reduplicated) aorist/perfect of gacchati (√gam)",
+  "breakdown": [
+   [
+    "ja-",
+    "Reduplication syllable."
+   ],
+   [
+    "gāma",
+    "From √gam, to go: went."
+   ]
+  ],
+  "note": "uncertain: the lexicon row conflates this with the neighbouring entry bījagāmabhūtagāmasamārambhā (injury to seeds and plants); jagāma itself is the aorist \"went\"."
+ },
+ "jahe": {
+  "meaning": "should abandon; would give up, renounce",
+  "gram": "verb, 3rd person singular optative of jahāti (√hā); variant jaheyya",
+  "breakdown": [
+   [
+    "jaha-",
+    "Present stem of jahāti, to abandon (√hā)."
+   ],
+   [
+    "-e",
+    "3rd person singular optative ending."
+   ]
+  ],
+  "forms": [
+   "jaheyya"
+  ]
+ },
+ "jahitā": {
+  "meaning": "dropped off; abandoned",
+  "gram": "past participle of jahati (√hā), plural or feminine form",
+  "breakdown": [
+   [
+    "jaha-",
+    "Present stem of jahati, to abandon (√hā)."
+   ],
+   [
+    "-ita",
+    "Past participle suffix: abandoned."
+   ]
+  ]
+ },
+ "jambudīpa": {
+  "meaning": "Jambudīpa, the land of the rose-apple (the Indian subcontinent)",
+  "gram": "masculine compound proper noun",
+  "breakdown": [
+   [
+    "jambu",
+    "The rose-apple tree."
+   ],
+   [
+    "dīpa",
+    "Island, continent."
+   ]
+  ]
+ },
+ "janeti": {
+  "meaning": "puts forth; produces; generates",
+  "gram": "verb, 3rd person singular present, causative of jāyati (√jan)",
+  "breakdown": [
+   [
+    "jane-",
+    "Causative stem of √jan, to be born: to cause to be born, produce."
+   ],
+   [
+    "-ti",
+    "3rd person singular present ending."
+   ]
+  ]
+ },
+ "janetā": {
+  "meaning": "one who brings into being; a producer; a mother",
+  "gram": "masculine agent noun from janeti (√jan), nominative singular",
+  "breakdown": [
+   [
+    "jane-",
+    "Causative stem of √jan: to bring into being."
+   ],
+   [
+    "-tā (-tar)",
+    "Agent suffix: the one who produces, the genetrix."
+   ]
+  ]
+ },
+ "jantuno": {
+  "meaning": "of a man; of a person, creature",
+  "gram": "masculine noun (jantu), genitive/dative singular, irregular (√jan)",
+  "breakdown": [
+   [
+    "√jan",
+    "Root meaning to be born."
+   ],
+   [
+    "-tu",
+    "Noun suffix: a born being, creature."
+   ],
+   [
+    "-no",
+    "Genitive/dative singular ending."
+   ]
+  ]
+ },
+ "janā": {
+  "meaning": "people; folks",
+  "gram": "masculine noun, nominative plural of jana (√jan)",
+  "breakdown": [
+   [
+    "√jan",
+    "Root meaning to be born: jana, a person."
+   ],
+   [
+    "-ā",
+    "Nominative plural ending."
+   ]
+  ]
+ },
+ "jarādhammomhi": {
+  "meaning": "\"I am of the nature to age\"; I am subject to old age",
+  "gram": "sandhi fusion: feminine noun + masculine noun + 1st person singular present of atthi",
+  "breakdown": [
+   [
+    "jarā",
+    "Old age, ageing."
+   ],
+   [
+    "dhammo",
+    "Nature, having the nature of."
+   ],
+   [
+    "amhi",
+    "I am (1st person singular of atthi). Sandhi: dhammo + amhi > dhammomhi."
+   ]
+  ],
+  "goenka": "The phrase opens the five subjects for frequent recollection: jarādhammomhi, jaraṁ anatikkanto — \"I am of the nature to age, I have not gone beyond ageing.\" The reflection turns the universal facts of ageing, sickness and death into objects of direct contemplation rather than abstract belief."
+ },
+ "jarādhammā": {
+  "meaning": "having the nature of old age; subject to ageing",
+  "gram": "compound adjective, plural or feminine form",
+  "breakdown": [
+   [
+    "jarā",
+    "Old age, ageing."
+   ],
+   [
+    "dhammā",
+    "Having the nature of: bound to age."
+   ]
+  ]
+ },
+ "jarāpi": {
+  "meaning": "also old age; ageing too",
+  "gram": "feminine noun + enclitic particle",
+  "breakdown": [
+   [
+    "jarā",
+    "Ageing, old age (√jar, to grow old)."
+   ],
+   [
+    "pi",
+    "Also, too (enclitic)."
+   ]
+  ]
+ },
+ "jayamaṅgalagāthā,": {
+  "meaning": "the Jayamaṅgala Gāthā, the Verses of Blessing and Victory",
+  "gram": "feminine compound noun, chant title",
+  "breakdown": [
+   [
+    "jaya",
+    "Victory."
+   ],
+   [
+    "maṅgala",
+    "Blessing, auspiciousness."
+   ],
+   [
+    "gāthā",
+    "Verses, stanzas."
+   ]
+  ],
+  "goenka": "The Jayamaṅgalagāthā is recited on day four of the 10-day course by S. N. Goenka; the verse referred to here recalls the incident and \"attack\" caused by Devadatta.",
+  "forms": [
+   "Jayamaṅgalagāthā"
+  ]
+ },
+ "jaṅgala": {
+  "meaning": "jungle; rough wasteland",
+  "gram": "neuter noun"
+ }
 }

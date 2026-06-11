@@ -4,40 +4,70 @@
   "summary": "A grammatical term: kattukāraka is the agent relation, paired with kammakāraka, the relation to the action as patient.",
   "gram": "masculine noun (grammatical term)",
   "breakdown": [
-   ["kattu", "Agent, doer (from karoti)."],
-   ["kāraka", "Grammatical relation, case role."]
+   [
+    "kattu",
+    "Agent, doer (from karoti)."
+   ],
+   [
+    "kāraka",
+    "Grammatical relation, case role."
+   ]
   ]
  },
  "katvāna": {
   "meaning": "having acted; having done",
   "gram": "gerund (absolutive) of karoti, poetic form",
   "breakdown": [
-   ["√kar", "Root: to do, to make."],
-   ["-tvāna", "Gerund suffix (metrical variant of -tvā): \"having done\"."]
+   [
+    "√kar",
+    "Root: to do, to make."
+   ],
+   [
+    "-tvāna",
+    "Gerund suffix (metrical variant of -tvā): \"having done\"."
+   ]
   ]
  },
  "katvāpi": {
   "meaning": "even having done; having done also",
   "gram": "gerund of karoti + enclitic particle api, fused by sandhi",
   "breakdown": [
-   ["katvā", "Having done (gerund of karoti)."],
-   ["api", "Even, also. (The final -ā elides the a-: katvā + api → katvāpi.)"]
+   [
+    "katvā",
+    "Having done (gerund of karoti)."
+   ],
+   [
+    "api",
+    "Even, also. (The final -ā elides the a-: katvā + api → katvāpi.)"
+   ]
   ]
  },
  "kayavikkayā": {
   "meaning": "trading, commerce; buying and selling",
   "gram": "masculine noun, compound (here ablative/plural form)",
   "breakdown": [
-   ["kaya", "Buying."],
-   ["vikkaya", "Selling."]
+   [
+    "kaya",
+    "Buying."
+   ],
+   [
+    "vikkaya",
+    "Selling."
+   ]
   ]
  },
  "kayirā": {
   "meaning": "one could do; one should do",
   "gram": "verb, 3rd person singular optative of karoti (irregular: kareyya > kayirā)",
   "breakdown": [
-   ["√kar", "Root: to do, to make."],
-   ["-eyya", "Optative ending; the irregular metathesis gives kayirā."]
+   [
+    "√kar",
+    "Root: to do, to make."
+   ],
+   [
+    "-eyya",
+    "Optative ending; the irregular metathesis gives kayirā."
+   ]
   ]
  },
  "kañci": {
@@ -48,31 +78,52 @@
   "meaning": "of the body; of the corpse",
   "gram": "neuter noun (genitive singular of kaḷevara)",
   "breakdown": [
-   ["kaḷevara", "Body, corpse."],
-   ["-assa", "Genitive singular ending: \"of\"."]
+   [
+    "kaḷevara",
+    "Body, corpse."
+   ],
+   [
+    "-assa",
+    "Genitive singular ending: \"of\"."
+   ]
   ]
  },
  "kaṇhaṁ": {
   "meaning": "black, dark; evil, wicked",
   "gram": "adjective (accusative/neuter singular)",
   "breakdown": [
-   ["kaṇha", "Black, dark; figuratively evil, unwholesome."]
+   [
+    "kaṇha",
+    "Black, dark; figuratively evil, unwholesome."
+   ]
   ]
  },
  "kaṇṇasukhā": {
   "meaning": "pleasant to the ear",
   "gram": "adjective, compound (here feminine/plural form)",
   "breakdown": [
-   ["kaṇṇa", "Ear."],
-   ["sukha", "Pleasant, agreeable."]
+   [
+    "kaṇṇa",
+    "Ear."
+   ],
+   [
+    "sukha",
+    "Pleasant, agreeable."
+   ]
   ]
  },
  "kaṭukattāya": {
   "meaning": "acidity; bitterness",
   "gram": "neuter abstract noun (dative/instrumental form of kaṭukatta)",
   "breakdown": [
-   ["kaṭuka", "Bitter, pungent, sharp."],
-   ["-tta", "Abstract-noun suffix: \"the state of\"."]
+   [
+    "kaṭuka",
+    "Bitter, pungent, sharp."
+   ],
+   [
+    "-tta",
+    "Abstract-noun suffix: \"the state of\"."
+   ]
   ]
  },
  "kaṭṭha": {
@@ -80,7 +131,10 @@
   "summary": "In the source it appears in a list: dry grass, wood and cow dung (tiṇa-kaṭṭha-goma).",
   "gram": "neuter noun",
   "breakdown": [
-   ["kaṭṭha", "Wood, a piece of wood, firewood."]
+   [
+    "kaṭṭha",
+    "Wood, a piece of wood, firewood."
+   ]
   ]
  },
  "keci": {
@@ -91,16 +145,28 @@
   "meaning": "hair and beard",
   "gram": "neuter noun, compound (dvandva; accusative singular)",
   "breakdown": [
-   ["kesa", "Hair of the head."],
-   ["massu", "Beard."]
+   [
+    "kesa",
+    "Hair of the head."
+   ],
+   [
+    "massu",
+    "Beard."
+   ]
   ]
  },
  "kevalakappaṁ": {
   "meaning": "the whole of it; entirely, completely",
   "gram": "adjective, compound, used adverbially (accusative singular)",
   "breakdown": [
-   ["kevala", "Whole, entire, complete."],
-   ["kappa", "Here as a suffix-like member: \"about, virtually, in its entirety\"."]
+   [
+    "kevala",
+    "Whole, entire, complete."
+   ],
+   [
+    "kappa",
+    "Here as a suffix-like member: \"about, virtually, in its entirety\"."
+   ]
   ]
  },
  "kevalaparipuṇṇaṁ": {
@@ -108,15 +174,19 @@
   "summary": "Part of the stock description of the Dhamma well proclaimed: complete and pure in its entirety.",
   "gram": "adjective, compound (accusative/neuter singular)",
   "breakdown": [
-   ["kevala", "Complete, whole."],
-   ["pari-", "Prefix: fully, all around."],
-   ["puṇṇa", "Full, filled (past participle of pūrati)."]
+   [
+    "kevala",
+    "Complete, whole."
+   ],
+   [
+    "pari-",
+    "Prefix: fully, all around."
+   ],
+   [
+    "puṇṇa",
+    "Full, filled (past participle of pūrati)."
+   ]
   ]
- },
- "khadomanas­": {
-  "meaning": "fragment, apparently of a compound containing domanassa (\"displeasure, mental pain\"), e.g. sukhadomanassa",
-  "gram": "fragment (incomplete headword from a line break in the source)",
-  "note": "uncertain: the source row carries no gloss and the headword is a hyphenation fragment; it appears to belong to a longer compound ending in -kha + domanassa (such as dukkhadomanassa or sukhadomanassa)."
  },
  "khalu": {
   "meaning": "indeed; surely (also used in negations)",
@@ -127,15 +197,24 @@
   "summary": "Used in the polite inquiry \"is it bearable?\" when asking after someone's health.",
   "gram": "potential participle of khamati (neuter nominative/accusative singular)",
   "breakdown": [
-   ["√kham", "Root: to endure, to bear, to forgive (khamati)."],
-   ["-anīya", "Potential participle suffix: \"that can be endured\"."]
+   [
+    "√kham",
+    "Root: to endure, to bear, to forgive (khamati)."
+   ],
+   [
+    "-anīya",
+    "Potential participle suffix: \"that can be endured\"."
+   ]
   ]
  },
  "khandana": {
   "meaning": "leaping; aspiration (as a characteristic mark)",
   "gram": "neuter action noun",
   "breakdown": [
-   ["khandana", "Leaping, springing; the lexicon cites it in the compound khandana-lakkhaṇa, \"having leaping as its characteristic mark\"."]
+   [
+    "khandana",
+    "Leaping, springing; the lexicon cites it in the compound khandana-lakkhaṇa, \"having leaping as its characteristic mark\"."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line is fragmentary (\"with + aspiration, leaping + characteristic mark\"); the parse follows that fragment."
  },
@@ -143,35 +222,67 @@
   "meaning": "of the aggregates; of the five sensorial aggregates",
   "gram": "masculine noun (genitive plural of khandha)",
   "breakdown": [
-   ["khandha", "Aggregate, mass, heap: the five khandhas (rūpa, vedanā, saññā, saṅkhāra, viññāṇa) that make up the whole mind-matter structure."],
-   ["-ānaṁ", "Genitive plural ending: \"of\"."]
+   [
+    "khandha",
+    "Aggregate, mass, heap: the five khandhas (rūpa, vedanā, saññā, saṅkhāra, viññāṇa) that make up the whole mind-matter structure."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive plural ending: \"of\"."
+   ]
   ]
  },
  "khantimettānuddayasampanno": {
   "meaning": "endowed with tolerance, loving kindness and compassion",
   "gram": "adjective, compound (masculine nominative singular)",
   "breakdown": [
-   ["khanti", "Tolerance, forbearance."],
-   ["mettā", "Loving kindness."],
-   ["anuddayā", "Compassion, pity."],
-   ["sampanna", "Established in, endowed with."]
+   [
+    "khanti",
+    "Tolerance, forbearance."
+   ],
+   [
+    "mettā",
+    "Loving kindness."
+   ],
+   [
+    "anuddayā",
+    "Compassion, pity."
+   ],
+   [
+    "sampanna",
+    "Established in, endowed with."
+   ]
   ],
-  "forms": ["Khantimettānuddayasampanno"]
+  "forms": [
+   "Khantimettānuddayasampanno"
+  ]
  },
  "khantisoracce": {
   "meaning": "tolerance and gentleness; forbearance and sympathy",
   "gram": "neuter noun, compound (here locative/plural form)",
   "breakdown": [
-   ["khanti", "Tolerance, forbearance."],
-   ["soracca", "Gentleness, sympathy, meekness."]
+   [
+    "khanti",
+    "Tolerance, forbearance."
+   ],
+   [
+    "soracca",
+    "Gentleness, sympathy, meekness."
+   ]
   ]
  },
  "khantī": {
   "meaning": "forbearance; tolerance; patience",
   "gram": "feminine abstract noun (from khamati)",
   "breakdown": [
-   ["√kham", "Root: to endure, to bear (khamati)."],
-   ["-ti", "Abstract-noun suffix."]
+   [
+    "√kham",
+    "Root: to endure, to bear (khamati)."
+   ],
+   [
+    "-ti",
+    "Abstract-noun suffix."
+   ]
   ],
   "goenka": "Khanti, tolerance or forbearance, is counted among the ten pāramīs that a meditator develops on the path: sīla, nekkhamma, viriya, khanti, sacca, adhiṭṭhāna, paññā, upekhā, mettā and dāna. In practice it shows itself as the capacity to bear hardship and provocation with a calm and equanimous mind, without generating new reactions of aversion."
  },
@@ -179,32 +290,56 @@
   "meaning": "with a harsh, rough sound",
   "gram": "adjective compound (instrumental singular)",
   "breakdown": [
-   ["khara", "Harsh, rough."],
-   ["sara", "Sound, voice. (The doubling ss is junction doubling.)"]
+   [
+    "khara",
+    "Harsh, rough."
+   ],
+   [
+    "sara",
+    "Sound, voice. (The doubling ss is junction doubling.)"
+   ]
   ]
  },
  "khayaṁ": {
   "meaning": "destruction; cessation; extinction",
   "gram": "masculine noun (accusative singular of khaya, from khīyati)",
   "breakdown": [
-   ["√khī", "Root: to be exhausted, to waste away (khīyati); strengthened to khay-."],
-   ["-a", "Noun suffix: khaya, destruction, exhaustion."]
+   [
+    "√khī",
+    "Root: to be exhausted, to waste away (khīyati); strengthened to khay-."
+   ],
+   [
+    "-a",
+    "Noun suffix: khaya, destruction, exhaustion."
+   ]
   ]
  },
  "khayāya": {
   "meaning": "for the extinction; for the destruction (of something)",
   "gram": "masculine noun (dative singular of khaya)",
   "breakdown": [
-   ["khaya", "Extinction, destruction, exhaustion (from √khī)."],
-   ["-āya", "Dative singular ending: \"for the sake of\"."]
+   [
+    "khaya",
+    "Extinction, destruction, exhaustion (from √khī)."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: \"for the sake of\"."
+   ]
   ]
  },
  "khañjo": {
   "meaning": "lame",
   "gram": "adjective (masculine nominative singular, from khañjati \"to limp\")",
   "breakdown": [
-   ["√khañj", "Root: to limp, to hobble."],
-   ["-a", "Adjectival suffix."]
+   [
+    "√khañj",
+    "Root: to limp, to hobble."
+   ],
+   [
+    "-a",
+    "Adjectival suffix."
+   ]
   ]
  },
  "khaḷopi": {
@@ -215,155 +350,278 @@
   "meaning": "even a broken piece; even a fragment",
   "gram": "masculine noun khaṇḍa (accusative singular) + enclitic particle api",
   "breakdown": [
-   ["khaṇḍa", "Broken piece, fragment (from khaṇḍeti \"to break\")."],
-   ["api", "Even, also. (khaṇḍaṁ + api → khaṇḍampi by sandhi.)"]
+   [
+    "khaṇḍa",
+    "Broken piece, fragment (from khaṇḍeti \"to break\")."
+   ],
+   [
+    "api",
+    "Even, also. (khaṇḍaṁ + api → khaṇḍampi by sandhi.)"
+   ]
   ]
  },
  "khaṇḍiccaṁ": {
   "meaning": "the state of being broken; brokenness (of teeth, in the description of aging)",
   "gram": "neuter abstract noun (from khaṇḍita)",
   "breakdown": [
-   ["√khaṇḍ", "Root: to break."],
-   ["khaṇḍita", "Broken (past participle)."],
-   ["-ya", "Abstract-noun suffix: khaṇḍicca, the state of being broken."]
+   [
+    "√khaṇḍ",
+    "Root: to break."
+   ],
+   [
+    "khaṇḍita",
+    "Broken (past participle)."
+   ],
+   [
+    "-ya",
+    "Abstract-noun suffix: khaṇḍicca, the state of being broken."
+   ]
   ]
  },
  "khemangato": {
   "meaning": "having attained the state of security; arrived at safety",
   "gram": "adjective, compound (masculine nominative singular)",
   "breakdown": [
-   ["khema", "Security, safety, peace."],
-   ["gata", "Gone to, attained (past participle of gacchati)."]
+   [
+    "khema",
+    "Security, safety, peace."
+   ],
+   [
+    "gata",
+    "Gone to, attained (past participle of gacchati)."
+   ]
   ]
  },
  "khemato": {
   "meaning": "as safe; as full of peace",
   "gram": "adjective khema with the ablative-adverbial suffix -to: \"from the standpoint of safety\"",
   "breakdown": [
-   ["khema", "Safe, secure, peaceful."],
-   ["-to", "Adverbial/ablative suffix: \"as, in terms of\"."]
+   [
+    "khema",
+    "Safe, secure, peaceful."
+   ],
+   [
+    "-to",
+    "Adverbial/ablative suffix: \"as, in terms of\"."
+   ]
   ]
  },
  "khemaṁ": {
   "meaning": "secure; safe, peaceful",
   "gram": "adjective (accusative/neuter singular)",
   "breakdown": [
-   ["khema", "Secure, safe; often of nibbāna as the secure place free from danger."]
+   [
+    "khema",
+    "Secure, safe; often of nibbāna as the secure place free from danger."
+   ]
   ]
  },
  "khemino": {
   "meaning": "secure; those at peace",
   "gram": "adjective (khemī, from khema; here nominative plural)",
   "breakdown": [
-   ["khema", "Security, safety."],
-   ["-ī", "Possessive adjectival suffix: \"possessing security\"."]
+   [
+    "khema",
+    "Security, safety."
+   ],
+   [
+    "-ī",
+    "Possessive adjectival suffix: \"possessing security\"."
+   ]
   ]
  },
  "khettavatthupaṭiggahaṇā": {
   "meaning": "accepting fields and land; the acceptance of property",
   "gram": "neuter action noun, compound (here ablative: \"from accepting fields and land\")",
   "breakdown": [
-   ["khetta", "Field, property."],
-   ["vatthu", "Land, site, ground."],
-   ["paṭiggahaṇa", "Accepting, receiving."]
+   [
+    "khetta",
+    "Field, property."
+   ],
+   [
+    "vatthu",
+    "Land, site, ground."
+   ],
+   [
+    "paṭiggahaṇa",
+    "Accepting, receiving."
+   ]
   ]
  },
  "khippamantaradhāpesi": {
   "meaning": "quickly caused to disappear",
   "gram": "adverb + verb, aorist 3rd person singular causative (khippaṁ + antaradhāpesi)",
   "breakdown": [
-   ["khippaṁ", "Quickly, swiftly."],
-   ["antaradhāpesi", "Caused to disappear (aorist causative of antaradhāyati \"to vanish\")."]
+   [
+    "khippaṁ",
+    "Quickly, swiftly."
+   ],
+   [
+    "antaradhāpesi",
+    "Caused to disappear (aorist causative of antaradhāyati \"to vanish\")."
+   ]
   ]
  },
  "khitto": {
   "meaning": "cast, thrown; discharged; upset (as in cittaṁ khipati, an upset mind)",
   "gram": "past participle of khipati (masculine nominative singular)",
   "breakdown": [
-   ["√khip", "Root: to throw, to cast (khipati)."],
-   ["-ta", "Past participle suffix."]
+   [
+    "√khip",
+    "Root: to throw, to cast (khipati)."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
   ]
  },
  "khosmi": {
   "meaning": "indeed I am",
   "gram": "sandhi fusion: particle + verb (kho + asmi)",
   "breakdown": [
-   ["kho", "Indeed, surely (emphatic particle)."],
-   ["asmi", "I am (1st person singular of atthi). (kho + asmi → khosmi.)"]
+   [
+    "kho",
+    "Indeed, surely (emphatic particle)."
+   ],
+   [
+    "asmi",
+    "I am (1st person singular of atthi). (kho + asmi → khosmi.)"
+   ]
   ]
  },
  "khuddaṁ": {
   "meaning": "small; inferior, insignificant",
   "gram": "adjective (accusative/neuter singular)",
   "breakdown": [
-   ["khudda", "Small, minor, inferior."]
+   [
+    "khudda",
+    "Small, minor, inferior."
+   ]
   ]
  },
  "khuramuṇḍaṁ": {
   "meaning": "closely shaven with a razor; razor-shaved (head)",
   "gram": "neuter compound (accusative singular)",
   "breakdown": [
-   ["khura", "Razor."],
-   ["muṇḍa", "Shaven, bald."]
+   [
+    "khura",
+    "Razor."
+   ],
+   [
+    "muṇḍa",
+    "Shaven, bald."
+   ]
   ]
  },
  "khuṁsenti": {
   "meaning": "they curse; they scold",
   "gram": "verb, 3rd person plural present of khuṁseti",
   "breakdown": [
-   ["√khuṁs", "Root: to abuse, to scold."],
-   ["-enti", "3rd person plural present ending."]
+   [
+    "√khuṁs",
+    "Root: to abuse, to scold."
+   ],
+   [
+    "-enti",
+    "3rd person plural present ending."
+   ]
   ]
  },
  "khvassa": {
   "meaning": "indeed... of this; because of this",
   "gram": "sandhi fusion: particle + pronoun (kho + assa)",
   "breakdown": [
-   ["kho", "Indeed (emphatic particle); before a vowel kho becomes khv-."],
-   ["assa", "Of this, of him (genitive/dative singular pronoun)."]
+   [
+    "kho",
+    "Indeed (emphatic particle); before a vowel kho becomes khv-."
+   ],
+   [
+    "assa",
+    "Of this, of him (genitive/dative singular pronoun)."
+   ]
   ]
  },
  "khvetaṁ": {
   "meaning": "indeed this",
   "gram": "sandhi fusion: particle + pronoun (kho + etaṁ)",
   "breakdown": [
-   ["kho", "Indeed (emphatic particle); before a vowel kho becomes khv-."],
-   ["etaṁ", "This."]
+   [
+    "kho",
+    "Indeed (emphatic particle); before a vowel kho becomes khv-."
+   ],
+   [
+    "etaṁ",
+    "This."
+   ]
   ]
  },
  "khvettha": {
   "meaning": "indeed here; indeed in this case",
   "gram": "sandhi fusion: particle + adverb (kho + ettha)",
   "breakdown": [
-   ["kho", "Indeed (emphatic particle); before a vowel kho becomes khv-."],
-   ["ettha", "Here, in this case."]
+   [
+    "kho",
+    "Indeed (emphatic particle); before a vowel kho becomes khv-."
+   ],
+   [
+    "ettha",
+    "Here, in this case."
+   ]
   ]
  },
  "khāyati": {
   "meaning": "to appear; to be known, be seen",
   "gram": "verb, 3rd person singular present, passive of √khā",
   "breakdown": [
-   ["√khā", "Root: to see, to appear."],
-   ["-ya-", "Passive stem sign."],
-   ["-ti", "3rd person singular present ending."]
+   [
+    "√khā",
+    "Root: to see, to appear."
+   ],
+   [
+    "-ya-",
+    "Passive stem sign."
+   ],
+   [
+    "-ti",
+    "3rd person singular present ending."
+   ]
   ]
  },
  "khāṇukaṇṭakaṭṭhānaṁ": {
   "meaning": "places of stumps and thorns; thorny ground with tree stumps",
   "gram": "neuter noun, compound (accusative singular)",
   "breakdown": [
-   ["khāṇu", "Stump, trunk."],
-   ["kaṇṭaka", "Thorn, thorny."],
-   ["ṭhāna", "Place. (The doubling ṭṭh is junction doubling.)"]
+   [
+    "khāṇu",
+    "Stump, trunk."
+   ],
+   [
+    "kaṇṭaka",
+    "Thorn, thorny."
+   ],
+   [
+    "ṭhāna",
+    "Place. (The doubling ṭṭh is junction doubling.)"
+   ]
   ]
  },
  "khīradāpanādikaṁ": {
   "meaning": "beginning with causing milk to be given (to the newborn), and the like",
   "gram": "compound adjective (accusative/neuter singular)",
   "breakdown": [
-   ["khīra", "Milk."],
-   ["dāpana", "Causing to give (causative action noun from dadāti)."],
-   ["ādika", "Beginning with, and so forth."]
+   [
+    "khīra",
+    "Milk."
+   ],
+   [
+    "dāpana",
+    "Causing to give (causative action noun from dadāti)."
+   ],
+   [
+    "ādika",
+    "Beginning with, and so forth."
+   ]
   ]
  },
  "khīrodakībhūtā": {
@@ -371,9 +629,18 @@
   "summary": "A simile for living in harmony: as inseparable as milk blended with water.",
   "gram": "adjective, compound (here nominative plural)",
   "breakdown": [
-   ["khīra", "Milk."],
-   ["udaka", "Water (becoming udakī- in the compound)."],
-   ["bhūta", "Become, made (past participle of bhavati)."]
+   [
+    "khīra",
+    "Milk."
+   ],
+   [
+    "udaka",
+    "Water (becoming udakī- in the compound)."
+   ],
+   [
+    "bhūta",
+    "Become, made (past participle of bhavati)."
+   ]
   ]
  },
  "khīṇa": {
@@ -381,16 +648,28 @@
   "summary": "As in khīṇabhavasaṁyojanā, \"the fetters of becoming completely destroyed\".",
   "gram": "past participle of khīyati (√khī)",
   "breakdown": [
-   ["√khī", "Root: to be exhausted, to waste away (khīyati)."],
-   ["-na", "Past participle suffix."]
+   [
+    "√khī",
+    "Root: to be exhausted, to waste away (khīyati)."
+   ],
+   [
+    "-na",
+    "Past participle suffix."
+   ]
   ]
  },
  "khīṇabījā": {
   "meaning": "with the seed destroyed; whose seed (of future becoming) is destroyed",
   "gram": "adjective, compound (here nominative plural)",
   "breakdown": [
-   ["khīṇa", "Destroyed (past participle of khīyati)."],
-   ["bīja", "Seed; figuratively the seed of future existence."]
+   [
+    "khīṇa",
+    "Destroyed (past participle of khīyati)."
+   ],
+   [
+    "bīja",
+    "Seed; figuratively the seed of future existence."
+   ]
   ]
  }
 }

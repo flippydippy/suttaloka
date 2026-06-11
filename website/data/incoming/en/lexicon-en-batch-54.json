@@ -3,50 +3,92 @@
   "meaning": "I establish; I straighten, settle (the mind)",
   "gram": "verb, present tense 1st person singular (causative of saṇṭhahati, √ṭhā)",
   "breakdown": [
-   ["saṁ-", "Prefix: fully."],
-   ["√ṭhā (ṭhapeti)", "Root “to stand”; causative: to set up, establish."],
-   ["-mi", "1st person singular ending."]
+   [
+    "saṁ-",
+    "Prefix: fully."
+   ],
+   [
+    "√ṭhā (ṭhapeti)",
+    "Root “to stand”; causative: to set up, establish."
+   ],
+   [
+    "-mi",
+    "1st person singular ending."
+   ]
   ]
  },
  "saṭhā": {
   "meaning": "treacherous; fraudulent, crafty",
   "gram": "adjective (nominative plural)",
   "breakdown": [
-   ["√saṭh", "Root meaning “to deceive”."],
-   ["-a", "Adjectival formation."]
+   [
+    "√saṭh",
+    "Root meaning “to deceive”."
+   ],
+   [
+    "-a",
+    "Adjectival formation."
+   ]
   ]
  },
  "saṭṭhivassasahassāni": {
   "meaning": "sixty thousand years",
   "gram": "neuter numeral compound (nominative/accusative plural)",
   "breakdown": [
-   ["saṭṭhi", "Sixty."],
-   ["vassa", "Year (literally: rainy season)."],
-   ["sahassa", "Thousand."]
+   [
+    "saṭṭhi",
+    "Sixty."
+   ],
+   [
+    "vassa",
+    "Year (literally: rainy season)."
+   ],
+   [
+    "sahassa",
+    "Thousand."
+   ]
   ]
  },
  "sedāvakkhittā": {
   "meaning": "gained by sweat; earned by the sweat (of one's brow)",
   "gram": "adjective, compound (nominative plural)",
   "breakdown": [
-   ["seda", "Sweat."],
-   ["avakkhitta", "Thrown down, poured out (past participle of avakkhipati). Together: won by pouring out sweat."]
+   [
+    "seda",
+    "Sweat."
+   ],
+   [
+    "avakkhitta",
+    "Thrown down, poured out (past participle of avakkhipati). Together: won by pouring out sweat."
+   ]
   ]
  },
  "sekhasuttaṁ": {
   "meaning": "the Sekha Sutta, the Discourse on the Trainee",
   "gram": "proper noun, neuter (title of a discourse)",
   "breakdown": [
-   ["sekha", "Trainee, learner — one still in training on the path."],
-   ["sutta", "Discourse."]
+   [
+    "sekha",
+    "Trainee, learner — one still in training on the path."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ]
  },
  "sekhena": {
   "meaning": "by one still in training (not yet an arahant)",
   "gram": "masculine agent noun (instrumental singular), from sikkhati",
   "breakdown": [
-   ["√sikkh (> sekh)", "Root meaning “to train”."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "√sikkh (> sekh)",
+    "Root meaning “to train”."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "sekho": {
@@ -54,56 +96,98 @@
   "summary": "Technical term for a noble disciple at any of the first seven stages, still short of arahantship.",
   "gram": "masculine agent noun (nominative singular), from sikkhati",
   "breakdown": [
-   ["√sikkh (> sekh)", "Root meaning “to train, practise”."],
-   ["-a", "Agent formation: one who trains."]
+   [
+    "√sikkh (> sekh)",
+    "Root meaning “to train, practise”."
+   ],
+   [
+    "-a",
+    "Agent formation: one who trains."
+   ]
   ]
  },
  "setaparivāro": {
   "meaning": "with a white retinue; having a following clothed in white",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["seta", "White."],
-   ["parivāra", "Retinue, following, entourage."]
+   [
+    "seta",
+    "White."
+   ],
+   [
+    "parivāra",
+    "Retinue, following, entourage."
+   ]
   ]
  },
  "setughāto": {
   "meaning": "the destruction of the bridge (the complete cutting-off of the causes of wrongdoing)",
   "gram": "masculine noun, compound (nominative singular)",
   "breakdown": [
-   ["setu", "Bridge, causeway."],
-   ["ghāta", "Destruction, killing (√han)."]
+   [
+    "setu",
+    "Bridge, causeway."
+   ],
+   [
+    "ghāta",
+    "Destruction, killing (√han)."
+   ]
   ]
  },
  "sevitabbasuttaṁ": {
   "meaning": "the Sevitabba Sutta, the Discourse on What Should Be Associated With",
   "gram": "proper noun, neuter (title of a discourse)",
   "breakdown": [
-   ["sevitabba", "To be associated with, to be pursued (potential participle of sevati)."],
-   ["sutta", "Discourse."]
+   [
+    "sevitabba",
+    "To be associated with, to be pursued (potential participle of sevati)."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ]
  },
  "sevitabbo": {
   "meaning": "should be associated with; to be followed, resorted to",
   "gram": "potential participle of sevati (nominative singular masculine)",
   "breakdown": [
-   ["√sev", "Root meaning “to serve, associate with, practise”."],
-   ["-itabba", "Potential participle suffix: “to be …-ed”."]
+   [
+    "√sev",
+    "Root meaning “to serve, associate with, practise”."
+   ],
+   [
+    "-itabba",
+    "Potential participle suffix: “to be …-ed”."
+   ]
   ]
  },
  "sevitabbā": {
   "meaning": "should be pursued; to be practised, cultivated",
   "gram": "potential participle of sevati (nominative plural / feminine singular)",
   "breakdown": [
-   ["√sev", "Root meaning “to serve, pursue, practise”."],
-   ["-itabba", "Potential participle suffix: “to be …-ed”."]
+   [
+    "√sev",
+    "Root meaning “to serve, pursue, practise”."
+   ],
+   [
+    "-itabba",
+    "Potential participle suffix: “to be …-ed”."
+   ]
   ]
  },
  "sevitaṁ": {
   "meaning": "practised; associated with, frequented",
   "gram": "past participle of sevati (accusative singular)",
   "breakdown": [
-   ["√sev", "Root meaning “to serve, practise”."],
-   ["-ita", "Past participle suffix."]
+   [
+    "√sev",
+    "Root meaning “to serve, practise”."
+   ],
+   [
+    "-ita",
+    "Past participle suffix."
+   ]
   ]
  },
  "seyyathidaṁ": {
@@ -122,53 +206,104 @@
   "meaning": "of bedding, dwelling and lamp-materials (gifts of bed, lodging and lighting)",
   "gram": "neuter noun, compound (genitive singular)",
   "breakdown": [
-   ["seyyā", "Bed, bedding."],
-   ["āvasatha", "Dwelling, lodging."],
-   ["padīpeyya", "Material for lamps, lighting."],
-   ["-assa", "Genitive singular ending."]
+   [
+    "seyyā",
+    "Bed, bedding."
+   ],
+   [
+    "āvasatha",
+    "Dwelling, lodging."
+   ],
+   [
+    "padīpeyya",
+    "Material for lamps, lighting."
+   ],
+   [
+    "-assa",
+    "Genitive singular ending."
+   ]
   ]
  },
  "seyyāvasathapadīpeyyaṁ": {
   "meaning": "bedding, dwelling and lighting (as gifts)",
   "gram": "neuter noun, compound (nominative/accusative singular)",
   "breakdown": [
-   ["seyyā", "Bed, bedding."],
-   ["āvasatha", "Dwelling, lodging."],
-   ["padīpeyya", "Material for lamps, lighting."]
+   [
+    "seyyā",
+    "Bed, bedding."
+   ],
+   [
+    "āvasatha",
+    "Dwelling, lodging."
+   ],
+   [
+    "padīpeyya",
+    "Material for lamps, lighting."
+   ]
   ]
  },
  "seṭṭho": {
   "meaning": "eminent; supreme; best",
   "gram": "adjective, superlative (nominative singular)",
   "breakdown": [
-   ["seṭṭha", "Best, foremost (superlative related to sirī/sī, “excellence”)."]
+   [
+    "seṭṭha",
+    "Best, foremost (superlative related to sirī/sī, “excellence”)."
+   ]
   ]
  },
  "sikkhāsājīvasamāpanno": {
   "meaning": "having entered upon the training and way of life (of the monks)",
   "gram": "adjective, compound (nominative singular)",
   "breakdown": [
-   ["sikkhā", "Training, discipline."],
-   ["sājīva", "Way of life, the rule of livelihood shared by the community."],
-   ["samāpanna", "Entered upon, undertaken (past participle of samāpajjati)."]
+   [
+    "sikkhā",
+    "Training, discipline."
+   ],
+   [
+    "sājīva",
+    "Way of life, the rule of livelihood shared by the community."
+   ],
+   [
+    "samāpanna",
+    "Entered upon, undertaken (past participle of samāpajjati)."
+   ]
   ]
  },
  "sippapaṭiggahaṇena": {
   "meaning": "by the learning of a craft; through receiving (instruction in) a skill",
   "gram": "neuter noun, compound (instrumental singular)",
   "breakdown": [
-   ["sippa", "Skill, art, craft."],
-   ["paṭiggahaṇa", "Accepting, receiving (paṭi + √gah). (The doubled gg is sandhi doubling.)"],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "sippa",
+    "Skill, art, craft."
+   ],
+   [
+    "paṭiggahaṇa",
+    "Accepting, receiving (paṭi + √gah). (The doubled gg is sandhi doubling.)"
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "sippaññatarena": {
   "meaning": "by one or another craft; by some skill or other",
   "gram": "neuter noun + pronominal adjective (instrumental singular)",
   "breakdown": [
-   ["sippa", "Skill, craft."],
-   ["aññatara", "One or another, a certain. (The -a + a- gives -añña- in sandhi.)"],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "sippa",
+    "Skill, craft."
+   ],
+   [
+    "aññatara",
+    "One or another, a certain. (The -a + a- gives -añña- in sandhi.)"
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "sippaṁ": {
@@ -179,7 +314,10 @@
   "meaning": "fixed; planted; attached to, dependent on",
   "gram": "past participle (nominative singular masculine), from sayati/sita",
   "breakdown": [
-   ["sita", "Fixed, planted; attached (past participle, √si “to bind”)."]
+   [
+    "sita",
+    "Fixed, planted; attached (past participle, √si “to bind”)."
+   ]
   ]
  },
  "sivo": {
@@ -194,41 +332,74 @@
   "meaning": "by the crossroads; at the place where four roads meet",
   "gram": "neuter noun (instrumental singular)",
   "breakdown": [
-   ["siṅghāṭaka", "Crossroads, a square where four roads meet."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "siṅghāṭaka",
+    "Crossroads, a square where four roads meet."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "socanaṭṭhāneyeva": {
   "meaning": "just in the place of grieving; precisely where there is occasion for sorrow",
   "gram": "neuter noun, compound (locative singular) + emphatic yeva",
   "breakdown": [
-   ["socana", "Grieving, sorrowing (from socati, √suc)."],
-   ["ṭhāna", "Place, occasion. (The doubled ṭṭh is sandhi doubling.)"],
-   ["yeva", "Just, precisely (emphatic enclitic)."]
+   [
+    "socana",
+    "Grieving, sorrowing (from socati, √suc)."
+   ],
+   [
+    "ṭhāna",
+    "Place, occasion. (The doubled ṭṭh is sandhi doubling.)"
+   ],
+   [
+    "yeva",
+    "Just, precisely (emphatic enclitic)."
+   ]
   ]
  },
  "socanā": {
   "meaning": "grief; sorrow; mourning",
   "gram": "feminine/neuter action noun, from socati (√suc)",
   "breakdown": [
-   ["√suc (soca-)", "Root meaning “to grieve”."],
-   ["-anā", "Action noun suffix: grieving."]
+   [
+    "√suc (soca-)",
+    "Root meaning “to grieve”."
+   ],
+   [
+    "-anā",
+    "Action noun suffix: grieving."
+   ]
   ]
  },
  "socare": {
   "meaning": "they grieve (middle voice; in context with na: they do not grieve)",
   "gram": "verb, present middle 3rd person plural of socati",
   "breakdown": [
-   ["√suc (soca-)", "Root meaning “to grieve”."],
-   ["-are", "Middle 3rd person plural ending."]
+   [
+    "√suc (soca-)",
+    "Root meaning “to grieve”."
+   ],
+   [
+    "-are",
+    "Middle 3rd person plural ending."
+   ]
   ]
  },
  "soceyya": {
   "meaning": "purity (of body, speech and mind)",
   "gram": "neuter abstract noun (from suci “pure”)",
   "breakdown": [
-   ["suci (> soce-)", "Pure, clean."],
-   ["-yya", "Abstract noun suffix: the state of purity."]
+   [
+    "suci (> soce-)",
+    "Pure, clean."
+   ],
+   [
+    "-yya",
+    "Abstract noun suffix: the state of purity."
+   ]
   ],
   "note": "divergence: DPD's parser links the form to socati “to grieve”; the lexicon's gloss “purity” (from suci) fits the attested context and is followed."
  },
@@ -236,72 +407,116 @@
   "meaning": "sorrowfulness; the state of being grieved",
   "gram": "neuter abstract noun, from socita (√suc)",
   "breakdown": [
-   ["socita", "Grieved (past participle of socati)."],
-   ["-tta", "Abstract suffix: the state of."]
+   [
+    "socita",
+    "Grieved (past participle of socati)."
+   ],
+   [
+    "-tta",
+    "Abstract suffix: the state of."
+   ]
   ]
- },
- "sokaparidevadukkhadomanassupāyā": {
-  "meaning": "sorrow, lamentation, pain, grief and despair (truncated form of the standard list)",
-  "gram": "compound noun fragment (see sokaparidevadukkhadomanassupāyāsa)",
-  "note": "uncertain: this key is a truncated line-break fragment of sokaparidevadukkhadomanassupāyāsā; see the full entry."
  },
  "sokaparidevadukkhadomanassupāyāsa": {
   "meaning": "sorrow, lamentation, pain, grief and despair",
   "summary": "The standard fivefold list of mental and bodily suffering in the formula of dukkha.",
   "gram": "masculine compound noun (stem form; plural sokaparidevadukkhadomanassupāyāsā)",
   "breakdown": [
-   ["soka", "Sorrow."],
-   ["parideva", "Lamentation, wailing."],
-   ["dukkha", "Pain, bodily suffering."],
-   ["domanassa", "Grief, mental displeasure."],
-   ["upāyāsa", "Despair, deep distress."]
+   [
+    "soka",
+    "Sorrow."
+   ],
+   [
+    "parideva",
+    "Lamentation, wailing."
+   ],
+   [
+    "dukkha",
+    "Pain, bodily suffering."
+   ],
+   [
+    "domanassa",
+    "Grief, mental displeasure."
+   ],
+   [
+    "upāyāsa",
+    "Despair, deep distress."
+   ]
   ],
   "goenka": "This fivefold chain — sorrow, lamentation, pain, grief and despair — recurs in the exposition of the Noble Truth of Suffering and in the formula of dependent origination: with birth as condition, “sorrow, lamentation, pain, grief and despair” arise. In the satipaṭṭhāna teaching the meditator contemplates precisely these states as they manifest, with awareness and equanimity, so that the whole mass of suffering may be brought to an end."
- },
- "sokaparidevaduk­": {
-  "meaning": "sorrow, lamentation, pain… (truncated fragment of sokaparidevadukkhadomanassupāyāsa)",
-  "gram": "compound noun fragment",
-  "note": "uncertain: this key is a hyphenation fragment from a line break in the source; see sokaparidevadukkhadomanassupāyāsa."
  },
  "sopapajjati": {
   "meaning": "he arises; he is reborn (so + upapajjati)",
   "gram": "sandhi fusion: pronoun + verb, present tense 3rd person singular",
   "breakdown": [
-   ["so", "He (nominative singular pronoun, referring back to naro “the man”)."],
-   ["upapajjati", "Arises, is reborn (upa + √pad). (The o + u- coalesce in sandhi.)"]
+   [
+    "so",
+    "He (nominative singular pronoun, referring back to naro “the man”)."
+   ],
+   [
+    "upapajjati",
+    "Arises, is reborn (upa + √pad). (The o + u- coalesce in sandhi.)"
+   ]
   ]
  },
  "sota": {
   "meaning": "ear; (also) stream, current",
   "gram": "masculine/neuter noun",
   "breakdown": [
-   ["√su", "Root meaning “to hear” (savati/suṇāti); sota as “stream” derives from √su “to flow”."],
-   ["-ta", "Noun suffix."]
+   [
+    "√su",
+    "Root meaning “to hear” (savati/suṇāti); sota as “stream” derives from √su “to flow”."
+   ],
+   [
+    "-ta",
+    "Noun suffix."
+   ]
   ]
  },
  "sotabbaṁ": {
   "meaning": "should be heard; worth listening to",
   "gram": "potential participle of suṇāti (nominative/accusative singular neuter)",
   "breakdown": [
-   ["√su (> so)", "Root meaning “to hear”."],
-   ["-tabba", "Potential participle suffix: “to be …-ed”."]
+   [
+    "√su (> so)",
+    "Root meaning “to hear”."
+   ],
+   [
+    "-tabba",
+    "Potential participle suffix: “to be …-ed”."
+   ]
   ]
  },
  "sotaṁ odahatha": {
   "meaning": "lend your ear!; you should listen (literally: apply the ear)",
   "gram": "phrase: noun (accusative singular) + verb (imperative 2nd person plural)",
   "breakdown": [
-   ["sotaṁ", "Ear (accusative singular)."],
-   ["odahatha", "Apply!, place down! (o/ava + √dhā, imperative 2nd person plural)."]
+   [
+    "sotaṁ",
+    "Ear (accusative singular)."
+   ],
+   [
+    "odahatha",
+    "Apply!, place down! (o/ava + √dhā, imperative 2nd person plural)."
+   ]
   ]
  },
  "sotāpattiphalaṁ": {
   "meaning": "the fruit of stream-entry; the fruition of entering the stream",
   "gram": "neuter noun, compound (nominative/accusative singular)",
   "breakdown": [
-   ["sota", "Stream (the stream of the Dhamma leading to liberation)."],
-   ["āpatti", "Entering, attainment (ā + √pad)."],
-   ["phala", "Fruit, result."]
+   [
+    "sota",
+    "Stream (the stream of the Dhamma leading to liberation)."
+   ],
+   [
+    "āpatti",
+    "Entering, attainment (ā + √pad)."
+   ],
+   [
+    "phala",
+    "Fruit, result."
+   ]
   ],
   "goenka": "Sotāpattiphala is the fruit of entering the stream — the first of the four stages of liberation. The sotāpanna has experienced nibbāna for the first time, the illusion of self is shattered, and final liberation within at most seven lives is assured: one has entered the stream that flows irreversibly to full freedom."
  },
@@ -309,9 +524,18 @@
   "meaning": "amenability to instruction; being easy to admonish; obedience",
   "gram": "feminine abstract noun, from sovacassa (su + √vac)",
   "breakdown": [
-   ["su- (> so)", "Prefix: well, easily."],
-   ["√vac", "Root meaning “to speak”. Sovacassa: being easy to speak to, receptive to correction."],
-   ["-tā", "Abstract suffix: the quality of."]
+   [
+    "su- (> so)",
+    "Prefix: well, easily."
+   ],
+   [
+    "√vac",
+    "Root meaning “to speak”. Sovacassa: being easy to speak to, receptive to correction."
+   ],
+   [
+    "-tā",
+    "Abstract suffix: the quality of."
+   ]
   ],
   "goenka": "Sovacassatā, being easy to instruct, is praised in the Maṅgalasutta among the highest welfares. The meditator who receives admonition with humility rather than resentment keeps the door open for growth on the path; surrender to the discipline of the teaching is itself a protection."
  },
@@ -319,8 +543,14 @@
   "meaning": "leading to heaven; connected with the heavenly fields",
   "gram": "adjective, from sagga (accusative singular)",
   "breakdown": [
-   ["sagga (> sovagga)", "Heaven, the heavenly worlds."],
-   ["-ika", "Adjectival suffix: relating to, conducive to."]
+   [
+    "sagga (> sovagga)",
+    "Heaven, the heavenly worlds."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix: relating to, conducive to."
+   ]
   ]
  },
  "soṇḍiṁ": {
@@ -339,8 +569,14 @@
   "meaning": "Subhadda, the one gone forth in old age",
   "gram": "phrase: proper noun + adjective compound (nominative singular)",
   "breakdown": [
-   ["subhaddo", "Subhadda, a monk's name (su “good” + bhadda “auspicious”)."],
-   ["vuḍḍhapabbajito", "Gone forth (pabbajita) in old age (vuḍḍha)."]
+   [
+    "subhaddo",
+    "Subhadda, a monk's name (su “good” + bhadda “auspicious”)."
+   ],
+   [
+    "vuḍḍhapabbajito",
+    "Gone forth (pabbajita) in old age (vuḍḍha)."
+   ]
   ],
   "goenka": "The commentary relates that at one time Subhadda, who had already gone forth, invited the Buddha and his disciples to a meal. But because he had collected the stock for his offering by sending his two sons, then novices, around the village of Ātumā to gather what they could, the Buddha refused the invitation, saying that Subhadda had committed a wrongdoing by causing others to give at no cost to himself."
  },
@@ -348,16 +584,28 @@
   "meaning": "easily supported; modest, frugal",
   "gram": "adjective, from bhara (nominative singular)",
   "breakdown": [
-   ["su-", "Prefix: well, easily."],
-   ["√bhar + a", "Root “to support, maintain”: easily maintained."]
+   [
+    "su-",
+    "Prefix: well, easily."
+   ],
+   [
+    "√bhar + a",
+    "Root “to support, maintain”: easily maintained."
+   ]
   ]
  },
  "subhāsita": {
   "meaning": "well spoken; well-spoken speech",
   "gram": "adjective / neuter noun (su + bhāsita)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["bhāsita", "Spoken (past participle of bhāsati, √bhās)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "bhāsita",
+    "Spoken (past participle of bhāsati, √bhās)."
+   ]
   ],
   "goenka": "Subhāsita, well-spoken speech, stands opposed to deliberate false speech. The lexicon recalls the Jayamaṅgala-aṭṭhagāthā account of Ciñcā, an attractive woman who falsely accused the Buddha — a notable example of one who, despite better knowledge, deliberately deviates from the truth. Such a demeritorious act of speech, sampajānamusāvāda (intentional and deliberate lying), is highlighted in the Musāvādasutta; cultivating well-spoken, truthful words is the positive side of right speech."
  },
@@ -365,18 +613,36 @@
   "meaning": "of what is well spoken and badly spoken",
   "gram": "neuter noun, compound (genitive singular)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["bhāsita", "Spoken (past participle of bhāsati)."],
-   ["du- (dub-)", "Prefix: badly, ill. (The doubled bb is sandhi doubling.)"],
-   ["-assa", "Genitive singular ending."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "bhāsita",
+    "Spoken (past participle of bhāsati)."
+   ],
+   [
+    "du- (dub-)",
+    "Prefix: badly, ill. (The doubled bb is sandhi doubling.)"
+   ],
+   [
+    "-assa",
+    "Genitive singular ending."
+   ]
   ]
  },
  "subhāvitaṁ": {
   "meaning": "well developed; well cultivated (of the mind, of mettā)",
   "gram": "adjective, from bhāvita (accusative singular)",
   "breakdown": [
-   ["su-", "Prefix: well."],
-   ["bhāvita", "Developed, cultivated (past participle of bhāveti, causative of √bhū “to be”)."]
+   [
+    "su-",
+    "Prefix: well."
+   ],
+   [
+    "bhāvita",
+    "Developed, cultivated (past participle of bhāveti, causative of √bhū “to be”)."
+   ]
   ]
  }
 }

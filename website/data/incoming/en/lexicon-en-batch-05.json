@@ -3,160 +3,292 @@
   "meaning": "infinite, endless",
   "gram": "adjective (ananta + -vant)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["anta", "End, limit."],
-   ["-vant", "Possessive suffix: \"having no end\"."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "anta",
+    "End, limit."
+   ],
+   [
+    "-vant",
+    "Possessive suffix: \"having no end\"."
+   ]
   ]
  },
  "ananubodhā": {
   "meaning": "through not realising, from not perceiving or understanding",
   "gram": "masculine noun (from na anubujjhati), ablative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["anu-", "Prefix \"along, following\"."],
-   ["√budh", "Root \"to awaken, realise, understand\"."],
-   ["-ā", "Ablative singular ending, \"because of, from\"."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "anu-",
+    "Prefix \"along, following\"."
+   ],
+   [
+    "√budh",
+    "Root \"to awaken, realise, understand\"."
+   ],
+   [
+    "-ā",
+    "Ablative singular ending, \"because of, from\"."
+   ]
   ]
  },
  "ananugiddho": {
   "meaning": "not greedy, free of craving after",
   "gram": "past participle of na anugijjhati, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["anu-", "Prefix \"after\"."],
-   ["√gidh", "Root \"to be greedy\" + past participle suffix -ta (giving -giddha)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "anu-",
+    "Prefix \"after\"."
+   ],
+   [
+    "√gidh",
+    "Root \"to be greedy\" + past participle suffix -ta (giving -giddha)."
+   ]
   ]
  },
  "ananuppadiyamāne": {
   "meaning": "(when wealth is) not being given out, not being handed over",
   "gram": "present participle (passive) of na anuppadīyati, locative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["anu-", "Prefix \"along, in addition\"."],
-   ["pa-", "Prefix \"forth\" (with pp doubling)."],
-   ["√dā", "Root \"to give\" (passive stem diya-)."],
-   ["-māna", "Present participle suffix."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "anu-",
+    "Prefix \"along, in addition\"."
+   ],
+   [
+    "pa-",
+    "Prefix \"forth\" (with pp doubling)."
+   ],
+   [
+    "√dā",
+    "Root \"to give\" (passive stem diya-)."
+   ],
+   [
+    "-māna",
+    "Present participle suffix."
+   ]
   ]
  },
  "ananuvajjā": {
   "meaning": "not to be blamed, not blameworthy",
   "gram": "future passive participle of na anuvadati",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["anu-", "Prefix \"after, against\"."],
-   ["√vad", "Root \"to speak\"; anuvadati = \"to blame, censure\" + participle suffix -ya."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "anu-",
+    "Prefix \"after, against\"."
+   ],
+   [
+    "√vad",
+    "Root \"to speak\"; anuvadati = \"to blame, censure\" + participle suffix -ya."
+   ]
   ]
  },
  "anapekkhāva": {
   "meaning": "without expectation, indifferent (just so)",
   "gram": "adjective + emphatic particle (anapekkhā + eva/va)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["apekkhā", "Expectation, longing, regard (apa + √ikkh)."],
-   ["va", "Emphatic particle \"just, indeed\"."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "apekkhā",
+    "Expectation, longing, regard (apa + √ikkh)."
+   ],
+   [
+    "va",
+    "Emphatic particle \"just, indeed\"."
+   ]
   ]
  },
  "anapāyinī": {
   "meaning": "not going away, never departing (e.g. of a shadow that never leaves)",
   "gram": "adjective, feminine (from na apeti)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["apāyin", "Going away, departing (apa + √i)."],
-   ["-ī", "Feminine ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "apāyin",
+    "Going away, departing (apa + √i)."
+   ],
+   [
+    "-ī",
+    "Feminine ending."
+   ]
   ]
- },
- "anapūjanāsu": {
-  "meaning": "in the gain, honour, respect, reverence, esteem and veneration of others",
-  "gram": "feminine compound noun, locative plural",
-  "breakdown": [
-   ["para", "Others."],
-   ["lābha", "Gain, acquisition."],
-   ["sakkāra", "Honour, hospitality."],
-   ["garukāra", "Respect."],
-   ["mānana", "Esteem."],
-   ["vandana", "Reverence, homage."],
-   ["pūjanā", "Veneration, worship."],
-   ["-su", "Locative plural ending."]
-  ],
-  "note": "uncertain: the headword is the truncated tail of the longer compound paralābhasakkāragarukāramānanavandanapūjanāsu, as the lexicon's own breakdown shows."
  },
  "anariyo": {
   "meaning": "ignoble, not noble; not spiritually healthy",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["ariya", "Noble; in the suttas, one advanced on the path."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "ariya",
+    "Noble; in the suttas, one advanced on the path."
+   ]
   ]
  },
  "anaticārinī": {
   "meaning": "not transgressing; (of a wife) not unfaithful, not committing adultery",
   "gram": "adjective, feminine (from na aticarati)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["aticārī", "Transgressing, going beyond (ati + √car)."],
-   ["-inī", "Feminine ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "aticārī",
+    "Transgressing, going beyond (ati + √car)."
+   ],
+   [
+    "-inī",
+    "Feminine ending."
+   ]
   ]
  },
  "anatimānaṁ": {
   "meaning": "without arrogance or conceit",
   "gram": "masculine abstract noun, accusative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["atimāna", "Arrogance, conceit, high opinion of oneself (ati + √man)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "atimāna",
+    "Arrogance, conceit, high opinion of oneself (ati + √man)."
+   ]
   ]
  },
  "anatimānī": {
   "meaning": "without pride, humble",
   "gram": "adjective (from na atimaññati)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["atimānī", "Proud, arrogant (ati + √man + -ī)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "atimānī",
+    "Proud, arrogant (ati + √man + -ī)."
+   ]
   ]
  },
  "anattamanatā": {
   "meaning": "discontentedness, displeasure",
   "gram": "feminine abstract noun (from na attamana)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attamana", "Pleased, delighted in mind (atta + manas)."],
-   ["-tā", "Abstract noun suffix, \"-ness\"."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attamana",
+    "Pleased, delighted in mind (atta + manas)."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix, \"-ness\"."
+   ]
   ]
  },
  "anatthakāmā": {
   "meaning": "wishing misfortune; desiring what is not for one's welfare",
   "gram": "adjective, compound, plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attha", "Welfare, gain, fortune."],
-   ["kāma", "Wishing, desiring."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attha",
+    "Welfare, gain, fortune."
+   ],
+   [
+    "kāma",
+    "Wishing, desiring."
+   ]
   ]
  },
  "anatthapadasaṁhitā": {
   "meaning": "connected with meaningless words; full of unprofitable talk",
   "gram": "adjective, compound, feminine/plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attha", "Meaning, benefit."],
-   ["pada", "Word."],
-   ["saṁhita", "Connected with, possessed of (saṁ + √dhā)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attha",
+    "Meaning, benefit."
+   ],
+   [
+    "pada",
+    "Word."
+   ],
+   [
+    "saṁhita",
+    "Connected with, possessed of (saṁ + √dhā)."
+   ]
   ]
  },
  "anatthasañhitaṁ": {
   "meaning": "not connected with the goal; unprofitable, without benefit",
   "gram": "adjective, compound, neuter/accusative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attha", "Goal, benefit, meaning."],
-   ["sañhita", "Connected, related (saṁ + √dhā)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attha",
+    "Goal, benefit, meaning."
+   ],
+   [
+    "sañhita",
+    "Connected, related (saṁ + √dhā)."
+   ]
   ]
  },
  "anatthasaṁhito": {
   "meaning": "not connected to the goal; unprofitable",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attha", "Goal, benefit, meaning."],
-   ["saṁhita", "Connected, related (saṁ + √dhā)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attha",
+    "Goal, benefit, meaning."
+   ],
+   [
+    "saṁhita",
+    "Connected, related (saṁ + √dhā)."
+   ]
   ]
  },
  "anatthaviññāpakakāyavacīpayogasamuṭṭhāpikā": {
@@ -164,21 +296,48 @@
   "summary": "A long analytic compound from the commentarial definition of useless speech.",
   "gram": "feminine compound adjective",
   "breakdown": [
-   ["anattha", "No reason or meaning; harm."],
-   ["viññāpaka", "Able to instruct, communicating."],
-   ["kāya", "Body."],
-   ["vacī", "Speech."],
-   ["payoga", "Means, application, employment."],
-   ["samuṭṭhāpikā", "Causing, occasioning (feminine of samuṭṭhāpaka)."]
+   [
+    "anattha",
+    "No reason or meaning; harm."
+   ],
+   [
+    "viññāpaka",
+    "Able to instruct, communicating."
+   ],
+   [
+    "kāya",
+    "Body."
+   ],
+   [
+    "vacī",
+    "Speech."
+   ],
+   [
+    "payoga",
+    "Means, application, employment."
+   ],
+   [
+    "samuṭṭhāpikā",
+    "Causing, occasioning (feminine of samuṭṭhāpaka)."
+   ]
   ]
  },
  "anatthuppādanaṁ": {
   "meaning": "producing misfortune; causing what is not beneficial",
   "gram": "neuter compound action noun",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attha", "Fortune, benefit."],
-   ["uppādana", "Causing, producing (ud + √pad + -ana)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attha",
+    "Fortune, benefit."
+   ],
+   [
+    "uppādana",
+    "Causing, producing (ud + √pad + -ana)."
+   ]
   ]
  },
  "anattā": {
@@ -186,8 +345,14 @@
   "summary": "The third of the three basic characteristics of existence, alongside anicca (impermanence) and dukkha (unsatisfactoriness).",
   "gram": "masculine noun/adjective (an + attā)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["attā", "Self, soul (Sanskrit ātman)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "attā",
+    "Self, soul (Sanskrit ātman)."
+   ]
   ],
   "goenka": "Anattā, non-self, is the third of the three basic characteristics taught in the tradition: impermanence (anicca), unsatisfactoriness (dukkha) and non-self (anattā). The Anattalakkhaṇa-sutta (the Characteristics of Not Self) is dedicated to this topic. The meditator is led to recognise the impermanent nature, the suffering and the non-self character in the five aggregates of attachment (pañca upādānakkhandhā — matter, sensations, perception, mental conditioned reaction and consciousness): nowhere in this changing flow is an enduring self to be found. The term is broader than \"no soul\" and is not the ethical \"selflessness\" or the popular psychological \"egolessness\"."
  },
@@ -195,149 +360,268 @@
   "meaning": "not gone beyond, not having escaped or overcome (e.g. not exempt from old age and death)",
   "gram": "past participle of na acceti (ati + √i), masculine nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["atīta", "Gone past, escaped, overcome (past participle of acceti)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "atīta",
+    "Gone past, escaped, overcome (past participle of acceti)."
+   ]
   ]
  },
  "anavajja": {
   "meaning": "blameless, faultless (literally \"not blameable\")",
   "gram": "adjective (potential participle of na ava + √vad)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["avajja", "Blameable, faulty (ava + √vad + -ya)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "avajja",
+    "Blameable, faulty (ava + √vad + -ya)."
+   ]
   ]
  },
  "anavajjasukhaṁ": {
   "meaning": "the happiness of blamelessness",
   "gram": "neuter abstract compound noun, nominative/accusative singular",
   "breakdown": [
-   ["anavajja", "Blameless, faultless."],
-   ["sukha", "Happiness, ease."]
+   [
+    "anavajja",
+    "Blameless, faultless."
+   ],
+   [
+    "sukha",
+    "Happiness, ease."
+   ]
   ]
  },
  "anavajjāni": {
   "meaning": "blameless (things, deeds)",
   "gram": "adjective, neuter plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["avajja", "Blameable, faulty."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "avajja",
+    "Blameable, faulty."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
  },
  "anavamānanāya": {
   "meaning": "without contempt, with no disregard or disrespect",
   "gram": "feminine abstract noun, instrumental singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["avamānanā", "Contempt, disrespect (ava + √man)."],
-   ["-āya", "Instrumental singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "avamānanā",
+    "Contempt, disrespect (ava + √man)."
+   ],
+   [
+    "-āya",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "anayabyasanaṁ": {
   "meaning": "distress and misfortune; calamity and disaster",
   "gram": "neuter compound noun, nominative/accusative singular",
   "breakdown": [
-   ["anaya", "Distress, misfortune (literally \"wrong going\": an + √i)."],
-   ["byasana", "Misfortune, disaster, ruin."]
+   [
+    "anaya",
+    "Distress, misfortune (literally \"wrong going\": an + √i)."
+   ],
+   [
+    "byasana",
+    "Misfortune, disaster, ruin."
+   ]
   ]
  },
  "anaye": {
   "meaning": "in misfortune, in distress",
   "gram": "masculine noun anaya, locative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["√i", "Root \"to go\"; anaya = \"wrong going\", misfortune."],
-   ["-e", "Locative singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "√i",
+    "Root \"to go\"; anaya = \"wrong going\", misfortune."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "anaṅgaṇassa": {
   "meaning": "of one free from stain or blemish",
   "gram": "adjective, genitive/dative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["aṅgaṇa", "Stain, blemish (√añj \"to smear\")."],
-   ["-ssa", "Genitive/dative singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "aṅgaṇa",
+    "Stain, blemish (√añj \"to smear\")."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "anaṅgaṇā": {
   "meaning": "free from blemish, clear, stainless",
   "gram": "adjective, plural or feminine form",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["aṅgaṇa", "Stain, blemish (√añj \"to smear\")."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "aṅgaṇa",
+    "Stain, blemish (√añj \"to smear\")."
+   ]
   ]
  },
  "andhakāratimisā": {
   "meaning": "the gloom of blinding darkness; deep, dark blackness",
   "gram": "adjective/noun, compound",
   "breakdown": [
-   ["andha", "Blind, dark."],
-   ["kāra", "Making, doing: andhakāra = \"darkness\" (what makes blind)."],
-   ["timisa", "Gloom, darkness."]
+   [
+    "andha",
+    "Blind, dark."
+   ],
+   [
+    "kāra",
+    "Making, doing: andhakāra = \"darkness\" (what makes blind)."
+   ],
+   [
+    "timisa",
+    "Gloom, darkness."
+   ]
   ]
  },
  "andhakāre": {
   "meaning": "in darkness, in blindness",
   "gram": "masculine noun andhakāra, locative singular",
   "breakdown": [
-   ["andha", "Blind, dark."],
-   ["kāra", "Making, doing: andhakāra = \"darkness\"."],
-   ["-e", "Locative singular ending."]
+   [
+    "andha",
+    "Blind, dark."
+   ],
+   [
+    "kāra",
+    "Making, doing: andhakāra = \"darkness\"."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
   ]
  },
  "andhatamaṁ": {
   "meaning": "complete darkness; blinding gloom",
   "gram": "neuter compound noun, nominative/accusative singular",
   "breakdown": [
-   ["andha", "Blind, dark."],
-   ["tama", "Gloom, darkness."]
+   [
+    "andha",
+    "Blind, dark."
+   ],
+   [
+    "tama",
+    "Gloom, darkness."
+   ]
   ]
  },
  "anekabyādhiparipīḷitaṁ": {
   "meaning": "oppressed by many diseases; vexed by manifold illness",
   "gram": "adjective, compound, accusative singular",
   "breakdown": [
-   ["aneka", "Many, manifold (literally \"not one\")."],
-   ["byādhi", "Disease, sickness."],
-   ["paripīḷita", "Oppressed, vexed (past participle of paripīḷeti, pari + √pīḷ)."]
+   [
+    "aneka",
+    "Many, manifold (literally \"not one\")."
+   ],
+   [
+    "byādhi",
+    "Disease, sickness."
+   ],
+   [
+    "paripīḷita",
+    "Oppressed, vexed (past participle of paripīḷeti, pari + √pīḷ)."
+   ]
   ]
- },
- "anekaguṇapaṭilābhā-": {
-  "meaning": "the acquisition of many qualities (first part of the compound anekaguṇapaṭilābhānisaṁsaṁ, \"the benefit of acquiring many qualities\")",
-  "gram": "compound fragment (line-break form)",
-  "breakdown": [
-   ["aneka", "Many (literally \"not one\")."],
-   ["guṇa", "Quality, virtue."],
-   ["paṭilābha", "Acquisition, obtaining."]
-  ],
-  "note": "uncertain: this key is a hyphenated line-break fragment of anekaguṇapaṭilābhānisaṁsaṁ; see that entry."
  },
  "anekaguṇapaṭilābhānisaṁsaṁ": {
   "meaning": "having the benefit of acquiring many qualities",
   "gram": "compound noun/adjective, accusative singular",
   "breakdown": [
-   ["aneka", "Many, manifold (literally \"not one\")."],
-   ["guṇa", "Quality, virtue."],
-   ["paṭilābha", "Acquisition, obtaining."],
-   ["ānisaṁsa", "Benefit, advantage, blessing."]
+   [
+    "aneka",
+    "Many, manifold (literally \"not one\")."
+   ],
+   [
+    "guṇa",
+    "Quality, virtue."
+   ],
+   [
+    "paṭilābha",
+    "Acquisition, obtaining."
+   ],
+   [
+    "ānisaṁsa",
+    "Benefit, advantage, blessing."
+   ]
   ]
  },
  "anekapariyāyena": {
   "meaning": "in many ways, by many methods",
   "gram": "masculine compound noun, instrumental singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel): aneka = \"not one, many\"."],
-   ["eka", "One."],
-   ["pariyāya", "Way, method, manner (literally \"going round\")."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel): aneka = \"not one, many\"."
+   ],
+   [
+    "eka",
+    "One."
+   ],
+   [
+    "pariyāya",
+    "Way, method, manner (literally \"going round\")."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "anekappakāro": {
   "meaning": "of many kinds; with many ramparts",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["aneka", "Many (literally \"not one\")."],
-   ["pakāra", "Kind, sort; rampart. (The doubled pp is sandhi doubling at the compound seam.)"]
+   [
+    "aneka",
+    "Many (literally \"not one\")."
+   ],
+   [
+    "pakāra",
+    "Kind, sort; rampart. (The doubled pp is sandhi doubling at the compound seam.)"
+   ]
   ],
   "note": "divergence: the lexicon glosses this occurrence as \"many + rampart\" (describing a fortified city); the same compound elsewhere means \"manifold, of many kinds\"."
  },
@@ -345,35 +629,68 @@
   "meaning": "manifold, of many sorts; equipped in many ways",
   "gram": "adjective, compound, accusative singular",
   "breakdown": [
-   ["aneka", "Many (literally \"not one\")."],
-   ["vihita", "Furnished, arranged, equipped (past participle of vidahati)."]
+   [
+    "aneka",
+    "Many (literally \"not one\")."
+   ],
+   [
+    "vihita",
+    "Furnished, arranged, equipped (past participle of vidahati)."
+   ]
   ]
  },
  "anenāti": {
   "meaning": "\"through this, by this\" (with quotation marker ti)",
   "gram": "pronoun ima/ena, instrumental singular + quotation particle ti",
   "breakdown": [
-   ["anena", "By this (instrumental singular of the pronoun ima)."],
-   ["ti", "Quotation marker (iti), fused by sandhi to -nāti."]
+   [
+    "anena",
+    "By this (instrumental singular of the pronoun ima)."
+   ],
+   [
+    "ti",
+    "Quotation marker (iti), fused by sandhi to -nāti."
+   ]
   ]
  },
  "aneḷamūgatā": {
   "meaning": "the state of being neither deaf nor dumb; unimpaired faculties of hearing and speech",
   "gram": "feminine abstract noun, compound",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["eḷa", "Deaf."],
-   ["mūga", "Dumb, mute."],
-   ["-tā", "Abstract noun suffix, \"-ness\"."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "eḷa",
+    "Deaf."
+   ],
+   [
+    "mūga",
+    "Dumb, mute."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix, \"-ness\"."
+   ]
   ]
  },
  "anibbānasaṁvattaniko": {
   "meaning": "not conducive to nibbāna",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["nibbāna", "Nibbāna, liberation."],
-   ["saṁvattanika", "Conducive to, leading to (saṁ + √vatt + -ika)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "nibbāna",
+    "Nibbāna, liberation."
+   ],
+   [
+    "saṁvattanika",
+    "Conducive to, leading to (saṁ + √vatt + -ika)."
+   ]
   ]
  },
  "anicca": {
@@ -381,8 +698,14 @@
   "summary": "The first of the three basic characteristics of existence, alongside dukkha (unsatisfactoriness) and anattā (non-self).",
   "gram": "adjective/neuter noun (a + nicca)",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["nicca", "Permanent, constant, perpetual."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "nicca",
+    "Permanent, constant, perpetual."
+   ]
   ],
   "goenka": "Anicca, impermanence, is the first of the three basic characteristics: impermanence (anicca), unsatisfactoriness (dukkha) and non-self (anattā). In the tradition it is not an abstract doctrine of change but a truth to be experienced directly: Klaus speaks of \"understanding anicca (passato udayabbayaṁ)\" — literally seeing the arising-and-passing — and notes that the experience of the dissolution of the body (bhaṅgañāṇa) gives a vastly more impressionable understanding of impermanence than intellectual insight alone. The canonical verse of the Hirīsutta declares: anicca vata saṅkhārā... uppādavayadhammino — conditioned things are impermanent indeed, by their nature constantly arising and vanishing. The perception of impermanence (aniccasaññā) is one of the ten saññā meditation objects. Renderings such as mere \"change\" or \"transient\" lose this experiential dimension."
  },
@@ -390,70 +713,136 @@
   "meaning": "absence of desire; without lust or covetousness",
   "gram": "adjective/feminine noun (an + icchā)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["icchā", "Desire, wish, longing (√is)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "icchā",
+    "Desire, wish, longing (√is)."
+   ]
   ]
  },
  "anicchāsaññā": {
   "meaning": "the perception of non-desire; dispassion, not desiring",
   "gram": "feminine compound noun",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["icchā", "Desire, wish."],
-   ["saññā", "Perception."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "icchā",
+    "Desire, wish."
+   ],
+   [
+    "saññā",
+    "Perception."
+   ]
   ]
  },
  "anikkasāvo": {
   "meaning": "not free from impurities, still stained (by the defilements)",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["nikkasāva", "Free from stain or impurity (nir + kasāva \"stain, impurity\")."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "nikkasāva",
+    "Free from stain or impurity (nir + kasāva \"stain, impurity\")."
+   ]
   ]
  },
  "anikkhittadhuro": {
   "meaning": "not laying down the burden; unflagging in responsibility",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["nikkhitta", "Put down, laid aside (past participle of nikkhipati)."],
-   ["dhura", "Burden, yoke, responsibility."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "nikkhitta",
+    "Put down, laid aside (past participle of nikkhipati)."
+   ],
+   [
+    "dhura",
+    "Burden, yoke, responsibility."
+   ]
   ]
  },
  "anindārosaṁ": {
   "meaning": "without blame and without anger; free of rebuke and wrath",
   "gram": "masculine compound noun/adjective, accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["nindā", "Blame, rebuke."],
-   ["a-", "Negative prefix \"not\" (repeated for the second member)."],
-   ["rosa", "Anger, wrath."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "nindā",
+    "Blame, rebuke."
+   ],
+   [
+    "a-",
+    "Negative prefix \"not\" (repeated for the second member)."
+   ],
+   [
+    "rosa",
+    "Anger, wrath."
+   ]
   ]
  },
  "anivattipaṭipadaṁ": {
   "meaning": "the practice of not turning back; walking the path without stopping",
   "gram": "feminine compound noun, accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["nivatti", "Turning back, stopping (ni + √vatt)."],
-   ["paṭipadā", "Path, way of practice, walking the path."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "nivatti",
+    "Turning back, stopping (ni + √vatt)."
+   ],
+   [
+    "paṭipadā",
+    "Path, way of practice, walking the path."
+   ]
   ]
  },
  "aniṭṭhā": {
   "meaning": "unpleasant, disagreeable; unwanted",
   "gram": "past participle of na icchati (√is), plural or feminine form",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["iṭṭha", "Wished for, pleasant, agreeable (past participle of icchati)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "iṭṭha",
+    "Wished for, pleasant, agreeable (past participle of icchati)."
+   ]
   ]
  },
  "aniṭṭhāya": {
   "meaning": "not welcome, unwanted",
   "gram": "past participle of na icchati, feminine oblique singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["iṭṭha", "Wished for, welcome (past participle of icchati)."],
-   ["-āya", "Feminine oblique singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "iṭṭha",
+    "Wished for, welcome (past participle of icchati)."
+   ],
+   [
+    "-āya",
+    "Feminine oblique singular ending."
+   ]
   ]
  }
 }

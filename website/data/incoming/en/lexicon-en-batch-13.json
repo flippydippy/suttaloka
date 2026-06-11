@@ -3,22 +3,29 @@
   "meaning": "a pit of charcoal; a pit of burning embers",
   "gram": "feminine noun, compound (aṅgāra + kāsu)",
   "breakdown": [
-   ["aṅgāra", "Charcoal, burning ember."],
-   ["kāsu", "Pit."]
+   [
+    "aṅgāra",
+    "Charcoal, burning ember."
+   ],
+   [
+    "kāsu",
+    "Pit."
+   ]
   ]
  },
  "aṇaṇa": {
   "meaning": "free from debt",
   "gram": "adjective (na + iṇa “debt”)",
   "breakdown": [
-   ["an-", "Negative prefix meaning “without” (na > an before a vowel)."],
-   ["iṇa", "Debt (the vowels contract to aṇaṇa)."]
+   [
+    "an-",
+    "Negative prefix meaning “without” (na > an before a vowel)."
+   ],
+   [
+    "iṇa",
+    "Debt (the vowels contract to aṇaṇa)."
+   ]
   ]
- },
- "aṇaṇa free from": {
-  "meaning": "aṇaṇa: free from debt",
-  "gram": "adjective",
-  "note": "uncertain: this headword is a glossary-row artifact; the entry is aṇaṇa with the gloss “free from debt”. See aṇaṇa."
  },
  "aṇu": {
   "meaning": "small, subtle; minute",
@@ -28,16 +35,28 @@
   "meaning": "subtle and gross; fine and coarse",
   "gram": "adjective, compound (aṇuka + thūla)",
   "breakdown": [
-   ["aṇuka", "Subtle, minute, fine."],
-   ["thūlā", "Gross, coarse, big."]
+   [
+    "aṇuka",
+    "Subtle, minute, fine."
+   ],
+   [
+    "thūlā",
+    "Gross, coarse, big."
+   ]
   ]
  },
  "aṇumatto": {
   "meaning": "even the smallest; of the least measure",
   "gram": "adjective, nominative singular masculine, compound (aṇu + matta)",
   "breakdown": [
-   ["aṇu", "Small, minute."],
-   ["matto", "Measuring, of the amount of; from matta “measure”."]
+   [
+    "aṇu",
+    "Small, minute."
+   ],
+   [
+    "matto",
+    "Measuring, of the amount of; from matta “measure”."
+   ]
   ]
  },
  "aṇḍakā": {
@@ -48,55 +67,91 @@
   "meaning": "ocean; flood",
   "gram": "masculine noun"
  },
- "aṇṇava ocean atikkama": {
-  "meaning": "aṇṇava: ocean; atikkama: transgressing, going beyond, surpassing",
-  "gram": "glossary artifact (two entries run together)",
-  "note": "uncertain: this headword is a glossary-row artifact combining two separate entries, aṇṇava (“ocean”) and atikkama (“transgressing, surpassing”)."
- },
  "aṭṭha-purisa-puggalā": {
   "meaning": "the eight kinds of individuals; the eight noble persons",
   "summary": "This phrase names the four pairs of men — the eight noble individuals on the four stages of the path and their fruits — praised in the recollection of the Saṅgha.",
   "gram": "phrase, compound (aṭṭha + purisa + puggala)",
   "breakdown": [
-   ["aṭṭha", "Eight."],
-   ["purisa", "Man, person."],
-   ["puggalā", "Individuals."]
+   [
+    "aṭṭha",
+    "Eight."
+   ],
+   [
+    "purisa",
+    "Man, person."
+   ],
+   [
+    "puggalā",
+    "Individuals."
+   ]
   ]
  },
  "aṭṭhamamādiyanti": {
   "meaning": "they undertake the eighth (precept)",
   "gram": "sandhi phrase: aṭṭhamaṁ + ādiyanti",
   "breakdown": [
-   ["aṭṭhamaṁ", "The eighth (accusative; the m bridges in sandhi)."],
-   ["ādiyanti", "They take, they undertake; from ādiyati."]
+   [
+    "aṭṭhamaṁ",
+    "The eighth (accusative; the m bridges in sandhi)."
+   ],
+   [
+    "ādiyanti",
+    "They take, they undertake; from ādiyati."
+   ]
   ]
  },
  "aṭṭhamī ca pakkhassa": {
   "meaning": "and the eighth (day) of the fortnight (with the 14th and 15th, the uposatha days)",
   "gram": "phrase",
   "breakdown": [
-   ["aṭṭhamī", "The eighth day."],
-   ["ca", "And."],
-   ["pakkhassa", "Of the fortnight; genitive of pakkha."]
+   [
+    "aṭṭhamī",
+    "The eighth day."
+   ],
+   [
+    "ca",
+    "And."
+   ],
+   [
+    "pakkhassa",
+    "Of the fortnight; genitive of pakkha."
+   ]
   ]
  },
  "aṭṭhapanā": {
   "meaning": "position, arrangement; setting up",
   "gram": "feminine noun (ā + ṭhapanā, from ṭhapeti “to place”)",
   "breakdown": [
-   ["a-", "Prefix (ā, shortened), with sandhi doubling of the ṭ."],
-   ["ṭhapanā", "Placing, arranging; from ṭhapeti, causative of tiṭṭhati."]
+   [
+    "a-",
+    "Prefix (ā, shortened), with sandhi doubling of the ṭ."
+   ],
+   [
+    "ṭhapanā",
+    "Placing, arranging; from ṭhapeti, causative of tiṭṭhati."
+   ]
   ]
  },
  "aṭṭhaṅgikamāhuposathaṁ": {
   "meaning": "they call it the uposatha with its eight observances; the eightfold uposatha",
   "gram": "sandhi phrase (aṭṭhaṅgikaṁ + āhu + uposathaṁ)",
   "breakdown": [
-   ["aṭṭhaṅgika", "Eightfold, having eight factors (aṭṭha + aṅga + -ika)."],
-   ["āhu", "They say, they call (the m bridges in sandhi)."],
-   ["uposathaṁ", "The uposatha, the observance day with its precepts."]
+   [
+    "aṭṭhaṅgika",
+    "Eightfold, having eight factors (aṭṭha + aṅga + -ika)."
+   ],
+   [
+    "āhu",
+    "They say, they call (the m bridges in sandhi)."
+   ],
+   [
+    "uposathaṁ",
+    "The uposatha, the observance day with its precepts."
+   ]
   ],
-  "forms": ["aṭṭhaṅgikamāhuposathaṃ"]
+  "forms": [
+   "aṭṭhaṅgikamāhuposathaṃ"
+  ]
  },
  "aṭṭīyati": {
   "meaning": "to be worried, distressed; to be troubled",
@@ -105,107 +160,185 @@
  "aṭṭīyitvā": {
   "meaning": "having been worried; having become distressed",
   "gram": "absolutive (gerund) of aṭṭīyati",
-  "forms": ["aṭṭiyitvā"]
- },
- "aṭṭīyitvā/ aṭṭiyitvā": {
-  "meaning": "having been worried; having become distressed",
-  "gram": "absolutive (gerund) of aṭṭīyati",
-  "note": "uncertain: this headword is a glossary-row artifact listing both spellings of the absolutive; see aṭṭīyitvā."
+  "forms": [
+   "aṭṭiyitvā"
+  ]
  },
  "bahinikkhamanaṁ": {
   "meaning": "going outside; departure outwards",
   "gram": "neuter noun, compound (bahi + nikkhamana)",
   "breakdown": [
-   ["bahi", "Out, outside."],
-   ["nikkhamanaṁ", "Departure, going out; from nikkhamati."]
+   [
+    "bahi",
+    "Out, outside."
+   ],
+   [
+    "nikkhamanaṁ",
+    "Departure, going out; from nikkhamati."
+   ]
   ],
-  "forms": ["bahinikkhamanaṃ"]
+  "forms": [
+   "bahinikkhamanaṃ"
+  ]
  },
  "bahinikkhantāvasesassa": {
   "meaning": "of what remains after going outside; of the remainder left outside",
   "gram": "compound, genitive singular (bahi + nikkhanta + avasesa)",
   "breakdown": [
-   ["bahi", "Out, outside."],
-   ["nikkhanta", "Departed, gone out; past participle of nikkhamati."],
-   ["avasesassa", "Of the remainder; genitive of avasesa (the vowels coalesce to -ntāva-)."]
+   [
+    "bahi",
+    "Out, outside."
+   ],
+   [
+    "nikkhanta",
+    "Departed, gone out; past participle of nikkhamati."
+   ],
+   [
+    "avasesassa",
+    "Of the remainder; genitive of avasesa (the vowels coalesce to -ntāva-)."
+   ]
   ]
  },
  "bahujanahitasuttavaṇṇanā.": {
   "meaning": "the commentary on the Bahujanahita Sutta (the discourse “For the Benefit of Many People”)",
   "gram": "proper noun (commentary title)",
-  "forms": ["Bahujanahitasuttavaṇṇanā"]
+  "forms": [
+   "Bahujanahitasuttavaṇṇanā"
+  ]
  },
  "bahujanahitasuttaṁ": {
   "meaning": "the Bahujanahita Sutta, the discourse “For the Benefit of Many People” (bahu + jana + hita)",
   "gram": "proper noun, neuter (sutta title)",
-  "forms": ["Bahujanahitasuttaṃ"]
+  "forms": [
+   "Bahujanahitasuttaṃ"
+  ]
  },
  "bahujanahitāya": {
   "meaning": "for the benefit of many people",
   "gram": "compound, dative singular (bahu + jana + hita + -āya)",
   "breakdown": [
-   ["bahu", "Many, much."],
-   ["jana", "People, beings."],
-   ["hita", "Benefit, welfare."],
-   ["-āya", "Dative singular ending: “for”."]
+   [
+    "bahu",
+    "Many, much."
+   ],
+   [
+    "jana",
+    "People, beings."
+   ],
+   [
+    "hita",
+    "Benefit, welfare."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: “for”."
+   ]
   ]
  },
  "bahujanasukhāya": {
   "meaning": "for the happiness of many people",
   "gram": "compound, dative singular (bahu + jana + sukha + -āya)",
   "breakdown": [
-   ["bahu", "Many, much."],
-   ["jana", "People, beings."],
-   ["sukha", "Happiness."],
-   ["-āya", "Dative singular ending: “for”."]
+   [
+    "bahu",
+    "Many, much."
+   ],
+   [
+    "jana",
+    "People, beings."
+   ],
+   [
+    "sukha",
+    "Happiness."
+   ],
+   [
+    "-āya",
+    "Dative singular ending: “for”."
+   ]
   ]
  },
  "bahulamanuvitakketi": {
   "meaning": "thinks much upon; reflects on repeatedly",
   "gram": "verb, present tense, 3rd person singular, compound (bahulaṁ + anuvitakketi)",
   "breakdown": [
-   ["bahulaṁ", "Much, manyfold (adverb; the m bridges in sandhi)."],
-   ["anuvitakketi", "Thinks over, reflects upon; anu + vi + √takk."]
+   [
+    "bahulaṁ",
+    "Much, manyfold (adverb; the m bridges in sandhi)."
+   ],
+   [
+    "anuvitakketi",
+    "Thinks over, reflects upon; anu + vi + √takk."
+   ]
   ]
  },
  "bahulīkarissati": {
   "meaning": "will make much of; will practise frequently, will develop",
   "gram": "verb, future 3rd person singular, compound (bahulī + karoti)",
   "breakdown": [
-   ["bahulī", "Much, abundantly (bahula in compound form)."],
-   ["karissati", "Will make, will do; future of karoti."]
+   [
+    "bahulī",
+    "Much, abundantly (bahula in compound form)."
+   ],
+   [
+    "karissati",
+    "Will make, will do; future of karoti."
+   ]
   ]
  },
  "bahulīkatā": {
   "meaning": "made much of; practised frequently, developed",
   "gram": "past participle of bahulīkaroti, compound verb",
   "breakdown": [
-   ["bahulī", "Much, abundantly (bahula in compound form)."],
-   ["katā", "Made, done; past participle of karoti."]
+   [
+    "bahulī",
+    "Much, abundantly (bahula in compound form)."
+   ],
+   [
+    "katā",
+    "Made, done; past participle of karoti."
+   ]
   ]
  },
  "bahussuto": {
   "meaning": "of great learning; well versed (literally “having heard much”)",
   "gram": "adjective, nominative singular masculine, compound (bahu + suta)",
   "breakdown": [
-   ["bahu", "Much, many (with sandhi doubling of the following s)."],
-   ["suto", "Heard; past participle of suṇāti; figuratively, learned."]
+   [
+    "bahu",
+    "Much, many (with sandhi doubling of the following s)."
+   ],
+   [
+    "suto",
+    "Heard; past participle of suṇāti; figuratively, learned."
+   ]
   ]
  },
  "bahutarāni": {
   "meaning": "more numerous; manyfold",
   "gram": "adjective, comparative of bahu, neuter plural (bahu + -tara)",
   "breakdown": [
-   ["bahu", "Many, much."],
-   ["-tarāni", "Comparative suffix -tara, neuter plural: “more”."]
+   [
+    "bahu",
+    "Many, much."
+   ],
+   [
+    "-tarāni",
+    "Comparative suffix -tara, neuter plural: “more”."
+   ]
   ]
  },
  "bahūpakāro": {
   "meaning": "of much benefit; very helpful, of great service",
   "gram": "adjective, nominative singular masculine, compound (bahu + upakāra)",
   "breakdown": [
-   ["bahu", "Many, much (bahu + upa- coalesces to bahūpa-)."],
-   ["upakāro", "Help, benefit, service."]
+   [
+    "bahu",
+    "Many, much (bahu + upa- coalesces to bahūpa-)."
+   ],
+   [
+    "upakāro",
+    "Help, benefit, service."
+   ]
   ]
  },
  "bajjhati": {
@@ -216,90 +349,144 @@
   "meaning": "in the army",
   "gram": "masculine noun, locative singular, compound (bala + kāya)",
   "breakdown": [
-   ["bala", "Strength, force; troops."],
-   ["kāyasmiṁ", "Body, mass, group; locative singular — balakāya “the body of troops, army”."]
+   [
+    "bala",
+    "Strength, force; troops."
+   ],
+   [
+    "kāyasmiṁ",
+    "Body, mass, group; locative singular — balakāya “the body of troops, army”."
+   ]
   ],
-  "forms": ["balakāyasmiṃ"]
+  "forms": [
+   "balakāyasmiṃ"
+  ]
  },
  "balavacittekaggatā": {
   "meaning": "strong one-pointedness of mind; firm unification of the mind",
   "gram": "feminine noun, compound (balava + citta + ekaggatā)",
   "breakdown": [
-   ["balava", "Firm, strong."],
-   ["citta", "Mind (citta + eka coalesces to citteka-)."],
-   ["ekaggatā", "One-pointedness; eka “one” + gata “gone” + -tā: the state of being gone to one point."]
+   [
+    "balava",
+    "Firm, strong."
+   ],
+   [
+    "citta",
+    "Mind (citta + eka coalesces to citteka-)."
+   ],
+   [
+    "ekaggatā",
+    "One-pointedness; eka “one” + gata “gone” + -tā: the state of being gone to one point."
+   ]
   ]
  },
  "balibaddassa": {
   "meaning": "of an ox yoked to the plough",
   "gram": "masculine noun, genitive singular",
-  "forms": ["balivaddassa"]
+  "forms": [
+   "balivaddassa"
+  ]
  },
  "baliṁ": {
   "meaning": "offering; oblation, tribute",
   "gram": "masculine noun, accusative singular of bali",
-  "forms": ["baliṃ"]
+  "forms": [
+   "baliṃ"
+  ]
  },
  "bandhanā": {
   "meaning": "bondage; from bondage",
   "gram": "neuter noun (√bandh + ana), here in the ablative sense “from bondage”",
   "breakdown": [
-   ["√bandh", "Root “to bind”."],
-   ["-ana", "Action-noun suffix: binding, bondage."]
+   [
+    "√bandh",
+    "Root “to bind”."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix: binding, bondage."
+   ]
   ]
  },
  "bandhanāgāriko": {
   "meaning": "prison warden; jailer (literally “the man of the house of bonds”)",
   "gram": "masculine noun, compound (bandhana + agāra + -ika)",
   "breakdown": [
-   ["bandhana", "Binding, bond."],
-   ["agāra", "House (bandhana + agāra coalesces to bandhanāgāra, “prison”)."],
-   ["-iko", "Suffix: belonging to, in charge of."]
+   [
+    "bandhana",
+    "Binding, bond."
+   ],
+   [
+    "agāra",
+    "House (bandhana + agāra coalesces to bandhanāgāra, “prison”)."
+   ],
+   [
+    "-iko",
+    "Suffix: belonging to, in charge of."
+   ]
   ]
  },
  "bavhābādhasaṁvattanikā": {
   "meaning": "conducive to much sickness; leading to bad health",
   "gram": "adjective, compound (bavhābādha + saṁvattanika)",
   "breakdown": [
-   ["bavhābādha", "Of much sickness, in bad health (bahu “many” + ābādha “disease”, with bahu > bavh- before the vowel)."],
-   ["saṁvattanikā", "Conducive to, leading to."]
+   [
+    "bavhābādha",
+    "Of much sickness, in bad health (bahu “many” + ābādha “disease”, with bahu > bavh- before the vowel)."
+   ],
+   [
+    "saṁvattanikā",
+    "Conducive to, leading to."
+   ]
   ],
-  "forms": ["bavhābādhasaṃvattanikā"]
- },
- "bavhābādhasaṁvat­": {
-  "meaning": "conducive to much sickness; leading to bad health",
-  "gram": "adjective, compound",
-  "note": "uncertain: this headword is a line-break fragment of bavhābādhasaṁvattanikā in the source vocabulary; see that entry.",
-  "forms": ["bavhābādhasaṁvattanikā"]
+  "forms": [
+   "bavhābādhasaṃvattanikā"
+  ]
  },
  "bavhābādho": {
   "meaning": "having many diseases; of bad health",
   "gram": "adjective, nominative singular masculine, compound (bahu + ābādha)",
   "breakdown": [
-   ["bahu", "Many (bahu > bavh- before the following vowel)."],
-   ["ābādho", "Disease, affliction."]
+   [
+    "bahu",
+    "Many (bahu > bavh- before the following vowel)."
+   ],
+   [
+    "ābādho",
+    "Disease, affliction."
+   ]
   ]
- },
- "become": {
-  "meaning": "become (English gloss fragment from the source glossary)",
-  "gram": "glossary artifact (English fragment)",
-  "note": "uncertain: this headword is an English glossary-row artifact, not a Pāli word; the source row gives no Pāli headword."
  },
  "bhabba": {
   "meaning": "capable, able; fit for",
   "gram": "adjective; potential participle of bhavati (√bhū)",
   "breakdown": [
-   ["√bhū", "Root “to be, become” (bhav > bhab before the suffix)."],
-   ["-ya", "Potential participle suffix: “able to be/become”."]
+   [
+    "√bhū",
+    "Root “to be, become” (bhav > bhab before the suffix)."
+   ],
+   [
+    "-ya",
+    "Potential participle suffix: “able to be/become”."
+   ]
   ]
  },
  "bhabbarūpatāya": {
   "meaning": "by the appearance of likelihood; through seeming capable",
   "gram": "feminine abstract noun, instrumental singular, compound (bhabba + rūpa + -tā)",
   "breakdown": [
-   ["bhabba", "Capable, likely."],
-   ["rūpa", "Form, appearance."],
-   ["-tāya", "Abstract suffix -tā in the instrumental singular."]
+   [
+    "bhabba",
+    "Capable, likely."
+   ],
+   [
+    "rūpa",
+    "Form, appearance."
+   ],
+   [
+    "-tāya",
+    "Abstract suffix -tā in the instrumental singular."
+   ]
   ]
  },
  "bhaddikā": {
@@ -318,8 +505,14 @@
   "meaning": "keeping company with; associating with",
   "gram": "present participle (middle voice) of bhajati (√bhaj)",
   "breakdown": [
-   ["bhaja", "Stem of bhajati “to associate with, resort to”."],
-   ["-māna", "Present participle suffix (middle voice)."]
+   [
+    "bhaja",
+    "Stem of bhajati “to associate with, resort to”."
+   ],
+   [
+    "-māna",
+    "Present participle suffix (middle voice)."
+   ]
   ]
  },
  "bhajate": {
@@ -338,8 +531,14 @@
   "meaning": "to be associated with; whose acquaintance should be cultivated, to be embraced",
   "gram": "potential participle, nominative singular masculine, of bhajati (√bhaj + itabba)",
   "breakdown": [
-   ["√bhaj", "Root “to associate, resort to”."],
-   ["-itabbo", "Potential participle suffix: “should be”."]
+   [
+    "√bhaj",
+    "Root “to associate, resort to”."
+   ],
+   [
+    "-itabbo",
+    "Potential participle suffix: “should be”."
+   ]
   ]
  }
 }

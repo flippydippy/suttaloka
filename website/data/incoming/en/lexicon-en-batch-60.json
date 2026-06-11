@@ -1,432 +1,808 @@
 {
-  "udakañca": {
-    "meaning": "and water",
-    "gram": "neuter noun + conjunction (sandhi udakaṁ + ca)",
-    "breakdown": [
-      ["udaka", "Water."],
-      ["ca", "And (the preceding ṁ becomes ñ before c)."]
-    ]
-  },
-  "udake": {
-    "meaning": "in water; in the water",
-    "gram": "neuter noun, locative singular (of udaka)"
-  },
-  "udakādhāne": {
-    "meaning": "in the water container; where the water remained",
-    "gram": "neuter noun, locative singular (compound)",
-    "breakdown": [
-      ["udaka", "Water."],
-      ["ādhāna", "Receptacle, laying, holding place."]
-    ]
-  },
-  "udakānuggatāni": {
-    "meaning": "not risen out of the water; remaining submerged",
-    "gram": "adjective, neuter nominative/accusative plural (compound)",
-    "breakdown": [
-      ["udaka", "Water."],
-      ["anuggata", "Not gone out, not risen (an + uggata, with sandhi doubling of g; the initial a merges with the preceding a: udakānu-)."]
-    ]
-  },
-  "udakāvasesaṁ": {
-    "meaning": "the remaining water; what is left of the water",
-    "gram": "masculine noun, accusative singular (compound)",
-    "breakdown": [
-      ["udaka", "Water."],
-      ["avasesa", "Remainder, what is left (the initial a merges with the preceding a)."]
-    ],
-    "forms": ["udakāvasesaṃ"]
-  },
-  "udayabbayaṁ": {
-    "meaning": "arising and passing away; rise and fall",
-    "summary": "A key insight-vocabulary compound: the arising (udaya) and passing away (vaya) of phenomena.",
-    "gram": "masculine noun, accusative singular (compound)",
-    "breakdown": [
-      ["udaya", "Rise, arising."],
-      ["vaya", "Fall, passing away (v becomes b with sandhi doubling: -bbaya)."]
-    ],
-    "forms": ["udayabbayaṃ"]
-  },
-  "udayato": {
-    "meaning": "rising; from the arising",
-    "gram": "masculine noun (udaya), ablative/adverbial form",
-    "breakdown": [
-      ["ud", "Prefix: up."],
-      ["√i", "Root meaning “to go”: udaya “rising, arising”."]
-    ]
-  },
-  "udayatthagāminiyā": {
-    "meaning": "leading to (seeing) the rise and fall; going to arising and disappearance",
-    "gram": "adjective, feminine oblique singular (compound)",
-    "breakdown": [
-      ["udaya", "Rise, arising."],
-      ["attha", "Fall, disappearance, destruction (atthaṅgama)."],
-      ["gāminī", "Going to, leading to (feminine of gāmī)."]
-    ]
-  },
-  "udañcanabhāvappatti": {
-    "meaning": "reaching the state where the water (in the well) disappears; coming to the point of being drawn dry",
-    "gram": "feminine noun (compound)",
-    "breakdown": [
-      ["udañcana", "Drawing up water; bucket for drawing water."],
-      ["bhāva", "State, condition (the lexicon reads abhāva “disappearance” here)."],
-      ["patti", "Obtaining, reaching (with sandhi doubling: -ppatti)."]
-    ],
-    "note": "uncertain: the lexicon parses uda(ka) + ṁ + ca + n + abhāva + patti “water + disappearance + obtaining”; DPD parses udañcana + bhāva + patti."
-  },
-  "uddhadhammā": {
-    "meaning": "mere phenomena; nothing but pure phenomena (suddhadhammā)",
-    "gram": "masculine noun, nominative plural (compound)",
-    "breakdown": [
-      ["suddha", "Pure; here: simple, mere, nothing else but (the initial s is lost in the source reading)."],
-      ["dhammā", "Phenomena, elements of experience."]
-    ],
-    "note": "uncertain: the lexicon indicates the full form is suddhadhammā; the headword appears truncated in the source."
-  },
-  "uddhaggikaṁ": {
-    "meaning": "aiming upwards; conducive to spiritual progress",
-    "gram": "adjective, accusative singular (compound)",
-    "breakdown": [
-      ["uddha", "Up, upward."],
-      ["agga", "Top, point: uddhagga “pointing upwards”."],
-      ["-ika", "Adjectival suffix."]
-    ],
-    "forms": ["uddhaggikaṃ"]
-  },
-  "uddhagāmin": {
-    "meaning": "going upwards",
-    "gram": "adjective (compound)",
-    "breakdown": [
-      ["uddha", "Up, upward."],
-      ["gāmin", "Going (from √gam)."]
-    ]
-  },
-  "uddhaṁ": {
-    "meaning": "above; upwards",
-    "gram": "adverb (indeclinable)",
-    "forms": ["uddhaṃ"]
-  },
-  "udumbarakhādīvāyaṁ": {
-    "meaning": "this one is like an eater of udumbara figs",
-    "gram": "sandhi fusion (udumbarakhādī + va + ayaṁ)",
-    "breakdown": [
-      ["udumbara", "The udumbara fig tree (ficus)."],
-      ["khādī", "Eating, eater (from khādati)."],
-      ["va", "Like, as (iva)."],
-      ["ayaṁ", "This one."]
-    ],
-    "forms": ["udumbarakhādīvāyaṃ"]
-  },
-  "udāgacchati": {
-    "meaning": "comes to completion; arises fully",
-    "gram": "verb, 3rd person singular present (ud + ā + √gam)",
-    "breakdown": [
-      ["ud", "Prefix: up."],
-      ["ā", "Prefix: towards."],
-      ["gacchati", "Goes, comes (√gam)."]
-    ]
-  },
-  "udāhu": {
-    "meaning": "or; or else (in alternative questions)",
-    "gram": "disjunctive particle (indeclinable, uda + aho)"
-  },
-  "udāna": {
-    "meaning": "an inspired utterance; exclamation",
-    "gram": "neuter noun",
-    "breakdown": [
-      ["ud", "Prefix: up, out."],
-      ["√an", "Root meaning “to breathe”: udāna, a breathing forth — an inspired utterance."]
-    ]
-  },
-  "udānesi": {
-    "meaning": "breathed forth, uttered (an inspired utterance), exclaimed",
-    "gram": "verb, aorist 3rd person singular of udāneti",
-    "breakdown": [
-      ["ud", "Prefix: up, out."],
-      ["√an", "Root meaning “to breathe”; udāneti “to utter an inspired saying”."],
-      ["-esi", "Aorist 3rd person singular ending."]
-    ]
-  },
-  "uggacchati": {
-    "meaning": "rises; gets up out of",
-    "gram": "verb, 3rd person singular present (ud + √gam)",
-    "breakdown": [
-      ["ud", "Prefix: up, out (assimilated: ugga-)."],
-      ["gacchati", "Goes (√gam)."]
-    ]
-  },
-  "uggahetabbaṁ": {
-    "meaning": "to be taken up, to be learned, to be acquired",
-    "gram": "future passive participle of uggaṇhāti (√gah)",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ugga-)."],
-      ["√gah", "Root meaning “to take, grasp”."],
-      ["-tabba", "Future passive participle suffix: “to be …-ed”."]
-    ],
-    "forms": ["uggahetabbaṃ"]
-  },
-  "uggama": {
-    "meaning": "rising up; ascent",
-    "gram": "masculine noun (√gam)",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ugga-)."],
-      ["√gam", "Root meaning “to go”."]
-    ]
-  },
-  "uggamana": {
-    "meaning": "going up, rising; the rise (of the sun)",
-    "gram": "neuter action noun (from uggacchati)",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ugga-)."],
-      ["√gam", "Root meaning “to go”."],
-      ["-ana", "Action-noun suffix."]
-    ]
-  },
-  "uggata": {
-    "meaning": "come out, risen; high, lofty, exalted",
-    "gram": "past participle of uggacchati",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ugga-)."],
-      ["√gam", "Root meaning “to go”."],
-      ["-ta", "Past participle suffix."]
-    ]
-  },
-  "ujugatamevassa": {
-    "meaning": "for him it goes just straight; his (path) made upright indeed",
-    "gram": "sandhi fusion (uju + gata + m + eva + assa)",
-    "breakdown": [
-      ["uju", "Straight, upright."],
-      ["gata", "Gone, put (past participle)."],
-      ["eva", "Emphatic particle: “thus, just” (with connecting m)."],
-      ["assa", "Of him, for him (genitive singular)."]
-    ]
-  },
-  "ujugatāssa": {
-    "meaning": "walking upright; of him whose course is straight",
-    "gram": "compound + genitive pronoun (uju + gata + assa)",
-    "breakdown": [
-      ["uju", "Straight, upright."],
-      ["gata", "Gone; gait, course (past participle)."],
-      ["assa", "Of him (genitive singular)."]
-    ]
-  },
-  "ujupaṭipanno": {
-    "meaning": "practising the straight way; of upright practice",
-    "summary": "An epithet of the Saṅgha in the standard recollection: practising uprightly.",
-    "gram": "adjective, masculine nominative singular (compound)",
-    "breakdown": [
-      ["uju", "Upright, straight."],
-      ["paṭipanna", "Practising, entered upon (past participle of paṭipajjati)."]
-    ]
-  },
-  "ujū": {
-    "meaning": "honest, straightforward; upright",
-    "gram": "adjective (uju; plural/lengthened form)",
-    "breakdown": [
-      ["√uj", "Root meaning “to be straight”."],
-      ["-u", "Adjectival suffix."]
-    ]
-  },
-  "ukkhittomhi": {
-    "meaning": "I am suspended",
-    "gram": "past participle + verb (sandhi ukkhitta + amhi)",
-    "breakdown": [
-      ["ukkhitta", "Suspended, lifted up (past participle of ukkhipati)."],
-      ["amhi", "I am (1st person singular of atthi)."]
-    ]
-  },
-  "ukkoṭanavañcananikatisāciyogā": {
-    "meaning": "crookedness, cheating, fraud and dishonest dealing",
-    "gram": "masculine noun, nominative plural (compound)",
-    "breakdown": [
-      ["ukkoṭana", "Crookedness; perverting justice, bribery."],
-      ["vañcana", "Cheating, fraud."],
-      ["nikati", "Dishonesty, deception."],
-      ["sāciyoga", "Crooked ways, devious dealing."]
-    ]
-  },
-  "ukkujjeyya": {
-    "meaning": "would set upright; would turn up (what was overturned)",
-    "gram": "verb, optative 3rd person singular of ukkujjati",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ukku-)."],
-      ["√kujj", "Root: to bend; ukkujjati “to set upright”."],
-      ["-eyya", "Optative ending."]
-    ]
-  },
-  "ukkuṭika": {
-    "meaning": "squatting; “bending up” (a posture of respect)",
-    "gram": "adjective (from ukkuṭa)",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ukku-)."],
-      ["√kuṭ", "Root meaning “to bend”."],
-      ["-ika", "Adjectival suffix."]
-    ]
-  },
-  "ukkuṭiko": {
-    "meaning": "squatting down; kneeling down",
-    "gram": "adjective, masculine nominative singular (of ukkuṭika)",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ukku-)."],
-      ["√kuṭ", "Root meaning “to bend”."],
-      ["-ika", "Adjectival suffix."]
-    ]
-  },
-  "ukkūlavikūlaṁ": {
-    "meaning": "up the slopes and down the slopes; uphill and downhill",
-    "gram": "neuter noun, accusative singular (compound, used adverbially)",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ukkūla “steep upward slope”)."],
-      ["kūla", "Slope, bank."],
-      ["vi", "Prefix: away, down (vikūla “downward slope”)."]
-    ],
-    "forms": ["ukkūlavikūlaṃ"]
-  },
-  "ummujjeyya": {
-    "meaning": "would emerge; would rise up (out of water)",
-    "gram": "verb, optative 3rd person singular of ummujjati",
-    "breakdown": [
-      ["ud", "Prefix: up (assimilated: ummu-)."],
-      ["√mujj", "Root: to dive, sink; ummujjati “to emerge, rise out”."],
-      ["-eyya", "Optative ending."]
-    ]
-  },
-  "ummādana": {
-    "meaning": "maddening; causing mental aberration",
-    "gram": "adjective (from ummādeti)",
-    "breakdown": [
-      ["ud", "Prefix: up, out (assimilated: ummā-)."],
-      ["√mad", "Root: to be intoxicated, mad."],
-      ["-ana", "Adjectival/action suffix."]
-    ]
-  },
-  "upa": {
-    "meaning": "up to, towards, next to",
-    "gram": "prefix"
-  },
-  "upaddutā": {
-    "meaning": "troubled, oppressed, overcome, distressed",
-    "gram": "past participle of upaddavati, nominative plural",
-    "breakdown": [
-      ["upa", "Prefix: towards, upon."],
-      ["√du", "Root: to afflict; upadduta “oppressed”."],
-      ["-ta", "Past participle suffix."]
-    ]
-  },
-  "upadhivepakko": {
-    "meaning": "ripening in attachment; having the substratum of rebirth as its result",
-    "gram": "adjective, masculine nominative singular (compound)",
-    "breakdown": [
-      ["upadhi", "Substratum of rebirth; attachment, acquisition."],
-      ["vepakka", "Ripening, having as result (from vipāka)."]
-    ]
-  },
-  "upadhivepakkā": {
-    "meaning": "ripening in attachment; yielding the substratum of being as their fruit",
-    "gram": "adjective, nominative plural (compound)",
-    "breakdown": [
-      ["upadhi", "Substratum of being; attachment."],
-      ["vepakka", "Ripening, yielding fruit (from vipāka)."]
-    ]
-  },
-  "upadussati": {
-    "meaning": "is angry; bears ill will, is revengeful",
-    "gram": "verb, 3rd person singular present (upa + √dus)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√dus", "Root: to be corrupted, to hate."],
-      ["-ti", "3rd person singular ending."]
-    ]
-  },
-  "upakaḍḍheyyuṁ": {
-    "meaning": "they would drag, pull (down)",
-    "gram": "verb, optative 3rd person plural of upakaḍḍhati",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√kaḍḍh", "Root: to drag, pull."],
-      ["-eyyuṁ", "Optative 3rd person plural ending."]
-    ],
-    "forms": ["upakaḍḍheyyuṃ"]
-  },
-  "upalabbhati": {
-    "meaning": "is perceived, is known, is found",
-    "gram": "verb, 3rd person singular, passive of upalabhati (√labh)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√labh", "Root: to obtain; passive labbha- “to be found”."],
-      ["-ti", "3rd person singular ending."]
-    ]
-  },
-  "upanayanaṁ": {
-    "meaning": "bringing near; subsumption (application, in logic)",
-    "gram": "neuter noun (√nī)",
-    "breakdown": [
-      ["upa", "Prefix: towards, near."],
-      ["√nī", "Root: to lead."],
-      ["-ana", "Action-noun suffix."]
-    ],
-    "forms": ["upanayanaṃ"]
-  },
-  "upanayhanti": {
-    "meaning": "they bear enmity; they harbour a grudge",
-    "gram": "verb, 3rd person plural present (upa + √nah)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√nah", "Root: to bind; upanayhati “to tie a grudge to oneself”."],
-      ["-nti", "3rd person plural ending."]
-    ]
-  },
-  "upanentānaṁ": {
-    "meaning": "of those presenting, bestowing, offering",
-    "gram": "present participle of upaneti, genitive/dative plural",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√nī", "Root: to lead; upaneti “to bring to, present”."],
-      ["-ntānaṁ", "Present participle, genitive/dative plural ending."]
-    ],
-    "forms": ["upanentānaṃ"]
-  },
-  "upanijjhāyati": {
-    "meaning": "considers; looks at, contemplates",
-    "gram": "verb, 3rd person singular present (upa + ni + √jhā)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["ni", "Prefix: down (with sandhi doubling: nijjhā-)."],
-      ["√jhā", "Root: to meditate, contemplate."]
-    ]
-  },
-  "upanāha": {
-    "meaning": "enmity, hostility, grudge",
-    "gram": "masculine noun (from upanayhati)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√nah", "Root: to bind — the grudge one binds to oneself."]
-    ]
-  },
-  "upanāho": {
-    "meaning": "enmity; bearing ill will, grudge",
-    "gram": "masculine noun, nominative singular (of upanāha)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√nah", "Root: to bind — the grudge one binds to oneself."]
-    ]
-  },
-  "upanāmanahetubhūtaṁ": {
-    "meaning": "being the motive for offering; become the reason for presenting",
-    "gram": "adjective, accusative/neuter singular (compound)",
-    "breakdown": [
-      ["upanāmana", "Offering, presenting."],
-      ["hetu", "Reason, motive, cause."],
-      ["bhūta", "Become, being (past participle of bhavati)."]
-    ],
-    "forms": ["upanāmanahetubhūtaṃ"]
-  },
-  "upapajja": {
-    "meaning": "having arisen; being reborn",
-    "gram": "gerund (absolutive) of upapajjati (upa + √pad)",
-    "breakdown": [
-      ["upa", "Prefix: towards."],
-      ["√pad", "Root: to go; upapajjati “to arise, be reborn”."],
-      ["-ya", "Gerund formation (upapajja)."]
-    ]
-  }
+ "udakañca": {
+  "meaning": "and water",
+  "gram": "neuter noun + conjunction (sandhi udakaṁ + ca)",
+  "breakdown": [
+   [
+    "udaka",
+    "Water."
+   ],
+   [
+    "ca",
+    "And (the preceding ṁ becomes ñ before c)."
+   ]
+  ]
+ },
+ "udake": {
+  "meaning": "in water; in the water",
+  "gram": "neuter noun, locative singular (of udaka)"
+ },
+ "udakādhāne": {
+  "meaning": "in the water container; where the water remained",
+  "gram": "neuter noun, locative singular (compound)",
+  "breakdown": [
+   [
+    "udaka",
+    "Water."
+   ],
+   [
+    "ādhāna",
+    "Receptacle, laying, holding place."
+   ]
+  ]
+ },
+ "udakānuggatāni": {
+  "meaning": "not risen out of the water; remaining submerged",
+  "gram": "adjective, neuter nominative/accusative plural (compound)",
+  "breakdown": [
+   [
+    "udaka",
+    "Water."
+   ],
+   [
+    "anuggata",
+    "Not gone out, not risen (an + uggata, with sandhi doubling of g; the initial a merges with the preceding a: udakānu-)."
+   ]
+  ]
+ },
+ "udakāvasesaṁ": {
+  "meaning": "the remaining water; what is left of the water",
+  "gram": "masculine noun, accusative singular (compound)",
+  "breakdown": [
+   [
+    "udaka",
+    "Water."
+   ],
+   [
+    "avasesa",
+    "Remainder, what is left (the initial a merges with the preceding a)."
+   ]
+  ],
+  "forms": [
+   "udakāvasesaṃ"
+  ]
+ },
+ "udayabbayaṁ": {
+  "meaning": "arising and passing away; rise and fall",
+  "summary": "A key insight-vocabulary compound: the arising (udaya) and passing away (vaya) of phenomena.",
+  "gram": "masculine noun, accusative singular (compound)",
+  "breakdown": [
+   [
+    "udaya",
+    "Rise, arising."
+   ],
+   [
+    "vaya",
+    "Fall, passing away (v becomes b with sandhi doubling: -bbaya)."
+   ]
+  ],
+  "forms": [
+   "udayabbayaṃ"
+  ]
+ },
+ "udayato": {
+  "meaning": "rising; from the arising",
+  "gram": "masculine noun (udaya), ablative/adverbial form",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up."
+   ],
+   [
+    "√i",
+    "Root meaning “to go”: udaya “rising, arising”."
+   ]
+  ]
+ },
+ "udayatthagāminiyā": {
+  "meaning": "leading to (seeing) the rise and fall; going to arising and disappearance",
+  "gram": "adjective, feminine oblique singular (compound)",
+  "breakdown": [
+   [
+    "udaya",
+    "Rise, arising."
+   ],
+   [
+    "attha",
+    "Fall, disappearance, destruction (atthaṅgama)."
+   ],
+   [
+    "gāminī",
+    "Going to, leading to (feminine of gāmī)."
+   ]
+  ]
+ },
+ "udañcanabhāvappatti": {
+  "meaning": "reaching the state where the water (in the well) disappears; coming to the point of being drawn dry",
+  "gram": "feminine noun (compound)",
+  "breakdown": [
+   [
+    "udañcana",
+    "Drawing up water; bucket for drawing water."
+   ],
+   [
+    "bhāva",
+    "State, condition (the lexicon reads abhāva “disappearance” here)."
+   ],
+   [
+    "patti",
+    "Obtaining, reaching (with sandhi doubling: -ppatti)."
+   ]
+  ],
+  "note": "uncertain: the lexicon parses uda(ka) + ṁ + ca + n + abhāva + patti “water + disappearance + obtaining”; DPD parses udañcana + bhāva + patti."
+ },
+ "uddhaggikaṁ": {
+  "meaning": "aiming upwards; conducive to spiritual progress",
+  "gram": "adjective, accusative singular (compound)",
+  "breakdown": [
+   [
+    "uddha",
+    "Up, upward."
+   ],
+   [
+    "agga",
+    "Top, point: uddhagga “pointing upwards”."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix."
+   ]
+  ],
+  "forms": [
+   "uddhaggikaṃ"
+  ]
+ },
+ "uddhagāmin": {
+  "meaning": "going upwards",
+  "gram": "adjective (compound)",
+  "breakdown": [
+   [
+    "uddha",
+    "Up, upward."
+   ],
+   [
+    "gāmin",
+    "Going (from √gam)."
+   ]
+  ]
+ },
+ "uddhaṁ": {
+  "meaning": "above; upwards",
+  "gram": "adverb (indeclinable)",
+  "forms": [
+   "uddhaṃ"
+  ]
+ },
+ "udumbarakhādīvāyaṁ": {
+  "meaning": "this one is like an eater of udumbara figs",
+  "gram": "sandhi fusion (udumbarakhādī + va + ayaṁ)",
+  "breakdown": [
+   [
+    "udumbara",
+    "The udumbara fig tree (ficus)."
+   ],
+   [
+    "khādī",
+    "Eating, eater (from khādati)."
+   ],
+   [
+    "va",
+    "Like, as (iva)."
+   ],
+   [
+    "ayaṁ",
+    "This one."
+   ]
+  ],
+  "forms": [
+   "udumbarakhādīvāyaṃ"
+  ]
+ },
+ "udāgacchati": {
+  "meaning": "comes to completion; arises fully",
+  "gram": "verb, 3rd person singular present (ud + ā + √gam)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up."
+   ],
+   [
+    "ā",
+    "Prefix: towards."
+   ],
+   [
+    "gacchati",
+    "Goes, comes (√gam)."
+   ]
+  ]
+ },
+ "udāhu": {
+  "meaning": "or; or else (in alternative questions)",
+  "gram": "disjunctive particle (indeclinable, uda + aho)"
+ },
+ "udāna": {
+  "meaning": "an inspired utterance; exclamation",
+  "gram": "neuter noun",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out."
+   ],
+   [
+    "√an",
+    "Root meaning “to breathe”: udāna, a breathing forth — an inspired utterance."
+   ]
+  ]
+ },
+ "udānesi": {
+  "meaning": "breathed forth, uttered (an inspired utterance), exclaimed",
+  "gram": "verb, aorist 3rd person singular of udāneti",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out."
+   ],
+   [
+    "√an",
+    "Root meaning “to breathe”; udāneti “to utter an inspired saying”."
+   ],
+   [
+    "-esi",
+    "Aorist 3rd person singular ending."
+   ]
+  ]
+ },
+ "uggacchati": {
+  "meaning": "rises; gets up out of",
+  "gram": "verb, 3rd person singular present (ud + √gam)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out (assimilated: ugga-)."
+   ],
+   [
+    "gacchati",
+    "Goes (√gam)."
+   ]
+  ]
+ },
+ "uggahetabbaṁ": {
+  "meaning": "to be taken up, to be learned, to be acquired",
+  "gram": "future passive participle of uggaṇhāti (√gah)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ugga-)."
+   ],
+   [
+    "√gah",
+    "Root meaning “to take, grasp”."
+   ],
+   [
+    "-tabba",
+    "Future passive participle suffix: “to be …-ed”."
+   ]
+  ],
+  "forms": [
+   "uggahetabbaṃ"
+  ]
+ },
+ "uggama": {
+  "meaning": "rising up; ascent",
+  "gram": "masculine noun (√gam)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ugga-)."
+   ],
+   [
+    "√gam",
+    "Root meaning “to go”."
+   ]
+  ]
+ },
+ "uggamana": {
+  "meaning": "going up, rising; the rise (of the sun)",
+  "gram": "neuter action noun (from uggacchati)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ugga-)."
+   ],
+   [
+    "√gam",
+    "Root meaning “to go”."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ]
+  ]
+ },
+ "uggata": {
+  "meaning": "come out, risen; high, lofty, exalted",
+  "gram": "past participle of uggacchati",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ugga-)."
+   ],
+   [
+    "√gam",
+    "Root meaning “to go”."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
+  ]
+ },
+ "ujugatamevassa": {
+  "meaning": "for him it goes just straight; his (path) made upright indeed",
+  "gram": "sandhi fusion (uju + gata + m + eva + assa)",
+  "breakdown": [
+   [
+    "uju",
+    "Straight, upright."
+   ],
+   [
+    "gata",
+    "Gone, put (past participle)."
+   ],
+   [
+    "eva",
+    "Emphatic particle: “thus, just” (with connecting m)."
+   ],
+   [
+    "assa",
+    "Of him, for him (genitive singular)."
+   ]
+  ]
+ },
+ "ujugatāssa": {
+  "meaning": "walking upright; of him whose course is straight",
+  "gram": "compound + genitive pronoun (uju + gata + assa)",
+  "breakdown": [
+   [
+    "uju",
+    "Straight, upright."
+   ],
+   [
+    "gata",
+    "Gone; gait, course (past participle)."
+   ],
+   [
+    "assa",
+    "Of him (genitive singular)."
+   ]
+  ]
+ },
+ "ujupaṭipanno": {
+  "meaning": "practising the straight way; of upright practice",
+  "summary": "An epithet of the Saṅgha in the standard recollection: practising uprightly.",
+  "gram": "adjective, masculine nominative singular (compound)",
+  "breakdown": [
+   [
+    "uju",
+    "Upright, straight."
+   ],
+   [
+    "paṭipanna",
+    "Practising, entered upon (past participle of paṭipajjati)."
+   ]
+  ]
+ },
+ "ujū": {
+  "meaning": "honest, straightforward; upright",
+  "gram": "adjective (uju; plural/lengthened form)",
+  "breakdown": [
+   [
+    "√uj",
+    "Root meaning “to be straight”."
+   ],
+   [
+    "-u",
+    "Adjectival suffix."
+   ]
+  ]
+ },
+ "ukkhittomhi": {
+  "meaning": "I am suspended",
+  "gram": "past participle + verb (sandhi ukkhitta + amhi)",
+  "breakdown": [
+   [
+    "ukkhitta",
+    "Suspended, lifted up (past participle of ukkhipati)."
+   ],
+   [
+    "amhi",
+    "I am (1st person singular of atthi)."
+   ]
+  ]
+ },
+ "ukkoṭanavañcananikatisāciyogā": {
+  "meaning": "crookedness, cheating, fraud and dishonest dealing",
+  "gram": "masculine noun, nominative plural (compound)",
+  "breakdown": [
+   [
+    "ukkoṭana",
+    "Crookedness; perverting justice, bribery."
+   ],
+   [
+    "vañcana",
+    "Cheating, fraud."
+   ],
+   [
+    "nikati",
+    "Dishonesty, deception."
+   ],
+   [
+    "sāciyoga",
+    "Crooked ways, devious dealing."
+   ]
+  ]
+ },
+ "ukkujjeyya": {
+  "meaning": "would set upright; would turn up (what was overturned)",
+  "gram": "verb, optative 3rd person singular of ukkujjati",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ukku-)."
+   ],
+   [
+    "√kujj",
+    "Root: to bend; ukkujjati “to set upright”."
+   ],
+   [
+    "-eyya",
+    "Optative ending."
+   ]
+  ]
+ },
+ "ukkuṭika": {
+  "meaning": "squatting; “bending up” (a posture of respect)",
+  "gram": "adjective (from ukkuṭa)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ukku-)."
+   ],
+   [
+    "√kuṭ",
+    "Root meaning “to bend”."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix."
+   ]
+  ]
+ },
+ "ukkuṭiko": {
+  "meaning": "squatting down; kneeling down",
+  "gram": "adjective, masculine nominative singular (of ukkuṭika)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ukku-)."
+   ],
+   [
+    "√kuṭ",
+    "Root meaning “to bend”."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix."
+   ]
+  ]
+ },
+ "ukkūlavikūlaṁ": {
+  "meaning": "up the slopes and down the slopes; uphill and downhill",
+  "gram": "neuter noun, accusative singular (compound, used adverbially)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ukkūla “steep upward slope”)."
+   ],
+   [
+    "kūla",
+    "Slope, bank."
+   ],
+   [
+    "vi",
+    "Prefix: away, down (vikūla “downward slope”)."
+   ]
+  ],
+  "forms": [
+   "ukkūlavikūlaṃ"
+  ]
+ },
+ "ummujjeyya": {
+  "meaning": "would emerge; would rise up (out of water)",
+  "gram": "verb, optative 3rd person singular of ummujjati",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up (assimilated: ummu-)."
+   ],
+   [
+    "√mujj",
+    "Root: to dive, sink; ummujjati “to emerge, rise out”."
+   ],
+   [
+    "-eyya",
+    "Optative ending."
+   ]
+  ]
+ },
+ "ummādana": {
+  "meaning": "maddening; causing mental aberration",
+  "gram": "adjective (from ummādeti)",
+  "breakdown": [
+   [
+    "ud",
+    "Prefix: up, out (assimilated: ummā-)."
+   ],
+   [
+    "√mad",
+    "Root: to be intoxicated, mad."
+   ],
+   [
+    "-ana",
+    "Adjectival/action suffix."
+   ]
+  ]
+ },
+ "upa": {
+  "meaning": "up to, towards, next to",
+  "gram": "prefix"
+ },
+ "upaddutā": {
+  "meaning": "troubled, oppressed, overcome, distressed",
+  "gram": "past participle of upaddavati, nominative plural",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards, upon."
+   ],
+   [
+    "√du",
+    "Root: to afflict; upadduta “oppressed”."
+   ],
+   [
+    "-ta",
+    "Past participle suffix."
+   ]
+  ]
+ },
+ "upadhivepakko": {
+  "meaning": "ripening in attachment; having the substratum of rebirth as its result",
+  "gram": "adjective, masculine nominative singular (compound)",
+  "breakdown": [
+   [
+    "upadhi",
+    "Substratum of rebirth; attachment, acquisition."
+   ],
+   [
+    "vepakka",
+    "Ripening, having as result (from vipāka)."
+   ]
+  ]
+ },
+ "upadhivepakkā": {
+  "meaning": "ripening in attachment; yielding the substratum of being as their fruit",
+  "gram": "adjective, nominative plural (compound)",
+  "breakdown": [
+   [
+    "upadhi",
+    "Substratum of being; attachment."
+   ],
+   [
+    "vepakka",
+    "Ripening, yielding fruit (from vipāka)."
+   ]
+  ]
+ },
+ "upadussati": {
+  "meaning": "is angry; bears ill will, is revengeful",
+  "gram": "verb, 3rd person singular present (upa + √dus)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√dus",
+    "Root: to be corrupted, to hate."
+   ],
+   [
+    "-ti",
+    "3rd person singular ending."
+   ]
+  ]
+ },
+ "upakaḍḍheyyuṁ": {
+  "meaning": "they would drag, pull (down)",
+  "gram": "verb, optative 3rd person plural of upakaḍḍhati",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√kaḍḍh",
+    "Root: to drag, pull."
+   ],
+   [
+    "-eyyuṁ",
+    "Optative 3rd person plural ending."
+   ]
+  ],
+  "forms": [
+   "upakaḍḍheyyuṃ"
+  ]
+ },
+ "upalabbhati": {
+  "meaning": "is perceived, is known, is found",
+  "gram": "verb, 3rd person singular, passive of upalabhati (√labh)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√labh",
+    "Root: to obtain; passive labbha- “to be found”."
+   ],
+   [
+    "-ti",
+    "3rd person singular ending."
+   ]
+  ]
+ },
+ "upanayanaṁ": {
+  "meaning": "bringing near; subsumption (application, in logic)",
+  "gram": "neuter noun (√nī)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards, near."
+   ],
+   [
+    "√nī",
+    "Root: to lead."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ]
+  ],
+  "forms": [
+   "upanayanaṃ"
+  ]
+ },
+ "upanayhanti": {
+  "meaning": "they bear enmity; they harbour a grudge",
+  "gram": "verb, 3rd person plural present (upa + √nah)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√nah",
+    "Root: to bind; upanayhati “to tie a grudge to oneself”."
+   ],
+   [
+    "-nti",
+    "3rd person plural ending."
+   ]
+  ]
+ },
+ "upanentānaṁ": {
+  "meaning": "of those presenting, bestowing, offering",
+  "gram": "present participle of upaneti, genitive/dative plural",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√nī",
+    "Root: to lead; upaneti “to bring to, present”."
+   ],
+   [
+    "-ntānaṁ",
+    "Present participle, genitive/dative plural ending."
+   ]
+  ],
+  "forms": [
+   "upanentānaṃ"
+  ]
+ },
+ "upanijjhāyati": {
+  "meaning": "considers; looks at, contemplates",
+  "gram": "verb, 3rd person singular present (upa + ni + √jhā)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "ni",
+    "Prefix: down (with sandhi doubling: nijjhā-)."
+   ],
+   [
+    "√jhā",
+    "Root: to meditate, contemplate."
+   ]
+  ]
+ },
+ "upanāha": {
+  "meaning": "enmity, hostility, grudge",
+  "gram": "masculine noun (from upanayhati)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√nah",
+    "Root: to bind — the grudge one binds to oneself."
+   ]
+  ]
+ },
+ "upanāho": {
+  "meaning": "enmity; bearing ill will, grudge",
+  "gram": "masculine noun, nominative singular (of upanāha)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√nah",
+    "Root: to bind — the grudge one binds to oneself."
+   ]
+  ]
+ },
+ "upanāmanahetubhūtaṁ": {
+  "meaning": "being the motive for offering; become the reason for presenting",
+  "gram": "adjective, accusative/neuter singular (compound)",
+  "breakdown": [
+   [
+    "upanāmana",
+    "Offering, presenting."
+   ],
+   [
+    "hetu",
+    "Reason, motive, cause."
+   ],
+   [
+    "bhūta",
+    "Become, being (past participle of bhavati)."
+   ]
+  ],
+  "forms": [
+   "upanāmanahetubhūtaṃ"
+  ]
+ },
+ "upapajja": {
+  "meaning": "having arisen; being reborn",
+  "gram": "gerund (absolutive) of upapajjati (upa + √pad)",
+  "breakdown": [
+   [
+    "upa",
+    "Prefix: towards."
+   ],
+   [
+    "√pad",
+    "Root: to go; upapajjati “to arise, be reborn”."
+   ],
+   [
+    "-ya",
+    "Gerund formation (upapajja)."
+   ]
+  ]
+ }
 }

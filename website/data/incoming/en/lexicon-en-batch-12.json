@@ -3,8 +3,14 @@
   "meaning": "gone with ignorance; fallen into ignorance",
   "gram": "adjective, compound (avijjā + gata)",
   "breakdown": [
-   ["avijjā", "Ignorance; not knowing reality as it is (a- “not” + vijjā “knowledge”)."],
-   ["gatā", "Gone, gone into; past participle of gacchati."]
+   [
+    "avijjā",
+    "Ignorance; not knowing reality as it is (a- “not” + vijjā “knowledge”)."
+   ],
+   [
+    "gatā",
+    "Gone, gone into; past participle of gacchati."
+   ]
   ]
  },
  "avijjānusayasamugghātakaṁ": {
@@ -12,127 +18,251 @@
   "summary": "This compound describes what uproots the deepest layer of ignorance: latent + ignorance + abolishing.",
   "gram": "adjective/neuter, compound (avijjā + anusaya + samugghātaka)",
   "breakdown": [
-   ["avijjā", "Ignorance (avijjā + anusaya coalesces to avijjānusaya)."],
-   ["anusaya", "Latent tendency; impurity lying dormant below the surface of the mind."],
-   ["samugghātakaṁ", "Abolishing, uprooting; from saṁ + ud + √ghāt."]
+   [
+    "avijjā",
+    "Ignorance (avijjā + anusaya coalesces to avijjānusaya)."
+   ],
+   [
+    "anusaya",
+    "Latent tendency; impurity lying dormant below the surface of the mind."
+   ],
+   [
+    "samugghātakaṁ",
+    "Abolishing, uprooting; from saṁ + ud + √ghāt."
+   ]
   ],
-  "forms": ["avijjānusayasamugghātakaṃ"]
+  "forms": [
+   "avijjānusayasamugghātakaṃ"
+  ]
  },
  "avinipātadhammo": {
   "meaning": "not liable to fall into the lower realms of suffering",
   "gram": "adjective, nominative singular masculine, compound (na + vinipāta + dhamma)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["vinipāta", "The lower realms of suffering; downfall."],
-   ["dhammo", "Having the nature of, liable to (as final member of a compound)."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "vinipāta",
+    "The lower realms of suffering; downfall."
+   ],
+   [
+    "dhammo",
+    "Having the nature of, liable to (as final member of a compound)."
+   ]
   ]
  },
  "avinipātadhammā": {
   "meaning": "not liable by nature to the lower fields of existence",
   "gram": "adjective, plural, compound (na + vinipāta + dhamma)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["vinipāta", "The lower fields of existence; downfall."],
-   ["dhammā", "Having the nature of, liable to (as final member of a compound)."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "vinipāta",
+    "The lower fields of existence; downfall."
+   ],
+   [
+    "dhammā",
+    "Having the nature of, liable to (as final member of a compound)."
+   ]
   ]
  },
  "avippaṭisāratthāni": {
   "meaning": "having freedom from regret as their purpose",
   "gram": "adjective, neuter plural, compound (avippaṭisāra + attha)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “absence of”."],
-   ["vippaṭisāra", "Regret, remorse (vi + paṭi + √sar, with sandhi doubling of the p)."],
-   ["atthāni", "Purposes, reasons; plural of attha."]
+   [
+    "a-",
+    "Negative prefix meaning “absence of”."
+   ],
+   [
+    "vippaṭisāra",
+    "Regret, remorse (vi + paṭi + √sar, with sandhi doubling of the p)."
+   ],
+   [
+    "atthāni",
+    "Purposes, reasons; plural of attha."
+   ]
   ]
  },
  "avippaṭisārānisaṁsānī": {
   "meaning": "having freedom from regret as their advantage",
   "gram": "adjective, neuter plural, compound (avippaṭisāra + ānisaṁsa)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “absence of”."],
-   ["vippaṭisāra", "Regret, remorse."],
-   ["ānisaṁsānī", "Advantages, benefits; plural of ānisaṁsa."]
+   [
+    "a-",
+    "Negative prefix meaning “absence of”."
+   ],
+   [
+    "vippaṭisāra",
+    "Regret, remorse."
+   ],
+   [
+    "ānisaṁsānī",
+    "Advantages, benefits; plural of ānisaṁsa."
+   ]
   ],
-  "forms": ["avippaṭisārānisaṃsānī"]
+  "forms": [
+   "avippaṭisārānisaṃsānī"
+  ]
  },
  "aviruddho": {
   "meaning": "not opposed; not contradictory; not hostile",
   "gram": "past participle, nominative singular masculine, of na virundhati (na + vi + √rudh)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["viruddho", "Opposed, hostile, contradictory; past participle of virundhati."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "viruddho",
+    "Opposed, hostile, contradictory; past participle of virundhati."
+   ]
   ]
  },
  "avirūḷhichandā": {
   "meaning": "with cravings whose growth has ceased; in whom desire grows no more",
   "gram": "adjective, compound (na + virūḷhi + chanda)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["virūḷhi", "Growth, sprouting; from vi + √ruh."],
-   ["chandā", "Desire, craving, impulse."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "virūḷhi",
+    "Growth, sprouting; from vi + √ruh."
+   ],
+   [
+    "chandā",
+    "Desire, craving, impulse."
+   ]
   ]
  },
  "avisaggatā": {
   "meaning": "the state of being undisturbed; harmony, balance",
   "gram": "feminine abstract noun (a + visagga + -tā)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["visagga", "Scattering, disturbance."],
-   ["-tā", "Abstract noun suffix: “the state of”."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "visagga",
+    "Scattering, disturbance."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: “the state of”."
+   ]
   ]
  },
  "avisaṁvādako": {
   "meaning": "not lying; not deceiving",
   "gram": "adjective, nominative singular masculine (na + visaṁvāda + -ka)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["visaṁvāda", "Deception, breaking one’s word; from vi + saṁ + √vad."],
-   ["-ko", "Adjectival suffix."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "visaṁvāda",
+    "Deception, breaking one’s word; from vi + saṁ + √vad."
+   ],
+   [
+    "-ko",
+    "Adjectival suffix."
+   ]
   ],
-  "forms": ["avisaṃvādako"]
+  "forms": [
+   "avisaṃvādako"
+  ]
  },
  "avisaṁvādanatāya": {
   "meaning": "by non-deceiving; through not lying",
   "gram": "feminine abstract noun, instrumental singular (na + visaṁvādanā + -tā)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["visaṁvādanā", "Deceiving, lying."],
-   ["-tāya", "Abstract suffix -tā in the instrumental singular."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "visaṁvādanā",
+    "Deceiving, lying."
+   ],
+   [
+    "-tāya",
+    "Abstract suffix -tā in the instrumental singular."
+   ]
   ],
-  "forms": ["avisaṃvādanatāya"]
+  "forms": [
+   "avisaṃvādanatāya"
+  ]
  },
  "avisārado": {
   "meaning": "not self-confident; inexperienced; diffident",
   "gram": "adjective, nominative singular masculine (na + visārada)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["visārado", "Self-confident, experienced, wise."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "visārado",
+    "Self-confident, experienced, wise."
+   ]
   ]
  },
  "avitakkaṁ": {
   "meaning": "without applied thought",
   "gram": "adjective (na + vitakka)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “without”."],
-   ["vitakkaṁ", "Applied thought, initial application of the mind; from vi + √takk."]
+   [
+    "a-",
+    "Negative prefix meaning “without”."
+   ],
+   [
+    "vitakkaṁ",
+    "Applied thought, initial application of the mind; from vi + √takk."
+   ]
   ],
-  "forms": ["avitakkaṃ"]
+  "forms": [
+   "avitakkaṃ"
+  ]
  },
  "avivadamānā": {
   "meaning": "not disputing; in harmony, in agreement",
   "gram": "present participle, plural, of na vivadati (na + vi + √vad)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “without”."],
-   ["vivadamānā", "Disputing, quarrelling; present participle (middle voice) of vivadati."]
+   [
+    "a-",
+    "Negative prefix meaning “without”."
+   ],
+   [
+    "vivadamānā",
+    "Disputing, quarrelling; present participle (middle voice) of vivadati."
+   ]
   ]
  },
  "aviññātāresu": {
   "meaning": "amongst the unlearned; among those who do not understand",
   "gram": "masculine noun, locative plural of aviññātar (na + vi + √ñā + tar)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["viññātar", "One who understands; agent noun from vijānāti."],
-   ["-esu", "Locative plural ending: “amongst”."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "viññātar",
+    "One who understands; agent noun from vijānāti."
+   ],
+   [
+    "-esu",
+    "Locative plural ending: “amongst”."
+   ]
   ]
  },
  "avāgata": {
@@ -144,53 +274,101 @@
   "meaning": "with the intention of not transgressing",
   "gram": "masculine noun, instrumental singular, compound (a + vītikkamana + adhippāya)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["vītikkamana", "Transgressing, overstepping."],
-   ["adhippāyena", "With intention; instrumental singular of adhippāya (the vowels coalesce to -nādhi-)."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "vītikkamana",
+    "Transgressing, overstepping."
+   ],
+   [
+    "adhippāyena",
+    "With intention; instrumental singular of adhippāya (the vowels coalesce to -nādhi-)."
+   ]
   ]
  },
  "ayamanusiṭṭhi": {
   "meaning": "this is the instruction; this is the advice given",
   "gram": "sandhi phrase: ayaṁ + anusiṭṭhi (from anusāsati “to instruct”)",
   "breakdown": [
-   ["ayaṁ", "This (the m surfaces before the following vowel)."],
-   ["anusiṭṭhi", "Instruction, advice; related to the past participle of anusāsati."]
+   [
+    "ayaṁ",
+    "This (the m surfaces before the following vowel)."
+   ],
+   [
+    "anusiṭṭhi",
+    "Instruction, advice; related to the past participle of anusāsati."
+   ]
   ]
  },
  "ayaṁ ekabījī": {
   "meaning": "he is a “one-seeder” (a stream-enterer with only one more birth remaining)",
   "gram": "phrase",
   "breakdown": [
-   ["ayaṁ", "This one, he."],
-   ["ekabījī", "Having one seed (eka “one” + bīja “seed” + -ī); a sotāpanna who will take only one more human birth."]
+   [
+    "ayaṁ",
+    "This one, he."
+   ],
+   [
+    "ekabījī",
+    "Having one seed (eka “one” + bīja “seed” + -ī); a sotāpanna who will take only one more human birth."
+   ]
   ],
-  "forms": ["ayaṃ ekabījī"]
+  "forms": [
+   "ayaṃ ekabījī"
+  ]
  },
  "ayaṁ kolaṁkolo": {
   "meaning": "he is one who goes from clan to clan (a stream-enterer reborn two or three more times in good families)",
   "gram": "phrase",
   "breakdown": [
-   ["ayaṁ", "This one, he."],
-   ["kolaṁkolo", "From clan to clan (kula “clan” reduplicated); a sotāpanna with a few favourable rebirths remaining."]
+   [
+    "ayaṁ",
+    "This one, he."
+   ],
+   [
+    "kolaṁkolo",
+    "From clan to clan (kula “clan” reduplicated); a sotāpanna with a few favourable rebirths remaining."
+   ]
   ],
-  "forms": ["ayaṃ kolaṃkolo"]
+  "forms": [
+   "ayaṃ kolaṃkolo"
+  ]
  },
  "ayaṁ sattakkhattuparamo": {
   "meaning": "he is a “seven times at the most” (a stream-enterer with at most seven more births)",
   "gram": "phrase",
   "breakdown": [
-   ["ayaṁ", "This one, he."],
-   ["sattakkhattuparamo", "Seven times (sattakkhattuṁ) at the most (parama); a sotāpanna who will be reborn at most seven more times."]
+   [
+    "ayaṁ",
+    "This one, he."
+   ],
+   [
+    "sattakkhattuparamo",
+    "Seven times (sattakkhattuṁ) at the most (parama); a sotāpanna who will be reborn at most seven more times."
+   ]
   ],
-  "forms": ["ayaṃ sattakkhattuparamo"]
+  "forms": [
+   "ayaṃ sattakkhattuparamo"
+  ]
  },
  "ayogakkhemakāmā": {
   "meaning": "not desiring (another’s) security; wishers of one’s insecurity",
   "gram": "adjective, plural, compound (na + yogakkhema + kāma)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["yogakkhema", "Safety, security; freedom from the bonds (yoga)."],
-   ["kāmā", "Wishing, desiring."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "yogakkhema",
+    "Safety, security; freedom from the bonds (yoga)."
+   ],
+   [
+    "kāmā",
+    "Wishing, desiring."
+   ]
   ]
  },
  "ayoniso": {
@@ -201,21 +379,35 @@
   "meaning": "by the nobleman; by the master",
   "gram": "masculine noun, instrumental singular of ayyiraka (diminutive of ariya)",
   "breakdown": [
-   ["ayyira", "Master, nobleman; a contracted form of ariya “noble”."],
-   ["-kena", "Suffix -ka in the instrumental singular."]
+   [
+    "ayyira",
+    "Master, nobleman; a contracted form of ariya “noble”."
+   ],
+   [
+    "-kena",
+    "Suffix -ka in the instrumental singular."
+   ]
   ]
  },
  "ayyo": {
   "meaning": "sir; master; venerable monk",
   "gram": "masculine noun, nominative/vocative singular (contracted from ariya “noble”)",
-  "forms": ["ayya"]
+  "forms": [
+   "ayya"
+  ]
  },
  "añjali-karaṇīyo": {
   "meaning": "worthy of reverence with folded hands",
   "gram": "potential participle, compound (añjali + karaṇīya)",
   "breakdown": [
-   ["añjali", "The gesture of folded hands raised in respect."],
-   ["karaṇīyo", "To be done, worthy of being made; potential participle of karoti."]
+   [
+    "añjali",
+    "The gesture of folded hands raised in respect."
+   ],
+   [
+    "karaṇīyo",
+    "To be done, worthy of being made; potential participle of karoti."
+   ]
   ]
  },
  "añjalikaraṇīyā": {
@@ -223,8 +415,14 @@
   "summary": "An epithet of the Saṅgha in the recollection of its qualities: worthy of the añjali salutation.",
   "gram": "potential participle of añjaliṁ karoti, plural, compound",
   "breakdown": [
-   ["añjali", "Folded hands raised in respectful salutation."],
-   ["karaṇīyā", "To be done, worthy of being made; potential participle of karoti."]
+   [
+    "añjali",
+    "Folded hands raised in respectful salutation."
+   ],
+   [
+    "karaṇīyā",
+    "To be done, worthy of being made; potential participle of karoti."
+   ]
   ]
  },
  "aññadatthu": {
@@ -235,62 +433,103 @@
   "meaning": "taking everything; one who seizes all (a false friend who only takes)",
   "gram": "adjective, nominative singular masculine, compound (aññadatthu + hara)",
   "breakdown": [
-   ["aññadatthu", "Certainly, in any case; here: whatever there is, everything."],
-   ["haro", "Taking, seizing; from √har “to take”."]
+   [
+    "aññadatthu",
+    "Certainly, in any case; here: whatever there is, everything."
+   ],
+   [
+    "haro",
+    "Taking, seizing; from √har “to take”."
+   ]
   ]
- },
- "aññamaññ akhādikā:": {
-  "meaning": "eating one another; mutual devouring",
-  "gram": "feminine noun, compound",
-  "note": "uncertain: this headword is a glossary-row artifact with a broken space; see aññamaññakhādikā.",
-  "forms": ["aññamaññakhādikā"]
  },
  "aññamaññakhādikā": {
   "meaning": "eating one another; mutual devouring",
   "gram": "feminine noun, compound (aññamañña + khādikā)",
   "breakdown": [
-   ["añña", "One."],
-   ["-m-añña", "The other (añña reduplicated with bridging m): “one another”."],
-   ["khādikā", "Eating, devouring; from khādati “to eat”."]
+   [
+    "añña",
+    "One."
+   ],
+   [
+    "-m-añña",
+    "The other (añña reduplicated with bridging m): “one another”."
+   ],
+   [
+    "khādikā",
+    "Eating, devouring; from khādati “to eat”."
+   ]
   ]
  },
  "aññamaññamagāravā": {
   "meaning": "without respect for one another",
   "gram": "adjective, plural, compound (aññamaññaṁ + agārava)",
   "breakdown": [
-   ["aññamaññaṁ", "One another, each other (with bridging m before the following vowel)."],
-   ["agāravā", "Without respect, irreverent (a- “without” + gārava “respect”)."]
+   [
+    "aññamaññaṁ",
+    "One another, each other (with bridging m before the following vowel)."
+   ],
+   [
+    "agāravā",
+    "Without respect, irreverent (a- “without” + gārava “respect”)."
+   ]
   ]
  },
  "aññamaññaṁ": {
   "meaning": "one another; each other; mutually",
   "gram": "pronoun, compound (aññaṁ + aññaṁ)",
-  "forms": ["aññamaññaṃ"]
+  "forms": [
+   "aññamaññaṃ"
+  ]
  },
  "aññamaññānulomatā": {
   "meaning": "mutual suitability; being fit for one another, in natural order",
   "gram": "feminine abstract noun, compound (aññamañña + anuloma + -tā)",
   "breakdown": [
-   ["aññamañña", "Each other, mutually."],
-   ["anuloma", "Suitable, fitting, in natural order (literally “with the grain”; the vowels coalesce to -aññānu-)."],
-   ["-tā", "Abstract noun suffix: “the state of”."]
+   [
+    "aññamañña",
+    "Each other, mutually."
+   ],
+   [
+    "anuloma",
+    "Suitable, fitting, in natural order (literally “with the grain”; the vowels coalesce to -aññānu-)."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix: “the state of”."
+   ]
   ]
  },
  "aññataradvārappavattā": {
   "meaning": "proceeding through one or another door (of action: body, speech or mind)",
   "gram": "adjective, compound (aññatara + dvāra + pavatta)",
   "breakdown": [
-   ["aññatara", "A certain, one or another."],
-   ["dvāra", "Door; the doors of action."],
-   ["pavattā", "Proceeding, resulting; from pa + √vatt (with sandhi doubling of the p)."]
+   [
+    "aññatara",
+    "A certain, one or another."
+   ],
+   [
+    "dvāra",
+    "Door; the doors of action."
+   ],
+   [
+    "pavattā",
+    "Proceeding, resulting; from pa + √vatt (with sandhi doubling of the p)."
+   ]
   ]
  },
  "aññataraññatarena": {
   "meaning": "by one or another; by this or that",
   "gram": "pronoun, instrumental singular, compound (aññatara + aññatara)",
   "breakdown": [
-   ["aññatara", "A certain one, someone."],
-   ["aññatarena", "By another similar one; the two words coalesce in sandhi."]
+   [
+    "aññatara",
+    "A certain one, someone."
+   ],
+   [
+    "aññatarena",
+    "By another similar one; the two words coalesce in sandhi."
+   ]
   ]
  },
  "aññatarā": {
@@ -305,8 +544,14 @@
   "meaning": "adherents of other sects; followers of other beliefs",
   "gram": "adjective/masculine noun, plural, compound (añña + titthiya)",
   "breakdown": [
-   ["añña", "Other."],
-   ["titthiyā", "Sectarians, followers of (other) teachers; from tittha “ford, sect”."]
+   [
+    "añña",
+    "Other."
+   ],
+   [
+    "titthiyā",
+    "Sectarians, followers of (other) teachers; from tittha “ford, sect”."
+   ]
   ]
  },
  "aññatra": {
@@ -317,57 +562,94 @@
   "meaning": "of the teachings of other teachers",
   "gram": "compound (añña + ācariya + vāda)",
   "breakdown": [
-   ["añña", "Other (añña + ācariya coalesces to aññācariya)."],
-   ["ācariya", "Teacher."],
-   ["vāda", "Saying, doctrine, teaching."]
+   [
+    "añña",
+    "Other (añña + ācariya coalesces to aññācariya)."
+   ],
+   [
+    "ācariya",
+    "Teacher."
+   ],
+   [
+    "vāda",
+    "Saying, doctrine, teaching."
+   ]
   ]
  },
  "aññāsi": {
   "meaning": "perceived, understood, knew",
   "gram": "verb, aorist 3rd person singular of ājānāti (ā + √ñā)",
   "breakdown": [
-   ["ā", "Verbal prefix."],
-   ["√ñā", "Root “to know”."],
-   ["-si", "Aorist ending."]
+   [
+    "ā",
+    "Verbal prefix."
+   ],
+   [
+    "√ñā",
+    "Root “to know”."
+   ],
+   [
+    "-si",
+    "Aorist ending."
+   ]
   ]
  },
  "aññātamānino": {
   "meaning": "proud of being one who knows; conceited about (supposed) knowledge",
   "gram": "adjective, compound (aññāta + mānī)",
   "breakdown": [
-   ["aññāta", "Known, understood; past participle of ājānāti."],
-   ["mānino", "Being proud of, conceiving oneself as; from māna “conceit”."]
+   [
+    "aññāta",
+    "Known, understood; past participle of ājānāti."
+   ],
+   [
+    "mānino",
+    "Being proud of, conceiving oneself as; from māna “conceit”."
+   ]
   ]
  },
- "aññū having": {
-  "meaning": "aññū: having knowledge; a knower",
-  "gram": "adjective suffix (-aññū, from √ñā)",
-  "note": "uncertain: this headword is a glossary-row artifact; the entry is aññū with the gloss “having knowledge” (as in kataññū, varaññū)."
+ "aññū": {
+  "meaning": "having knowledge, knowing (as final member of compounds such as kataññū, varaññū)",
+  "gram": "adjective suffix (-aññū, from √ñā)"
  },
  "aḍayhamānena": {
   "meaning": "not burning; not being consumed or tormented",
   "gram": "present participle, instrumental singular, of na ḍayhati (passive of ḍahati “to burn”)",
   "breakdown": [
-   ["a-", "Negative prefix meaning “not”."],
-   ["ḍayhamānena", "Burning, being consumed; present participle (passive) of ḍahati, instrumental singular."]
+   [
+    "a-",
+    "Negative prefix meaning “not”."
+   ],
+   [
+    "ḍayhamānena",
+    "Burning, being consumed; present participle (passive) of ḍahati, instrumental singular."
+   ]
   ]
  },
  "aḍḍhateyyavassasatāyukānaṁ": {
   "meaning": "of those whose lifespan is two and a half centuries",
   "gram": "adjective, genitive plural, compound (aḍḍhateyya + vassasata + āyuka)",
   "breakdown": [
-   ["aḍḍhateyya", "Two and a half (literally “half of the third”)."],
-   ["vassa", "Year, rains."],
-   ["sata", "Hundred; vassasata “a century”."],
-   ["āyukānaṁ", "Having a lifespan; genitive plural (sata + āyuka coalesces to satāyuka)."]
+   [
+    "aḍḍhateyya",
+    "Two and a half (literally “half of the third”)."
+   ],
+   [
+    "vassa",
+    "Year, rains."
+   ],
+   [
+    "sata",
+    "Hundred; vassasata “a century”."
+   ],
+   [
+    "āyukānaṁ",
+    "Having a lifespan; genitive plural (sata + āyuka coalesces to satāyuka)."
+   ]
   ],
-  "forms": ["aḍḍhateyyavassasatāyukānaṃ"]
- },
- "aḍḍhateyyavassas­": {
-  "meaning": "of those whose lifespan is two and a half centuries",
-  "gram": "adjective, compound",
-  "note": "uncertain: this headword is a line-break fragment of aḍḍhateyyavassasatāyukānaṁ in the source vocabulary; see that entry.",
-  "forms": ["aḍḍhateyyavassasatāyukānaṁ"]
+  "forms": [
+   "aḍḍhateyyavassasatāyukānaṃ"
+  ]
  },
  "aḍḍhe": {
   "meaning": "wealthy, rich",
@@ -381,8 +663,14 @@
   "meaning": "increasing by one factor; “by one limb higher” (as in the Aṅguttara Nikāya, whose discourses are arranged by ascending numbers)",
   "gram": "adjective, compound (aṅga + uttara)",
   "breakdown": [
-   ["aṅga", "Limb, factor, attribute."],
-   ["uttara", "Higher, above, further (aṅga + uttara coalesces to aṅguttara)."]
+   [
+    "aṅga",
+    "Limb, factor, attribute."
+   ],
+   [
+    "uttara",
+    "Higher, above, further (aṅga + uttara coalesces to aṅguttara)."
+   ]
   ]
  }
 }

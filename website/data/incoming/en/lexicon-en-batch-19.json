@@ -1,436 +1,803 @@
 {
-  "diṭṭhādīhi": {
-    "meaning": "because of the seen and so on; with what is seen and the rest",
-    "gram": "compound, instrumental/ablative plural",
-    "breakdown": [
-      ["diṭṭha", "Seen (past participle of √dis)."],
-      ["ādi", "Beginning with, and so on. Sandhi: diṭṭha + ādi > diṭṭhādi."],
-      ["-hi", "Instrumental/ablative plural ending; also echoes hi, because."]
-    ]
-  },
-  "dosakkhayo": {
-    "meaning": "the destruction of ill will; the extinction of hatred",
-    "gram": "masculine compound noun, nominative singular",
-    "breakdown": [
-      ["dosa", "Ill will, hatred, animosity."],
-      ["khayo", "Destruction, extinction (the doubled kk is sandhi doubling)."]
-    ]
-  },
-  "dosasañhitaṁ": {
-    "meaning": "connected with fault; bound up with corruption, blemish",
-    "gram": "compound adjective, neuter/accusative singular",
-    "breakdown": [
-      ["dosa", "Fault, corruption, blemish; also ill will."],
-      ["sañhitaṁ", "Connected with, accompanied by (past participle of sandahati)."]
-    ],
-    "forms": ["dosasañhitaṁ"]
-  },
-  "dosavinayapariyosānā": {
-    "meaning": "culminating in the driving away of ill will",
-    "summary": "Parallel in form to mohavinayapariyosāna, culminating in the driving away of illusion.",
-    "gram": "neuter compound noun, plural or ablative singular",
-    "breakdown": [
-      ["dosa", "Ill will, hatred."],
-      ["vinaya", "Driving away, removal, discipline."],
-      ["pariyosānā", "Termination, culmination, conclusion."]
-    ]
-  },
-  "doso": {
-    "meaning": "ill will; hatred; animosity",
-    "gram": "masculine noun, nominative singular, from dussati (√dus)",
-    "breakdown": [
-      ["√dus", "Root meaning to spoil, offend, hate."],
-      ["-a", "Noun-forming suffix; nominative singular -o."]
-    ],
-    "goenka": "Doso, ill will or hatred, is one of the three root defilements together with lobha (craving) and moha (delusion). In practice it manifests as aversion — the mental reaction of pushing away unpleasant experience — and its destruction (dosakkhaya) is part of the goal of the path."
-  },
-  "dubbalakhādikā": {
-    "meaning": "eating up the weak; preying on those of poor strength",
-    "gram": "feminine compound noun",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, poor (the doubled bb is sandhi doubling)."],
-      ["bala", "Strength; dubbala = weak."],
-      ["khādikā", "Eating, devouring (from khādati, to eat)."]
-    ]
-  },
-  "dubbalikaraṇītveva": {
-    "meaning": "\"...making weak\", thus indeed; (called) a weakener, so it is said",
-    "gram": "feminine compound noun fused with the quotation phrase tveva (ti + eva)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, poor."],
-      ["bali (bala)", "Strength; dubbali- = weak."],
-      ["karaṇī", "Making, causing: that which makes weak."],
-      ["tveva", "Sandhi of ti (quotation marker) + eva (indeed): \"thus indeed it is called\"."]
-    ]
-  },
-  "dubbaṇṇo": {
-    "meaning": "of bad complexion; ugly; discoloured",
-    "gram": "adjective, masculine nominative singular, from vaṇṇa",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, ill."],
-      ["vaṇṇo", "Complexion, colour, appearance (√var). Sandhi: dur + vaṇṇa > dubbaṇṇa."]
-    ]
-  },
-  "dubbhikkhaṁ": {
-    "meaning": "famine; scarcity of alms-food",
-    "summary": "Listed in the source alongside roga (disease) and amanussa (non-human spirits) as calamities.",
-    "gram": "neuter noun, nominative/accusative singular, from bhikkhā",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, difficult."],
-      ["bhikkhā", "Alms, begged food (√bhikkh). Sandhi: dur + bhikkhā > dubbhikkha: when alms are hard to get, famine."],
-      ["-aṁ", "Nominative/accusative singular ending."]
-    ],
-    "forms": ["dubbhikkhaṁ"]
-  },
-  "dubbhāsita": {
-    "meaning": "badly spoken; ill speech",
-    "gram": "adjective (past participle), from bhāsita (√bhās)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad."],
-      ["bhāsita", "Spoken (past participle of bhāsati, to speak). Sandhi: dur + bhāsita > dubbhāsita."]
-    ]
-  },
-  "duccaritaṁ": {
-    "meaning": "bad conduct; misconduct",
-    "gram": "adjective/neuter noun, nominative/accusative singular, from carita (√car)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad."],
-      ["caritaṁ", "Conduct, behaviour (past participle of carati, to walk, fare). Sandhi: dur + carita > duccarita."]
-    ],
-    "forms": ["duccaritaṁ"]
-  },
-  "duccaritena": {
-    "meaning": "by bad conduct; through misconduct",
-    "gram": "adjective/neuter noun, instrumental singular",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad."],
-      ["carita", "Conduct, behaviour (√car)."],
-      ["-ena", "Instrumental singular ending."]
-    ]
-  },
-  "duddasiko": {
-    "meaning": "ugly to look at; ill-favoured in appearance",
-    "gram": "adjective, masculine nominative singular (√dis)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad."],
-      ["dasika", "Looking, of appearance (from √dis, to see). Sandhi: dur + dasika > duddasika."]
-    ]
-  },
-  "duggatiṁ": {
-    "meaning": "a bad destination; a woeful state of rebirth",
-    "gram": "feminine abstract noun, accusative singular, from gati (√gam)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad."],
-      ["gatiṁ", "Going, destination, course of rebirth (√gam + ti). Sandhi: dur + gati > duggati."]
-    ],
-    "forms": ["duggatiṁ"]
-  },
-  "dukkaṭakammakārī": {
-    "meaning": "doing wrong deeds; a doer of evil actions",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["dukkaṭa", "Wrongly done, wrong (du(r)- bad + kaṭa, done)."],
-      ["kamma", "Action, deed."],
-      ["kārī", "Doing, a doer (√kar)."]
-    ]
-  },
-  "dukkha": {
-    "meaning": "suffering; unsatisfactoriness; the inherent unsatisfactoriness of conditioned existence",
-    "gram": "neuter noun / adjective (√dukkh)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, difficult (traditional analysis)."],
-      ["kha", "Traditionally linked to the nave-hole of a wheel or to space: that which runs badly, is hard to bear."]
-    ],
-    "goenka": "Dukkha is suffering and, more deeply, the inherent unsatisfactoriness of all conditioned existence. Klaus's Volume 1 glossary gives \"dukkho — suffering\" directly, and Volume 2 introduces dukkha as one of the three basic characteristics of existence: impermanence (anicca), unsatisfactoriness (dukkha) and non-self (anattā). The term anchors the framework of the Four Noble Truths, elaborated in the compounds dukkhasamudayo (the origin of dukkha), dukkhanirodho (the eradication of dukkha), dukkhanirodhagāminī (the way leading to the eradication of dukkha) and dukkhassantaṁ (the end of dukkha). In the tradition, dukkha is not a doctrine to be believed but a reality to be observed directly within the framework of one's own body and mind.",
-    "forms": ["dukkho", "dukkhaṁ"]
-  },
-  "dukkhamacceti": {
-    "meaning": "overcomes suffering; surpasses misery",
-    "gram": "verb phrase fused by sandhi; accusative noun + 3rd person singular present",
-    "breakdown": [
-      ["dukkhaṁ", "Suffering (accusative); -ṁ > -m- before a vowel."],
-      ["acceti", "Overcomes, passes beyond (ati + √i, to go)."]
-    ]
-  },
-  "dukkhamagama": {
-    "meaning": "not coming into connection with misery",
-    "gram": "verse phrase; accusative noun + verb of motion",
-    "breakdown": [
-      ["dukkhaṁ", "Suffering, misery (accusative); -ṁ > -m- before a vowel."],
-      ["agama", "Went, came (aorist of gacchati); in context, of not meeting with misery."]
-    ],
-    "note": "uncertain: the lexicon glosses the phrase contextually as \"not coming into connection with misery\"; the negative sense comes from the surrounding verse."
-  },
-  "dukkhamanveti": {
-    "meaning": "suffering follows (him)",
-    "gram": "verb phrase fused by sandhi; noun + 3rd person singular present",
-    "breakdown": [
-      ["dukkhaṁ", "Suffering; -ṁ > -m- before a vowel."],
-      ["anveti", "Follows, pursues (anu + √i, to go)."]
-    ]
-  },
-  "dukkhamiccheyya": {
-    "meaning": "would wish suffering (for someone)",
-    "gram": "verb phrase fused by sandhi; accusative noun + 3rd person singular optative of icchati",
-    "breakdown": [
-      ["dukkhaṁ", "Suffering (accusative); -ṁ > -m- before a vowel."],
-      ["iccheyya", "Would wish, desire (optative of icchati, √is)."]
-    ]
-  },
-  "dukkhanirodhagāminiyā": {
-    "meaning": "of the (way) leading to the eradication of suffering",
-    "gram": "compound adjective, feminine genitive singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["nirodha", "Eradication, cessation."],
-      ["gāminiyā", "Leading to, going to (feminine genitive singular of gāmī)."]
-    ]
-  },
-  "dukkhanirodhagāminī": {
-    "meaning": "leading to the eradication of suffering (said of the path, the fourth Noble Truth)",
-    "gram": "compound adjective, feminine nominative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["nirodha", "Eradication, cessation."],
-      ["gāminī", "Leading to, going to (feminine of gāmī, from √gam)."]
-    ],
-    "goenka": "Dukkhanirodhagāminī (paṭipadā) is the way of walking the path leading to the eradication of suffering — the fourth Noble Truth, the Noble Eightfold Path. In the tradition's framing the truths are dukkha, dukkhasamudayo (its origin), dukkhanirodho (its eradication) and dukkhanirodhagāminī paṭipadā (the way leading to its eradication)."
-  },
-  "dukkhanirodhe": {
-    "meaning": "in (regard to) the eradication of suffering",
-    "gram": "masculine compound noun, locative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["nirodha", "Eradication, cessation."],
-      ["-e", "Locative singular ending."]
-    ]
-  },
-  "dukkhanirodho": {
-    "meaning": "the eradication of suffering; the cessation of dukkha (the third Noble Truth)",
-    "gram": "masculine compound noun, nominative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["nirodho", "Eradication, cessation (ni + √rudh)."]
-    ]
-  },
-  "dukkhan­": {
-    "meaning": "(fragment of) dukkhanirodhagāminiyā, of the way leading to the eradication of suffering",
-    "gram": "line-break fragment of a compound noun",
-    "note": "uncertain: the key is a hyphenation artifact (dukkhan-irodhagāminiyā split across a line); see dukkhanirodhagāminiyā."
-  },
-  "dukkhapaṭikkūlo": {
-    "meaning": "averse to pain; finding misery disagreeable",
-    "gram": "compound adjective, masculine nominative singular",
-    "breakdown": [
-      ["dukkha", "Pain, misery."],
-      ["paṭikkūlo", "Disagreeable, averse, objecting to (paṭi + kūla)."]
-    ]
-  },
-  "dukkhappaṭikūlo": {
-    "meaning": "averse to misery; finding pain disagreeable",
-    "gram": "compound adjective, masculine nominative singular (variant spelling of dukkhapaṭikkūlo)",
-    "breakdown": [
-      ["dukkha", "Misery, pain."],
-      ["paṭikūlo", "Disagreeable, averse (the doubled pp is sandhi doubling)."]
-    ]
-  },
-  "dukkhasaccaniddeso": {
-    "meaning": "the exposition of the truth of suffering (a section title)",
-    "gram": "masculine compound noun, nominative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["sacca", "Truth."],
-      ["niddeso", "Exposition, detailed explanation."]
-    ],
-    "forms": ["Dukkhasaccaniddeso"]
-  },
-  "dukkhasamudaye": {
-    "meaning": "in (regard to) the arising of suffering",
-    "gram": "masculine compound noun, locative/dative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["samudaya", "Arising, origination (saṁ + udaya)."],
-      ["-e", "Locative (or dative/genitive) singular ending."]
-    ]
-  },
-  "dukkhasamudayo": {
-    "meaning": "the arising of suffering; the origination of dukkha (the second Noble Truth)",
-    "gram": "masculine compound noun, nominative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["sam-", "Together, fully."],
-      ["udayo", "Arising, coming up: samudayo, origination."]
-    ]
-  },
-  "dukkhassantaṁ": {
-    "meaning": "the end of suffering",
-    "gram": "compound phrase: genitive noun + masculine noun, accusative singular",
-    "breakdown": [
-      ["dukkhassa", "Of suffering (genitive singular)."],
-      ["antaṁ", "End, conclusion (accusative). Sandhi: dukkhassa + antaṁ > dukkhassantaṁ."]
-    ],
-    "forms": ["dukkhassantaṁ"]
-  },
-  "dukkhavipākan": {
-    "meaning": "resulting in misery; having suffering as its fruit",
-    "gram": "compound adjective, neuter/accusative singular (final -ṁ assimilated)",
-    "breakdown": [
-      ["dukkha", "Misery, suffering."],
-      ["vipāka", "Result, fruit, ripening (vi + √pac, to ripen)."]
-    ]
-  },
-  "dukkho": {
-    "meaning": "suffering; painful; unsatisfactory",
-    "gram": "adjective, masculine nominative singular (√dukkh)",
-    "breakdown": [
-      ["dukkha", "Suffering, unsatisfactoriness (see dukkha)."],
-      ["-o", "Masculine nominative singular ending."]
-    ]
-  },
-  "dukkhudrayaṁ": {
-    "meaning": "yielding misery; resulting in suffering",
-    "gram": "compound adjective, neuter/accusative singular",
-    "breakdown": [
-      ["dukkha", "Misery, suffering."],
-      ["udrayaṁ", "Yielding, producing as outcome. Sandhi: dukkha + udraya > dukkhudraya."]
-    ],
-    "forms": ["dukkhudrayaṁ"]
-  },
-  "dukkhūpasamagāminaṁ": {
-    "meaning": "leading to the calming of suffering; the way to the appeasement of dukkha",
-    "gram": "compound adjective, accusative singular",
-    "breakdown": [
-      ["dukkha", "Suffering."],
-      ["upasama", "Appeasing, calming, allaying. Sandhi: dukkha + upasama > dukkhūpasama."],
-      ["gāminaṁ", "Leading to, going to (from gāmī, √gam)."]
-    ],
-    "forms": ["dukkhūpasamagāminaṁ"]
-  },
-  "dullabhasuttaṁ": {
-    "meaning": "the Dullabha Sutta, the Discourse on Those Rare to Encounter",
-    "summary": "The sutta refers to the three individuals that are rare to encounter in the world.",
-    "gram": "neuter noun, compound sutta title",
-    "breakdown": [
-      ["dullabha", "Rare, hard to obtain (du(r)- difficult + labha, obtaining)."],
-      ["suttaṁ", "Discourse, sutta."]
-    ],
-    "forms": ["Dullabhasuttaṁ"]
-  },
-  "dullabho": {
-    "meaning": "rare; hard to obtain; difficult of attainment",
-    "gram": "adjective, masculine nominative singular, from labha (√labh)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult, hard."],
-      ["labho", "Attainment, acquisition (√labh). Sandhi: dur + labha > dullabha."]
-    ]
-  },
-  "dunnibbeṭho": {
-    "meaning": "difficult to unravel; hard to refute or disentangle",
-    "gram": "adjective, masculine nominative singular",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult."],
-      ["nibbeṭho", "Unwinding, unravelling, rebuttal (ni(r) + √veṭh, to twist). Sandhi: dur + nibbeṭha > dunnibbeṭha."]
-    ]
-  },
-  "duppadhaṁsiyo": {
-    "meaning": "difficult to destroy; hard to assail",
-    "gram": "adjective (potential participle), masculine nominative singular (√dhaṁs)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult."],
-      ["padhaṁsiyo", "To be destroyed, assailable (pa + √dhaṁs + iya). Sandhi doubling: dur + pa- > duppa-."]
-    ],
-    "forms": ["duppadhaṁsiyo"]
-  },
-  "duppasaho": {
-    "meaning": "difficult to overcome; hard to subdue",
-    "gram": "adjective, masculine nominative singular (√sah)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult."],
-      ["pasaho", "Overcoming, subduing (pa + √sah). Sandhi doubling: dur + pa- > duppa-."]
-    ]
-  },
-  "duppañño": {
-    "meaning": "of weak wisdom; lacking insight; foolish",
-    "gram": "adjective, masculine nominative singular, from paññā (√ñā)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, weak."],
-      ["pañño", "Wisdom (paññā: pa + √ñā). Sandhi doubling: dur + pa- > duppa-."]
-    ]
-  },
-  "duppaṭinissaggī": {
-    "meaning": "difficult to forsake; hard to let go of",
-    "gram": "adjective, masculine nominative singular, from paṭinissaggī (√sajj)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult."],
-      ["paṭinissaggī", "Forsaking, letting loose, relinquishing (paṭi + ni(s) + √sajj). Sandhi doubling: dur + pa- > duppa-."]
-    ]
-  },
-  "duranubodho": {
-    "meaning": "difficult to comprehend; hard to understand",
-    "gram": "adjective, masculine nominative singular, from anubodha (√budh)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult."],
-      ["anubodho", "Comprehending, understanding (anu + √budh)."]
-    ]
-  },
-  "duranugama": {
-    "meaning": "difficult to follow; hard to be traced",
-    "gram": "adjective, in compounds",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult."],
-      ["anugama", "Following, going after (anu + √gam)."]
-    ]
-  },
-  "duruttāni": {
-    "meaning": "bad words; abusive speech",
-    "gram": "adjective/neuter noun, nominative/accusative plural, from utta (√vac)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad."],
-      ["uttāni", "Spoken (past participle of √vac > utta), plural: things badly said."]
-    ]
-  },
-  "durāsado": {
-    "meaning": "difficult to approach; hard to offend or lay hands on",
-    "gram": "adjective, masculine nominative singular, from āsada (√sad)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning difficult (with junction -r-)."],
-      ["āsado", "Approaching, assailing, laying hands on (ā + √sad)."]
-    ]
-  },
-  "dussati": {
-    "meaning": "offends; wrongs; does wrong against",
-    "gram": "verb, 3rd person singular present (√dus)",
-    "breakdown": [
-      ["√dus", "Root meaning to spoil, offend, corrupt."],
-      ["-sa- + -ti", "Present stem dussa- with 3rd person singular ending."]
-    ]
-  },
-  "dussīlo": {
-    "meaning": "of bad morality; immoral; weak in virtue",
-    "gram": "adjective, masculine nominative singular, from sīla (√sīl)",
-    "breakdown": [
-      ["du(r)-", "Prefix meaning bad, weak."],
-      ["sīlo", "Morality, virtue (sīla). Sandhi: dur + sīla > dussīla."]
-    ]
-  },
-  "dutiyabrahmacariyasuttaṁ": {
-    "meaning": "the Second Brahmacariya Sutta, the Second Discourse on Leading the Holy Life",
-    "gram": "neuter noun, compound sutta title",
-    "breakdown": [
-      ["dutiya", "Second."],
-      ["brahmacariya", "Leading the holy life, the pure life of practice."],
-      ["suttaṁ", "Discourse, sutta."]
-    ],
-    "forms": ["Dutiyabrahmacariyasuttaṁ"]
-  },
-  "dutiyabrahmaññasuttaṁ": {
-    "meaning": "the Second Brahmañña Sutta, the Second Discourse on the True Brahmin State",
-    "gram": "neuter noun, compound sutta title",
-    "breakdown": [
-      ["dutiya", "Second."],
-      ["brahmañña", "The state of a (true) brahmin; the holy state."],
-      ["suttaṁ", "Discourse, sutta."]
-    ],
-    "forms": ["Dutiyabrahmaññasuttaṁ"]
-  }
+ "diṭṭhādīhi": {
+  "meaning": "because of the seen and so on; with what is seen and the rest",
+  "gram": "compound, instrumental/ablative plural",
+  "breakdown": [
+   [
+    "diṭṭha",
+    "Seen (past participle of √dis)."
+   ],
+   [
+    "ādi",
+    "Beginning with, and so on. Sandhi: diṭṭha + ādi > diṭṭhādi."
+   ],
+   [
+    "-hi",
+    "Instrumental/ablative plural ending; also echoes hi, because."
+   ]
+  ]
+ },
+ "dosakkhayo": {
+  "meaning": "the destruction of ill will; the extinction of hatred",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   [
+    "dosa",
+    "Ill will, hatred, animosity."
+   ],
+   [
+    "khayo",
+    "Destruction, extinction (the doubled kk is sandhi doubling)."
+   ]
+  ]
+ },
+ "dosasañhitaṁ": {
+  "meaning": "connected with fault; bound up with corruption, blemish",
+  "gram": "compound adjective, neuter/accusative singular",
+  "breakdown": [
+   [
+    "dosa",
+    "Fault, corruption, blemish; also ill will."
+   ],
+   [
+    "sañhitaṁ",
+    "Connected with, accompanied by (past participle of sandahati)."
+   ]
+  ],
+  "forms": [
+   "dosasañhitaṁ"
+  ]
+ },
+ "dosavinayapariyosānā": {
+  "meaning": "culminating in the driving away of ill will",
+  "summary": "Parallel in form to mohavinayapariyosāna, culminating in the driving away of illusion.",
+  "gram": "neuter compound noun, plural or ablative singular",
+  "breakdown": [
+   [
+    "dosa",
+    "Ill will, hatred."
+   ],
+   [
+    "vinaya",
+    "Driving away, removal, discipline."
+   ],
+   [
+    "pariyosānā",
+    "Termination, culmination, conclusion."
+   ]
+  ]
+ },
+ "doso": {
+  "meaning": "ill will; hatred; animosity",
+  "gram": "masculine noun, nominative singular, from dussati (√dus)",
+  "breakdown": [
+   [
+    "√dus",
+    "Root meaning to spoil, offend, hate."
+   ],
+   [
+    "-a",
+    "Noun-forming suffix; nominative singular -o."
+   ]
+  ],
+  "goenka": "Doso, ill will or hatred, is one of the three root defilements together with lobha (craving) and moha (delusion). In practice it manifests as aversion — the mental reaction of pushing away unpleasant experience — and its destruction (dosakkhaya) is part of the goal of the path."
+ },
+ "dubbalakhādikā": {
+  "meaning": "eating up the weak; preying on those of poor strength",
+  "gram": "feminine compound noun",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, poor (the doubled bb is sandhi doubling)."
+   ],
+   [
+    "bala",
+    "Strength; dubbala = weak."
+   ],
+   [
+    "khādikā",
+    "Eating, devouring (from khādati, to eat)."
+   ]
+  ]
+ },
+ "dubbalikaraṇītveva": {
+  "meaning": "\"...making weak\", thus indeed; (called) a weakener, so it is said",
+  "gram": "feminine compound noun fused with the quotation phrase tveva (ti + eva)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, poor."
+   ],
+   [
+    "bali (bala)",
+    "Strength; dubbali- = weak."
+   ],
+   [
+    "karaṇī",
+    "Making, causing: that which makes weak."
+   ],
+   [
+    "tveva",
+    "Sandhi of ti (quotation marker) + eva (indeed): \"thus indeed it is called\"."
+   ]
+  ]
+ },
+ "dubbaṇṇo": {
+  "meaning": "of bad complexion; ugly; discoloured",
+  "gram": "adjective, masculine nominative singular, from vaṇṇa",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, ill."
+   ],
+   [
+    "vaṇṇo",
+    "Complexion, colour, appearance (√var). Sandhi: dur + vaṇṇa > dubbaṇṇa."
+   ]
+  ]
+ },
+ "dubbhikkhaṁ": {
+  "meaning": "famine; scarcity of alms-food",
+  "summary": "Listed in the source alongside roga (disease) and amanussa (non-human spirits) as calamities.",
+  "gram": "neuter noun, nominative/accusative singular, from bhikkhā",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, difficult."
+   ],
+   [
+    "bhikkhā",
+    "Alms, begged food (√bhikkh). Sandhi: dur + bhikkhā > dubbhikkha: when alms are hard to get, famine."
+   ],
+   [
+    "-aṁ",
+    "Nominative/accusative singular ending."
+   ]
+  ],
+  "forms": [
+   "dubbhikkhaṁ"
+  ]
+ },
+ "dubbhāsita": {
+  "meaning": "badly spoken; ill speech",
+  "gram": "adjective (past participle), from bhāsita (√bhās)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad."
+   ],
+   [
+    "bhāsita",
+    "Spoken (past participle of bhāsati, to speak). Sandhi: dur + bhāsita > dubbhāsita."
+   ]
+  ]
+ },
+ "duccaritaṁ": {
+  "meaning": "bad conduct; misconduct",
+  "gram": "adjective/neuter noun, nominative/accusative singular, from carita (√car)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad."
+   ],
+   [
+    "caritaṁ",
+    "Conduct, behaviour (past participle of carati, to walk, fare). Sandhi: dur + carita > duccarita."
+   ]
+  ],
+  "forms": [
+   "duccaritaṁ"
+  ]
+ },
+ "duccaritena": {
+  "meaning": "by bad conduct; through misconduct",
+  "gram": "adjective/neuter noun, instrumental singular",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad."
+   ],
+   [
+    "carita",
+    "Conduct, behaviour (√car)."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
+  ]
+ },
+ "duddasiko": {
+  "meaning": "ugly to look at; ill-favoured in appearance",
+  "gram": "adjective, masculine nominative singular (√dis)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad."
+   ],
+   [
+    "dasika",
+    "Looking, of appearance (from √dis, to see). Sandhi: dur + dasika > duddasika."
+   ]
+  ]
+ },
+ "duggatiṁ": {
+  "meaning": "a bad destination; a woeful state of rebirth",
+  "gram": "feminine abstract noun, accusative singular, from gati (√gam)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad."
+   ],
+   [
+    "gatiṁ",
+    "Going, destination, course of rebirth (√gam + ti). Sandhi: dur + gati > duggati."
+   ]
+  ],
+  "forms": [
+   "duggatiṁ"
+  ]
+ },
+ "dukkaṭakammakārī": {
+  "meaning": "doing wrong deeds; a doer of evil actions",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "dukkaṭa",
+    "Wrongly done, wrong (du(r)- bad + kaṭa, done)."
+   ],
+   [
+    "kamma",
+    "Action, deed."
+   ],
+   [
+    "kārī",
+    "Doing, a doer (√kar)."
+   ]
+  ]
+ },
+ "dukkha": {
+  "meaning": "suffering; unsatisfactoriness; the inherent unsatisfactoriness of conditioned existence",
+  "gram": "neuter noun / adjective (√dukkh)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, difficult (traditional analysis)."
+   ],
+   [
+    "kha",
+    "Traditionally linked to the nave-hole of a wheel or to space: that which runs badly, is hard to bear."
+   ]
+  ],
+  "goenka": "Dukkha is suffering and, more deeply, the inherent unsatisfactoriness of all conditioned existence. Klaus's Volume 1 glossary gives \"dukkho — suffering\" directly, and Volume 2 introduces dukkha as one of the three basic characteristics of existence: impermanence (anicca), unsatisfactoriness (dukkha) and non-self (anattā). The term anchors the framework of the Four Noble Truths, elaborated in the compounds dukkhasamudayo (the origin of dukkha), dukkhanirodho (the eradication of dukkha), dukkhanirodhagāminī (the way leading to the eradication of dukkha) and dukkhassantaṁ (the end of dukkha). In the tradition, dukkha is not a doctrine to be believed but a reality to be observed directly within the framework of one's own body and mind.",
+  "forms": [
+   "dukkho",
+   "dukkhaṁ"
+  ]
+ },
+ "dukkhamacceti": {
+  "meaning": "overcomes suffering; surpasses misery",
+  "gram": "verb phrase fused by sandhi; accusative noun + 3rd person singular present",
+  "breakdown": [
+   [
+    "dukkhaṁ",
+    "Suffering (accusative); -ṁ > -m- before a vowel."
+   ],
+   [
+    "acceti",
+    "Overcomes, passes beyond (ati + √i, to go)."
+   ]
+  ]
+ },
+ "dukkhamagama": {
+  "meaning": "not coming into connection with misery",
+  "gram": "verse phrase; accusative noun + verb of motion",
+  "breakdown": [
+   [
+    "dukkhaṁ",
+    "Suffering, misery (accusative); -ṁ > -m- before a vowel."
+   ],
+   [
+    "agama",
+    "Went, came (aorist of gacchati); in context, of not meeting with misery."
+   ]
+  ],
+  "note": "uncertain: the lexicon glosses the phrase contextually as \"not coming into connection with misery\"; the negative sense comes from the surrounding verse."
+ },
+ "dukkhamanveti": {
+  "meaning": "suffering follows (him)",
+  "gram": "verb phrase fused by sandhi; noun + 3rd person singular present",
+  "breakdown": [
+   [
+    "dukkhaṁ",
+    "Suffering; -ṁ > -m- before a vowel."
+   ],
+   [
+    "anveti",
+    "Follows, pursues (anu + √i, to go)."
+   ]
+  ]
+ },
+ "dukkhamiccheyya": {
+  "meaning": "would wish suffering (for someone)",
+  "gram": "verb phrase fused by sandhi; accusative noun + 3rd person singular optative of icchati",
+  "breakdown": [
+   [
+    "dukkhaṁ",
+    "Suffering (accusative); -ṁ > -m- before a vowel."
+   ],
+   [
+    "iccheyya",
+    "Would wish, desire (optative of icchati, √is)."
+   ]
+  ]
+ },
+ "dukkhanirodhagāminiyā": {
+  "meaning": "of the (way) leading to the eradication of suffering",
+  "gram": "compound adjective, feminine genitive singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "nirodha",
+    "Eradication, cessation."
+   ],
+   [
+    "gāminiyā",
+    "Leading to, going to (feminine genitive singular of gāmī)."
+   ]
+  ]
+ },
+ "dukkhanirodhagāminī": {
+  "meaning": "leading to the eradication of suffering (said of the path, the fourth Noble Truth)",
+  "gram": "compound adjective, feminine nominative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "nirodha",
+    "Eradication, cessation."
+   ],
+   [
+    "gāminī",
+    "Leading to, going to (feminine of gāmī, from √gam)."
+   ]
+  ],
+  "goenka": "Dukkhanirodhagāminī (paṭipadā) is the way of walking the path leading to the eradication of suffering — the fourth Noble Truth, the Noble Eightfold Path. In the tradition's framing the truths are dukkha, dukkhasamudayo (its origin), dukkhanirodho (its eradication) and dukkhanirodhagāminī paṭipadā (the way leading to its eradication)."
+ },
+ "dukkhanirodhe": {
+  "meaning": "in (regard to) the eradication of suffering",
+  "gram": "masculine compound noun, locative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "nirodha",
+    "Eradication, cessation."
+   ],
+   [
+    "-e",
+    "Locative singular ending."
+   ]
+  ]
+ },
+ "dukkhanirodho": {
+  "meaning": "the eradication of suffering; the cessation of dukkha (the third Noble Truth)",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "nirodho",
+    "Eradication, cessation (ni + √rudh)."
+   ]
+  ]
+ },
+ "dukkhapaṭikkūlo": {
+  "meaning": "averse to pain; finding misery disagreeable",
+  "gram": "compound adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Pain, misery."
+   ],
+   [
+    "paṭikkūlo",
+    "Disagreeable, averse, objecting to (paṭi + kūla)."
+   ]
+  ]
+ },
+ "dukkhappaṭikūlo": {
+  "meaning": "averse to misery; finding pain disagreeable",
+  "gram": "compound adjective, masculine nominative singular (variant spelling of dukkhapaṭikkūlo)",
+  "breakdown": [
+   [
+    "dukkha",
+    "Misery, pain."
+   ],
+   [
+    "paṭikūlo",
+    "Disagreeable, averse (the doubled pp is sandhi doubling)."
+   ]
+  ]
+ },
+ "dukkhasaccaniddeso": {
+  "meaning": "the exposition of the truth of suffering (a section title)",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "sacca",
+    "Truth."
+   ],
+   [
+    "niddeso",
+    "Exposition, detailed explanation."
+   ]
+  ],
+  "forms": [
+   "Dukkhasaccaniddeso"
+  ]
+ },
+ "dukkhasamudaye": {
+  "meaning": "in (regard to) the arising of suffering",
+  "gram": "masculine compound noun, locative/dative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "samudaya",
+    "Arising, origination (saṁ + udaya)."
+   ],
+   [
+    "-e",
+    "Locative (or dative/genitive) singular ending."
+   ]
+  ]
+ },
+ "dukkhasamudayo": {
+  "meaning": "the arising of suffering; the origination of dukkha (the second Noble Truth)",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "sam-",
+    "Together, fully."
+   ],
+   [
+    "udayo",
+    "Arising, coming up: samudayo, origination."
+   ]
+  ]
+ },
+ "dukkhassantaṁ": {
+  "meaning": "the end of suffering",
+  "gram": "compound phrase: genitive noun + masculine noun, accusative singular",
+  "breakdown": [
+   [
+    "dukkhassa",
+    "Of suffering (genitive singular)."
+   ],
+   [
+    "antaṁ",
+    "End, conclusion (accusative). Sandhi: dukkhassa + antaṁ > dukkhassantaṁ."
+   ]
+  ],
+  "forms": [
+   "dukkhassantaṁ"
+  ]
+ },
+ "dukkhavipākan": {
+  "meaning": "resulting in misery; having suffering as its fruit",
+  "gram": "compound adjective, neuter/accusative singular (final -ṁ assimilated)",
+  "breakdown": [
+   [
+    "dukkha",
+    "Misery, suffering."
+   ],
+   [
+    "vipāka",
+    "Result, fruit, ripening (vi + √pac, to ripen)."
+   ]
+  ]
+ },
+ "dukkho": {
+  "meaning": "suffering; painful; unsatisfactory",
+  "gram": "adjective, masculine nominative singular (√dukkh)",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering, unsatisfactoriness (see dukkha)."
+   ],
+   [
+    "-o",
+    "Masculine nominative singular ending."
+   ]
+  ]
+ },
+ "dukkhudrayaṁ": {
+  "meaning": "yielding misery; resulting in suffering",
+  "gram": "compound adjective, neuter/accusative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Misery, suffering."
+   ],
+   [
+    "udrayaṁ",
+    "Yielding, producing as outcome. Sandhi: dukkha + udraya > dukkhudraya."
+   ]
+  ],
+  "forms": [
+   "dukkhudrayaṁ"
+  ]
+ },
+ "dukkhūpasamagāminaṁ": {
+  "meaning": "leading to the calming of suffering; the way to the appeasement of dukkha",
+  "gram": "compound adjective, accusative singular",
+  "breakdown": [
+   [
+    "dukkha",
+    "Suffering."
+   ],
+   [
+    "upasama",
+    "Appeasing, calming, allaying. Sandhi: dukkha + upasama > dukkhūpasama."
+   ],
+   [
+    "gāminaṁ",
+    "Leading to, going to (from gāmī, √gam)."
+   ]
+  ],
+  "forms": [
+   "dukkhūpasamagāminaṁ"
+  ]
+ },
+ "dullabhasuttaṁ": {
+  "meaning": "the Dullabha Sutta, the Discourse on Those Rare to Encounter",
+  "summary": "The sutta refers to the three individuals that are rare to encounter in the world.",
+  "gram": "neuter noun, compound sutta title",
+  "breakdown": [
+   [
+    "dullabha",
+    "Rare, hard to obtain (du(r)- difficult + labha, obtaining)."
+   ],
+   [
+    "suttaṁ",
+    "Discourse, sutta."
+   ]
+  ],
+  "forms": [
+   "Dullabhasuttaṁ"
+  ]
+ },
+ "dullabho": {
+  "meaning": "rare; hard to obtain; difficult of attainment",
+  "gram": "adjective, masculine nominative singular, from labha (√labh)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult, hard."
+   ],
+   [
+    "labho",
+    "Attainment, acquisition (√labh). Sandhi: dur + labha > dullabha."
+   ]
+  ]
+ },
+ "dunnibbeṭho": {
+  "meaning": "difficult to unravel; hard to refute or disentangle",
+  "gram": "adjective, masculine nominative singular",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult."
+   ],
+   [
+    "nibbeṭho",
+    "Unwinding, unravelling, rebuttal (ni(r) + √veṭh, to twist). Sandhi: dur + nibbeṭha > dunnibbeṭha."
+   ]
+  ]
+ },
+ "duppadhaṁsiyo": {
+  "meaning": "difficult to destroy; hard to assail",
+  "gram": "adjective (potential participle), masculine nominative singular (√dhaṁs)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult."
+   ],
+   [
+    "padhaṁsiyo",
+    "To be destroyed, assailable (pa + √dhaṁs + iya). Sandhi doubling: dur + pa- > duppa-."
+   ]
+  ],
+  "forms": [
+   "duppadhaṁsiyo"
+  ]
+ },
+ "duppasaho": {
+  "meaning": "difficult to overcome; hard to subdue",
+  "gram": "adjective, masculine nominative singular (√sah)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult."
+   ],
+   [
+    "pasaho",
+    "Overcoming, subduing (pa + √sah). Sandhi doubling: dur + pa- > duppa-."
+   ]
+  ]
+ },
+ "duppañño": {
+  "meaning": "of weak wisdom; lacking insight; foolish",
+  "gram": "adjective, masculine nominative singular, from paññā (√ñā)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, weak."
+   ],
+   [
+    "pañño",
+    "Wisdom (paññā: pa + √ñā). Sandhi doubling: dur + pa- > duppa-."
+   ]
+  ]
+ },
+ "duppaṭinissaggī": {
+  "meaning": "difficult to forsake; hard to let go of",
+  "gram": "adjective, masculine nominative singular, from paṭinissaggī (√sajj)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult."
+   ],
+   [
+    "paṭinissaggī",
+    "Forsaking, letting loose, relinquishing (paṭi + ni(s) + √sajj). Sandhi doubling: dur + pa- > duppa-."
+   ]
+  ]
+ },
+ "duranubodho": {
+  "meaning": "difficult to comprehend; hard to understand",
+  "gram": "adjective, masculine nominative singular, from anubodha (√budh)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult."
+   ],
+   [
+    "anubodho",
+    "Comprehending, understanding (anu + √budh)."
+   ]
+  ]
+ },
+ "duranugama": {
+  "meaning": "difficult to follow; hard to be traced",
+  "gram": "adjective, in compounds",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult."
+   ],
+   [
+    "anugama",
+    "Following, going after (anu + √gam)."
+   ]
+  ]
+ },
+ "duruttāni": {
+  "meaning": "bad words; abusive speech",
+  "gram": "adjective/neuter noun, nominative/accusative plural, from utta (√vac)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad."
+   ],
+   [
+    "uttāni",
+    "Spoken (past participle of √vac > utta), plural: things badly said."
+   ]
+  ]
+ },
+ "durāsado": {
+  "meaning": "difficult to approach; hard to offend or lay hands on",
+  "gram": "adjective, masculine nominative singular, from āsada (√sad)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning difficult (with junction -r-)."
+   ],
+   [
+    "āsado",
+    "Approaching, assailing, laying hands on (ā + √sad)."
+   ]
+  ]
+ },
+ "dussati": {
+  "meaning": "offends; wrongs; does wrong against",
+  "gram": "verb, 3rd person singular present (√dus)",
+  "breakdown": [
+   [
+    "√dus",
+    "Root meaning to spoil, offend, corrupt."
+   ],
+   [
+    "-sa- + -ti",
+    "Present stem dussa- with 3rd person singular ending."
+   ]
+  ]
+ },
+ "dussīlo": {
+  "meaning": "of bad morality; immoral; weak in virtue",
+  "gram": "adjective, masculine nominative singular, from sīla (√sīl)",
+  "breakdown": [
+   [
+    "du(r)-",
+    "Prefix meaning bad, weak."
+   ],
+   [
+    "sīlo",
+    "Morality, virtue (sīla). Sandhi: dur + sīla > dussīla."
+   ]
+  ]
+ },
+ "dutiyabrahmacariyasuttaṁ": {
+  "meaning": "the Second Brahmacariya Sutta, the Second Discourse on Leading the Holy Life",
+  "gram": "neuter noun, compound sutta title",
+  "breakdown": [
+   [
+    "dutiya",
+    "Second."
+   ],
+   [
+    "brahmacariya",
+    "Leading the holy life, the pure life of practice."
+   ],
+   [
+    "suttaṁ",
+    "Discourse, sutta."
+   ]
+  ],
+  "forms": [
+   "Dutiyabrahmacariyasuttaṁ"
+  ]
+ },
+ "dutiyabrahmaññasuttaṁ": {
+  "meaning": "the Second Brahmañña Sutta, the Second Discourse on the True Brahmin State",
+  "gram": "neuter noun, compound sutta title",
+  "breakdown": [
+   [
+    "dutiya",
+    "Second."
+   ],
+   [
+    "brahmañña",
+    "The state of a (true) brahmin; the holy state."
+   ],
+   [
+    "suttaṁ",
+    "Discourse, sutta."
+   ]
+  ],
+  "forms": [
+   "Dutiyabrahmaññasuttaṁ"
+  ]
+ }
 }

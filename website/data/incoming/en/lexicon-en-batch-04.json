@@ -3,8 +3,14 @@
   "meaning": "a dice-gambler; one leading a wild gambling life",
   "gram": "masculine compound noun, nominative singular",
   "breakdown": [
-   ["akkha", "Die (for gambling); gambling."],
-   ["dhutta", "Rogue, one of dissolute or wild life."]
+   [
+    "akkha",
+    "Die (for gambling); gambling."
+   ],
+   [
+    "dhutta",
+    "Rogue, one of dissolute or wild life."
+   ]
   ]
  },
  "akkharapadabyañjanākāraniruttiniddesasampattiyā": {
@@ -12,82 +18,166 @@
   "summary": "A long compound listing the formal excellences of well-spoken teaching.",
   "gram": "feminine compound noun, instrumental singular",
   "breakdown": [
-   ["akkhara", "Letter, syllable."],
-   ["pada", "Word."],
-   ["byañjana", "Consonant; phrasing, expression."],
-   ["ākāra", "Vowel; form, manner."],
-   ["nirutti", "Grammatical and etymological explanation of the words."],
-   ["niddesa", "Designation, specification, description."],
-   ["sampatti", "Attainment, perfection."],
-   ["-iyā", "Instrumental singular ending."]
+   [
+    "akkhara",
+    "Letter, syllable."
+   ],
+   [
+    "pada",
+    "Word."
+   ],
+   [
+    "byañjana",
+    "Consonant; phrasing, expression."
+   ],
+   [
+    "ākāra",
+    "Vowel; form, manner."
+   ],
+   [
+    "nirutti",
+    "Grammatical and etymological explanation of the words."
+   ],
+   [
+    "niddesa",
+    "Designation, specification, description."
+   ],
+   [
+    "sampatti",
+    "Attainment, perfection."
+   ],
+   [
+    "-iyā",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "akkhānaṁ": {
   "meaning": "recitation, telling of legends",
   "gram": "neuter noun, nominative/accusative singular",
   "breakdown": [
-   ["ā-", "Prefix (with kk doubling by sandhi)."],
-   ["√khā", "Root \"to tell, declare\"."],
-   ["-āna", "Noun-forming suffix."]
+   [
+    "ā-",
+    "Prefix (with kk doubling by sandhi)."
+   ],
+   [
+    "√khā",
+    "Root \"to tell, declare\"."
+   ],
+   [
+    "-āna",
+    "Noun-forming suffix."
+   ]
   ]
  },
  "akkhātaṁ": {
   "meaning": "announced, declared",
   "gram": "past participle of akkhāti, neuter/accusative singular",
   "breakdown": [
-   ["ā-", "Prefix (with kk doubling by sandhi)."],
-   ["√khā", "Root \"to tell, declare\" + past participle suffix -ta."]
+   [
+    "ā-",
+    "Prefix (with kk doubling by sandhi)."
+   ],
+   [
+    "√khā",
+    "Root \"to tell, declare\" + past participle suffix -ta."
+   ]
   ]
  },
  "akkhātā": {
   "meaning": "told, related",
   "gram": "past participle of akkhāti, plural or feminine form",
   "breakdown": [
-   ["ā-", "Prefix (with kk doubling by sandhi)."],
-   ["√khā", "Root \"to tell, declare\" + past participle suffix -ta."]
+   [
+    "ā-",
+    "Prefix (with kk doubling by sandhi)."
+   ],
+   [
+    "√khā",
+    "Root \"to tell, declare\" + past participle suffix -ta."
+   ]
   ]
  },
  "akkocchi": {
   "meaning": "scolded, abused",
   "gram": "verb, 3rd person singular aorist of akkosati (√kus)",
   "breakdown": [
-   ["ā-", "Prefix (with kk doubling by sandhi)."],
-   ["√kus", "Root \"to scold, abuse\"."],
-   ["-i", "Aorist ending, 3rd person singular."]
+   [
+    "ā-",
+    "Prefix (with kk doubling by sandhi)."
+   ],
+   [
+    "√kus",
+    "Root \"to scold, abuse\"."
+   ],
+   [
+    "-i",
+    "Aorist ending, 3rd person singular."
+   ]
   ]
  },
  "akkodhūpāyāsaṁ": {
   "meaning": "free from anger and despair",
   "gram": "masculine compound noun/adjective, accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\" (with kk doubling by sandhi)."],
-   ["kodha", "Anger."],
-   ["upāyāsa", "Despair, tribulation. (kodha + upāyāsa fuse to -dhū- by vowel sandhi.)"]
+   [
+    "a-",
+    "Negative prefix \"not\" (with kk doubling by sandhi)."
+   ],
+   [
+    "kodha",
+    "Anger."
+   ],
+   [
+    "upāyāsa",
+    "Despair, tribulation. (kodha + upāyāsa fuse to -dhū- by vowel sandhi.)"
+   ]
   ]
  },
  "akkositabbo": {
   "meaning": "to be accused, to be reviled; one deserving of abuse",
   "gram": "future passive participle of akkosati, masculine nominative singular",
   "breakdown": [
-   ["ā-", "Prefix (with kk doubling by sandhi)."],
-   ["√kus", "Root \"to scold, abuse\"."],
-   ["-itabba", "Future passive participle suffix, \"to be ...-ed\"."]
+   [
+    "ā-",
+    "Prefix (with kk doubling by sandhi)."
+   ],
+   [
+    "√kus",
+    "Root \"to scold, abuse\"."
+   ],
+   [
+    "-itabba",
+    "Future passive participle suffix, \"to be ...-ed\"."
+   ]
   ]
  },
  "akuppā": {
   "meaning": "unshakable, safe, steadfast",
   "gram": "adjective (potential participle of na kuppati), feminine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kuppa", "Liable to be shaken or disturbed (√kup \"to be agitated\" + -ya)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kuppa",
+    "Liable to be shaken or disturbed (√kup \"to be agitated\" + -ya)."
+   ]
   ]
  },
  "akā": {
   "meaning": "he did, he made",
   "gram": "verb, 3rd person singular aorist/imperfect of karoti (√kar)",
   "breakdown": [
-   ["a-", "Augment marking the past tense."],
-   ["√kar", "Root \"to do, make\" (contracted stem kā-)."]
+   [
+    "a-",
+    "Augment marking the past tense."
+   ],
+   [
+    "√kar",
+    "Root \"to do, make\" (contracted stem kā-)."
+   ]
   ]
  },
  "akāliko": {
@@ -95,8 +185,14 @@
   "summary": "One of the six qualities of the Dhamma recollected in the formula \"svākkhāto bhagavatā dhammo... akāliko...\".",
   "gram": "adjective, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["kālika", "Belonging to time, delayed (from kāla \"time\")."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "kālika",
+    "Belonging to time, delayed (from kāla \"time\")."
+   ]
   ],
   "goenka": "Akālika is one of the qualities of the Dhamma: it gives its results here and now, without delay. In the tradition's understanding this is an experiential claim — the meditator who walks on the path begins to taste its fruits in this very life, not in some future existence only."
  },
@@ -104,25 +200,46 @@
   "meaning": "competent; complete enough (for a task)",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["alaṁ", "Enough, sufficient, fit."],
-   ["atta", "Full, complete."]
+   [
+    "alaṁ",
+    "Enough, sufficient, fit."
+   ],
+   [
+    "atta",
+    "Full, complete."
+   ]
   ]
  },
  "alasā,": {
   "meaning": "idle, lazy; (analasā) not lazy, diligent",
   "gram": "adjective, plural (paired in the glossary with its opposite analasā)",
   "breakdown": [
-   ["alasa", "Idle, lazy."],
-   ["an-", "Negative prefix in the paired opposite analasa, \"not lazy\"."]
+   [
+    "alasa",
+    "Idle, lazy."
+   ],
+   [
+    "an-",
+    "Negative prefix in the paired opposite analasa, \"not lazy\"."
+   ]
   ],
-  "forms": ["alasā", "analasā"]
+  "forms": [
+   "alasā",
+   "analasā"
+  ]
  },
  "alasā, analasā": {
   "meaning": "idle, lazy; and its opposite: not lazy, diligent",
   "gram": "adjectives, plural (glossary pair)",
   "breakdown": [
-   ["alasa", "Idle, lazy."],
-   ["an-", "Negative prefix in analasa, \"not lazy, diligent\"."]
+   [
+    "alasa",
+    "Idle, lazy."
+   ],
+   [
+    "an-",
+    "Negative prefix in analasa, \"not lazy, diligent\"."
+   ]
   ]
  },
  "alañhi": {
@@ -133,81 +250,126 @@
   "meaning": "surely should fit, would certainly suit; fit to be married",
   "gram": "adjective/optative construction: alaṁ + pateyyā",
   "breakdown": [
-   ["alaṁ", "Surely, enough, fit."],
-   ["pateyyā", "Should fit, should suit (optative); also analysed as alaṁpateyya \"fit for a husband (pati)\"."]
+   [
+    "alaṁ",
+    "Surely, enough, fit."
+   ],
+   [
+    "pateyyā",
+    "Should fit, should suit (optative); also analysed as alaṁpateyya \"fit for a husband (pati)\"."
+   ]
   ]
  },
  "alaṅkārānuppadānena": {
   "meaning": "by giving adornments",
   "gram": "neuter compound action noun, instrumental singular",
   "breakdown": [
-   ["alaṅkāra", "Adornment, ornament."],
-   ["anuppadāna", "Giving, granting (anu + pa + √dā + -ana)."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "alaṅkāra",
+    "Adornment, ornament."
+   ],
+   [
+    "anuppadāna",
+    "Giving, granting (anu + pa + √dā + -ana)."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "allapāṇihato": {
   "meaning": "killed by a clean hand",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["alla", "Clean, fresh, moist."],
-   ["pāṇi", "Hand."],
-   ["hata", "Killed, struck (past participle of hanati)."]
+   [
+    "alla",
+    "Clean, fresh, moist."
+   ],
+   [
+    "pāṇi",
+    "Hand."
+   ],
+   [
+    "hata",
+    "Killed, struck (past participle of hanati)."
+   ]
   ]
  },
  "allavattho": {
   "meaning": "with wet clothes; wearing a wet garment",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["alla", "Wet, moist."],
-   ["vattha", "Cloth, garment."]
+   [
+    "alla",
+    "Wet, moist."
+   ],
+   [
+    "vattha",
+    "Cloth, garment."
+   ]
   ]
  },
  "alliyati": {
   "meaning": "to cling to, to adhere to",
   "gram": "verb, 3rd person singular present (ā + √lī)",
   "breakdown": [
-   ["ā-", "Prefix \"to, towards\" (with ll doubling by sandhi)."],
-   ["√lī", "Root \"to cling, stick\"."]
+   [
+    "ā-",
+    "Prefix \"to, towards\" (with ll doubling by sandhi)."
+   ],
+   [
+    "√lī",
+    "Root \"to cling, stick\"."
+   ]
   ]
  },
  "allā": {
   "meaning": "moist, wet",
   "gram": "adjective, plural or feminine form",
   "breakdown": [
-   ["alla", "Moist, wet, fresh."]
+   [
+    "alla",
+    "Moist, wet, fresh."
+   ]
   ]
  },
  "amaccā": {
   "meaning": "fellows, companions, colleagues; ministers",
   "gram": "masculine noun, nominative plural",
   "breakdown": [
-   ["amacca", "Companion, colleague; minister, privy councillor."]
+   [
+    "amacca",
+    "Companion, colleague; minister, privy councillor."
+   ]
   ]
  },
  "amahaggata": {
   "meaning": "not expanded, minor (of the mind: not grown great)",
   "gram": "adjective, compound",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["mahaggata", "Grown great, expanded (mahā + gata)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "mahaggata",
+    "Grown great, expanded (mahā + gata)."
+   ]
   ]
- },
- "amannāgamanahetu": {
-  "meaning": "by reason of the manner of becoming engaged in; on account of being endowed with",
-  "gram": "compound noun (samannāgamana + hetu), used adverbially",
-  "breakdown": [
-   ["samannāgamana", "The manner of getting engaged in, being endowed with (saṁ + anu + ā + √gam + -ana)."],
-   ["hetu", "Cause, reason; (at the end of a compound) on account of."]
-  ],
-  "note": "uncertain: the headword amannāgamanahetu appears to be a truncated form of samannāgamanahetu, as the lexicon's own breakdown indicates."
  },
  "amanussa": {
   "meaning": "a non-human being (spirit, deva or demon)",
   "gram": "masculine noun",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["manussa", "Human being."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "manussa",
+    "Human being."
+   ]
   ],
   "note": "uncertain: the lexicon's gloss line runs together a list (\"disease + non-human + famine\") from a compound context (roga + amanussa + dubbhikkha); the sense of amanussa itself is \"non-human being\"."
  },
@@ -215,26 +377,50 @@
   "meaning": "not pleasing, disagreeable",
   "gram": "adjective, plural or feminine form",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["manāpa", "Pleasing, agreeable (from manas \"mind\")."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "manāpa",
+    "Pleasing, agreeable (from manas \"mind\")."
+   ]
   ]
  },
  "amanāpāya": {
   "meaning": "not pleasant, disagreeable",
   "gram": "adjective, feminine oblique singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["manāpa", "Pleasing, agreeable."],
-   ["-āya", "Feminine oblique singular ending."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "manāpa",
+    "Pleasing, agreeable."
+   ],
+   [
+    "-āya",
+    "Feminine oblique singular ending."
+   ]
   ]
  },
  "amaritukāmo": {
   "meaning": "not wishing to die; desiring not to die",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["marituṁ", "To die (infinitive of marati, √mar)."],
-   ["kāma", "Desiring, wishing."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "marituṁ",
+    "To die (infinitive of marati, √mar)."
+   ],
+   [
+    "kāma",
+    "Desiring, wishing."
+   ]
   ]
  },
  "amarāvikkhepika": {
@@ -242,17 +428,32 @@
   "summary": "From amarā, a fish difficult to catch, + vikkhepa \"confusion, evasion\": a debater whose answers cannot be pinned down.",
   "gram": "adjective, compound",
   "breakdown": [
-   ["amarā", "Name of a fish difficult to catch (an eel)."],
-   ["vikkhepa", "Confusion, evasion, equivocation."],
-   ["-ika", "Adjectival suffix, \"having, given to\"."]
+   [
+    "amarā",
+    "Name of a fish difficult to catch (an eel)."
+   ],
+   [
+    "vikkhepa",
+    "Confusion, evasion, equivocation."
+   ],
+   [
+    "-ika",
+    "Adjectival suffix, \"having, given to\"."
+   ]
   ]
  },
  "amataṁ": {
   "meaning": "the deathless state; the deathless (an epithet of nibbāna)",
   "gram": "neuter noun (past participle of na marati), nominative/accusative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["mata", "Dead (past participle of marati, √mar)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "mata",
+    "Dead (past participle of marati, √mar)."
+   ]
   ],
   "goenka": "Amata, the deathless, is used in the suttas as an epithet of nibbāna — the state beyond arising and passing away, beyond birth and death. The meditator walking the path of sīla, samādhi and paññā is said to be moving towards this deathless state."
  },
@@ -260,47 +461,97 @@
   "meaning": "disrespect towards one's mother; absence of filial duty to the mother",
   "gram": "feminine abstract noun",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["matteyya", "Dutiful, respectful towards one's mother (from mātā)."],
-   ["-tā", "Abstract noun suffix, \"-ness\"."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "matteyya",
+    "Dutiful, respectful towards one's mother (from mātā)."
+   ],
+   [
+    "-tā",
+    "Abstract noun suffix, \"-ness\"."
+   ]
   ]
  },
  "amaṅkubhūto": {
   "meaning": "not made confused; unabashed, undismayed",
   "gram": "adjective, compound, masculine nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["maṅku", "Confused, dismayed, downcast."],
-   ["bhūta", "Become, made (past participle of bhavati)."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "maṅku",
+    "Confused, dismayed, downcast."
+   ],
+   [
+    "bhūta",
+    "Become, made (past participle of bhavati)."
+   ]
   ]
  },
  "ambalaṭṭhikarāhulovādasuttaṁ": {
   "meaning": "the Ambalaṭṭhikarāhulovāda Sutta, \"the Advice to Rāhula at the Mango Grove (Ambalaṭṭhikā)\" (sutta title)",
   "gram": "proper noun (sutta title), neuter compound",
   "breakdown": [
-   ["Ambalaṭṭhikā", "The Mango Grove, a place name."],
-   ["Rāhula", "The Buddha's son, a bhikkhu."],
-   ["ovāda", "Advice, exhortation."],
-   ["sutta", "Discourse."]
+   [
+    "Ambalaṭṭhikā",
+    "The Mango Grove, a place name."
+   ],
+   [
+    "Rāhula",
+    "The Buddha's son, a bhikkhu."
+   ],
+   [
+    "ovāda",
+    "Advice, exhortation."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ],
-  "forms": ["Ambalaṭṭhikarāhulovādasuttaṁ"]
+  "forms": [
+   "Ambalaṭṭhikarāhulovādasuttaṁ"
+  ]
  },
  "amissībhāvo": {
   "meaning": "the state of not being mixed; non-association, separateness",
   "gram": "masculine abstract noun, compound, nominative singular",
   "breakdown": [
-   ["a-", "Negative prefix \"not\"."],
-   ["missī", "Mixed, associated (from missa, in the -ī-bhāva construction)."],
-   ["bhāva", "State, condition, becoming."]
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "missī",
+    "Mixed, associated (from missa, in the -ī-bhāva construction)."
+   ],
+   [
+    "bhāva",
+    "State, condition, becoming."
+   ]
   ]
  },
  "amittādummanā": {
   "meaning": "without enmity and not sad; free of hostility and dejection",
   "gram": "compound adjective, plural",
   "breakdown": [
-   ["amitta", "Enemy; here: enmity (a + mitta \"friend\")."],
-   ["a-", "Negative prefix \"not\"."],
-   ["dummana", "Sad, dejected (du + manas \"bad-minded\")."]
+   [
+    "amitta",
+    "Enemy; here: enmity (a + mitta \"friend\")."
+   ],
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "dummana",
+    "Sad, dejected (du + manas \"bad-minded\")."
+   ]
   ]
  },
  "amusmiṁ": {
@@ -323,95 +574,182 @@
   "meaning": "I (being) near, I myself present",
   "gram": "sandhi fusion: ama (\"near, present\") + ahaṁ (\"I\")",
   "breakdown": [
-   ["ama", "Near, present."],
-   ["ahaṁ", "I (1st person pronoun, nominative)."]
+   [
+    "ama",
+    "Near, present."
+   ],
+   [
+    "ahaṁ",
+    "I (1st person pronoun, nominative)."
+   ]
   ]
  },
  "anabhirata": {
   "meaning": "not indulging in, not finding delight in",
   "gram": "past participle of na abhiramati (√ram)",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["abhirata", "Delighting in, devoted to (past participle of abhiramati)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "abhirata",
+    "Delighting in, devoted to (past participle of abhiramati)."
+   ]
   ]
  },
  "anabhisambuddhassa": {
   "meaning": "of one not fully enlightened; before full enlightenment",
   "gram": "past participle of na abhisambujjhati, genitive/dative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["abhisambuddha", "Fully enlightened (past participle of abhisambujjhati, √budh)."],
-   ["-ssa", "Genitive/dative singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "abhisambuddha",
+    "Fully enlightened (past participle of abhisambujjhati, √budh)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "anabhāvaṁ": {
   "meaning": "complete cessation of becoming; utter annihilation (of defilements)",
   "gram": "masculine abstract noun, accusative singular",
   "breakdown": [
-   ["anu-", "Prefix (here intensifying: \"utterly\")."],
-   ["a-", "Negative prefix \"not\"."],
-   ["bhāva", "Becoming, existence (√bhū)."]
+   [
+    "anu-",
+    "Prefix (here intensifying: \"utterly\")."
+   ],
+   [
+    "a-",
+    "Negative prefix \"not\"."
+   ],
+   [
+    "bhāva",
+    "Becoming, existence (√bhū)."
+   ]
   ]
  },
  "anadhigatassa": {
   "meaning": "of what has not been obtained or attained",
   "gram": "past participle of na adhigacchati, genitive/dative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["adhigata", "Obtained, attained (past participle of adhigacchati, √gam)."],
-   ["-ssa", "Genitive/dative singular ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "adhigata",
+    "Obtained, attained (past participle of adhigacchati, √gam)."
+   ],
+   [
+    "-ssa",
+    "Genitive/dative singular ending."
+   ]
   ]
  },
  "anagghattharaṇāni": {
   "meaning": "priceless covers, invaluable rugs",
   "gram": "neuter compound noun, plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["aggha", "Price, value; anaggha = priceless."],
-   ["attharaṇa", "Cover, rug, spread."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "aggha",
+    "Price, value; anaggha = priceless."
+   ],
+   [
+    "attharaṇa",
+    "Cover, rug, spread."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
  },
  "anaggāni": {
   "meaning": "without goal, aimless, fruitless",
   "gram": "adjective, neuter plural",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["agga", "Top, point, goal."],
-   ["-āni", "Neuter plural ending."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "agga",
+    "Top, point, goal."
+   ],
+   [
+    "-āni",
+    "Neuter plural ending."
+   ]
   ]
  },
  "anajjhāpatti": {
   "meaning": "not incurring guilt; non-commission of offence",
   "gram": "feminine noun",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["ajjhāpatti", "Incurring guilt, committing an offence (adhi + āpatti)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "ajjhāpatti",
+    "Incurring guilt, committing an offence (adhi + āpatti)."
+   ]
   ]
  },
  "anakkhātaṁ": {
   "meaning": "not declared, unproclaimed",
   "gram": "neuter past participle of na akkhāti, nominative/accusative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["akkhāta", "Declared, announced (past participle of akkhāti, ā + √khā)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "akkhāta",
+    "Declared, announced (past participle of akkhāti, ā + √khā)."
+   ]
   ]
  },
  "anakkosakaparibhāsako": {
   "meaning": "one who does not revile or abuse",
   "gram": "masculine agent noun, compound, nominative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["akkosaka", "One who reviles, an abuser (from akkosati)."],
-   ["paribhāsaka", "One who abuses, a slanderer (from paribhāsati)."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "akkosaka",
+    "One who reviles, an abuser (from akkosati)."
+   ],
+   [
+    "paribhāsaka",
+    "One who abuses, a slanderer (from paribhāsati)."
+   ]
   ]
  },
  "anantaraṁ": {
   "meaning": "immediately following; without interval",
   "gram": "adjective/adverb, neuter or accusative singular",
   "breakdown": [
-   ["an-", "Negative prefix \"not\" (before a vowel)."],
-   ["antara", "Interval, gap, in between."]
+   [
+    "an-",
+    "Negative prefix \"not\" (before a vowel)."
+   ],
+   [
+    "antara",
+    "Interval, gap, in between."
+   ]
   ]
  }
 }

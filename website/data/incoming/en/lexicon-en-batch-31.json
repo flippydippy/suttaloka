@@ -3,71 +3,137 @@
   "meaning": "conducive to great influence",
   "gram": "adjective, compound",
   "breakdown": [
-   ["mahesakkha", "Of great influence, of great authority (mahā + sakkha)."],
-   ["saṁvattanika", "Conducive to, leading to."]
+   [
+    "mahesakkha",
+    "Of great influence, of great authority (mahā + sakkha)."
+   ],
+   [
+    "saṁvattanika",
+    "Conducive to, leading to."
+   ]
   ]
  },
  "mahācattārīsakasuttaṁ": {
   "meaning": "the Mahācattārīsakasutta, the Discourse on the Great Forty",
   "gram": "proper noun, neuter (title of a sutta)",
   "breakdown": [
-   ["mahā", "Great."],
-   ["cattārīsa", "Forty."],
-   ["-ka", "Adjectival suffix."],
-   ["sutta", "Discourse."]
+   [
+    "mahā",
+    "Great."
+   ],
+   [
+    "cattārīsa",
+    "Forty."
+   ],
+   [
+    "-ka",
+    "Adjectival suffix."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ],
-  "forms": ["Mahācattārīsakasuttaṁ"]
+  "forms": [
+   "Mahācattārīsakasuttaṁ"
+  ]
  },
  "mahāmaṅgalasuttaṁ, khuddakanikāye, khuddakapāṭhapāḷi.": {
   "meaning": "the Mahāmaṅgalasutta (Great Discourse on Blessings), in the Khuddakapāṭha of the Khuddakanikāya",
   "gram": "phrase: proper noun (text citation)",
   "breakdown": [
-   ["Mahāmaṅgalasutta", "The Great Discourse on Blessings (mahā + maṅgala + sutta)."],
-   ["Khuddakanikāya", "The Minor Collection of the Sutta Piṭaka."],
-   ["Khuddakapāṭhapāḷi", "The Khuddakapāṭha, the first book of that collection."]
+   [
+    "Mahāmaṅgalasutta",
+    "The Great Discourse on Blessings (mahā + maṅgala + sutta)."
+   ],
+   [
+    "Khuddakanikāya",
+    "The Minor Collection of the Sutta Piṭaka."
+   ],
+   [
+    "Khuddakapāṭhapāḷi",
+    "The Khuddakapāṭha, the first book of that collection."
+   ]
   ],
-  "forms": ["Mahāmaṅgalasuttaṁ, Khuddakanikāye, Khuddakapāṭhapāḷi."]
+  "forms": [
+   "Mahāmaṅgalasuttaṁ, Khuddakanikāye, Khuddakapāṭhapāḷi."
+  ]
  },
  "mahānadī": {
   "meaning": "great river",
   "gram": "feminine noun, compound",
   "breakdown": [
-   ["mahā", "Great."],
-   ["nadī", "River."]
+   [
+    "mahā",
+    "Great."
+   ],
+   [
+    "nadī",
+    "River."
+   ]
   ]
  },
  "mahāparinibbānasutta, mahāvaggapāḷi, dīghanikāyo": {
   "meaning": "the Mahāparinibbānasutta (Great Discourse on the Final Passing Away), in the Mahāvagga of the Dīghanikāya",
   "gram": "phrase: proper noun (text citation)",
   "breakdown": [
-   ["Mahāparinibbānasutta", "The Great Discourse on the Buddha's final passing into nibbāna."],
-   ["Mahāvaggapāḷi", "The Great Division of the Dīghanikāya."],
-   ["Dīghanikāya", "The Collection of Long Discourses."]
+   [
+    "Mahāparinibbānasutta",
+    "The Great Discourse on the Buddha's final passing into nibbāna."
+   ],
+   [
+    "Mahāvaggapāḷi",
+    "The Great Division of the Dīghanikāya."
+   ],
+   [
+    "Dīghanikāya",
+    "The Collection of Long Discourses."
+   ]
   ],
-  "forms": ["Mahāparinibbānasutta, Mahāvaggapāḷi, Dīghanikāyo"]
+  "forms": [
+   "Mahāparinibbānasutta, Mahāvaggapāḷi, Dīghanikāyo"
+  ]
  },
  "mahāpathavī": {
   "meaning": "the great earth",
   "gram": "feminine noun, compound",
   "breakdown": [
-   ["mahā", "Great."],
-   ["pathavī", "Earth."]
+   [
+    "mahā",
+    "Great."
+   ],
+   [
+    "pathavī",
+    "Earth."
+   ]
   ]
  },
  "mahāsayanā": {
   "meaning": "great, luxurious beds",
   "gram": "neuter noun, compound (here plural/ablative form)",
   "breakdown": [
-   ["mahā", "Great, luxurious."],
-   ["sayana", "Bed, couch."]
+   [
+    "mahā",
+    "Great, luxurious."
+   ],
+   [
+    "sayana",
+    "Bed, couch."
+   ]
   ]
  },
  "majjapānā": {
   "meaning": "drinking liquor; consuming intoxicants",
   "gram": "neuter noun, compound (here ablative: \"from drinking intoxicants\")",
   "breakdown": [
-   ["majja", "Liquor, intoxicant."],
-   ["pāna", "Drinking."]
+   [
+    "majja",
+    "Liquor, intoxicant."
+   ],
+   [
+    "pāna",
+    "Drinking."
+   ]
   ],
   "goenka": "Abstaining from majjapāna, the consumption of liquor and intoxicants, is the fifth precept of sīla. Intoxicants cloud sati and sampajañña, the very faculties a meditator works to sharpen; without a sober, balanced mind neither samādhi nor paññā can be developed."
  },
@@ -80,8 +146,14 @@
   "summary": "From the stock praise of the Dhamma: beneficial in the beginning, in the middle and in the end.",
   "gram": "adjective, compound (accusative/neuter singular)",
   "breakdown": [
-   ["majjhe", "In the middle (locative)."],
-   ["kalyāṇa", "Beneficial, good, wholesome."]
+   [
+    "majjhe",
+    "In the middle (locative)."
+   ],
+   [
+    "kalyāṇa",
+    "Beneficial, good, wholesome."
+   ]
   ]
  },
  "majjhimā": {
@@ -89,49 +161,83 @@
   "summary": "As in majjhimā paṭipadā, the middle path avoiding the two extremes.",
   "gram": "adjective (feminine of majjhima, from majjha \"middle\")",
   "breakdown": [
-   ["majjha", "Middle."],
-   ["-ima", "Superlative-type adjectival suffix: majjhima, middlemost."]
+   [
+    "majjha",
+    "Middle."
+   ],
+   [
+    "-ima",
+    "Superlative-type adjectival suffix: majjhima, middlemost."
+   ]
   ]
  },
  "makkha": {
   "meaning": "hypocrisy; denigrating contempt, anger",
   "gram": "masculine noun (from makkheti)",
   "breakdown": [
-   ["√makkh", "Root: to smear; makkha is the smearing over of another's good qualities — denigration, hypocrisy."]
+   [
+    "√makkh",
+    "Root: to smear; makkha is the smearing over of another's good qualities — denigration, hypocrisy."
+   ]
   ]
  },
  "mamañhi": {
   "meaning": "for me indeed; because... me",
   "gram": "sandhi fusion: pronoun + particle (mamaṁ + hi)",
   "breakdown": [
-   ["mamaṁ", "Me (accusative form of the 1st person pronoun)."],
-   ["hi", "Because, indeed. (The niggahīta becomes ñ before h in this junction.)"]
+   [
+    "mamaṁ",
+    "Me (accusative form of the 1st person pronoun)."
+   ],
+   [
+    "hi",
+    "Because, indeed. (The niggahīta becomes ñ before h in this junction.)"
+   ]
   ]
- },
- "mammacchedakakāyavacīpayogasa": {
-  "meaning": "fragment of mammacchedakakāyavacīpayogasamuṭṭhāpikā (\"occasioned by violent effort of body and speech that cuts to the quick\")",
-  "gram": "fragment of a long feminine compound (truncated headword)",
-  "note": "uncertain: the headword is a truncation artifact from the source; see the full entry mammacchedakakāyavacīpayogasamuṭṭhāpikā."
  },
  "mammacchedakakāyavacīpayogasamuṭṭhāpikā": {
   "meaning": "occasioned by violent effort of body and speech that cuts to the quick",
   "summary": "Figuratively \"breaking the joints\": mamma is a nerve centre, a vital spot of the body.",
   "gram": "feminine adjective, long compound",
   "breakdown": [
-   ["mamma", "Nerve centre, vital spot of the body."],
-   ["chedaka", "Cutting, breaking; mammacchedaka is figuratively \"cutting at the vitals\", violent."],
-   ["kāya", "Body."],
-   ["vacī", "Speech."],
-   ["payoga", "Means, effort."],
-   ["samuṭṭhāpikā", "Causing to arise, occasioning (feminine)."]
+   [
+    "mamma",
+    "Nerve centre, vital spot of the body."
+   ],
+   [
+    "chedaka",
+    "Cutting, breaking; mammacchedaka is figuratively \"cutting at the vitals\", violent."
+   ],
+   [
+    "kāya",
+    "Body."
+   ],
+   [
+    "vacī",
+    "Speech."
+   ],
+   [
+    "payoga",
+    "Means, effort."
+   ],
+   [
+    "samuṭṭhāpikā",
+    "Causing to arise, occasioning (feminine)."
+   ]
   ]
  },
  "mamuddesiko": {
   "meaning": "referring to me; designated with respect to me",
   "gram": "adjective, compound (mama/maṁ + uddesika; masculine nominative singular)",
   "breakdown": [
-   ["mama", "Me, of me (the final vowel fuses with u-)."],
-   ["uddesika", "Defining, referring to, designated for."]
+   [
+    "mama",
+    "Me, of me (the final vowel fuses with u-)."
+   ],
+   [
+    "uddesika",
+    "Defining, referring to, designated for."
+   ]
   ]
  },
  "manasi": {
@@ -139,18 +245,36 @@
   "summary": "Familiar from manasi karoti, \"to fix in the mind, to attend\".",
   "gram": "masculine noun mano (mano-group, from √man) in the rare locative singular manasi",
   "breakdown": [
-   ["√man", "Root: to think (maññati)."],
-   ["manas-", "Stem: mind."],
-   ["-i", "Locative singular ending: \"in\"."]
+   [
+    "√man",
+    "Root: to think (maññati)."
+   ],
+   [
+    "manas-",
+    "Stem: mind."
+   ],
+   [
+    "-i",
+    "Locative singular ending: \"in\"."
+   ]
   ]
  },
  "manasā": {
   "meaning": "by mind; with the mind",
   "gram": "masculine noun mano (mano-group) in the instrumental singular",
   "breakdown": [
-   ["√man", "Root: to think."],
-   ["manas-", "Stem: mind."],
-   ["-ā", "Instrumental singular ending: \"by, with\"."]
+   [
+    "√man",
+    "Root: to think."
+   ],
+   [
+    "manas-",
+    "Stem: mind."
+   ],
+   [
+    "-ā",
+    "Instrumental singular ending: \"by, with\"."
+   ]
   ]
  },
  "manasānupekkhitā": {
@@ -158,17 +282,32 @@
   "summary": "From the stock description of teachings well learnt: verbally repeated and examined by the mind.",
   "gram": "past participle of the compound verb manasānupekkhati (here plural form)",
   "breakdown": [
-   ["manasā", "With the mind (instrumental of mano)."],
-   ["anu-", "Prefix: along with, repeatedly."],
-   ["pekkhita", "Looked at, observed (past participle of pekkhati)."]
+   [
+    "manasā",
+    "With the mind (instrumental of mano)."
+   ],
+   [
+    "anu-",
+    "Prefix: along with, repeatedly."
+   ],
+   [
+    "pekkhita",
+    "Looked at, observed (past participle of pekkhati)."
+   ]
   ]
  },
  "manokammaṁ": {
   "meaning": "mental action; deed of mind",
   "gram": "neuter noun, compound (nominative/accusative singular)",
   "breakdown": [
-   ["mano", "Mind."],
-   ["kamma", "Action, deed."]
+   [
+    "mano",
+    "Mind."
+   ],
+   [
+    "kamma",
+    "Action, deed."
+   ]
   ],
   "goenka": "Of the three kinds of action — bodily, verbal and mental — the Buddha gives manokamma, mental action, the primary place: every deed of body or speech is preceded and driven by volition in the mind. This is why the tradition insists that kamma is volition, and why purification must begin at the level of the mind, observing and ceasing to generate unwholesome mental reactions."
  },
@@ -177,8 +316,14 @@
   "summary": "From the opening verses of the Dhammapada: all phenomena are mind-made.",
   "gram": "adjective, compound (here nominative plural)",
   "breakdown": [
-   ["mano", "Mind."],
-   ["maya", "Made of, consisting of."]
+   [
+    "mano",
+    "Mind."
+   ],
+   [
+    "maya",
+    "Made of, consisting of."
+   ]
   ]
  },
  "manopubbaṅgamā": {
@@ -186,8 +331,14 @@
   "summary": "The opening word of the Dhammapada: manopubbaṅgamā dhammā, \"mind precedes all phenomena\".",
   "gram": "adjective, compound (here nominative plural)",
   "breakdown": [
-   ["mano", "Mind."],
-   ["pubbaṅgama", "Going before, forerunner (pubba \"before\" + gama \"going\")."]
+   [
+    "mano",
+    "Mind."
+   ],
+   [
+    "pubbaṅgama",
+    "Going before, forerunner (pubba \"before\" + gama \"going\")."
+   ]
   ],
   "goenka": "The famous opening of the Dhammapada — manopubbaṅgamā dhammā, manoseṭṭhā manomayā — declares that mind precedes all phenomena, mind is their chief, they are mind-made. In this tradition the verse is taken as the charter of practice: since suffering and happiness both originate in the mind, it is by purifying the mind, through the direct observation of its interaction with body at the level of sensation, that one's whole life changes."
  },
@@ -196,66 +347,120 @@
   "summary": "From the same Dhammapada verse: mind is the chief of all phenomena.",
   "gram": "adjective, compound (here nominative plural)",
   "breakdown": [
-   ["mano", "Mind."],
-   ["seṭṭha", "Highest, best, chief."]
+   [
+    "mano",
+    "Mind."
+   ],
+   [
+    "seṭṭha",
+    "Highest, best, chief."
+   ]
   ]
  },
  "manussabhūtānaṁ": {
   "meaning": "of those who have become human; of human beings",
   "gram": "adjective, compound (genitive plural)",
   "breakdown": [
-   ["manussa", "Human being, mankind."],
-   ["bhūta", "Having become (past participle of bhavati)."],
-   ["-ānaṁ", "Genitive plural ending: \"of\"."]
+   [
+    "manussa",
+    "Human being, mankind."
+   ],
+   [
+    "bhūta",
+    "Having become (past participle of bhavati)."
+   ],
+   [
+    "-ānaṁ",
+    "Genitive plural ending: \"of\"."
+   ]
   ]
  },
  "manussapaṭilābho": {
   "meaning": "the attainment of human existence; gaining a human birth",
   "gram": "masculine noun, compound (nominative singular)",
   "breakdown": [
-   ["manussa", "Human being, mankind."],
-   ["paṭi-", "Prefix: towards, in return."],
-   ["lābha", "Attainment, gain."]
+   [
+    "manussa",
+    "Human being, mankind."
+   ],
+   [
+    "paṭi-",
+    "Prefix: towards, in return."
+   ],
+   [
+    "lābha",
+    "Attainment, gain."
+   ]
   ]
  },
  "manussattapaṭilābho": {
   "meaning": "the acquisition of the human state; the attainment of life as a human being",
   "gram": "masculine noun, compound (nominative singular)",
   "breakdown": [
-   ["manussa", "Human being."],
-   ["-tta", "Abstract suffix: manussatta, the human state."],
-   ["paṭilābha", "Acquisition, attainment."]
+   [
+    "manussa",
+    "Human being."
+   ],
+   [
+    "-tta",
+    "Abstract suffix: manussatta, the human state."
+   ],
+   [
+    "paṭilābha",
+    "Acquisition, attainment."
+   ]
   ]
  },
  "manuñño": {
   "meaning": "pleasing; delightful",
   "gram": "adjective (masculine nominative singular)",
   "breakdown": [
-   ["mano", "Mind (weakened to manu- in the compound)."],
-   ["-ñña", "Suffix: manuñña, what gladdens the mind, pleasing."]
+   [
+    "mano",
+    "Mind (weakened to manu- in the compound)."
+   ],
+   [
+    "-ñña",
+    "Suffix: manuñña, what gladdens the mind, pleasing."
+   ]
   ]
  },
  "manāpehi": {
   "meaning": "with pleasant, charming (things)",
   "gram": "adjective (instrumental/ablative plural of manāpa)",
   "breakdown": [
-   ["manāpa", "Pleasant, charming, pleasing to the mind."],
-   ["-ehi", "Instrumental/ablative plural ending."]
+   [
+    "manāpa",
+    "Pleasant, charming, pleasing to the mind."
+   ],
+   [
+    "-ehi",
+    "Instrumental/ablative plural ending."
+   ]
   ]
  },
  "manāpā": {
   "meaning": "pleasant; agreeable",
   "gram": "adjective (feminine/plural form of manāpa)",
   "breakdown": [
-   ["manāpa", "Pleasant, agreeable, pleasing to the mind."]
+   [
+    "manāpa",
+    "Pleasant, agreeable, pleasing to the mind."
+   ]
   ]
  },
  "maraṇa": {
   "meaning": "death",
   "gram": "neuter action noun (from marati \"to die\")",
   "breakdown": [
-   ["√mar", "Root: to die (marati)."],
-   ["-aṇa", "Action-noun suffix."]
+   [
+    "√mar",
+    "Root: to die (marati)."
+   ],
+   [
+    "-aṇa",
+    "Action-noun suffix."
+   ]
   ]
  },
  "maraṇadhammomhi": {
@@ -263,17 +468,32 @@
   "summary": "From the five subjects for frequent reflection: \"I am of the nature to die\".",
   "gram": "sandhi fusion: compound adjective + verb (maraṇadhammo + amhi \"I am\")",
   "breakdown": [
-   ["maraṇa", "Death."],
-   ["dhamma", "Nature, having the nature of."],
-   ["amhi", "I am. (The final -o fuses with a-: dhammo + amhi → dhammomhi.)"]
+   [
+    "maraṇa",
+    "Death."
+   ],
+   [
+    "dhamma",
+    "Nature, having the nature of."
+   ],
+   [
+    "amhi",
+    "I am. (The final -o fuses with a-: dhammo + amhi → dhammomhi.)"
+   ]
   ]
  },
  "maraṇadhammā": {
   "meaning": "subject to death; having death as their nature",
   "gram": "adjective, compound (here nominative plural)",
   "breakdown": [
-   ["maraṇa", "Death."],
-   ["dhamma", "Here as final member of a compound: \"having the nature of, subject to\"."]
+   [
+    "maraṇa",
+    "Death."
+   ],
+   [
+    "dhamma",
+    "Here as final member of a compound: \"having the nature of, subject to\"."
+   ]
   ]
  },
  "maraṇampi": {
@@ -281,34 +501,64 @@
   "summary": "As in the First Noble Truth formula: \"death too is suffering\" (maraṇampi dukkhaṁ).",
   "gram": "neuter noun maraṇa (nominative/accusative singular) + enclitic particle pi",
   "breakdown": [
-   ["maraṇa", "Death."],
-   ["pi", "Too, also. (maraṇaṁ + pi → maraṇampi by sandhi.)"]
+   [
+    "maraṇa",
+    "Death."
+   ],
+   [
+    "pi",
+    "Too, also. (maraṇaṁ + pi → maraṇampi by sandhi.)"
+   ]
   ]
  },
  "mattaññutā": {
   "meaning": "moderation; knowing the right measure (especially in eating)",
   "gram": "feminine abstract noun, compound (from mattaññu)",
   "breakdown": [
-   ["matta", "Measure, right amount."],
-   ["-ññū", "Knowing (from jānāti; with junction doubling)."],
-   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+   [
+    "matta",
+    "Measure, right amount."
+   ],
+   [
+    "-ññū",
+    "Knowing (from jānāti; with junction doubling)."
+   ],
+   [
+    "-tā",
+    "Abstract-noun suffix: \"the state of\"."
+   ]
   ]
  },
  "maññatha": {
   "meaning": "what do you think?; you (plural) believe, imagine",
   "gram": "verb, 2nd person plural present of maññati (√man)",
   "breakdown": [
-   ["√man", "Root: to think (maññati)."],
-   ["-tha", "2nd person plural present ending."]
+   [
+    "√man",
+    "Root: to think (maññati)."
+   ],
+   [
+    "-tha",
+    "2nd person plural present ending."
+   ]
   ]
  },
  "maññissanti": {
   "meaning": "they will think; they will believe",
   "gram": "verb, 3rd person plural future of maññati",
   "breakdown": [
-   ["√man", "Root: to think."],
-   ["-issa-", "Future stem sign."],
-   ["-nti", "3rd person plural ending."]
+   [
+    "√man",
+    "Root: to think."
+   ],
+   [
+    "-issa-",
+    "Future stem sign."
+   ],
+   [
+    "-nti",
+    "3rd person plural ending."
+   ]
   ]
  },
  "maṁ": {
@@ -324,18 +574,32 @@
   "meaning": "blessings; things conducive to welfare and good fortune",
   "gram": "noun/adjective maṅgala (neuter nominative/accusative plural)",
   "breakdown": [
-   ["√maṅg", "Root: connected with auspiciousness."],
-   ["-ala", "Suffix: maṅgala, blessing, auspicious thing."]
+   [
+    "√maṅg",
+    "Root: connected with auspiciousness."
+   ],
+   [
+    "-ala",
+    "Suffix: maṅgala, blessing, auspicious thing."
+   ]
   ]
  },
- "maṅgālasutta": {
+ "maṅgalasutta": {
   "meaning": "the Maṅgalasutta, the Discourse on Blessings",
   "gram": "proper noun, neuter (title of a sutta)",
   "breakdown": [
-   ["maṅgala", "Blessing, welfare."],
-   ["sutta", "Discourse."]
+   [
+    "maṅgala",
+    "Blessing, welfare."
+   ],
+   [
+    "sutta",
+    "Discourse."
+   ]
   ],
-  "forms": ["Maṅgālasutta"],
+  "forms": [
+   "Maṅgālasutta"
+  ],
   "note": "uncertain: the source spelling maṅgāla- (with long ā) appears to be a typographical variant of the standard Maṅgalasutta."
  },
  "maṅku": {
@@ -346,73 +610,127 @@
   "meaning": "become downcast; troubled, confused",
   "gram": "adjective, compound (masculine nominative singular)",
   "breakdown": [
-   ["maṅku", "Troubled, restless, discontented."],
-   ["bhūta", "Become (past participle of bhavati)."]
+   [
+    "maṅku",
+    "Troubled, restless, discontented."
+   ],
+   [
+    "bhūta",
+    "Become (past participle of bhavati)."
+   ]
   ]
  },
  "maṇatīti": {
   "meaning": "\"crushes\" (with quotation marker); to crush",
   "gram": "verb, 3rd person singular present of maṇati + quotation particle ti",
   "breakdown": [
-   ["√maṇ", "Root: to crush, to grind (maṇati)."],
-   ["-ti", "3rd person singular present ending; the final ti is the quotation marker (maṇati + iti → maṇatīti)."]
+   [
+    "√maṇ",
+    "Root: to crush, to grind (maṇati)."
+   ],
+   [
+    "-ti",
+    "3rd person singular present ending; the final ti is the quotation marker (maṇati + iti → maṇatīti)."
+   ]
   ]
  },
  "maṇḍana": {
   "meaning": "adornment; finery",
   "gram": "neuter action noun (√maṇḍ)",
   "breakdown": [
-   ["√maṇḍ", "Root: to adorn."],
-   ["-ana", "Action-noun suffix."]
+   [
+    "√maṇḍ",
+    "Root: to adorn."
+   ],
+   [
+    "-ana",
+    "Action-noun suffix."
+   ]
   ]
  },
  "maṇḍūkadevaputtavimānavatthu": {
   "meaning": "the Maṇḍūkadevaputtavimānavatthu, the story of the celestial mansion of the frog deva-son",
   "gram": "proper noun, compound (title of a Vimānavatthu story)",
   "breakdown": [
-   ["maṇḍūka", "Frog."],
-   ["deva", "Deva, celestial being."],
-   ["putta", "Son."],
-   ["vimāna", "Celestial mansion."],
-   ["vatthu", "Story, ground, basis."]
+   [
+    "maṇḍūka",
+    "Frog."
+   ],
+   [
+    "deva",
+    "Deva, celestial being."
+   ],
+   [
+    "putta",
+    "Son."
+   ],
+   [
+    "vimāna",
+    "Celestial mansion."
+   ],
+   [
+    "vatthu",
+    "Story, ground, basis."
+   ]
   ],
-  "forms": ["Maṇḍūkadevaputtavimānavatthu"]
+  "forms": [
+   "Maṇḍūkadevaputtavimānavatthu"
+  ]
  },
  "maṇḍūkohaṁ": {
   "meaning": "I am a frog",
   "gram": "sandhi fusion: noun + pronoun (maṇḍūko + ahaṁ)",
   "breakdown": [
-   ["maṇḍūka", "Frog."],
-   ["ahaṁ", "I. (The final -o fuses with a-: maṇḍūko + ahaṁ → maṇḍūkohaṁ.)"]
+   [
+    "maṇḍūka",
+    "Frog."
+   ],
+   [
+    "ahaṁ",
+    "I. (The final -o fuses with a-: maṇḍūko + ahaṁ → maṇḍūkohaṁ.)"
+   ]
   ]
  },
  "methunasamācāresu": {
   "meaning": "in indulging in sexual intercourse",
   "gram": "compound noun (locative plural)",
   "breakdown": [
-   ["methuna", "Sexual intercourse."],
-   ["samācāra", "Conduct, undergoing, indulging in (saṁ + ācāra)."],
-   ["-esu", "Locative plural ending: \"in\"."]
+   [
+    "methuna",
+    "Sexual intercourse."
+   ],
+   [
+    "samācāra",
+    "Conduct, undergoing, indulging in (saṁ + ācāra)."
+   ],
+   [
+    "-esu",
+    "Locative plural ending: \"in\"."
+   ]
   ]
  },
  "methunena": {
   "meaning": "with sexual intercourse; by coupling",
   "gram": "noun (instrumental singular of methuna)",
   "breakdown": [
-   ["√mith", "Root: to pair, to couple; methuna is coupling, sexual intercourse."],
-   ["-ena", "Instrumental singular ending."]
+   [
+    "√mith",
+    "Root: to pair, to couple; methuna is coupling, sexual intercourse."
+   ],
+   [
+    "-ena",
+    "Instrumental singular ending."
+   ]
   ]
  },
  "methunā": {
   "meaning": "sexual intercourse",
   "gram": "noun (ablative/plural form of methuna)",
   "breakdown": [
-   ["√mith", "Root: to pair, to couple; methuna is coupling, sexual intercourse."]
+   [
+    "√mith",
+    "Root: to pair, to couple; methuna is coupling, sexual intercourse."
+   ]
   ]
- },
- "methunā sexual": {
-  "meaning": "sexual intercourse",
-  "gram": "noun (duplicate row; see methunā)",
-  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"sexual\" was attached to the headword methunā; see the entry methunā."
  }
 }
