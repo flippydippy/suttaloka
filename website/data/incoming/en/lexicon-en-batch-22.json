@@ -1,0 +1,420 @@
+{
+  "gandhakuṭiyā": {
+    "meaning": "from (or of) the perfumed hut (the Buddha's dwelling)",
+    "gram": "feminine compound noun, oblique singular",
+    "breakdown": [
+      ["gandha", "Smell, odour, perfume."],
+      ["kuṭi (kuṭī)", "Cabin, hut: the gandhakuṭi is the Buddha's own dwelling, the \"perfumed hut\"."],
+      ["-iyā", "Oblique case ending (ablative/genitive/locative singular)."]
+    ]
+  },
+  "gandhamācare": {
+    "meaning": "should wear perfume; would use scent",
+    "gram": "verb phrase fused by sandhi; accusative noun + 3rd person singular optative of ācarati",
+    "breakdown": [
+      ["gandhaṁ", "Perfume, scent (accusative); -ṁ > -m- before a vowel."],
+      ["ācare", "Should perform, practise, wear (optative of ācarati)."]
+    ]
+  },
+  "gandhavicāro": {
+    "meaning": "pondering over smells; sustained thought concerning odour",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["gandha", "Smell, odour."],
+      ["vicāro", "Thinking over, pondering, sustained examination."]
+    ]
+  },
+  "gandhā": {
+    "meaning": "smells; odours",
+    "gram": "masculine noun, nominative plural or ablative singular (√ghā)",
+    "breakdown": [
+      ["gandha", "Smell, odour (√ghā, to smell)."],
+      ["-ā", "Inflectional ending."]
+    ]
+  },
+  "gantvā": {
+    "meaning": "having gone",
+    "gram": "gerund (absolutive) of gacchati (√gam)",
+    "breakdown": [
+      ["√gam", "Root meaning to go."],
+      ["-tvā", "Absolutive ending: gam + tvā > gantvā, having gone."]
+    ]
+  },
+  "gantvādhikaraṇaṁ": {
+    "meaning": "having gone, the performing (of it); having gone and so doing",
+    "gram": "gerund + neuter noun, fused by sandhi",
+    "breakdown": [
+      ["gantvā", "Having gone (absolutive of gacchati)."],
+      ["adhi", "Prefix: over, concerning. Sandhi: gantvā + adhi- > gantvādhi-."],
+      ["karaṇaṁ", "Doing, performing (√kar + ana)."]
+    ],
+    "forms": ["gantvādhikaraṇaṁ"]
+  },
+  "garahati": {
+    "meaning": "blames; reproaches",
+    "gram": "verb, 3rd person singular present (√garah)",
+    "breakdown": [
+      ["√garah", "Root meaning to blame, censure."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "garahaṁ": {
+    "meaning": "blaming; reproaching",
+    "gram": "present participle of garahati, masculine nominative singular; also blame (noun), accusative",
+    "breakdown": [
+      ["garaha", "Blame, reproach (√garah)."],
+      ["-ṁ (-nta)", "Present participle / accusative ending."]
+    ],
+    "forms": ["garahaṁ"]
+  },
+  "garaheyyuṁ": {
+    "meaning": "they would censure; they would reproach",
+    "gram": "verb, 3rd person plural optative of garahati",
+    "breakdown": [
+      ["garaha-", "Stem of garahati, to blame (√garah)."],
+      ["-eyyuṁ", "3rd person plural optative ending."]
+    ],
+    "forms": ["garaheyyuṁ"]
+  },
+  "gatayobbanaṁ": {
+    "meaning": "past one's youth; whose youth has gone",
+    "gram": "compound adjective, neuter/accusative singular",
+    "breakdown": [
+      ["gata", "Gone, gone beyond (past participle of gacchati)."],
+      ["yobbanaṁ", "Youth."]
+    ],
+    "forms": ["gatayobbanaṁ"]
+  },
+  "gatimantānaṁ": {
+    "meaning": "of the clever; of those possessed of good sense",
+    "gram": "adjective, genitive plural, from gati (√gam)",
+    "breakdown": [
+      ["gati", "Going, course; figuratively, resourcefulness, sense."],
+      ["-mant", "Possessive suffix: endowed with."],
+      ["-ānaṁ", "Genitive/dative plural ending."]
+    ],
+    "forms": ["gatimantānaṁ"]
+  },
+  "gayhamānaṁ": {
+    "meaning": "being taken; being seized",
+    "gram": "present passive participle of gayhati (√gah), accusative singular",
+    "breakdown": [
+      ["gayha-", "Passive stem of gaṇhāti, to take (√gah)."],
+      ["-māna", "Present participle suffix (middle/passive): being taken."]
+    ],
+    "forms": ["gayhamānaṁ"]
+  },
+  "gaṇanapathaṁ": {
+    "meaning": "the range of counting; the path of calculation, measurable period",
+    "gram": "masculine compound noun, accusative singular",
+    "breakdown": [
+      ["gaṇana", "Counting, reckoning."],
+      ["pathaṁ", "Path, range (accusative): what lies within the range of counting."]
+    ],
+    "forms": ["gaṇanapathaṁ"]
+  },
+  "gaṇhi": {
+    "meaning": "took; acquired, comprehended, adopted, perceived",
+    "gram": "verb, 3rd person singular aorist of gaṇhāti (√gah)",
+    "breakdown": [
+      ["gaṇhā-", "Present stem of gaṇhāti, to take (√gah)."],
+      ["-i", "Aorist ending."]
+    ]
+  },
+  "gaṇhitthā": {
+    "meaning": "you took (plural)",
+    "gram": "verb, 2nd person plural aorist of gaṇhāti",
+    "breakdown": [
+      ["gaṇhi-", "Aorist stem of gaṇhāti, to take (√gah)."],
+      ["-tthā", "2nd person plural aorist ending."]
+    ]
+  },
+  "gedhaṁ": {
+    "meaning": "craving; greed",
+    "gram": "masculine noun, accusative singular, from gijjhati (√gidh)",
+    "breakdown": [
+      ["√gidh", "Root meaning to crave, be greedy (gidh > gedh)."],
+      ["-aṁ", "Accusative singular ending."]
+    ],
+    "forms": ["gedhaṁ"]
+  },
+  "ghammābhitattassa": {
+    "meaning": "of one tormented by the heat; exhausted by the hot season",
+    "gram": "compound adjective (past participle), genitive/dative singular",
+    "breakdown": [
+      ["ghamma", "Heat, hot season; sweat."],
+      ["abhitatta", "Tormented, scorched by (past participle of abhitapati). Sandhi: ghamma + abhi- > ghammābhi-."],
+      ["-ssa", "Genitive/dative singular ending."]
+    ]
+  },
+  "ghāna": {
+    "meaning": "nose",
+    "gram": "neuter noun, from ghāyati (√ghā, to smell)",
+    "breakdown": [
+      ["√ghā", "Root meaning to smell."],
+      ["-ana", "Noun-forming suffix: the organ of smelling."]
+    ]
+  },
+  "ghāsacchādanam": {
+    "meaning": "food and clothing",
+    "gram": "neuter compound noun, nominative/accusative singular",
+    "breakdown": [
+      ["ghāsa", "Food, fodder."],
+      ["chādanam", "Clothing, covering (the doubled cch is sandhi doubling)."]
+    ]
+  },
+  "ghāsacchādo": {
+    "meaning": "food and clothing",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["ghāsa", "Food, fodder."],
+      ["chādo", "Clothing, covering (the doubled cch is sandhi doubling)."]
+    ]
+  },
+  "ghātayeyya": {
+    "meaning": "would cause to kill; should have (someone) killed",
+    "gram": "verb, 3rd person singular optative, causative of hanati/ghāteti (√ghaṭ)",
+    "breakdown": [
+      ["ghātaya-", "Causative stem: to cause to kill."],
+      ["-eyya", "3rd person singular optative ending."]
+    ]
+  },
+  "gihiparisāya": {
+    "meaning": "in the assembly of householders; among the lay gathering",
+    "gram": "feminine compound noun, locative singular",
+    "breakdown": [
+      ["gihi (gihī)", "Householder, layperson."],
+      ["parisāya", "Assembly, gathering (locative)."]
+    ]
+  },
+  "gihī": {
+    "meaning": "householder; layperson",
+    "gram": "masculine noun, from geha (house, √gah)",
+    "breakdown": [
+      ["geha (gih-)", "House (√gah)."],
+      ["-ī", "Possessive suffix: one who has a house."]
+    ]
+  },
+  "gimhe": {
+    "meaning": "in the hot season; in summer",
+    "gram": "masculine noun, locative singular",
+    "breakdown": [
+      ["gimha", "Hot season, summer."],
+      ["-e", "Locative singular ending."]
+    ]
+  },
+  "gimhānamāse": {
+    "meaning": "in the summer month",
+    "gram": "masculine compound noun, locative singular",
+    "breakdown": [
+      ["gimhānaṁ", "Of the hot season (genitive plural of gimha)."],
+      ["māse", "Month (locative)."]
+    ]
+  },
+  "goghātako": {
+    "meaning": "cow-killer; butcher",
+    "gram": "masculine agent compound noun, nominative singular",
+    "breakdown": [
+      ["go", "Cow, ox."],
+      ["ghātako", "Killer, slaughterer (√han/ghāt)."]
+    ]
+  },
+  "gopālako": {
+    "meaning": "cowherd",
+    "gram": "masculine agent compound noun, nominative singular (diminutive of gopāla)",
+    "breakdown": [
+      ["go", "Cow."],
+      ["pālako", "Keeper, protector (√pāl, to protect)."]
+    ]
+  },
+  "gorakkho": {
+    "meaning": "cowherd; cattle-keeper",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["go", "Cow."],
+      ["rakkho", "Guarding, protecting (√rakkh)."]
+    ]
+  },
+  "gotamīsuttavaṇṇanā": {
+    "meaning": "the commentary on the Gotamī Sutta",
+    "gram": "feminine compound noun, commentary title",
+    "breakdown": [
+      ["gotamī", "Gotamī (Mahāpajāpatī Gotamī, the Buddha's foster mother)."],
+      ["sutta", "Discourse."],
+      ["vaṇṇanā", "Explanation, commentary."]
+    ],
+    "goenka": "The Gotamīsuttavaṇṇanā explains that the additional rules (for nuns) are made known for the purpose of preventing transgression before any incident arises: if they had not been made known, then, because women had been ordained, the true Dhamma would not have been maintained for five hundred years.",
+    "forms": ["Gotamīsuttavaṇṇanā"]
+  },
+  "gotrabhuto": {
+    "meaning": "one in a fit state to receive sanctification; one entering the lineage (of the noble ones)",
+    "gram": "masculine noun/adjective, nominative singular",
+    "breakdown": [
+      ["gotra (gotta)", "Lineage, clan."],
+      ["bhuto (bhū)", "Become, being: one who has become of the lineage."]
+    ]
+  },
+  "gottatthaddho": {
+    "meaning": "proud of clan; selfish, hardened about lineage",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["gotta", "Clan, lineage."],
+      ["thaddho", "Hard, rigid, selfish (√thambh)."]
+    ]
+  },
+  "guttadvāro": {
+    "meaning": "with guarded (sense-)doors; whose doors are protected",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["gutta", "Guarded, protected (past participle of gopeti)."],
+      ["dvāro", "Door; here the sense-doors."]
+    ],
+    "goenka": "Guttadvāro describes one who keeps guard over the sense-doors. In Klaus's presentation, two lessons explain in more detail how one keeps guard over one's sense-doors: the Indriyabhāvanāsutta — Mastering the Sense-faculties — and the Dhammānupassanā āyatanapabbaṁ — Understanding the Contents of the Mind, the Section on the Sense Spheres."
+  },
+  "gutto": {
+    "meaning": "protected; guarded",
+    "gram": "past participle of gopeti (√gup), masculine nominative singular",
+    "breakdown": [
+      ["√gup", "Root meaning to guard, protect."],
+      ["-ta", "Past participle suffix: gup + ta > gutta."]
+    ]
+  },
+  "guyhamassa": {
+    "meaning": "his secret; the secret of him",
+    "gram": "neuter noun + genitive pronoun, fused by sandhi",
+    "breakdown": [
+      ["guyhaṁ", "Secret, what is to be hidden (√guh); -ṁ > -m- before a vowel."],
+      ["assa", "His, of him (genitive of so/ta)."]
+    ]
+  },
+  "guyhañca": {
+    "meaning": "and the secret",
+    "gram": "potential participle of gūhati (√guh), neuter singular + particle ca",
+    "breakdown": [
+      ["guyhaṁ", "Secret, what should be hidden (√guh + ya); -ṁ > -ñ- before ca."],
+      ["ca", "And."]
+    ]
+  },
+  "guṇādhikānaṁ": {
+    "meaning": "of those superior in qualities; of the ones exceeding in virtues",
+    "gram": "compound adjective, genitive plural",
+    "breakdown": [
+      ["guṇa", "Quality, virtue."],
+      ["adhikā", "Exceeding, superior. Sandhi: guṇa + adhika > guṇādhika."],
+      ["-ānaṁ", "Genitive/dative plural ending."]
+    ],
+    "forms": ["guṇādhikānaṁ"]
+  },
+  "guṇūpetaṁ": {
+    "meaning": "endowed with qualities; possessed of virtues",
+    "gram": "compound adjective, neuter/accusative singular",
+    "breakdown": [
+      ["guṇa", "Quality, virtue."],
+      ["upetaṁ", "Endowed with, furnished with (upa + √i, past participle). Sandhi: guṇa + upeta > guṇūpeta."]
+    ],
+    "forms": ["guṇūpetaṁ"]
+  },
+  "gāhāpenti": {
+    "meaning": "they cause to be taken; they deliver to",
+    "gram": "verb, 3rd person plural present, causative of gaṇhāti (√gah)",
+    "breakdown": [
+      ["gāhāpe-", "Double causative stem of √gah: to cause to take."],
+      ["-nti", "3rd person plural present ending."]
+    ]
+  },
+  "gāhāpessanti": {
+    "meaning": "they will cause to be taken; they will deliver to",
+    "gram": "verb, 3rd person plural future, causative of gaṇhāti (√gah)",
+    "breakdown": [
+      ["gāhāpe-", "Double causative stem of √gah: to cause to take."],
+      ["-ssanti", "3rd person plural future ending."]
+    ]
+  },
+  "gāmadhammā": {
+    "meaning": "the way of the village; low, vulgar practice",
+    "gram": "masculine compound noun (derogatory), plural or ablative singular",
+    "breakdown": [
+      ["gāma", "Village; figuratively low, common."],
+      ["dhammā", "Nature, practice, way: things having the vulgar nature."]
+    ]
+  },
+  "gāmaghātampi": {
+    "meaning": "even the plundering of a village; also village-destruction",
+    "gram": "masculine compound noun, accusative singular + enclitic particle",
+    "breakdown": [
+      ["gāma", "Village."],
+      ["ghātaṁ", "Destroying, killing, plunder (accusative)."],
+      ["pi", "Also, even (enclitic)."]
+    ]
+  },
+  "gāmantasambhatesu": {
+    "meaning": "among the stores laid up near the village",
+    "gram": "compound adjective/noun, locative plural",
+    "breakdown": [
+      ["gāma", "Village."],
+      ["anta", "Near, vicinity, edge: gāmanta, the neighbourhood of the village."],
+      ["sambhatesu", "Stores, provisions gathered (past participle of sambharati), locative plural."]
+    ]
+  },
+  "gāmanī": {
+    "meaning": "village headman; chief",
+    "gram": "masculine noun, nominative singular",
+    "breakdown": [
+      ["gāma", "Village."],
+      ["-nī", "Leader (from √nī, to lead): the one who leads the village."]
+    ]
+  },
+  "gāmeyya": {
+    "meaning": "belonging to a village",
+    "gram": "adjective, from gāma",
+    "breakdown": [
+      ["gāma", "Village."],
+      ["-eyya", "Adjective suffix of belonging."]
+    ]
+  },
+  "gāmika": {
+    "meaning": "overseer of a village; villager",
+    "gram": "masculine noun, from gāma",
+    "breakdown": [
+      ["gāma", "Village."],
+      ["-ika", "Suffix of connection: one belonging to or overseeing the village."]
+    ]
+  },
+  "gāmin": {
+    "meaning": "going; walking; leading to (in compounds)",
+    "gram": "adjective (stem form), from √gam",
+    "breakdown": [
+      ["√gam", "Root meaning to go."],
+      ["-in", "Possessive suffix: characterized by going."]
+    ]
+  },
+  "gāravo": {
+    "meaning": "respectfulness; reverence",
+    "gram": "masculine noun, nominative singular, from garu (√gar)",
+    "breakdown": [
+      ["garu", "Heavy; venerable, worthy of respect (lengthened to gārav-)."],
+      ["-a", "Abstract noun suffix: the attitude of respect."]
+    ]
+  },
+  "gāthāya": {
+    "meaning": "in verse; by a verse",
+    "gram": "feminine noun (gāthā), instrumental/oblique singular",
+    "breakdown": [
+      ["gāthā", "Verse, stanza."],
+      ["-āya", "Instrumental/oblique singular ending."]
+    ]
+  },
+  "gāthāya by": {
+    "meaning": "by verses; in verse",
+    "gram": "feminine noun, instrumental singular (see gāthāya)",
+    "note": "uncertain: the key is an artifact of a split vocabulary row (\"gāthāya by / verses\"); the entry belongs under gāthāya."
+  },
+  "gāvo": {
+    "meaning": "cows; cattle",
+    "gram": "masculine noun, nominative/accusative plural of go",
+    "breakdown": [
+      ["go", "Cow, ox (stem gav- in inflection)."],
+      ["-o", "Plural ending: gāvo, cows."]
+    ]
+  }
+}

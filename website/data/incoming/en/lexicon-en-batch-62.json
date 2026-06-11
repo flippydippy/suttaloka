@@ -1,0 +1,420 @@
+{
+  "ussahati": {
+    "meaning": "is able; endeavours, makes effort",
+    "gram": "verb, 3rd person singular present (ud + √sah)",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: ussa-)."],
+      ["√sah", "Root: to endure, be capable."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "ussuka": {
+    "meaning": "energetic, eager; greedy",
+    "gram": "adjective (from ud)",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: ussu-)."],
+      ["-ka", "Adjectival suffix."]
+    ]
+  },
+  "ussukkamāpannā": {
+    "meaning": "having entered upon hard work; engaged in exertion",
+    "gram": "adjective, nominative plural (compound)",
+    "breakdown": [
+      ["ussukkaṁ", "Hard work, exertion, zeal (accusative)."],
+      ["āpanna", "Entered upon, engaged in (past participle of āpajjati)."]
+    ]
+  },
+  "ussāvabindu": {
+    "meaning": "a dew drop",
+    "gram": "neuter noun (compound)",
+    "breakdown": [
+      ["ussāva", "Dew."],
+      ["bindu", "Drop."]
+    ]
+  },
+  "utrāsī": {
+    "meaning": "fearful, timid",
+    "gram": "adjective (from utrasati)",
+    "breakdown": [
+      ["ud", "Prefix: up, out."],
+      ["√tras", "Root: to tremble, fear."],
+      ["-ī", "Possessive adjectival suffix."]
+    ]
+  },
+  "uttamatthe": {
+    "meaning": "in the ultimate goal; for the highest aim",
+    "gram": "masculine noun, locative singular (compound)",
+    "breakdown": [
+      ["uttama", "Ultimate, highest."],
+      ["attha", "Goal, aim, benefit."]
+    ]
+  },
+  "uttari": {
+    "meaning": "beyond, further, more",
+    "gram": "adjective/adverb (from uttara)"
+  },
+  "uttaro": {
+    "meaning": "northern; higher",
+    "gram": "adjective, masculine nominative singular (of uttara)",
+    "breakdown": [
+      ["ud", "Prefix: up, beyond."],
+      ["√tar", "Root: to cross; uttara “higher, further, northern”."]
+    ]
+  },
+  "uttarāmukhamuttamaṁ": {
+    "meaning": "facing north, the highest; with its front to the northern direction, most eminent",
+    "gram": "adjective phrase, accusative singular (compound)",
+    "breakdown": [
+      ["uttarā", "North, the northern direction."],
+      ["mukhaṁ", "Mouth, front, facing (with connecting m)."],
+      ["uttamaṁ", "Highest, eminent."]
+    ],
+    "forms": ["uttarāmukhamuttamaṃ"]
+  },
+  "uttājālarajatapaṭṭasadisavālukākiṇṇabhūmibhāgaṁ": {
+    "meaning": "a stretch of ground strewn with sand like a plate of silver and shimmering water",
+    "gram": "adjective/noun, accusative singular (long descriptive compound)",
+    "breakdown": [
+      ["uttā", "Higher; risen."],
+      ["jāla", "Water; shimmer, net (of light)."],
+      ["rajata", "Silver."],
+      ["paṭṭa", "Plate, sheet."],
+      ["sadisa", "Similar to, like."],
+      ["vāluka", "Sand."],
+      ["ākiṇṇa", "Spread, scattered, strewn."],
+      ["bhūmi", "Earth, ground."],
+      ["bhāga", "Part, portion."]
+    ],
+    "forms": ["uttājālarajatapaṭṭasadisavālukākiṇṇabhūmibhāgaṃ"]
+  },
+  "uttānīkaroti": {
+    "meaning": "lays open, makes clear; confesses",
+    "gram": "verb, 3rd person singular present (compound verb uttānī + karoti)",
+    "breakdown": [
+      ["uttāna", "Evident, clear, open (becomes uttānī in composition)."],
+      ["karoti", "Makes, does (√kar)."]
+    ]
+  },
+  "uttānīkatvā": {
+    "meaning": "having laid open, having confessed",
+    "gram": "absolutive (gerund) of uttānīkaroti",
+    "breakdown": [
+      ["uttāna", "Evident, clear, open (becomes uttānī in composition)."],
+      ["katvā", "Having made (absolutive of karoti)."]
+    ]
+  },
+  "utusataṁ": {
+    "meaning": "a hundred seasons",
+    "gram": "neuter noun, nominative/accusative singular (compound)",
+    "breakdown": [
+      ["utu", "Season."],
+      ["sata", "Hundred."]
+    ],
+    "forms": ["utusataṃ"]
+  },
+  "utusaṁvaccharā": {
+    "meaning": "seasons and years",
+    "gram": "noun, plural (compound)",
+    "breakdown": [
+      ["utu", "Season."],
+      ["saṁvacchara", "Year."]
+    ],
+    "forms": ["utusaṃvaccharā"]
+  },
+  "uyyojesi": {
+    "meaning": "dismissed, sent off, took leave of",
+    "gram": "verb, aorist 3rd person singular, causative (of uyyojeti)",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: uyyo-)."],
+      ["√yuj", "Root: to yoke, engage; causative uyyojeti “to send off”."],
+      ["-esi", "Aorist 3rd person singular ending."]
+    ]
+  },
+  "uṇhīsaṁ": {
+    "meaning": "diadem, crown; a turban",
+    "gram": "neuter noun, nominative/accusative singular",
+    "forms": ["uṇhīsaṃ"]
+  },
+  "uṭṭhānasaññaṁ": {
+    "meaning": "the perception of rising; awareness of (the time of) getting up",
+    "gram": "feminine noun, accusative singular (compound)",
+    "breakdown": [
+      ["uṭṭhāna", "Rising, getting up, appearance."],
+      ["saññā", "Perception, consciousness."]
+    ],
+    "forms": ["uṭṭhānasaññaṃ"]
+  },
+  "uṭṭhānavīriyādhigatā": {
+    "meaning": "acquired by exertion and effort",
+    "gram": "adjective, nominative plural / feminine singular (compound)",
+    "breakdown": [
+      ["uṭṭhāna", "Exertion, rising to action."],
+      ["vīriya", "Effort, energy."],
+      ["adhigata", "Obtained, acquired (past participle of adhigacchati; initial a merges with the preceding a)."]
+    ]
+  },
+  "uṭṭhātā": {
+    "meaning": "one who strives; one who exerts himself",
+    "gram": "masculine agent noun (uṭṭhātar, from uṭṭhāti)",
+    "breakdown": [
+      ["ud", "Prefix: up (assimilated: uṭṭhā-)."],
+      ["√ṭhā", "Root: to stand; to rise to action."],
+      ["-tar", "Agent-noun suffix: “one who …”."]
+    ]
+  },
+  "uṭṭhāyāsanā": {
+    "meaning": "having risen from the seat",
+    "gram": "gerund phrase (uṭṭhāya + āsanā)",
+    "breakdown": [
+      ["uṭṭhāya", "Having risen (gerund of uṭṭhahati)."],
+      ["āsanā", "From the seat (ablative; the vowels merge in sandhi)."]
+    ]
+  },
+  "vacchapālako": {
+    "meaning": "a cowherd; guardian of calves",
+    "gram": "masculine noun, nominative singular (compound)",
+    "breakdown": [
+      ["vaccha", "Calf."],
+      ["pālaka", "Guardian, keeper (from pāleti “to protect”)."]
+    ]
+  },
+  "vacīduccaritehi": {
+    "meaning": "by bad conduct of speech; through verbal misconduct",
+    "gram": "neuter noun, instrumental plural (compound)",
+    "breakdown": [
+      ["vacī", "Speech (combining form of vaco)."],
+      ["du-", "Prefix: bad (with sandhi doubling: ducca-)."],
+      ["carita", "Behaviour, conduct."],
+      ["-ehi", "Instrumental plural ending."]
+    ]
+  },
+  "vacīkammaṁ": {
+    "meaning": "verbal action; actions of speech",
+    "gram": "neuter noun, nominative/accusative singular (compound)",
+    "breakdown": [
+      ["vacī", "Speech."],
+      ["kamma", "Action, deed."]
+    ],
+    "forms": ["vacīkammaṃ"]
+  },
+  "vacīsaṅkhāro": {
+    "meaning": "the speech-formation; the conditioning underlying speech",
+    "gram": "masculine noun, nominative singular (compound)",
+    "breakdown": [
+      ["vacī", "Speech."],
+      ["saṅkhāra", "Formation, mental conditioning."]
+    ]
+  },
+  "vadaññū": {
+    "meaning": "kind, bountiful (literally “easily spoken to”)",
+    "gram": "adjective (compound)",
+    "breakdown": [
+      ["vada", "Speech, speaking."],
+      ["-ññū", "Knowing, responsive to (from √ñā)."]
+    ]
+  },
+  "vadesi": {
+    "meaning": "spoke, said",
+    "gram": "verb, aorist 2nd/3rd person singular of vadati (√vad)",
+    "breakdown": [
+      ["√vad", "Root: to speak."],
+      ["-esi", "Aorist ending."]
+    ]
+  },
+  "vadhakacetanā": {
+    "meaning": "murderous volition; the intention to kill",
+    "gram": "feminine noun (compound)",
+    "breakdown": [
+      ["vadhaka", "Murderous; a slayer."],
+      ["cetanā", "Volition, intention."]
+    ]
+  },
+  "vadhaṁ": {
+    "meaning": "punishment, execution; killing",
+    "gram": "masculine noun, accusative singular (of vadha)",
+    "breakdown": [
+      ["√vadh", "Root: to strike, kill."],
+      ["-a", "Noun-forming suffix."]
+    ],
+    "forms": ["vadhaṃ"]
+  },
+  "vaggārāmo": {
+    "meaning": "delighting in faction; fond of division",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vagga", "Division, section, faction."],
+      ["ārāma", "Delighting in, fond of."]
+    ]
+  },
+  "vahato": {
+    "meaning": "of the carrier; of the draught animal",
+    "gram": "masculine noun, genitive singular (of vaha)",
+    "breakdown": [
+      ["√vah", "Root: to carry."],
+      ["-a", "Noun-forming suffix: vaha “carrier, beast of burden”."]
+    ]
+  },
+  "vajjadassinaṁ": {
+    "meaning": "one who points out faults; a fault-seer",
+    "gram": "adjective, accusative singular (compound)",
+    "breakdown": [
+      ["vajja", "Fault, what should be avoided."],
+      ["dassin", "Seeing, finding (from √dis)."]
+    ],
+    "forms": ["vajjadassinaṃ"]
+  },
+  "vajjeti": {
+    "meaning": "avoids, leaves out, escapes from",
+    "gram": "verb, 3rd person singular present (√vajj)",
+    "breakdown": [
+      ["√vajj", "Root: to avoid."],
+      ["-eti", "3rd person singular ending."]
+    ]
+  },
+  "vajjikaraṇīyāni": {
+    "meaning": "the duties of the Vajjians; Vajjian business",
+    "gram": "neuter noun, nominative/accusative plural (compound)",
+    "breakdown": [
+      ["vajjī", "The Vajjians, the Vajjian confederacy."],
+      ["karaṇīya", "Duty, business, what is to be done."]
+    ]
+  },
+  "vajjimahallakā": {
+    "meaning": "the Vajjian elders; the aged among the Vajjians",
+    "gram": "masculine noun, nominative plural (compound)",
+    "breakdown": [
+      ["vajjī", "The Vajjians."],
+      ["mahallaka", "Old, aged; an elder."]
+    ]
+  },
+  "vakkhāmi": {
+    "meaning": "I will speak; I will say",
+    "gram": "verb, future 1st person singular of vacati/vatti (√vac)",
+    "breakdown": [
+      ["√vac", "Root: to speak (future stem vakkha-)."],
+      ["-āmi", "1st person singular ending."]
+    ]
+  },
+  "valittacatā": {
+    "meaning": "the state of having wrinkled skin",
+    "gram": "feminine abstract noun (compound)",
+    "breakdown": [
+      ["valita", "Wrinkled."],
+      ["taca", "Skin."],
+      ["-tā", "Abstract-noun suffix: “the state of”."]
+    ]
+  },
+  "vambhenti": {
+    "meaning": "they despise, treat with contempt",
+    "gram": "verb, 3rd person plural present of vambheti",
+    "breakdown": [
+      ["√vambh", "Root: to despise."],
+      ["-enti", "3rd person plural ending."]
+    ]
+  },
+  "vammasannāho": {
+    "meaning": "the fastening of armour; girding on of mail",
+    "gram": "masculine noun, nominative singular (compound)",
+    "breakdown": [
+      ["vamma", "Armour, mail."],
+      ["sannāha", "Fastening, girding on (saṁ + √nah “to bind”)."]
+    ]
+  },
+  "vanappagumbe": {
+    "meaning": "forest grove, woodland thicket (in blossom)",
+    "gram": "masculine noun, locative singular (compound)",
+    "breakdown": [
+      ["vana", "Forest."],
+      ["pagumba", "Bush, grove, thicket (with sandhi doubling of p)."]
+    ]
+  },
+  "vanarāmaṇeyyakaṁ": {
+    "meaning": "the delightfulness of the forest; a lovely forest spot",
+    "gram": "neuter noun, accusative singular (compound)",
+    "breakdown": [
+      ["vana", "Forest."],
+      ["rāmaṇeyyaka", "Enjoyable, delightful."]
+    ],
+    "forms": ["vanarāmaṇeyyakaṃ"]
+  },
+  "vanavasesā": {
+    "meaning": "or without remainder; excluding none",
+    "gram": "sandhi fusion (vā + anavasesā)",
+    "breakdown": [
+      ["vā", "Or."],
+      ["anavasesā", "Without remainder, complete (an + avasesa)."]
+    ],
+    "note": "uncertain: the lexicon parses this headword as vā + anavasesā “or + excluding none”; the surface form results from sandhi."
+  },
+  "vandana": {
+    "meaning": "veneration; paying respect, homage",
+    "gram": "neuter/feminine noun",
+    "breakdown": [
+      ["√vand", "Root: to salute, venerate."],
+      ["-ana", "Action-noun suffix."]
+    ],
+    "goenka": "Vandana is the term used for paying respect and expressing veneration — as in the recitations of homage to the Buddha, Dhamma and Saṅgha that open formal practice.",
+    "forms": ["Vandana"]
+  },
+  "vanibbaka": {
+    "meaning": "a travelling merchant; wayfarer, mendicant",
+    "gram": "masculine noun"
+  },
+  "vanta": {
+    "meaning": "vomited, discharged, ejected; figuratively: left behind, abandoned",
+    "gram": "past participle of vamati (√vam)",
+    "breakdown": [
+      ["√vam", "Root: to vomit."],
+      ["-ta", "Past participle suffix."]
+    ]
+  },
+  "vapate": {
+    "meaning": "sows",
+    "gram": "verb, 3rd person singular present, middle voice (of vapati, √vap)",
+    "breakdown": [
+      ["√vap", "Root: to sow."],
+      ["-ate", "3rd person singular middle ending."]
+    ]
+  },
+  "varado": {
+    "meaning": "giver of the sublime; bestower of the highest",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vara", "The sublime, the excellent, the best."],
+      ["da", "Giving (from √dā)."]
+    ]
+  },
+  "varaññū": {
+    "meaning": "knower of the sublime",
+    "gram": "adjective (compound)",
+    "breakdown": [
+      ["vara", "The sublime, the best."],
+      ["-ññū", "Knowing (from √ñā)."]
+    ]
+  },
+  "varaññūti nibbānaññū.": {
+    "meaning": "“knower of the sublime” means knower of nibbāna (a gloss from the commentary)",
+    "gram": "phrase (commentarial gloss)",
+    "breakdown": [
+      ["varaññū", "Knower of the sublime."],
+      ["ti", "Quotation marker: “so it is said”."],
+      ["nibbānaññū", "Knower of nibbāna."]
+    ]
+  },
+  "varāharo": {
+    "meaning": "bringer of the sublime",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vara", "The sublime, the best."],
+      ["āhara", "Bringing (ā + √har)."]
+    ]
+  },
+  "vasanti": {
+    "meaning": "they dwell, live",
+    "gram": "verb, 3rd person plural present of vasati (√vas)",
+    "breakdown": [
+      ["√vas", "Root: to dwell."],
+      ["-nti", "3rd person plural ending."]
+    ]
+  }
+}

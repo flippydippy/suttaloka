@@ -1,0 +1,401 @@
+{
+ "suvaco": {
+  "meaning": "soft-spoken; easy to speak to, amenable to correction",
+  "gram": "adjective (nominative singular), from vacas (√vac)",
+  "breakdown": [
+   ["su-", "Prefix: well, easily."],
+   ["√vac + a", "Root “to speak”: easy to address, receptive to admonition."]
+  ]
+ },
+ "suvatthi": {
+  "meaning": "well-being; welfare; blessing (as in the refrain “suvatthi hotu” — may there be happiness)",
+  "gram": "feminine abstract noun (su + atthi)",
+  "breakdown": [
+   ["su-", "Prefix: well."],
+   ["-v-", "Euphonic glide consonant inserted in sandhi."],
+   ["atthi", "Being, existence (√as). Together: well-being."]
+  ]
+ },
+ "suvaṇṇaṁ": {
+  "meaning": "gold; (literally) of beautiful colour",
+  "gram": "neuter noun / adjective (nominative/accusative singular), from vaṇṇa",
+  "breakdown": [
+   ["su-", "Prefix: good, beautiful."],
+   ["vaṇṇa", "Colour, appearance (√var). Together: of fine colour — gold."]
+  ]
+ },
+ "suvijāno": {
+  "meaning": "easy to know; well perceiving, readily understood",
+  "gram": "adjective (nominative singular), from vijāna (vi + √ñā)",
+  "breakdown": [
+   ["su-", "Prefix: well, easily."],
+   ["vi-", "Prefix: distinctly."],
+   ["√ñā (jānā-)", "Root meaning “to know”."]
+  ]
+ },
+ "suññabhāvaṁ": {
+  "meaning": "the state of being empty; emptiness (of a dwelling, or of self)",
+  "gram": "masculine noun, compound (accusative singular)",
+  "breakdown": [
+   ["suñña", "Empty, void."],
+   ["bhāva", "State, condition, development."]
+  ]
+ },
+ "suññāgāreva": {
+  "meaning": "or to an empty dwelling; likewise to an empty place (for meditation)",
+  "gram": "neuter noun, compound (locative singular) + enclitic eva/va",
+  "breakdown": [
+   ["suñña", "Empty."],
+   ["agāra", "House, dwelling. Suññāgāra: an empty, secluded place."],
+   ["eva (va)", "Likewise, just (enclitic, fused in sandhi)."]
+  ],
+  "goenka": "The empty dwelling (suññāgāra) completes the classic triad of meditation places: “gone to the forest, to the root of a tree, or to an empty place”. The meditator seeks seclusion so that, undisturbed, he may sit down, establish awareness and begin observing the breath and the body."
+ },
+ "suṁsumāra": {
+  "meaning": "a crocodile",
+  "gram": "masculine noun (also spelled susumāra)",
+  "breakdown": [
+   ["susu (> suṁsu)", "Child, young one."],
+   ["māra", "Killer (√mar). Literally: “child-killer”, the crocodile."]
+  ],
+  "forms": ["susumāra"]
+ },
+ "suṇantassa": {
+  "meaning": "of/for one who is hearing; by hearing",
+  "gram": "present participle of suṇāti (genitive/dative singular)",
+  "breakdown": [
+   ["√su (suṇā-)", "Root meaning “to hear”."],
+   ["-nta", "Present participle suffix."],
+   ["-assa", "Genitive/dative singular ending."]
+  ]
+ },
+ "suṇantu": {
+  "meaning": "may they listen; let them hear",
+  "gram": "verb, imperative 3rd person plural of suṇāti",
+  "breakdown": [
+   ["√su (suṇā-)", "Root meaning “to hear”."],
+   ["-ntu", "Imperative 3rd person plural ending."]
+  ]
+ },
+ "suṇantu may": {
+  "meaning": "may they listen",
+  "gram": "verb, imperative 3rd person plural",
+  "note": "uncertain: this key is a glossary parsing artifact — the English word “may” from the gloss “may listen” was attached to the headword suṇantu; see the entry suṇantu."
+ },
+ "suṇātha": {
+  "meaning": "listen!; you (all) should listen",
+  "gram": "verb, imperative 2nd person plural of suṇāti",
+  "breakdown": [
+   ["√su (suṇā-)", "Root meaning “to hear”."],
+   ["-tha", "2nd person plural ending."]
+  ]
+ },
+ "sve, suve": {
+  "meaning": "tomorrow",
+  "gram": "indeclinable adverb (two variant forms)"
+ },
+ "svākkhāto": {
+  "meaning": "well proclaimed; perfectly expounded (said of the Dhamma)",
+  "gram": "adjective (nominative singular), from akkhāta (su + ā + √khā)",
+  "breakdown": [
+   ["su- (> sv-)", "Prefix: well (su + a- gives svā- in sandhi)."],
+   ["akkhāta", "Proclaimed, told (ā + √khā + ta)."]
+  ],
+  "goenka": "Svākkhāto opens the traditional recollection of the Dhamma: svākkhāto bhagavatā dhammo — “well proclaimed by the Blessed One is the Dhamma”. The teaching is complete and perfectly expounded: good in the beginning (sīla), good in the middle (samādhi) and good in the end (paññā), to be experienced directly by each meditator."
+ },
+ "svāssa": {
+  "meaning": "and he… of him (so + assa, sandhi combination)",
+  "gram": "sandhi fusion: pronoun + pronoun/optative (so/sa + assa)",
+  "breakdown": [
+   ["so (> sv-)", "He (nominative singular pronoun; o + a- gives vā in sandhi)."],
+   ["assa", "Of him / there would be (genitive pronoun, or optative of atthi, by context)."]
+  ]
+ },
+ "sādhakasuttaṁ": {
+  "meaning": "the Sādhaka Sutta, the Discourse on Accomplishing",
+  "gram": "proper noun, neuter (title of a discourse)",
+  "breakdown": [
+   ["sādhaka", "Accomplishing, effecting (from sādheti, √sādh)."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "sādhetī": {
+  "meaning": "accomplishes; prepares, brings about",
+  "gram": "verb, present tense 3rd person singular of sādheti (causative of √sādh)",
+  "breakdown": [
+   ["√sādh", "Root meaning “to succeed, accomplish”."],
+   ["-eti", "Causative present ending (final vowel metrically lengthened)."]
+  ]
+ },
+ "sādhukaṁ": {
+  "meaning": "well; carefully, properly (as the lexicon's context renders: straight)",
+  "gram": "indeclinable adverb (accusative of sādhuka)",
+  "breakdown": [
+   ["sādhu", "Good, well (√sādh)."],
+   ["-ka + -ṁ", "Adverbial formation: thoroughly, well."]
+  ]
+ },
+ "sādiyati": {
+  "meaning": "enjoys for oneself; accepts, agrees to",
+  "gram": "verb, present tense 3rd person singular (middle/passive of sādeti, √sād)",
+  "breakdown": [
+   ["√sād", "Root meaning “to taste, please”."],
+   ["-iya-", "Middle/passive stem formation: to enjoy for oneself, consent."]
+  ]
+ },
+ "sādu": {
+  "meaning": "sweet; pleasant",
+  "gram": "adjective (√sād)",
+  "breakdown": [
+   ["√sād", "Root meaning “to taste, be sweet”."],
+   ["-u", "Adjectival suffix."]
+  ]
+ },
+ "sāhasa": {
+  "meaning": "violence; arbitrary, high-handed action",
+  "gram": "neuter noun, from sahasa (√sah)",
+  "breakdown": [
+   ["sahas (> sāhas)", "Force, violence (√sah “to overcome”)."],
+   ["-a", "Noun formation."]
+  ]
+ },
+ "sāhasikā": {
+  "meaning": "ferocious; violent, brutal",
+  "gram": "adjective, from sāhasa (nominative plural)",
+  "breakdown": [
+   ["sāhasa", "Violence, arbitrary force."],
+   ["-ika", "Adjectival suffix: given to violence."]
+  ]
+ },
+ "sāhu": {
+  "meaning": "well; good (variant of sādhu)",
+  "gram": "indeclinable exclamation (variant of sādhu)"
+ },
+ "sākacchaṁ": {
+  "meaning": "conversation; discussion",
+  "gram": "neuter/feminine noun (accusative singular), from sākaccheti (√kath)",
+  "breakdown": [
+   ["saṁ (> sā)", "Prefix: together."],
+   ["√kath + ya", "Root “to speak, tell”: talking together, discussion."]
+  ]
+ },
+ "sākhaṁ": {
+  "meaning": "a branch",
+  "gram": "noun (accusative singular), from sākhā",
+  "breakdown": [
+   ["sākhā", "Branch of a tree."],
+   ["-aṁ", "Accusative singular ending."]
+  ]
+ },
+ "sākuṇiko": {
+  "meaning": "a fowler; a bird-catcher",
+  "gram": "masculine agent noun (nominative singular), from sakuṇa",
+  "breakdown": [
+   ["sakuṇa (> sākuṇa)", "Bird."],
+   ["-ika", "Agent suffix: one who deals with birds, a fowler."]
+  ]
+ },
+ "sālibījaṁ": {
+  "meaning": "a seed of rice (sāli rice)",
+  "gram": "neuter noun, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["sāli", "Fine rice."],
+   ["bīja", "Seed."]
+  ],
+  "note": "divergence: the lexicon's running gloss reads “Sal tree + seed”; sāli is the fine rice plant (the sal tree is sāla), and the sutta simile concerns a rice seed."
+ },
+ "sāmantajappā": {
+  "meaning": "indirect talk; roundabout speech, talking near the subject (a form of hinting practised for gain)",
+  "gram": "feminine abstract noun, compound",
+  "breakdown": [
+   ["sāmanta", "Neighbouring, bordering on."],
+   ["jappā", "Muttering, talk (√jap). Together: talk that circles the subject, insinuation."]
+  ]
+ },
+ "sāmaññaphalasutta": {
+  "meaning": "the Sāmaññaphala Sutta, the Discourse on the Fruits of Recluseship",
+  "gram": "proper noun (title of a discourse, Dīghanikāya 2)",
+  "breakdown": [
+   ["sāmañña", "Recluseship, the state of a samaṇa."],
+   ["phala", "Fruit, result."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "sāmaññaphalāni": {
+  "meaning": "the fruits of recluseship; the results of the life of a samaṇa",
+  "gram": "neuter noun, compound (nominative/accusative plural)",
+  "breakdown": [
+   ["sāmañña", "Recluseship (from samaṇa “recluse”)."],
+   ["phala", "Fruit, result."],
+   ["-āni", "Neuter plural ending."]
+  ]
+ },
+ "sāmaññatthañca": {
+  "meaning": "and the purpose (benefit) of recluseship",
+  "gram": "masculine noun, compound (accusative singular) + enclitic ca",
+  "breakdown": [
+   ["sāmañña", "Recluseship, the ascetic life."],
+   ["attha", "Meaning, benefit, purpose."],
+   ["ca", "And. (The -ṁ becomes -ñ before c in sandhi.)"]
+  ]
+ },
+ "sāmaṁ": {
+  "meaning": "by oneself; oneself, of one's own accord",
+  "gram": "indeclinable adverb"
+ },
+ "sāmīcipaṭipanno": {
+  "meaning": "practising properly; of correct conduct (said of the Saṅgha)",
+  "gram": "adjective, compound (nominative singular)",
+  "breakdown": [
+   ["sāmīci", "Proper, correct, dutiful."],
+   ["paṭipanna", "Practising, entered on the path (past participle of paṭipajjati)."]
+  ],
+  "goenka": "Sāmīcipaṭipanno is the fourth quality in the recollection of the Saṅgha: the order of disciples practises properly — with supaṭipanno (practising well), ujupaṭipanno (practising straightly) and ñāyapaṭipanno (practising rightly for liberation). Conduct in accordance with the Dhamma, not mere robes or ritual, makes the Saṅgha worthy of offerings and respect."
+ },
+ "sāpadesa": {
+  "meaning": "with reasons; well-founded (of speech supported by grounds)",
+  "gram": "adjective, from apadesa",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["apadesa", "Reason, argument, pointing out (apa + √dis)."]
+  ]
+ },
+ "sāpateyya": {
+  "meaning": "wealth; possession, property",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["sa (> sā)", "One's own."],
+   ["pati", "Owner, master."],
+   ["-eyya", "Abstract suffix: what belongs to the owner — property."]
+  ]
+ },
+ "sāpateyyaṁpissa": {
+  "meaning": "and even his property; also of his wealth",
+  "gram": "sandhi fusion: noun (nominative/accusative singular) + enclitics pi + assa",
+  "breakdown": [
+   ["sāpateyyaṁ", "Property, wealth."],
+   ["pi", "Also, even (enclitic)."],
+   ["assa", "Of him (genitive singular pronoun)."]
+  ]
+ },
+ "sāpi": {
+  "meaning": "and she; even that (woman/thing)",
+  "gram": "sandhi fusion: pronoun sā + enclitic pi",
+  "breakdown": [
+   ["sā", "She, that (feminine nominative singular of ta)."],
+   ["pi", "Also, even (enclitic)."]
+  ],
+  "note": "uncertain: the lexicon's gloss line here belongs to the adjacent compound sokaparidevadukkhadomanassupāyāsāpi (“sorrow, lamentation, pain, grief, distress + also”), of which sāpi is the final sandhi segment."
+ },
+ "sāra": {
+  "meaning": "essence; the heartwood, the most valuable core",
+  "gram": "masculine noun / adjective",
+  "breakdown": [
+   ["√sar (> sār)", "Root: the firm, essential core; heartwood of a tree."]
+  ],
+  "goenka": "Sāra, essence or heartwood, figures in the Buddha's similes of the seeker who must not mistake leaves, twigs, bark or sapwood for the heartwood of the holy life. Taking the essence as essence and the non-essential as non-essential, one attains the essence — liberation itself."
+ },
+ "sāramatino": {
+  "meaning": "those who see the essence (in the essence); thinking (something) to be the essence",
+  "gram": "adjective, compound (nominative plural)",
+  "breakdown": [
+   ["sāra", "Essence, heartwood."],
+   ["matī (-matino)", "Thinking, understanding (from maññati, √man)."]
+  ]
+ },
+ "sāratto": {
+  "meaning": "impassioned; inflamed with desire, infatuated",
+  "gram": "past participle of sārajjati (nominative singular)",
+  "breakdown": [
+   ["saṁ (> sā)", "Prefix: fully."],
+   ["√raj + ta", "Root “to be coloured, excited”: impassioned, inflamed."]
+  ]
+ },
+ "sāraṇīya": {
+  "meaning": "courteous; pleasant, friendly (of speech or dealings that promote concord)",
+  "gram": "adjective (potential participle formation)",
+  "breakdown": [
+   ["saṁ (> sā)", "Prefix: together."],
+   ["√raj/√sar + aṇīya", "Formation meaning “fit to be remembered / to gladden”: polite, conducive to harmony."]
+  ]
+ },
+ "sāre": {
+  "meaning": "in the essence; the innermost, the pith (locative)",
+  "gram": "masculine noun (locative singular) of sāra",
+  "breakdown": [
+   ["sāra", "Essence, heartwood, pith."],
+   ["-e", "Locative singular ending."]
+  ]
+ },
+ "sāre the": {
+  "meaning": "the innermost; essence, pith",
+  "gram": "masculine noun (locative singular)",
+  "note": "uncertain: this key is a glossary parsing artifact — the English word “the” from the gloss “the innermost” was attached to the headword sāre; see the entry sāre."
+ },
+ "sāriputtamoggallānapabbajjākathā, mahāvaggapāḷi, vinayapiṭake.": {
+  "meaning": "“The account of the going-forth of Sāriputta and Moggallāna”, in the Mahāvagga text, of the Vinayapiṭaka",
+  "gram": "phrase (citation of a text passage)",
+  "breakdown": [
+   ["sāriputtamoggallānapabbajjākathā", "The account (kathā) of the going forth (pabbajjā) of Sāriputta and Moggallāna, the two chief disciples."],
+   ["mahāvaggapāḷi", "The Mahāvagga text (Great Division of the Vinaya)."],
+   ["vinayapiṭake", "In the Vinayapiṭaka, the Basket of Discipline (locative)."]
+  ]
+ },
+ "sāsana": {
+  "meaning": "the teaching; the dispensation (of the Buddha); instruction, message",
+  "gram": "neuter noun, from sāsati (√sās)",
+  "breakdown": [
+   ["√sās", "Root meaning “to instruct, teach”."],
+   ["-ana", "Action noun suffix: teaching."]
+  ],
+  "goenka": "Sāsana is the teaching of the Buddha as a living dispensation — not a body of doctrine to be believed but a complete training to be practised. To work within the sāsana means to walk on the path of sīla, samādhi and paññā while the teaching is still available in its purity."
+ },
+ "sāsanapaggaha": {
+  "meaning": "support of the teaching; giving patronage to the sāsana",
+  "gram": "masculine noun, compound",
+  "breakdown": [
+   ["sāsana", "The teaching, dispensation."],
+   ["paggaha", "Patronage, support; holding up (pa + √gah)."]
+  ]
+ },
+ "sāsanaparicchedo": {
+  "meaning": "the limitation of the teaching; the boundary or defined extent of the sāsana",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["sāsana", "The teaching, dispensation."],
+   ["pariccheda", "Limitation, boundary, defined section (pari + √chid)."]
+  ]
+ },
+ "sāsavo": {
+  "meaning": "accompanied by the taints; with flowing impurities (subject to the āsavas)",
+  "gram": "adjective (nominative singular), from āsava",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["āsava", "Taint, mental impurity that flows (ā + √su “to flow”)."]
+  ]
+ },
+ "sāsavā": {
+  "meaning": "with taints; accompanied by flowing impurities (plural)",
+  "gram": "adjective (nominative plural), from āsava",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["āsava", "Taint, impurity that flows in and intoxicates the mind."]
+  ]
+ },
+ "sāssa": {
+  "meaning": "she… of him/to him (sā + assa, sandhi combination)",
+  "gram": "sandhi fusion: pronoun + pronoun (genitive/dative)",
+  "breakdown": [
+   ["sā", "She (feminine nominative singular)."],
+   ["assa", "Of/to him (genitive/dative singular). (The two vowels merge in sandhi.)"]
+  ]
+ },
+ "sātarūpaṁ": {
+  "meaning": "of pleasant appearance; an agreeable, pleasing object",
+  "gram": "adjective, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["sāta", "Pleasant, agreeable."],
+   ["rūpa", "Form, object; at the end of a compound: “of such a nature”."]
+  ]
+ }
+}

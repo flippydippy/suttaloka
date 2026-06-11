@@ -1,0 +1,433 @@
+{
+  "āmisānuppadānena": {
+    "meaning": "by providing food; by the giving of material things",
+    "gram": "neuter compound action noun, instrumental singular",
+    "breakdown": [
+      ["āmisa", "Food; material things, gain."],
+      ["anuppadāna", "Providing, furnishing, giving along (anu + pa + dāna)."],
+      ["-ena", "Instrumental singular ending: by."]
+    ]
+  },
+  "ānayanapaccupaṭṭhāno": {
+    "meaning": "manifesting as escorting; whose manifestation is bringing along (a commentarial characterisation)",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["ānayana", "Escorting, bringing along (ā + √nī)."],
+      ["paccupaṭṭhāna", "Manifestation, appearance (commentarial term for how a quality presents itself)."]
+    ]
+  },
+  "ānesuṁ": {
+    "meaning": "they brought forward, they conveyed",
+    "gram": "verb, 3rd person plural aorist of āneti (ā + √nī)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, hither."],
+      ["√nī", "Root: to lead. āneti: to bring."],
+      ["-esuṁ", "3rd person plural aorist ending."]
+    ],
+    "forms": ["ānesuṃ"]
+  },
+  "āneti": {
+    "meaning": "brings, fetches",
+    "gram": "verb, 3rd person singular present (ā + √nī)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, hither."],
+      ["√nī", "Root: to lead. ā + √nī: to bring."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "ānubhāvañca": {
+    "meaning": "and the dignity, the majesty; and the power",
+    "gram": "masculine abstract noun, accusative singular + enclitic ca",
+    "breakdown": [
+      ["ānubhāva", "Dignity, majesty, power (strengthened form of anubhāva, from anu + √bhū)."],
+      ["ca", "And (sandhi: bhāvaṁ + ca > bhāvañca)."]
+    ]
+  },
+  "ānāpāna": {
+    "meaning": "in-breath and out-breath; the natural breath as the meditation object",
+    "gram": "neuter noun (āna “in-breath” + apāna “out-breath”)",
+    "breakdown": [
+      ["āna", "In-breath, breathing in (√an, to breathe)."],
+      ["apāna", "Out-breath, breathing out. Sandhi: āna + apāna > ānāpāna."]
+    ],
+    "goenka": "Ānāpāna is the observation of the natural breath — the in-breath and out-breath just as it is — and in this tradition it is the foundational practice that precedes Vipassana. Klaus introduces ānāpānassati, mindfulness of the natural breath, with the canonical statement: “Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā” — mindfulness of breathing, when developed and fully engaged in, is of great fruit, of great benefit. He further notes that with the development and full engagement of ānāpānassati, the four satipaṭṭhānā get fulfilled. The breath is observed bare and natural, never controlled or regulated — it is not a breathing exercise."
+  },
+  "ānītā": {
+    "meaning": "brought, fetched",
+    "gram": "past participle of āneti, feminine singular or masculine plural",
+    "breakdown": [
+      ["ā-", "Prefix: towards, hither."],
+      ["√nī", "Root: to lead."],
+      ["-ta", "Past participle suffix: brought."]
+    ]
+  },
+  "āpadāsu": {
+    "meaning": "in misfortunes; in times of adversity",
+    "gram": "feminine noun, locative plural of āpadā",
+    "breakdown": [
+      ["ā-", "Prefix: towards, into."],
+      ["√pad", "Root: to go, fall. āpadā: misfortune, calamity."],
+      ["-āsu", "Locative plural ending: in."]
+    ]
+  },
+  "āpajjanto": {
+    "meaning": "entering upon, undertaking",
+    "gram": "present participle of āpajjati, masculine nominative singular",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go. āpajjati: to enter upon, undergo."],
+      ["-nta", "Present participle suffix."]
+    ]
+  },
+  "āpajjatī": {
+    "meaning": "undergoes, exhibits, makes; enters upon",
+    "gram": "verb, 3rd person singular present of āpajjati (with metrically long final vowel)",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go. āpajjati: to get into, undergo, produce."],
+      ["-tī", "3rd person singular present ending (long -ī metri causa)."]
+    ]
+  },
+  "āpajjeyyaṁ": {
+    "meaning": "I should enter upon, I might undergo",
+    "gram": "verb, 1st person singular optative of āpajjati",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go. āpajjati: to enter, undergo."],
+      ["-eyyaṁ", "1st person singular optative ending."]
+    ],
+    "forms": ["āpajjeyyaṃ"]
+  },
+  "āpajjitabbaṁ": {
+    "meaning": "should be undertaken, to be produced; to be entered upon",
+    "gram": "future passive participle of āpajjati, neuter singular",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go."],
+      ["-itabba", "Future passive participle suffix: “to be done”."]
+    ],
+    "forms": ["āpajjitabbaṃ"]
+  },
+  "āpajjitā": {
+    "meaning": "undergone, got into",
+    "gram": "past participle of āpajjati, feminine singular or masculine plural",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go."],
+      ["-ita", "Past participle suffix."]
+    ]
+  },
+  "āpajjiṁsu": {
+    "meaning": "they produced, they got into, they made",
+    "gram": "verb, 3rd person plural aorist of āpajjati",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go. āpajjati: to get into, produce."],
+      ["-iṁsu", "3rd person plural aorist ending."]
+    ],
+    "forms": ["āpajjiṃsu"]
+  },
+  "āpanno": {
+    "meaning": "possessed of, entered upon; having incurred",
+    "gram": "past participle of āpajjati, masculine nominative singular",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go."],
+      ["-na", "Past participle suffix (pad + na > panna)."]
+    ]
+  },
+  "āpatti": {
+    "meaning": "offence, transgression (especially against the monastic rules)",
+    "gram": "feminine noun, from āpajjati (ā + √pad)",
+    "breakdown": [
+      ["ā-", "Prefix: into."],
+      ["√pad", "Root: to go, fall. āpatti: a falling into — an offence."],
+      ["-ti", "Feminine abstract-noun suffix."]
+    ]
+  },
+  "āpattianāpattiyā": {
+    "meaning": "of offence and non-offence; concerning being guilty and being free from guilt",
+    "gram": "feminine compound noun (dvanda), genitive/locative singular",
+    "breakdown": [
+      ["āpatti", "Offence, being guilty."],
+      ["anāpatti", "Non-offence, freedom from guilt (an- negative + āpatti)."]
+    ]
+  },
+  "āpātadaso": {
+    "meaning": "seeing what is within range; one who sees only what falls into view",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["āpāta", "What comes into range or view."],
+      ["dasa", "Seeing (√dis). Together: seeing what is within the range."]
+    ]
+  },
+  "āpāthamāgataṁ": {
+    "meaning": "come into the range (of a sense organ); entered the field of perception",
+    "gram": "phrase: accusative noun + past participle (āpāthaṁ + āgataṁ)",
+    "breakdown": [
+      ["āpātha", "The sphere or range of a sense organ (accusative āpāthaṁ; the -m- is sandhi)."],
+      ["āgata", "Come, arrived, entered (past participle of āgacchati)."]
+    ],
+    "forms": ["āpāthamāgataṃ"]
+  },
+  "āpūrati": {
+    "meaning": "increases; fills, becomes full",
+    "gram": "verb, 3rd person singular present (ā + √pūr)",
+    "breakdown": [
+      ["ā-", "Prefix: fully."],
+      ["√pūr", "Root: to fill."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "ārabbha": {
+    "meaning": "starting, undertaking; with reference to, concerning",
+    "gram": "gerund of ārabhati used adverbially (ā + √rabh + ya)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√rabh", "Root: to begin, grasp."],
+      ["-ya (-bbha)", "Gerund ending: “having undertaken” — hence with reference to."]
+    ]
+  },
+  "ārabhati": {
+    "meaning": "undertakes, starts, begins",
+    "gram": "verb, 3rd person singular present (ā + √rabh)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√rabh", "Root: to begin, grasp."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "āraddhosmi": {
+    "meaning": "I am resolved; I am resolute",
+    "gram": "sandhi fusion: past participle + 1st person singular of atthi (āraddho + asmi)",
+    "breakdown": [
+      ["āraddha", "Resolved, resolute; begun (past participle of ārabhati)."],
+      ["asmi", "I am (sandhi: āraddho + asmi > āraddhosmi)."]
+    ]
+  },
+  "āraddhā": {
+    "meaning": "started, begun",
+    "gram": "past participle of ārabhati, feminine singular or masculine plural",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√rabh", "Root: to begin."],
+      ["-ta", "Past participle suffix (rabh + ta > raddha)."]
+    ]
+  },
+  "ārakkhasārathi": {
+    "meaning": "a guard-charioteer; a driver serving as guard",
+    "gram": "masculine compound noun",
+    "breakdown": [
+      ["ārakkha", "Guard, protection."],
+      ["sārathi", "Charioteer, driver."]
+    ]
+  },
+  "ārammaṇābhiniropanalakkhaṇo": {
+    "meaning": "having the characteristic of fixing the mind upon the object (a commentarial definition of vitakka, applied thought)",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["ārammaṇa", "Object, support (of the mind)."],
+      ["abhiniropana", "Fixation, application of the mind onto."],
+      ["lakkhaṇa", "Characteristic, defining mark."]
+    ]
+  },
+  "āratī": {
+    "meaning": "abstinence; ceasing (from evil)",
+    "gram": "feminine abstract noun (ārati, with metrically long final vowel), from āramati (ā + √ram)",
+    "breakdown": [
+      ["ā-", "Prefix: away."],
+      ["√ram", "Root: to delight, stop. ārati: ceasing, abstinence."],
+      ["-tī", "Feminine abstract suffix (long -ī in verse)."]
+    ]
+  },
+  "ārocesi": {
+    "meaning": "declared, told, announced",
+    "gram": "verb, 3rd person singular aorist of āroceti (ā + √ruc, causative)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√ruc", "Root: to shine; causative roce: to make clear — to announce."],
+      ["-esi", "3rd person singular aorist ending."]
+    ]
+  },
+  "āropayitvāna": {
+    "meaning": "having made go up, having put on, having taken up to",
+    "gram": "gerund (absolutive) of āropayati (causative of āruhati, √ruh)",
+    "breakdown": [
+      ["ā-", "Prefix: up to."],
+      ["√ruh", "Root: to ascend; causative ropaya: to make ascend, put upon."],
+      ["-itvāna", "Gerund (absolutive) ending (poetic form of -itvā)."]
+    ]
+  },
+  "āropetvā": {
+    "meaning": "having put on, having got ready; having raised up",
+    "gram": "gerund (absolutive) of āropeti (causative of āruhati, √ruh)",
+    "breakdown": [
+      ["ā-", "Prefix: up to."],
+      ["√ruh", "Root: to ascend; causative rope: to make ascend, set upon."],
+      ["-tvā", "Gerund (absolutive) ending: “having done”."]
+    ]
+  },
+  "ārā": {
+    "meaning": "far away, far from",
+    "gram": "indeclinable adverb"
+  },
+  "ārācārī": {
+    "meaning": "living far from (evil); keeping remote — living a virtuous life",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["ārā", "Far, remote from (indeclinable)."],
+      ["cārī", "Living, conducting oneself (√car + -ī)."]
+    ]
+  },
+  "ārādhako": {
+    "meaning": "successful, accomplishing; one who attains",
+    "gram": "adjective, masculine nominative singular (from ārādheti, √rādh)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√rādh", "Root: to succeed. ārādheti: to accomplish, win."],
+      ["-aka", "Agent suffix: one who accomplishes."]
+    ]
+  },
+  "ārāmarāmaṇeyyakaṁ": {
+    "meaning": "the delightfulness of pleasure parks; enjoyable parkland",
+    "gram": "neuter compound noun, accusative singular",
+    "breakdown": [
+      ["ārāma", "Park, pleasure grove."],
+      ["rāmaṇeyyaka", "Delightful, enjoyable (from rāmaṇīya/ramaṇīya + -ka)."]
+    ],
+    "forms": ["ārāmarāmaṇeyyakaṃ"]
+  },
+  "āsana": {
+    "meaning": "seat",
+    "gram": "neuter noun, from āsati (√ās, to sit)",
+    "breakdown": [
+      ["√ās", "Root: to sit."],
+      ["-ana", "Noun suffix: that on which one sits — a seat."]
+    ]
+  },
+  "āsanārahassa": {
+    "meaning": "of one worthy of a seat; for those who deserve a seat",
+    "gram": "adjective compound, genitive singular",
+    "breakdown": [
+      ["āsana", "Seat."],
+      ["araha", "Worthy of, deserving (genitive arahassa)."]
+    ]
+  },
+  "āsavānaṁ": {
+    "meaning": "of the āsavas — literally “that which flows”: the mental intoxicants, the impurities that intoxicate the mind",
+    "gram": "masculine noun, genitive plural of āsava (ā + √su, to flow)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, out."],
+      ["√su", "Root: to flow. āsava: outflow — what intoxicates the mind, deep impurity."],
+      ["-ānaṁ", "Genitive plural ending."]
+    ],
+    "goenka": "The āsavas are the deep mental intoxicants or taints — literally “that which flows”, what oozes out and intoxicates the mind. In this tradition the destruction of the āsavas marks full liberation: the khīṇāsavo is the Arahant whose mind is freed from all four — kāmāsava (desire for sensuality), bhavāsava (desire for living), diṭṭhāsava (attachment to philosophical speculations) and avijjāsava (ignorance).",
+    "forms": ["āsavānaṃ"]
+  },
+  "āsaṁsukā": {
+    "meaning": "full of expectation, hankering",
+    "gram": "adjective, plural (from āsaṁsā, expectation)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√saṁs", "Root: to expect, hope. āsaṁsā: expectation."],
+      ["-uka", "Adjectival suffix: given to, full of."]
+    ],
+    "forms": ["āsaṃsukā"]
+  },
+  "āsevati": {
+    "meaning": "frequents, visits; practises, pursues",
+    "gram": "verb, 3rd person singular present (ā + √sev)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, intensive."],
+      ["√sev", "Root: to serve, resort to."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "āsevati to": {
+    "meaning": "āsevati: to frequent, to visit",
+    "summary": "A glossary fragment; the entry is simply āsevati, “to frequent, visit”.",
+    "gram": "verb, 3rd person singular present (glossary fragment)",
+    "breakdown": [
+      ["āsevati", "Frequents, visits; practises (ā + √sev)."]
+    ]
+  },
+  "āsiṁ": {
+    "meaning": "I was",
+    "gram": "verb, 1st person singular aorist of atthi (√as, to be)",
+    "forms": ["āsiṃ"]
+  },
+  "āsāduppajahavaggo,": {
+    "meaning": "the Āsāduppajaha Vagga (“Chapter on Hopes Hard to Abandon”), in the Tatiyapaṇṇāsaka of the Dukanipāta, Aṅguttaranikāya",
+    "gram": "proper noun (chapter title); masculine compound",
+    "breakdown": [
+      ["āsā", "Hope, expectation."],
+      ["duppajaha", "Hard to abandon (du- “difficult” + pajaha “giving up”)."],
+      ["vagga", "Section, chapter."]
+    ],
+    "forms": ["Āsāduppajahavaggo"]
+  },
+  "ātappamanvāya": {
+    "meaning": "in consequence of ardour; following upon exertion",
+    "gram": "indeclinable adverbial compound (ātappaṁ + anvāya)",
+    "breakdown": [
+      ["ātappa", "Ardour, exertion, zeal (accusative ātappaṁ; the -m- is sandhi)."],
+      ["anvāya", "Following upon, in consequence of (gerund of anu + √i)."]
+    ]
+  },
+  "āvaraṇa": {
+    "meaning": "hindrance; shutting out, obstructing",
+    "gram": "adjective/neuter noun, from āvareti (ā + √var)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, over."],
+      ["√var", "Root: to cover, obstruct."],
+      ["-aṇa", "Noun/adjective suffix: that which obstructs."]
+    ]
+  },
+  "āvaraṇīyehi": {
+    "meaning": "by the obstructing (things); by hindrances",
+    "gram": "future passive participle of āvareti used as noun, instrumental plural",
+    "breakdown": [
+      ["ā-", "Prefix: over."],
+      ["√var", "Root: to cover, obstruct."],
+      ["-aṇīya", "Future passive participle suffix: what obstructs."],
+      ["-ehi", "Instrumental plural ending: by."]
+    ]
+  },
+  "āvasathāgāraṁ": {
+    "meaning": "a rest-house; a dwelling-hall, council hall",
+    "gram": "neuter compound noun, accusative singular",
+    "breakdown": [
+      ["āvasatha", "Dwelling, abode."],
+      ["agāra", "House, hall (sandhi lengthens the joining vowel: -tha + a- > -thā-)."]
+    ],
+    "forms": ["āvasathāgāraṃ"]
+  },
+  "āvi": {
+    "meaning": "openly, in public; manifest",
+    "gram": "indeclinable adverb"
+  },
+  "āvikattā": {
+    "meaning": "one who manifests, shows, explains; a revealer",
+    "gram": "masculine agent noun (āvi + kattar)",
+    "breakdown": [
+      ["āvi", "Openly, manifest."],
+      ["kattar", "Maker, doer (agent noun of karoti). Together: one who makes manifest."]
+    ]
+  },
+  "āvikatvā": {
+    "meaning": "having made clear, having explained; having revealed",
+    "gram": "gerund (absolutive) of āvikaroti (āvi + karoti)",
+    "breakdown": [
+      ["āvi", "Openly, manifest."],
+      ["katvā", "Having made (gerund of karoti). Together: having made manifest."]
+    ]
+  },
+  "āvudha": {
+    "meaning": "weapon",
+    "gram": "neuter noun (ā + √yudh, to fight)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√yudh", "Root: to fight (yudh > vudh). āvudha: instrument of fighting — a weapon."]
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+ "niratthakena": {
+  "meaning": "useless; vain, unprofitable (instrumental: with what is useless)",
+  "gram": "adjective, instrumental singular of niratthaka",
+  "breakdown": [
+   ["ni(r)-", "Prefix: without."],
+   ["attha", "Meaning, purpose, benefit."],
+   ["-ka", "Adjectival suffix."],
+   ["-ena", "Instrumental singular ending."]
+  ],
+  "forms": ["niratthaka"]
+ },
+ "niraya": {
+  "meaning": "hell; the lowest of the woeful planes of existence",
+  "gram": "masculine noun (nir + √i)",
+  "breakdown": [
+   ["ni(r)-", "Prefix: down, without."],
+   ["aya", "Going (from √i \"to go\"); niraya is the state of \"going down\", the downfall."]
+  ],
+  "goenka": "In the study material niraya, hell, is explained as the lowest of the apāyabhūmi, the fields of woeful existence, which comprise tiracchānayoni (the field of animal life), pettivisayo (the sphere of the petas), asurakāyo (the \"body\" of the asuras) and hell itself. According to the commentaries there are various stages of suffering and accordingly different hells. Klaus Nothnagel refers readers to lesson 3.2.3, Dhammacakkappavattanasuttaṁ, Part Two — The Four Noble Truths Have to Be Fully Realized, for the cosmology of the 31 planes of existence."
+ },
+ "nirayaṁ": {
+  "meaning": "hell; to hell (accusative)",
+  "gram": "masculine noun, accusative singular of niraya",
+  "breakdown": [
+   ["ni(r)-", "Prefix: down, without."],
+   ["aya", "Going (from √i \"to go\"); the downfall, the woeful state."]
+  ],
+  "forms": ["niraya"]
+ },
+ "nirodhanissitaṁ": {
+  "meaning": "dependent on cessation; supported by the elimination (of craving)",
+  "gram": "adjective, compound, accusative/neuter singular",
+  "breakdown": [
+   ["nirodha", "Cessation, elimination (ni + √rudh)."],
+   ["nissita", "Dependent on, leaning on, hanging on (past participle of nissayati)."]
+  ]
+ },
+ "nirodhasaccaniddeso": {
+  "meaning": "the exposition of the truth of cessation",
+  "summary": "This is a compound naming a section of text: \"cessation + truth + exposition\".",
+  "gram": "masculine noun, compound, nominative singular",
+  "breakdown": [
+   ["nirodha", "Cessation (of suffering); the Third Noble Truth."],
+   ["sacca", "Truth."],
+   ["niddesa", "Exposition, detailed explanation."]
+  ]
+ },
+ "nirodhāya": {
+  "meaning": "for cessation; for the sake of the elimination (of suffering)",
+  "gram": "masculine noun, dative singular of nirodha",
+  "breakdown": [
+   ["ni-", "Prefix: down, completely."],
+   ["√rudh", "To obstruct, stop; nirodha is cessation, extinction."],
+   ["-āya", "Dative singular ending: \"for the sake of\"."]
+  ],
+  "forms": ["nirodha"]
+ },
+ "nirujjhamānā": {
+  "meaning": "ceasing; being dissolved, being destroyed",
+  "gram": "present participle (passive) of nirujjhati (ni + √rudh), plural or feminine form",
+  "breakdown": [
+   ["nirujjhati", "To cease, be dissolved (passive of nirundhati, ni + √rudh)."],
+   ["-māna", "Present participle (middle/passive) suffix: \"being ...-ed\"."]
+  ]
+ },
+ "nirūpadhi": {
+  "meaning": "free from attachment; without the substrata of existence",
+  "gram": "adjective (nir + upadhi)",
+  "breakdown": [
+   ["ni(r)-", "Prefix: without, free from."],
+   ["upadhi", "Attachment, acquisition; the substratum that supports continued existence (upa + √dhā)."]
+  ],
+  "forms": ["nirupadhi"]
+ },
+ "nisajja": {
+  "meaning": "having sat down",
+  "gram": "gerund of nisīdati (ni + √sad)",
+  "breakdown": [
+   ["ni-", "Prefix: down."],
+   ["√sad", "To sit; the gerund nisajja means \"having sat down\"."]
+  ]
+ },
+ "nisajjā": {
+  "meaning": "sitting down; the act of sitting",
+  "gram": "feminine noun (from nisajja, ni + √sad)",
+  "breakdown": [
+   ["ni-", "Prefix: down."],
+   ["√sad", "To sit."],
+   ["-ā", "Feminine noun ending."]
+  ]
+ },
+ "nisajjā sitting": {
+  "meaning": "sitting down",
+  "gram": "phrase (glossary row)",
+  "note": "uncertain: this back-glossary row duplicates the entry nisajjā; the English word \"sitting\" was carried into the headword during extraction. See nisajjā."
+ },
+ "nisaṁsaṁ": {
+  "meaning": "benefit; advantage (from the acquisition of many qualities)",
+  "gram": "noun, accusative singular (truncated form of ānisaṁsa)",
+  "breakdown": [
+   ["aneka", "Not one; some, many."],
+   ["guṇa", "Quality, virtue."],
+   ["paṭilābha", "Acquisition, attainment."],
+   ["ānisaṁsa", "Benefit, advantage, blessing."]
+  ],
+  "note": "uncertain: the lexicon row glosses the full compound anekaguṇapaṭilābhānisaṁsaṁ, \"the benefit of acquiring many qualities\"; the headword nisaṁsaṁ is the final element with its first syllables absorbed by sandhi."
+ },
+ "nisedheyyaṁ": {
+  "meaning": "I should prevent; would stop, would put an end to",
+  "gram": "verb, 1st person singular optative of nisedheti (ni + √sidh)",
+  "breakdown": [
+   ["ni-", "Prefix: down, away."],
+   ["√sidh", "To ward off; nisedheti means to prevent, stop."],
+   ["-eyyaṁ", "First person singular optative ending: \"I should, I would\"."]
+  ],
+  "forms": ["nisedheti"]
+ },
+ "nisinno": {
+  "meaning": "seated; sitting",
+  "gram": "past participle of nisīdati (ni + √sad), masculine nominative singular",
+  "breakdown": [
+   ["ni-", "Prefix: down."],
+   ["√sad", "To sit; the past participle nisinna means seated."]
+  ],
+  "forms": ["nisinna"]
+ },
+ "nissukko": {
+  "meaning": "impure; without brightness",
+  "gram": "adjective, masculine nominative singular (nir + sukka)",
+  "breakdown": [
+   ["ni(r)-", "Prefix: without. (The doubled ss arises by assimilation.)"],
+   ["sukka", "Bright, pure, white (√suc \"to shine\")."]
+  ]
+ },
+ "nissāya": {
+  "meaning": "leaning on; dependent upon; by reason of, on account of, through",
+  "gram": "gerund of nissayati (ni + √si), used as a preposition",
+  "breakdown": [
+   ["ni-", "Prefix: down, on."],
+   ["√si", "To lean; nissayati means to lean on, depend on; the gerund nissāya functions like \"depending on, because of\"."]
+  ]
+ },
+ "nisāmetha": {
+  "meaning": "listen!; pay attention (you all)",
+  "gram": "verb, 2nd person plural imperative of nisāmeti (causative of ni + √sam)",
+  "breakdown": [
+   ["ni-", "Prefix: down, intently."],
+   ["√sam", "To be calm, attend; the causative nisāmeti means to listen, observe carefully."],
+   ["-etha", "Second person plural ending."]
+  ],
+  "forms": ["nisāmeti"]
+ },
+ "nisīdeyya": {
+  "meaning": "should sit; would sit down",
+  "gram": "verb, 3rd person singular optative of nisīdati (ni + √sad)",
+  "breakdown": [
+   ["nisīdati", "To sit down (ni + √sad)."],
+   ["-eyya", "Optative ending: \"should, would\"."]
+  ]
+ },
+ "nisīdi": {
+  "meaning": "sat down",
+  "gram": "verb, 3rd person singular aorist of nisīdati (ni + √sad)",
+  "breakdown": [
+   ["nisīdati", "To sit down (ni + √sad)."],
+   ["-i", "Aorist ending: \"sat\"."]
+  ]
+ },
+ "nisīditvā": {
+  "meaning": "having sat down; sitting",
+  "gram": "gerund (absolutive) of nisīdati (ni + √sad)",
+  "breakdown": [
+   ["nisīdati", "To sit down (ni + √sad)."],
+   ["-itvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "nisīdiṁsu": {
+  "meaning": "they sat down",
+  "gram": "verb, 3rd person plural aorist of nisīdati (ni + √sad)",
+  "breakdown": [
+   ["nisīdati", "To sit down (ni + √sad)."],
+   ["-iṁsu", "Third person plural aorist ending: \"they ...-ed\"."]
+  ]
+ },
+ "nivedetvā": {
+  "meaning": "having made known; having communicated, having announced",
+  "gram": "gerund (absolutive) of nivedeti (ni + √vid, causative)",
+  "breakdown": [
+   ["nivedeti", "To make known, announce (causative of ni + √vid \"to know\")."],
+   ["-etvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "niveseti": {
+  "meaning": "fixes; causes to settle, establishes",
+  "gram": "verb, 3rd person singular present, causative of nivisati (ni + √vis)",
+  "breakdown": [
+   ["ni-", "Prefix: down, in."],
+   ["√vis", "To enter, settle; the causative niveseti means to establish, cause to settle."]
+  ]
+ },
+ "nivisamānā": {
+  "meaning": "settling; getting established, taking root",
+  "gram": "present participle of nivisati (ni + √vis), feminine nominative singular",
+  "breakdown": [
+   ["nivisati", "To settle down, get established (ni + √vis)."],
+   ["-māna", "Present participle (middle) suffix."]
+  ]
+ },
+ "niviṭṭho": {
+  "meaning": "settled; fixed on, bent on, devoted to, established",
+  "gram": "past participle of nivisati (ni + √vis), masculine nominative singular",
+  "breakdown": [
+   ["ni-", "Prefix: down, in."],
+   ["√vis", "To enter, settle; the past participle niviṭṭha means settled, established."]
+  ],
+  "forms": ["niviṭṭha"]
+ },
+ "nivāreti": {
+  "meaning": "wards off; prevents, holds back",
+  "gram": "verb, 3rd person singular present, causative of ni + √var",
+  "breakdown": [
+   ["ni-", "Prefix: down, back."],
+   ["√var", "To obstruct, restrain; nivāreti means to ward off, prevent."]
+  ]
+ },
+ "nivāsetvā": {
+  "meaning": "having dressed; having put on the (under-)robe",
+  "gram": "gerund (absolutive) of nivāseti (ni + √vas)",
+  "breakdown": [
+   ["nivāseti", "To dress, put on clothing (causative of ni + √vas \"to wear\")."],
+   ["-tvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "nivātavutti": {
+  "meaning": "of humble behaviour; humble in conduct",
+  "summary": "This is a compound, literally \"without wind + conduct\": behaving without inflation, humbly.",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["nivāta", "Without wind; lowly, humble (ni + vāta \"wind\")."],
+   ["vutti", "Conduct, behaviour, way of living."]
+  ]
+ },
+ "nivāto": {
+  "meaning": "humility; gentleness, lowliness",
+  "gram": "adjective/noun, masculine nominative singular (ni + vāta)",
+  "breakdown": [
+   ["ni-", "Prefix: without, down."],
+   ["vāta", "Wind; nivāta is literally \"windless\", hence unpuffed-up, humble."]
+  ],
+  "goenka": "Nivāto, humility, appears in the Maṅgalasutta among the highest welfares (maṅgala): together with gārava (respect), santuṭṭhi (contentment) and kataññutā (gratitude), it belongs to the qualities of conduct that the tradition presents as protections and blessings for one walking the path."
+ },
+ "niyatā": {
+  "meaning": "sure; certain, assured",
+  "gram": "past participle of niyameti (ni + √yam), plural or feminine form",
+  "breakdown": [
+   ["ni-", "Prefix: down, definitively."],
+   ["√yam", "To restrain, fix; niyata means fixed, certain, assured."]
+  ],
+  "forms": ["niyata"]
+ },
+ "niyaṁ": {
+  "meaning": "one's own",
+  "gram": "adjective, accusative singular of niya",
+  "breakdown": [
+   ["niya", "One's own (related to nija, from √jan \"to be born\")."]
+  ],
+  "forms": ["niya"]
+ },
+ "niyyanti": {
+  "meaning": "they are led; they go out (to liberation)",
+  "gram": "verb, 3rd person plural present, passive of neti (√nī)",
+  "breakdown": [
+   ["√nī", "To lead; the passive niyyati means \"is led\", also \"goes out, is delivered\"."],
+   ["-anti", "Third person plural ending."]
+  ]
+ },
+ "niyyānikaṁ": {
+  "meaning": "leading out (of saṁsāra); emancipating, profitable",
+  "gram": "adjective, accusative/neuter singular of niyyānika",
+  "breakdown": [
+   ["ni(r)-", "Prefix: out. (The doubled yy arises by assimilation.)"],
+   ["√yā", "To go; niyyāna is the going out, deliverance."],
+   ["-ika", "Adjectival suffix: leading to deliverance."]
+  ],
+  "forms": ["niyyānika"]
+ },
+ "niyāmaṁ": {
+  "meaning": "method; manner, practice; fixed way",
+  "gram": "masculine abstract noun, accusative singular (from niyamati, ni + √yam)",
+  "breakdown": [
+   ["ni-", "Prefix: down, definitively."],
+   ["√yam", "To restrain, fix; niyāma is the fixed method, the certain way."]
+  ],
+  "forms": ["niyāma"]
+ },
+ "niṭṭhaṅgato": {
+  "meaning": "having reached completion; come to certainty, arrived at the conclusion",
+  "gram": "past participle compound (niṭṭhaṁ gata), masculine nominative singular",
+  "breakdown": [
+   ["niṭṭhā", "Completion, conclusion; certainty, agreement."],
+   ["gata", "Gone to, come to (past participle of gacchati). (The ṅ arises by niggahīta sandhi before g.)"]
+  ]
+ },
+ "no cedaṁ": {
+  "meaning": "and if this were not so; but not this",
+  "gram": "phrase: negative particle + sandhi of ca + idaṁ",
+  "breakdown": [
+   ["no", "Not (emphatic negative)."],
+   ["ca", "And, if."],
+   ["idaṁ", "This. (ca + idaṁ fuse to cedaṁ.)"]
+  ]
+ },
+ "nupanayhanti": {
+  "meaning": "they do not bind up (grudges); they do not nurse a grudge",
+  "gram": "verb, 3rd person plural present, negated (na + upanayhati, √nah)",
+  "breakdown": [
+   ["na", "Not (its vowel absorbed by sandhi with the following u-)."],
+   ["upa", "Prefix: towards, up to."],
+   ["√nah", "To tie, bind; upanayhati means to tie up, harbour enmity, nurse a grudge."]
+  ]
+ },
+ "nāccogāḷhaṁ": {
+  "meaning": "not too abundant; not excessively plentiful; not plunging too deep",
+  "gram": "indeclinable/adverb (na + accogāḷha)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["ati", "Too, excessively."],
+   ["ogāḷha", "Plunged into, immersed (ava + √gāh); hence \"gone too deep, too abundant\"."]
+  ]
+ },
+ "nāccuṇhāya": {
+  "meaning": "not too hot",
+  "gram": "adjective, oblique feminine singular (na + ati + uṇha)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["ati", "Too, excessively (its i assimilated: acc-)."],
+   ["uṇha", "Hot."]
+  ]
+ },
+ "nādhigacchanti": {
+  "meaning": "they do not attain; they do not come into possession of",
+  "gram": "verb, 3rd person plural present, negated (na + adhigacchati, √gam)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["adhi", "Prefix: over, on to."],
+   ["√gam", "To go; adhigacchati means to attain, come into possession of."]
+  ]
+ },
+ "nādhivāseti": {
+  "meaning": "does not endure; does not tolerate, does not consent to",
+  "gram": "verb, 3rd person singular present, causative, negated (na + adhivāseti)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["adhivāseti", "To endure, tolerate; also to consent (causative of adhi + √vas \"to dwell\")."]
+  ]
+ },
+ "nāgataṁ": {
+  "meaning": "the future (literally \"what has not yet come\")",
+  "gram": "past participle, negated, accusative/neuter singular (na + āgata)",
+  "breakdown": [
+   ["na", "Not (fused with the following ā- to nā-)."],
+   ["āgata", "Come, arrived (past participle of āgacchati); nāgata is \"the not-yet-come\", the future."]
+  ],
+  "forms": ["anāgataṁ"]
+ },
+ "nālaṁ": {
+  "meaning": "not able; insufficient, not fit",
+  "gram": "indeclinable (na + alaṁ)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["alaṁ", "Enough, fit, able."]
+  ]
+ },
+ "nāma": {
+  "meaning": "indeed; truly, certainly; by name",
+  "gram": "indeclinable, emphatic particle (also: adverb)"
+ },
+ "nāmagottaṁ": {
+  "meaning": "name and clan; name and lineage",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["nāma", "Name."],
+   ["gotta", "Clan, family lineage, caste name."]
+  ]
+ },
+ "nāmetaṁ": {
+  "meaning": "indeed this; certainly thus",
+  "gram": "sandhi fusion: emphatic particle + pronoun (nāma + etaṁ)",
+  "breakdown": [
+   ["nāma", "Indeed, certainly."],
+   ["etaṁ", "This (neuter nominative/accusative singular)."]
+  ]
+ },
+ "nānappakārassa": {
+  "meaning": "of many kinds; various, manifold (genitive)",
+  "gram": "adjective, compound, genitive singular",
+  "breakdown": [
+   ["nānā", "Various, different. (The doubled pp is compound sandhi doubling.)"],
+   ["pakāra", "Kind, sort, way."],
+   ["-assa", "Genitive singular ending."]
+  ],
+  "forms": ["nānappakāra"]
+ },
+ "nānattakathaṁ": {
+  "meaning": "desultory talk; gossip about this and that, all sorts of idle talk",
+  "gram": "feminine noun, compound, accusative singular",
+  "breakdown": [
+   ["nānatta", "Multifariousness, diversity (from nānā \"various\")."],
+   ["kathā", "Talk, conversation."]
+  ]
+ },
+ "nānubyañjanaggāhī": {
+  "meaning": "not grasping at the details; not taking up the secondary characteristics (of sense objects)",
+  "gram": "adjective, negated compound",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["anubyañjana", "Secondary characteristic, detail, particular feature (anu \"following\" + byañjana \"mark\")."],
+   ["gāhī", "Taking, seizing (from √gah; the doubled gg is compound sandhi doubling)."]
+  ],
+  "goenka": "Like na nimittaggāhī, this term belongs to the teaching on sense restraint (indriyasaṁvara): having seen a form or cognized an object, the practitioner does not grasp at its secondary details — the features around which craving and aversion would otherwise multiply at the sense doors."
+ },
+ "nānujaññā": {
+  "meaning": "should not permit; would not approve, would not consent to",
+  "gram": "verb, 3rd person singular optative, negated, irregular (na + anujānāti, √ñā)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["anu", "Prefix: along, after."],
+   ["√ñā", "To know; anujānāti means to permit, approve. The optative anujaññā is an irregular contraction of anujāneyya."]
+  ]
+ }
+}

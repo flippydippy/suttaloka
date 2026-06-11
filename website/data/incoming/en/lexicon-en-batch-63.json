@@ -1,0 +1,423 @@
+{
+  "vasena": {
+    "meaning": "on account of, because of; by means of",
+    "gram": "masculine noun, instrumental singular (of vasa, used adverbially)",
+    "breakdown": [
+      ["vasa", "Power, influence, control."],
+      ["-ena", "Instrumental singular ending."]
+    ]
+  },
+  "vasena vatteyya": {
+    "meaning": "you should bring under control; should proceed by mastery over",
+    "gram": "phrase (instrumental + optative)",
+    "breakdown": [
+      ["vasena", "By means of, under the control of (instrumental)."],
+      ["vatteyya", "Should proceed, should conduct (optative of vattati)."]
+    ]
+  },
+  "vassasahassameva": {
+    "meaning": "just a thousand years",
+    "gram": "neuter noun, accusative singular + emphatic particle (compound)",
+    "breakdown": [
+      ["vassa", "Year (literally “rain, rainy season”)."],
+      ["sahassaṁ", "Thousand (with connecting m before eva)."],
+      ["eva", "Emphatic particle: “just, so”."]
+    ]
+  },
+  "vassasatassa": {
+    "meaning": "of a hundred years; of a century",
+    "gram": "neuter noun, genitive singular (compound)",
+    "breakdown": [
+      ["vassa", "Year."],
+      ["sata", "Hundred."],
+      ["-ssa", "Genitive singular ending."]
+    ]
+  },
+  "vassasataṁ": {
+    "meaning": "a hundred years; a century",
+    "gram": "neuter noun, nominative/accusative singular (compound)",
+    "breakdown": [
+      ["vassa", "Year."],
+      ["sata", "Hundred."]
+    ],
+    "forms": ["vassasataṃ"]
+  },
+  "vassaṁvuṭṭhānaṁ": {
+    "meaning": "the end of the rains retreat; emergence from the rains residence",
+    "gram": "neuter noun, accusative singular (compound)",
+    "breakdown": [
+      ["vassaṁ", "The rain; the rains retreat (vassa residence)."],
+      ["vuṭṭhāna", "Rising out, emergence, conclusion."]
+    ],
+    "forms": ["vassaṃvuṭṭhānaṃ"]
+  },
+  "vasī": {
+    "meaning": "having mastery; one having power over (the senses)",
+    "gram": "adjective (vasin); the form also serves as aorist of vasati “dwelt”",
+    "breakdown": [
+      ["vasa", "Power, control."],
+      ["-ī", "Possessive adjectival suffix: “possessing mastery”."]
+    ]
+  },
+  "vasīgaṇena": {
+    "meaning": "with a group of self-controlled ones; together with the company of masters (of the senses)",
+    "gram": "masculine noun, instrumental singular (compound)",
+    "breakdown": [
+      ["vasī", "Having power, self-controlled."],
+      ["gaṇa", "Group, company."],
+      ["-ena", "Instrumental singular ending."]
+    ]
+  },
+  "vata": {
+    "meaning": "truly, surely; indeed",
+    "gram": "exclamatory particle (indeclinable)"
+  },
+  "vattabbayuttakālaṁ": {
+    "meaning": "the proper time for what should be said; a fitting occasion to speak",
+    "gram": "masculine noun, accusative singular (compound)",
+    "breakdown": [
+      ["vattabba", "What should be spoken (future passive participle of vadati)."],
+      ["yutta", "Connected, fitting, suitable."],
+      ["kāla", "Time, occasion."]
+    ],
+    "forms": ["vattabbayuttakālaṃ"]
+  },
+  "vattabbe": {
+    "meaning": "to be said; what should be spoken",
+    "gram": "future passive participle of vadati/vatti, locative singular",
+    "breakdown": [
+      ["√vad", "Root: to speak."],
+      ["-tabba", "Future passive participle suffix: “to be …-ed”."]
+    ]
+  },
+  "vattayamappamatto": {
+    "meaning": "practising this diligently; keeping it up without negligence",
+    "gram": "verse compound (vattayaṁ + appamatto)",
+    "breakdown": [
+      ["vattayaṁ", "Practising, keeping up (present participle of vatteti, with connecting m)."],
+      ["appamatto", "Diligent, not negligent (a + pamatta)."]
+    ]
+  },
+  "vatteyyāsi": {
+    "meaning": "you should proceed, occupy yourself with, practise",
+    "gram": "verb, optative 2nd person singular of vattati",
+    "breakdown": [
+      ["√vatt", "Root: to proceed, go on."],
+      ["-eyyāsi", "Optative 2nd person singular ending."]
+    ]
+  },
+  "vatthassa": {
+    "meaning": "of the cloth; of clothes",
+    "gram": "neuter noun, genitive singular (of vattha)",
+    "breakdown": [
+      ["√vas", "Root: to wear, clothe."],
+      ["-tha", "Noun-forming suffix (vattha “cloth”)."],
+      ["-ssa", "Genitive singular ending."]
+    ]
+  },
+  "vatthaṁ": {
+    "meaning": "cloth; clothing, garment",
+    "gram": "neuter noun, nominative/accusative singular",
+    "breakdown": [
+      ["√vas", "Root: to wear, clothe."],
+      ["-tha", "Noun-forming suffix."]
+    ],
+    "forms": ["vatthaṃ"]
+  },
+  "vatthusamatte": {
+    "meaning": "in the likeness of the object; with regard to the equality of the matter",
+    "gram": "locative singular (compound)",
+    "breakdown": [
+      ["vatthu", "Object, matter, ground."],
+      ["samatta", "Equality, likeness; completeness."]
+    ]
+  },
+  "vattāro": {
+    "meaning": "speakers; those who speak",
+    "gram": "masculine agent noun, nominative plural (of vattar, from vacati)",
+    "breakdown": [
+      ["√vac", "Root: to speak."],
+      ["-tar", "Agent-noun suffix: “one who speaks”."]
+    ]
+  },
+  "vatvāna": {
+    "meaning": "having spoken",
+    "gram": "absolutive (gerund) of vadati/vacati (poetic form)",
+    "breakdown": [
+      ["√vad", "Root: to speak."],
+      ["-tvāna", "Absolutive ending (poetic variant of -tvā)."]
+    ]
+  },
+  "vatāyasmantaṁyeva": {
+    "meaning": "indeed just the Venerable one; truly the Venerable himself",
+    "gram": "sandhi fusion (vata + āyasmantaṁ + [y] + eva)",
+    "breakdown": [
+      ["vata", "Indeed, truly."],
+      ["āyasmantaṁ", "The Venerable one (accusative of āyasmant)."],
+      ["eva", "Emphatic particle: “just” (a connecting y bridges the words)."]
+    ],
+    "forms": ["vatāyasmantaṃyeva"]
+  },
+  "vayo": {
+    "meaning": "decay, perishing; loss, expenditure",
+    "gram": "masculine noun, nominative singular (from veti)",
+    "breakdown": [
+      ["vi", "Prefix: away."],
+      ["√i", "Root: to go; vaya “passing away, decay”."]
+    ]
+  },
+  "vañcanikā": {
+    "meaning": "deceiving, cheating; a deceiver",
+    "gram": "adjective (from vañcana)",
+    "breakdown": [
+      ["√vañc", "Root: to deceive."],
+      ["-ana", "Action-noun suffix (vañcana “deceiving”)."],
+      ["-ika", "Adjectival suffix."]
+    ]
+  },
+  "vañceti": {
+    "meaning": "deceives, cheats",
+    "gram": "verb, 3rd person singular present (√vañc)",
+    "breakdown": [
+      ["√vañc", "Root: to deceive."],
+      ["-eti", "3rd person singular ending."]
+    ]
+  },
+  "vaḷavābhirathena": {
+    "meaning": "by an excellent chariot drawn by mares",
+    "gram": "masculine noun, instrumental singular (compound)",
+    "breakdown": [
+      ["vaḷavā", "Mare."],
+      ["abhi", "Prefix: excellent, superior."],
+      ["ratha", "Chariot."],
+      ["-ena", "Instrumental singular ending."]
+    ]
+  },
+  "vaṅgīsasaṁyuttaṁ, sagāthāvaggo,": {
+    "meaning": "the Vaṅgīsa Saṁyutta, in the Sagāthāvagga of the Saṁyuttanikāya (a canonical reference)",
+    "gram": "phrase (title)",
+    "breakdown": [
+      ["Vaṅgīsasaṁyuttaṁ", "The connected discourses with the elder Vaṅgīsa."],
+      ["Sagāthāvaggo", "The Section with Verses (of the Saṁyuttanikāya)."]
+    ],
+    "forms": ["Vaṅgīsasaṃyuttaṃ, Sagāthāvaggo,"]
+  },
+  "vaṇṇapokkharatāya": {
+    "meaning": "with beauty of complexion; with a lotus-like appearance",
+    "gram": "feminine abstract noun, instrumental singular (compound)",
+    "breakdown": [
+      ["vaṇṇa", "Appearance, complexion, colour."],
+      ["pokkhara", "Lotus; pokkharatā “lotus-likeness, beauty”."],
+      ["-tā", "Abstract-noun suffix."]
+    ]
+  },
+  "vaṇṇemi": {
+    "meaning": "I describe, depict; I praise",
+    "gram": "verb, 1st person singular present of vaṇṇeti",
+    "breakdown": [
+      ["√vaṇṇ", "Root: to describe, praise."],
+      ["-emi", "1st person singular ending."]
+    ]
+  },
+  "vedagu": {
+    "meaning": "one established in the experience of sensation; master of knowledge",
+    "gram": "masculine noun (compound, vedagū)",
+    "breakdown": [
+      ["veda", "Knowledge; in this tradition: the felt experience, sensation (from √vid “to know, to feel”)."],
+      ["gū", "Gone to, arrived at (from √gam): one who has reached."]
+    ],
+    "note": "divergence: general dictionaries gloss vedagū as “master of (Vedic) knowledge”; the lexicon reads it experientially as one established in the experience of sensation."
+  },
+  "vedallakathaṁ": {
+    "meaning": "discussion by way of analysis and classification (vedalla-talk)",
+    "gram": "feminine noun, accusative singular (compound)",
+    "breakdown": [
+      ["vedalla", "Classification, analytical exposition (one of the nine classes of the teaching)."],
+      ["kathā", "Discussion, talk."]
+    ],
+    "forms": ["vedallakathaṃ"]
+  },
+  "vedanā": {
+    "meaning": "bodily sensation; sensations as they manifest on the body",
+    "gram": "feminine noun",
+    "breakdown": [
+      ["√vid", "Root: to know, to feel, to experience."],
+      ["-anā", "Action-noun suffix: vedanā, “what is felt” — sensation."]
+    ],
+    "goenka": "Vedanā is bodily sensation — not mere “feeling” or emotion. On an experiential level it can be observed how an unwholesome intention, which may manifest in unwholesome acts of body and speech, first reveals itself within as an analogous disagreeable bodily sensation that would usually be ignored; at this point one can halt the intended act, realising it as harmful. Similarly, a wholesome intention may manifest in agreeable bodily sensations. The tradition stresses the central importance of sensations: when one does not react to them with hankering, longing or repugnance, but maintains calmness and equanimity of mind, the habitual reactive pattern of responding with craving is reduced — and with non-reactive observation of the arising and passing of neutral bodily sensations even the dormant tendency of ignorance is reduced. Vedanā is the object of the second foundation of mindfulness, vedanānupassanā.",
+    "note": "divergence: never to be rendered “feeling”, “emotion”, “sentiment” or “perception” — the tradition insists on “bodily sensation”."
+  },
+  "veditabbo": {
+    "meaning": "to be realized; to be known, experienced",
+    "gram": "future passive participle of vedeti (√vid), masculine nominative singular",
+    "breakdown": [
+      ["√vid", "Root: to know, to experience."],
+      ["-itabba", "Future passive participle suffix: “to be …-ed”."]
+    ]
+  },
+  "velā": {
+    "meaning": "shore, boundary; time, occasion",
+    "gram": "feminine noun"
+  },
+  "velāanatikkamo": {
+    "meaning": "not overstepping the limit; not passing beyond the boundary",
+    "gram": "masculine noun, nominative singular (compound)",
+    "breakdown": [
+      ["velā", "Measure, limit, boundary."],
+      ["an-", "Negative prefix: “not”."],
+      ["atikkama", "Going over, passing beyond, transgression."]
+    ]
+  },
+  "velāyaṁ": {
+    "meaning": "at this time; on this occasion",
+    "gram": "feminine noun, locative singular (velā + ayaṁ in the lexicon's parse)",
+    "breakdown": [
+      ["velā", "Time, occasion."],
+      ["ayaṁ", "This (the lexicon parses the form as velā + ayaṁ; it also reads as the locative singular velāyaṁ)."]
+    ],
+    "forms": ["velāyaṃ"]
+  },
+  "venakule": {
+    "meaning": "in a family of basket-makers; in a bamboo-worker clan",
+    "gram": "neuter noun, locative singular (compound)",
+    "breakdown": [
+      ["vena", "Bamboo-worker, wicker worker."],
+      ["kula", "Clan, family."]
+    ]
+  },
+  "vepullamagamāsi": {
+    "meaning": "went to increase; attained full development",
+    "gram": "verb phrase, aorist 3rd person singular (vepullaṁ + agamāsi)",
+    "breakdown": [
+      ["vepullaṁ", "Increase, full development (accusative; with connecting m)."],
+      ["agamāsi", "Went (aorist of gacchati)."]
+    ]
+  },
+  "vepullaṁ": {
+    "meaning": "development, increase; abundance",
+    "gram": "neuter abstract noun (from vipula)",
+    "breakdown": [
+      ["vipula", "Abundant, extensive (vi > ve in derivation)."],
+      ["-ya", "Abstract-noun formation (vepulla)."]
+    ],
+    "forms": ["vepullaṃ"]
+  },
+  "vepullāya": {
+    "meaning": "for abundance; for full development",
+    "gram": "neuter abstract noun, dative singular (of vepulla)",
+    "breakdown": [
+      ["vepulla", "Abundance, full development."],
+      ["-āya", "Dative singular ending."]
+    ]
+  },
+  "vera": {
+    "meaning": "malice, hatred; enmity",
+    "gram": "neuter noun",
+    "breakdown": [
+      ["√vīr", "Root (vera): hostility, enmity."]
+    ]
+  },
+  "vesārajjappatto": {
+    "meaning": "having attained confidence; having reached self-assurance",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vesārajja", "Confidence, self-assurance (of a Buddha)."],
+      ["patta", "Having reached, attained (past participle of pāpuṇāti; with sandhi doubling of p)."]
+    ]
+  },
+  "veyyākaraṇa": {
+    "meaning": "exposition, explanation; answer in prose",
+    "gram": "neuter noun (from vyākaraṇa)",
+    "breakdown": [
+      ["vi", "Prefix: apart (vy > veyy in derivation)."],
+      ["ā", "Prefix: towards."],
+      ["√kar", "Root: to do, make — vyākaraṇa, “explanation, exposition”."]
+    ]
+  },
+  "veyyākaraṇasmiṁ": {
+    "meaning": "in the exposition; in the explanation",
+    "gram": "neuter noun, locative singular (of veyyākaraṇa)",
+    "breakdown": [
+      ["veyyākaraṇa", "Exposition, explanation."],
+      ["-smiṁ", "Locative singular ending."]
+    ],
+    "forms": ["veyyākaraṇasmiṃ"]
+  },
+  "veḷuvane kalandakanivāpe": {
+    "meaning": "in the Bamboo Grove, at the squirrels' feeding ground (near Rājagaha)",
+    "summary": "A monastery site near Rājagaha, a favourite dwelling place of the Buddha.",
+    "gram": "phrase, locative",
+    "breakdown": [
+      ["Veḷuvana", "The Bamboo Grove (veḷu “bamboo” + vana “grove”)."],
+      ["kalandakanivāpa", "The squirrels' feeding ground (kalandaka “squirrel” + nivāpa “feeding place”)."]
+    ],
+    "forms": ["Veḷuvane kalandakanivāpe"]
+  },
+  "vi": {
+    "meaning": "apart, asunder; strongly; without",
+    "gram": "prefix"
+  },
+  "vibbhantacitto": {
+    "meaning": "with a wandering mind; confused, wavering in mind",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vibbhanta", "Roaming, gone astray, confused (past participle of vibbhamati)."],
+      ["citta", "Mind."]
+    ]
+  },
+  "vibhajantassā": {
+    "meaning": "of one distinguishing, classifying, dissecting",
+    "gram": "present participle of vibhajati, genitive singular",
+    "breakdown": [
+      ["vi", "Prefix: apart."],
+      ["√bhaj", "Root: to divide; vibhajati “to analyse, classify”."],
+      ["-antassa", "Present participle, genitive singular ending."]
+    ]
+  },
+  "vibhajati": {
+    "meaning": "distinguishes; analyses, goes into details",
+    "gram": "verb, 3rd person singular present (vi + √bhaj)",
+    "breakdown": [
+      ["vi", "Prefix: apart."],
+      ["√bhaj", "Root: to divide."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "vibhajissāmi": {
+    "meaning": "I will distinguish; I will analyse in detail",
+    "gram": "verb, future 1st person singular of vibhajati",
+    "breakdown": [
+      ["vi", "Prefix: apart."],
+      ["√bhaj", "Root: to divide."],
+      ["-issāmi", "Future 1st person singular ending."]
+    ]
+  },
+  "vibhajjabyākaraṇīyo": {
+    "meaning": "to be answered after analysis; (a question) requiring an analytical explanation",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vibhajja", "Having divided, analysing (gerund of vibhajati)."],
+      ["byākaraṇīya", "To be explained, requiring explanation (future passive participle of byākaroti)."]
+    ]
+  },
+  "vibhajjavādī": {
+    "meaning": "one who teaches by analysis; an analyst — a designation of the followers of the Buddha, the Theravādins",
+    "gram": "masculine agent noun (compound)",
+    "breakdown": [
+      ["vibhajja", "Dividing, analysing (gerund of vibhajati)."],
+      ["vādī", "Speaker, proponent (from vāda “speech, doctrine”)."]
+    ],
+    "goenka": "Vibhajjavādī — “one whose doctrine proceeds by analysis” — is a term for those who follow the teaching of the Buddha, the Theravādins: the doctrine of reasoned, analytical examination rather than dogmatic assertion."
+  },
+  "vibhavataṇhā": {
+    "meaning": "craving for non-becoming; craving for annihilation",
+    "summary": "One of the three kinds of taṇhā in the second Noble Truth, alongside kāmataṇhā and bhavataṇhā.",
+    "gram": "feminine abstract noun (compound)",
+    "breakdown": [
+      ["vi", "Prefix: without, apart — negating bhava."],
+      ["bhava", "Becoming, continued existence."],
+      ["taṇhā", "Craving, the deep mental thirst."]
+    ],
+    "goenka": "Vibhavataṇhā is the craving for non-becoming — the thirst for annihilation, for existence to cease. Together with kāmataṇhā (craving for sensual pleasures) and bhavataṇhā (craving for becoming), it forms the three cravings identified in the second Noble Truth as the origin of suffering."
+  }
+}

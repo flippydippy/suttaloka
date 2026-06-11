@@ -1,0 +1,432 @@
+{
+ "parinibbāyino": {
+  "meaning": "one who attains final liberation; those who reach final nibbāna",
+  "gram": "adjective, genitive singular or nominative plural of parinibbāyī",
+  "breakdown": [
+   ["pari", "Completely."],
+   ["nibbāyati", "To be quenched, attain nibbāna (nir + √vā)."],
+   ["-ī", "Possessive/agent suffix: one who attains."]
+  ],
+  "forms": ["parinibbāyī"]
+ },
+ "pariniṭṭhitamesānā": {
+  "meaning": "seeking what is completely finished; the search now wholly concluded",
+  "gram": "sandhi compound: past participle + present participle (pariniṭṭhitaṁ + esānā)",
+  "breakdown": [
+   ["pari", "Completely."],
+   ["niṭṭhita", "Finished, concluded (past participle of niṭṭhāti)."],
+   ["esānā", "Searching, seeking (participle of esati \"to seek\")."]
+  ]
+ },
+ "paripāko": {
+  "meaning": "ripeness; maturity; (of the faculties) decay through ageing",
+  "gram": "masculine noun, nominative singular (pari + √pac)",
+  "breakdown": [
+   ["pari", "Completely."],
+   ["√pac", "To cook, ripen; paripāka is full ripening, maturity — and, of the body, breaking down with age."]
+  ]
+ },
+ "paripūrakārī": {
+  "meaning": "acting in full; one who practises completely, fulfilling (the training)",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["paripūra", "Full, complete, perfect."],
+   ["kārī", "Doing, one who does (from √kar)."]
+  ]
+ },
+ "paripūressanti": {
+  "meaning": "they will fulfil; they will complete, bring to perfection",
+  "gram": "verb, 3rd person plural future of paripūreti (causative of paripūrati, pari + √pūr)",
+  "breakdown": [
+   ["pari", "Completely."],
+   ["√pūr", "To fill; paripūreti means to fulfil, complete."],
+   ["-essanti", "Third person plural future ending: \"they will\"."]
+  ],
+  "forms": ["paripūreti"]
+ },
+ "parisaṅkanti": {
+  "meaning": "they suspect; they are apprehensive about",
+  "gram": "verb, 3rd person plural present of parisaṅkati (pari + √saṅk)",
+  "breakdown": [
+   ["pari", "Around, all over."],
+   ["√saṅk", "To doubt, suspect."],
+   ["-anti", "Third person plural ending."]
+  ]
+ },
+ "parisaṅkāya": {
+  "meaning": "from suspicion; through apprehension",
+  "gram": "feminine abstract noun, dative/ablative singular of parisaṅkā",
+  "breakdown": [
+   ["pari", "Around, all over."],
+   ["√saṅk", "To doubt, suspect."],
+   ["-āya", "Dative/ablative singular ending."]
+  ],
+  "forms": ["parisaṅkā"]
+ },
+ "parisodhesuṁ": {
+  "meaning": "they cleaned; they purified",
+  "gram": "verb, 3rd person plural aorist of parisodheti (pari + √sudh, causative)",
+  "breakdown": [
+   ["pari", "Completely."],
+   ["√sudh", "To be pure; the causative parisodheti means to clean, purify."],
+   ["-esuṁ", "Third person plural aorist ending."]
+  ]
+ },
+ "parissamavinodako": {
+  "meaning": "dispelling fatigue; removing exhaustion",
+  "gram": "adjective/noun, compound, masculine nominative singular",
+  "breakdown": [
+   ["parissama", "Fatigue, exhaustion, exertion."],
+   ["vinodaka", "Dispelling, driving away (from vinodeti, vi + √nud)."]
+  ]
+ },
+ "parisuddhaṁ": {
+  "meaning": "completely pure; purified all round",
+  "gram": "past participle of parisujjhati (pari + √sudh), neuter/accusative singular",
+  "breakdown": [
+   ["pari", "Completely, all round."],
+   ["√sudh", "To be pure; parisuddha means thoroughly purified."]
+  ],
+  "forms": ["parisuddha"]
+ },
+ "parisuddhaṁ, paripuṇṇam": {
+  "meaning": "completely pure, completely full; pure and perfect all round",
+  "summary": "This is a stock pair describing the holy life: all-round pure + all-round complete.",
+  "gram": "phrase: two past participles, accusative/neuter singular",
+  "breakdown": [
+   ["parisuddhaṁ", "All-round pure (pari + suddha)."],
+   ["paripuṇṇaṁ", "All-round complete, perfect (pari + puṇṇa)."]
+  ]
+ },
+ "parisuddhā": {
+  "meaning": "purified all round; completely pure",
+  "gram": "past participle of parisujjhati, plural or feminine form",
+  "breakdown": [
+   ["pari", "Completely, all round."],
+   ["√sudh", "To be pure."]
+  ],
+  "forms": ["parisuddha"]
+ },
+ "parisā": {
+  "meaning": "assembly; company, gathering",
+  "gram": "feminine noun (pari + √sad)",
+  "breakdown": [
+   ["pari", "Around."],
+   ["√sad", "To sit; parisā is those \"seated around\", an assembly."]
+  ]
+ },
+ "parisānuggahena": {
+  "meaning": "out of consideration for the assembly; through help or patronage of the company",
+  "gram": "compound, instrumental singular",
+  "breakdown": [
+   ["parisā", "Assembly, company."],
+   ["anuggaha", "Help, patronage, kindness (anu + √gah). (The long ā at the junction arises by vowel coalescence.)"],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "paritta": {
+  "meaning": "protection; protective chant (also: small, trifling)",
+  "gram": "neuter noun (protection); also past participle/adjective \"small\" (pa + √ric + ta)",
+  "breakdown": [
+   ["paritta (1)", "Protection, safeguard; the protective recitations (as in the Āṭānāṭiya and other paritta texts)."],
+   ["paritta (2)", "Small, limited, trifling (past participle of pa + √ric \"to leave, empty\")."]
+  ],
+  "summary": "Two distinct words share this form: \"protection\" (as in protective verses) and \"small, insignificant\"."
+ },
+ "parittaṁ": {
+  "meaning": "insignificant; trifling, small",
+  "gram": "adjective, accusative/neuter singular of paritta",
+  "breakdown": [
+   ["pa", "Prefix: forth, away."],
+   ["√ric", "To leave, empty; paritta means left small, limited, trifling."]
+  ]
+ },
+ "parittāni": {
+  "meaning": "small; little, insignificant (plural)",
+  "gram": "adjective, neuter nominative/accusative plural of paritta",
+  "breakdown": [
+   ["paritta", "Small, limited, insignificant (pa + √ric + ta)."],
+   ["-āni", "Neuter plural ending."]
+  ]
+ },
+ "parivajjayeyya": {
+  "meaning": "should avoid; ought to shun",
+  "gram": "verb, 3rd person singular optative of parivajjayati (pari + √vajj)",
+  "breakdown": [
+   ["pari", "Around, completely."],
+   ["√vajj", "To avoid; parivajjeti means to shun, keep clear of."],
+   ["-eyya", "Optative ending: \"should\"."]
+  ]
+ },
+ "parivuto": {
+  "meaning": "surrounded; accompanied (by a retinue)",
+  "gram": "past participle of parivāreti (pari + √var), masculine nominative singular",
+  "breakdown": [
+   ["pari", "Around."],
+   ["√var", "To cover, enclose; parivuta means surrounded."]
+  ],
+  "forms": ["parivuta"]
+ },
+ "parivāraṇa": {
+  "meaning": "surrounding; retinue, entourage",
+  "gram": "neuter noun (from parivāreti, pari + √var)",
+  "breakdown": [
+   ["pari", "Around."],
+   ["√var", "To cover, enclose."],
+   ["-aṇa", "Action-noun suffix."]
+  ]
+ },
+ "parivīmaṁsanapariyosāne": {
+  "meaning": "at the conclusion of the thorough investigation",
+  "gram": "compound, locative singular",
+  "breakdown": [
+   ["parivīmaṁsana", "Thorough investigation, complete examination (pari + vīmaṁsā)."],
+   ["pariyosāna", "Conclusion, end."],
+   ["-e", "Locative singular ending: \"at\"."]
+  ]
+ },
+ "parivīmaṁsati": {
+  "meaning": "examines thoroughly; investigates all round",
+  "gram": "verb, 3rd person singular present, desiderative formation (pari + vīmaṁsati, √man)",
+  "breakdown": [
+   ["pari", "Around, completely."],
+   ["vīmaṁsati", "To investigate, test (desiderative of √man \"to think\")."]
+  ]
+ },
+ "pariyantavatiṁ": {
+  "meaning": "having limits; well-defined, having a purpose (said of speech)",
+  "gram": "adjective, feminine accusative singular of pariyantavant",
+  "breakdown": [
+   ["pariyanta", "Limit, boundary, end (pari + anta, with euphonic y)."],
+   ["-vant", "Possessive suffix: \"having\"."]
+  ],
+  "forms": ["pariyantavant"]
+ },
+ "pariyesati": {
+  "meaning": "searches; seeks for, seeks after",
+  "gram": "verb, 3rd person singular present (pari + √es, with euphonic y)",
+  "breakdown": [
+   ["pari", "Around, completely."],
+   ["[y]", "Euphonic glide inserted between vowels."],
+   ["√es", "To seek; pariyesati means to search all round for."]
+  ]
+ },
+ "pariyodapana": {
+  "meaning": "cleansing; purification (of one's mind)",
+  "gram": "neuter action noun (from pariyodāpeti)",
+  "breakdown": [
+   ["pari", "Completely. (Followed by euphonic y.)"],
+   ["odapana", "Cleansing (ava + √dā \"to purify\", causative)."],
+   ["-ana", "Action-noun suffix."]
+  ],
+  "goenka": "The word appears in the celebrated summary of the teaching of all the Buddhas (Dhammapada 183, cited in the tradition's material): sacittapariyodapanaṁ, the complete purification of one's own mind — alongside avoiding all evil and cultivating wholesomeness. Purification of mind is precisely what the practice of meditation is for: not a doctrine to accept, but a cleansing to be carried out within oneself."
+ },
+ "pariyodapeyya": {
+  "meaning": "should completely cleanse; would purify thoroughly",
+  "gram": "verb, 3rd person singular optative of pariyodapeti (pari + ava + √dā, causative)",
+  "breakdown": [
+   ["pari", "Completely. (Followed by euphonic y.)"],
+   ["odapeti", "To cleanse, purify (causative; ava + √dā)."],
+   ["-eyya", "Optative ending: \"should\"."]
+  ]
+ },
+ "pariyodāpenti": {
+  "meaning": "they purify; they cleanse",
+  "gram": "verb, 3rd person plural present of pariyodāpeti (pari + ava + √dā, causative)",
+  "breakdown": [
+   ["pari", "Completely. (Followed by euphonic y.)"],
+   ["odāpeti", "To cleanse, make pure (causative; ava + √dā)."],
+   ["-enti", "Third person plural ending."]
+  ]
+ },
+ "pariyodātā": {
+  "meaning": "cleansed all round; pure, bright, white",
+  "gram": "past participle of pariyodāyati, plural or feminine form",
+  "breakdown": [
+   ["pari", "All round. (Followed by euphonic y.)"],
+   ["odāta", "Clean, white, pure (ava + √dā + ta)."]
+  ],
+  "forms": ["pariyodāta"]
+ },
+ "pariyogāḷhadhammo": {
+  "meaning": "one who has dived into the Dhamma; having plunged into the teaching",
+  "gram": "adjective, compound, masculine nominative singular",
+  "breakdown": [
+   ["pariyogāḷha", "Dived into, plunged into (pari + ava + √gāh + ta, with euphonic y)."],
+   ["dhamma", "The teaching, the Dhamma."]
+  ],
+  "goenka": "The phrase describes the disciple who has not merely heard the Dhamma but plunged into it: the stock passage runs diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo — having seen, attained, known and dived into the Dhamma. The sequence expresses the tradition's experiential standard: the teaching is penetrated by direct experience, beyond doubt, not held as belief."
+ },
+ "pariyosānakalyāṇaṁ": {
+  "meaning": "beneficial in the end; beautiful in its conclusion",
+  "gram": "adjective, compound, accusative/neuter singular",
+  "breakdown": [
+   ["pariyosāna", "End, conclusion."],
+   ["kalyāṇa", "Beneficial, beautiful, good."]
+  ],
+  "goenka": "Part of the stock description of the Dhamma well proclaimed: ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ — beneficial in the beginning, beneficial in the middle, beneficial in the end. In the tradition's presentation, the beauty of the beginning is sīla, of the middle samādhi, and of the end paññā ripening in the fruit of nibbāna."
+ },
+ "pariyādinnacitto": {
+  "meaning": "with mind overpowered; whose mind is exhausted, having lost control of the mind",
+  "gram": "adjective, compound, masculine nominative singular",
+  "breakdown": [
+   ["pariyādinna", "Taken over completely, exhausted, overpowered (past participle of pariyādiyati)."],
+   ["citta", "Mind."]
+  ]
+ },
+ "pariyādāya": {
+  "meaning": "taking hold of completely; overpowering, exhausting",
+  "gram": "gerund of pariyādiyati (pari + √ādā, with euphonic y)",
+  "breakdown": [
+   ["pari", "Completely, all round. (Followed by euphonic y.)"],
+   ["√ādā", "To take; pariyādiyati means to take over wholly, overpower."],
+   ["-ya", "Gerund ending."]
+  ]
+ },
+ "pariyāpannā": {
+  "meaning": "included; comprised in, belonging to",
+  "gram": "past participle of pariyāpajjati (pari + ā + √pad), plural or feminine form",
+  "breakdown": [
+   ["pari", "Completely. (Followed by euphonic y.)"],
+   ["ā + √pad", "To get into; pariyāpanna means fallen within, included."]
+  ],
+  "forms": ["pariyāpanna"]
+ },
+ "pariyāya": {
+  "meaning": "turn, course; teaching, exposition; cause, reason; way, method (literally \"going round\")",
+  "gram": "masculine noun (pari + √i, with euphonic y)",
+  "breakdown": [
+   ["pari", "Around. (Followed by euphonic y.)"],
+   ["√i", "To go; pariyāya is the \"going round\" — a turn or succession, and by extension a mode of teaching, a figure, a reason."]
+  ]
+ },
+ "pariyāyadassāvī": {
+  "meaning": "seeing (only) an exposition; one who realizes by way of the instruction",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["pariyāya", "Exposition, instruction; mode of presentation."],
+   ["dassāvī", "Seeing, one who sees (from √dis)."]
+  ]
+ },
+ "pariyāyavacanaṁ": {
+  "meaning": "speech in due order; expression by way of succession; synonymous expression",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["pariyāya", "Succession, order; mode of expression."],
+   ["vacana", "Speech, word, expression."]
+  ]
+ },
+ "pariyāye": {
+  "meaning": "in due turn; in succession, at the (proper) course",
+  "gram": "masculine noun, locative singular of pariyāya",
+  "breakdown": [
+   ["pariyāya", "Going round, succession, turn (pari + √i)."],
+   ["-e", "Locative singular ending."]
+  ],
+  "forms": ["pariyāya"]
+ },
+ "pariyāyena": {
+  "meaning": "by this mode of reasoning; by way of (this) method or figure",
+  "gram": "masculine noun, instrumental singular of pariyāya",
+  "breakdown": [
+   ["pariyāya", "Mode, method, course of reasoning (pari + √i)."],
+   ["-ena", "Instrumental singular ending: \"by\"."]
+  ],
+  "forms": ["pariyāya"]
+ },
+ "pariññeyyaṁ": {
+  "meaning": "to be completely comprehended; should be fully understood",
+  "gram": "future passive participle of parijānāti (pari + √ñā), neuter/accusative singular",
+  "breakdown": [
+   ["pari", "Completely. (The doubled ññ arises by assimilation with the root.)"],
+   ["√ñā", "To know; parijānāti means to know fully, comprehend."],
+   ["-eyya", "Future passive participle suffix: \"to be ...-ed\"."]
+  ],
+  "goenka": "The word states the task of the First Noble Truth as the tradition presents it: dukkhaṁ ariyasaccaṁ pariññeyyaṁ — the Noble Truth of Suffering has to be completely comprehended. Each truth has its own task (to be fully understood, eliminated, realized, developed), and comprehension here is experiential: dukkha is to be explored within one's own mind and body, not merely accepted as a proposition."
+ },
+ "pariññātaṁ": {
+  "meaning": "completely comprehended; fully understood",
+  "gram": "past participle of parijānāti (pari + √ñā), neuter/accusative singular",
+  "breakdown": [
+   ["pari", "Completely."],
+   ["√ñā", "To know; pariññāta means fully comprehended."]
+  ],
+  "forms": ["pariññāta"]
+ },
+ "paro": {
+  "meaning": "another; the other, one (person as opposed to another)",
+  "gram": "pronoun, masculine nominative singular of para"
+ },
+ "parā": {
+  "meaning": "aside; back, opposed to (directional prefix); others (plural pronoun)",
+  "gram": "prefix; also pronoun, plural form of para"
+ },
+ "parābhavo": {
+  "meaning": "destruction; ruin, downfall",
+  "gram": "masculine abstract noun, nominative singular (from parābhavati, parā + √bhū)",
+  "breakdown": [
+   ["parā", "Prefix: away, back, to one's loss."],
+   ["√bhū", "To be; parābhava is going to ruin, downfall."]
+  ]
+ },
+ "parābhisajjanī": {
+  "meaning": "cursing others; scolding, offensive towards others",
+  "gram": "adjective, compound, feminine form",
+  "breakdown": [
+   ["para", "Other, others. (The long ā at the junction arises by vowel coalescence.)"],
+   ["abhisajjana", "Cursing, scolding, giving offence (abhi + √sajj)."]
+  ]
+ },
+ "parāgata": {
+  "meaning": "reached the other side; gone beyond",
+  "gram": "past participle, compound (pāra/parā + gata)",
+  "breakdown": [
+   ["parā", "Beyond, to the further side."],
+   ["gata", "Gone, reached (past participle of gacchati)."]
+  ]
+ },
+ "parāmāsā": {
+  "meaning": "attachment to; being under the influence of; misapprehension, wrong grasp",
+  "gram": "masculine noun, ablative singular or plural form of parāmāsa (parā + √mas)",
+  "breakdown": [
+   ["parā", "Prefix: over, beyond."],
+   ["√mas", "To touch; parāmāsa is \"touching wrongly\" — clinging to, misapprehending (as in sīlabbataparāmāsa, attachment to rites and rituals)."]
+  ],
+  "forms": ["parāmāsa"]
+ },
+ "parūpaghāto": {
+  "meaning": "injuring others; harming another",
+  "gram": "masculine noun, compound, nominative singular",
+  "breakdown": [
+   ["para", "Other, others."],
+   ["upaghāta", "Injuring, hurting (upa + √han). (The long ū at the junction arises by vowel coalescence.)"]
+  ]
+ },
+ "parūpaghātī": {
+  "meaning": "one who injures others; hurting another",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["para", "Other, others."],
+   ["upaghātī", "Injuring, one who hurts (upa + √han + ī). (The long ū at the junction arises by vowel coalescence.)"]
+  ]
+ },
+ "parūparodhavirahitaṁ": {
+  "meaning": "free from obstructing others; exempt from harming or hindering another",
+  "gram": "adjective, compound, accusative/neuter singular",
+  "breakdown": [
+   ["para", "Other, others."],
+   ["uparodha", "Obstructing, hindering, harming (upa + √rudh). (The long ū at the junction arises by vowel coalescence.)"],
+   ["virahita", "Bereft of, free from, exempt from (vi + √rah + ita)."]
+  ]
+ },
+ "pasannena": {
+  "meaning": "pure; purified, clear, serene (instrumental: with a pure mind)",
+  "gram": "past participle of pasīdati (pa + √sad), instrumental singular",
+  "breakdown": [
+   ["pa", "Prefix: forth."],
+   ["√sad", "To settle; pasanna means settled clear, purified, serene; also full of confidence."],
+   ["-ena", "Instrumental singular ending: \"with\"."]
+  ],
+  "goenka": "The word appears in the second opening verse of the Dhammapada, cited in the tradition's material: manasā ce pasannena bhāsati vā karoti vā — if one speaks or acts with a pure, serene mind, happiness follows like a never-departing shadow. It is the counterpart of paduṭṭhena (with a corrupted mind) in the first verse: the quality of mind behind an action determines its fruit."
+ }
+}

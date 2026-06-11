@@ -1,0 +1,374 @@
+{
+ "khīṇabījā destroyed": {
+  "meaning": "with the seed (of future becoming) destroyed",
+  "gram": "adjective, compound (duplicate row; see khīṇabījā)",
+  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"destroyed\" was attached to the headword khīṇabījā; see the entry khīṇabījā."
+ },
+ "khīṇaṁ": {
+  "meaning": "destroyed; exhausted",
+  "gram": "past participle of khīyati (neuter nominative/accusative singular)",
+  "breakdown": [
+   ["√khī", "Root: to be exhausted, to waste away (khīyati)."],
+   ["-na", "Past participle suffix."]
+  ]
+ },
+ "khīṇāsavo": {
+  "meaning": "an Arahant; one whose mental obsessions (āsavas) are exhausted",
+  "summary": "An epithet of the Arahant: one in whom the four āsavas have been completely destroyed.",
+  "gram": "adjective, compound, used as a masculine noun (nominative singular)",
+  "breakdown": [
+   ["khīṇa", "Destroyed, exhausted (past participle of khīyati)."],
+   ["āsava", "Mental obsession, taint; that which flows in and intoxicates the mind."]
+  ],
+  "goenka": "Khīṇāsavo is an epithet for a person, an Arahant, whose mind is freed from all four mental obsessions: kāmāsava (desire for sensuality), bhavāsava (desire for living), diṭṭhāsava (attachment to philosophical speculations), and avijjāsava (ignorance). The four āsavas as a complete set define the term: only when all four are exhausted is one called khīṇāsavo."
+ },
+ "khīṇāsavā": {
+  "meaning": "those whose impurities are destroyed; free of the defilements (āsavas)",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["khīṇa", "Destroyed, exhausted (past participle of khīyati)."],
+   ["āsava", "Impurity, defilement, mental obsession."]
+  ]
+ },
+ "kiccho": {
+  "meaning": "difficult, hard; attended with difficulty",
+  "gram": "adjective (masculine nominative singular)",
+  "breakdown": [
+   ["kiccha", "Difficult, painful, hard to obtain."]
+  ]
+ },
+ "kiccāpadesabahulassa": {
+  "meaning": "of one with many duties and pretexts; full of excuses of business",
+  "gram": "adjective, compound (genitive singular)",
+  "breakdown": [
+   ["kicca", "Duty, task."],
+   ["apadesa", "Pretext, reason, excuse."],
+   ["bahula", "Manifold, abundant."]
+  ]
+ },
+ "kilamathā": {
+  "meaning": "fatigue; tiredness",
+  "gram": "masculine abstract noun (from kilamati \"to get tired\"; here plural/ablative form)",
+  "breakdown": [
+   ["√kilam", "Root: to grow weary, to be fatigued (kilamati)."],
+   ["-tha", "Abstract-noun suffix."]
+  ]
+ },
+ "kilesa": {
+  "meaning": "impurity; mental defilement",
+  "summary": "In the source it appears in the compound kilesabyādhiparipīḷitaṁ, \"oppressed by many impurities and diseases\".",
+  "gram": "masculine noun (from kilissati \"to be defiled\")",
+  "breakdown": [
+   ["√kilis", "Root: to be stained, defiled (kilissati)."],
+   ["-a", "Noun suffix: kilesa, the stain or defilement of the mind."]
+  ],
+  "goenka": "Kilesa names the impurities of the mind — craving, aversion and ignorance with all their derivatives. In this tradition the entire purpose of practice is the gradual eradication of these impurities: through sīla one stops multiplying them, through samādhi one gains mastery over the mind, and through paññā — the direct experience of arising and passing away at the level of bodily sensation — the accumulated kilesas are eradicated at their root."
+ },
+ "kintāhaṁ": {
+  "meaning": "what now if I...; how then shall I...",
+  "gram": "sandhi fusion: interrogative + particle + pronoun (kiṁ + (i)ti/te + ahaṁ)",
+  "breakdown": [
+   ["kiṁ", "What? (interrogative)."],
+   ["ahaṁ", "I."]
+  ],
+  "note": "uncertain: the lexicon parses this as kiṁ + te + ahaṁ (\"what + to you + I\"), the DPD as kiṁ + iti + ahaṁ; both yield an interrogative opening \"what now if I...\"."
+ },
+ "kira": {
+  "meaning": "truly, really; they say, it is said (narrative particle)",
+  "gram": "indeclinable, narrative/emphatic particle"
+ },
+ "kirame": {
+  "meaning": "indeed these; surely these",
+  "gram": "particle + pronoun (kira + ime)",
+  "breakdown": [
+   ["kira", "Indeed, surely; they say."],
+   ["ime", "These (masculine nominative plural)."]
+  ]
+ },
+ "kiriyāsamuṭṭhāpikacetanākkhaṇeyeva": {
+  "meaning": "at the very moment of the volition occasioning the act",
+  "gram": "long compound (locative singular) + emphatic particle yeva",
+  "breakdown": [
+   ["kiriyā", "Act, action."],
+   ["samuṭṭhāpika", "Occasioning, causing to arise."],
+   ["cetanā", "Volition."],
+   ["khaṇa", "Moment. (The doubling kkh is junction doubling.)"],
+   ["yeva", "Just, the very (emphatic particle)."]
+  ]
+ },
+ "kissa": {
+  "meaning": "of what?; why?",
+  "gram": "interrogative pronoun, genitive singular of ka/kiṁ"
+ },
+ "kittesi": {
+  "meaning": "you praise; you proclaim",
+  "gram": "verb, 2nd person singular present of kitteti (√kitt)",
+  "breakdown": [
+   ["√kitt", "Root: to praise, proclaim (kitteti)."],
+   ["-si", "2nd person singular present ending."]
+  ]
+ },
+ "kittivaṇṇaharā": {
+  "meaning": "carrying one's renown and good report; spreading one's fame",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["kitti", "Renown, fame."],
+   ["vaṇṇa", "Report, praise."],
+   ["hara", "Taking, carrying, caring for."]
+  ]
+ },
+ "kittāvatā": {
+  "meaning": "how far?; to what extent?",
+  "gram": "interrogative adverb, indeclinable"
+ },
+ "kiñcarahi": {
+  "meaning": "how then?; in that case, why?",
+  "gram": "sandhi fusion: interrogative pronoun + particle (kiṁ + carahi)",
+  "breakdown": [
+   ["kiṁ", "What, how? (The niggahīta becomes ñ before c.)"],
+   ["carahi", "Then, in that case, now."]
+  ]
+ },
+ "kiñci": {
+  "meaning": "something; anything whatsoever",
+  "gram": "indefinite pronoun, neuter singular (kiṁ + ci)"
+ },
+ "kiñcāpi": {
+  "meaning": "however much; although, whatever",
+  "gram": "indeclinable, concessive particle (sandhi of kiṁ + ca + api)"
+ },
+ "kiñcāpi however": {
+  "meaning": "however much; whatsoever",
+  "gram": "indeclinable, concessive particle (duplicate row; see kiñcāpi)",
+  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"however\" was attached to the headword kiñcāpi; see the entry kiñcāpi."
+ },
+ "kiṁ nu kho": {
+  "meaning": "what is it then?; could it be that...?",
+  "gram": "phrase: interrogative idiom (kiṁ + nu + kho)",
+  "breakdown": [
+   ["kiṁ", "What? (interrogative)."],
+   ["nu", "Interrogative particle of wondering."],
+   ["kho", "Indeed (emphatic particle)."]
+  ]
+ },
+ "kiṭṭhasambādhe": {
+  "meaning": "when the corn is thick; at the time of the crowding (ripening) of the corn",
+  "gram": "masculine noun, compound (locative singular)",
+  "breakdown": [
+   ["kiṭṭha", "Corn, growing grain."],
+   ["sambādha", "Crowding, thickness; here, the ripening season."]
+  ]
+ },
+ "kocañño": {
+  "meaning": "anyone else; any other",
+  "gram": "sandhi fusion: indefinite pronoun + pronoun (koci + añño)",
+  "breakdown": [
+   ["koci", "Anyone."],
+   ["añño", "Other, another."]
+  ]
+ },
+ "koci": {
+  "meaning": "whoever; anyone",
+  "gram": "indefinite pronoun, masculine nominative singular (ko + ci)"
+ },
+ "kodhapaññāṇo": {
+  "meaning": "marked by anger; full of anger",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kodha", "Anger."],
+   ["paññāṇa", "Mark, sign, distinguishing characteristic."]
+  ]
+ },
+ "kodhasāmantā": {
+  "meaning": "bordering on anger; in the neighbourhood of anger",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kodha", "Anger."],
+   ["sāmanta", "Neighbouring, bordering."]
+  ]
+ },
+ "komudiyā": {
+  "meaning": "of the Komudī, the full-moon day (moonlight festival) of the month of Kattikā",
+  "gram": "feminine noun (genitive/locative singular of komudī)",
+  "breakdown": [
+   ["komudī", "The full-moon day of Kattikā; literally connected with kumuda, the white waterlily that blooms by moonlight."]
+  ]
+ },
+ "komudiyā moon": {
+  "meaning": "moonlight; of the Komudī full moon",
+  "gram": "feminine noun (duplicate row; see komudiyā)",
+  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"moon\" was attached to the headword komudiyā; see the entry komudiyā."
+ },
+ "komudī": {
+  "meaning": "the Komudī, the full-moon day of the month of Kattikā (October–November)",
+  "summary": "Komudī is the full-moon day in the month named Kattikā, the blooming period of the white waterlilies (komuda).",
+  "gram": "feminine noun; also used as a proper name of the festival day",
+  "breakdown": [
+   ["kumuda", "White waterlily, which blooms in this season; komudī is derived from it."]
+  ],
+  "forms": ["Komudī"]
+ },
+ "kopīnanidaṁsanī": {
+  "meaning": "exposing what should be covered; the act of indecent exposure",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["kopīna", "Loincloth; the covering of the sexual organs."],
+   ["nidaṁsana", "Exposure, showing."],
+   ["-ī", "Feminine suffix: \"the act of\"."]
+  ]
+ },
+ "kosārakkhaṁ": {
+  "meaning": "guarding the treasury; protection of the stores",
+  "gram": "masculine noun, compound (accusative singular)",
+  "breakdown": [
+   ["kosa", "Treasure, treasury, store."],
+   ["ārakkha", "Protecting, guarding."]
+  ]
+ },
+ "kosātakibījaṁ": {
+  "meaning": "a seed of the kosātakī creeper (a bitter gourd)",
+  "gram": "neuter noun, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["kosātakī", "A bitter creeper, the loofah or bitter gourd vine."],
+   ["bīja", "Seed."]
+  ]
+ },
+ "koṭi": {
+  "meaning": "summit, top, point; as a number, ten million (a crore)",
+  "gram": "feminine noun; also a cardinal numeral",
+  "breakdown": [
+   ["√kuṭ", "Root: to be crooked, to end in a point; koṭi is the point, the extreme end, hence also the high number."]
+  ]
+ },
+ "koṭisatasahassesu": {
+  "meaning": "among hundreds of thousands of crores (i.e. countless millions)",
+  "gram": "cardinal numeral compound (locative plural)",
+  "breakdown": [
+   ["koṭi", "Crore, ten million."],
+   ["sata", "Hundred."],
+   ["sahassa", "Thousand."]
+  ]
+ },
+ "koṭṭha": {
+  "meaning": "storeroom; granary",
+  "gram": "masculine noun"
+ },
+ "koṭṭha store": {
+  "meaning": "storeroom; granary",
+  "gram": "masculine noun (duplicate row; see koṭṭha)",
+  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"store\" was attached to the headword koṭṭha; see the entry koṭṭha."
+ },
+ "kubbato": {
+  "meaning": "for one performing; of one who is doing",
+  "gram": "present participle of karoti (middle form kubbanta), dative/genitive singular",
+  "breakdown": [
+   ["√kar", "Root: to do, to make; middle stem kubba-."],
+   ["-nta", "Present participle suffix."],
+   ["-to", "Dative/genitive singular ending."]
+  ]
+ },
+ "kucchiparihārikena": {
+  "meaning": "just enough to sustain the belly; for the upkeep of the stomach",
+  "gram": "adjective, compound (instrumental singular)",
+  "breakdown": [
+   ["kucchi", "Belly, interior."],
+   ["parihārika", "Keeping, preserving, sustaining."]
+  ]
+ },
+ "kuddhāhaṁ": {
+  "meaning": "angry, I...; I, being angry",
+  "gram": "sandhi fusion: past participle + pronoun (kuddha + ahaṁ)",
+  "breakdown": [
+   ["kuddha", "Angry (past participle of kujjhati \"to be angry\")."],
+   ["ahaṁ", "I. (The final -a coalesces with a-: kuddha + ahaṁ → kuddhāhaṁ.)"]
+  ]
+ },
+ "kuhanā": {
+  "meaning": "fraud; deceit, hypocrisy, scheming",
+  "gram": "noun (neuter/feminine action noun from kuheti \"to deceive\")",
+  "breakdown": [
+   ["√kuh", "Root: to deceive, to astonish (kuheti)."],
+   ["-anā", "Action-noun suffix."]
+  ]
+ },
+ "kuhitattaṁ": {
+  "meaning": "hypocrisy; scheming, intrigue",
+  "gram": "neuter abstract noun (from kuhita)",
+  "breakdown": [
+   ["√kuh", "Root: to deceive."],
+   ["kuhita", "Deceived, tricked (past participle)."],
+   ["-tta", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "kuhiṁ": {
+  "meaning": "where to?; whither?",
+  "gram": "interrogative adverb, indeclinable (from ka)"
+ },
+ "kuhāyanā": {
+  "meaning": "deception; insidiousness",
+  "gram": "feminine abstract noun (from kuhayati \"to deceive\")",
+  "breakdown": [
+   ["√kuh", "Root: to deceive."],
+   ["-anā", "Abstract action-noun suffix."]
+  ]
+ },
+ "kujjhati": {
+  "meaning": "to be angry",
+  "gram": "verb, 3rd person singular present (√kudh)",
+  "breakdown": [
+   ["√kudh", "Root: to be angry; present stem kujjha-."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "kukkuṭasūkarapaṭiggahaṇā": {
+  "meaning": "accepting fowl and pigs",
+  "summary": "One of the kinds of acceptance abstained from in the training precepts.",
+  "gram": "neuter action noun, compound (here ablative: \"from accepting fowl and pigs\")",
+  "breakdown": [
+   ["kukkuṭa", "Cock, fowl."],
+   ["sūkara", "Pig, boar."],
+   ["paṭiggahaṇa", "Accepting, receiving."]
+  ]
+ },
+ "kulakumāriyo": {
+  "meaning": "girls of good family; young women of the clan",
+  "gram": "feminine noun, compound (nominative/accusative plural)",
+  "breakdown": [
+   ["kula", "Clan, family."],
+   ["kumārī", "Girl, young woman."]
+  ]
+ },
+ "kule": {
+  "meaning": "in a family; in a clan",
+  "gram": "neuter noun (locative singular of kula)",
+  "breakdown": [
+   ["kula", "Family, clan."],
+   ["-e", "Locative singular ending: \"in\"."]
+  ]
+ },
+ "kulesvananugiddho": {
+  "meaning": "not greedy towards families; without longing among the families (that support one)",
+  "gram": "sandhi fusion: locative plural + negative adjective (kulesu + ananugiddha)",
+  "breakdown": [
+   ["kulesu", "Towards families, among families (locative plural of kula; -u becomes -v- before the vowel)."],
+   ["an-", "Negative prefix: \"not\"."],
+   ["anugiddha", "Greedy after, longing for (from anu + gijjhati \"to crave\")."]
+  ]
+ },
+ "kulitthiyo": {
+  "meaning": "ladies; women of good family",
+  "gram": "feminine noun, compound (nominative/accusative plural)",
+  "breakdown": [
+   ["kula", "Family of good standing."],
+   ["itthi", "Woman."]
+  ]
+ },
+ "kulāvakā": {
+  "meaning": "nests; (figuratively) the home where the wife waits for the man to return",
+  "gram": "masculine noun, diminutive of kulāva (here plural)",
+  "breakdown": [
+   ["kulāva", "Nest."],
+   ["-ka", "Diminutive suffix."]
+  ]
+ }
+}

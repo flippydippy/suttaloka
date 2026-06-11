@@ -563,3 +563,64 @@ button, .w { -webkit-tap-highlight-color: transparent; }
 .w:active { background: var(--accent-wash); }
 .card:active { transform: scale(.985); }
 .shelf-row { overscroll-behavior-x: contain; }
+
+/* ───────── language menu (toolbar) ───────── */
+.lang-menu { position: relative; }
+.lang-btn {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-family: var(--ui); font-size: 13px; font-weight: 600;
+  color: var(--ink-2); background: var(--card); border: 1px solid var(--card-edge);
+  border-radius: 99px; padding: 6px 12px; cursor: pointer;
+}
+.lang-btn:hover { color: var(--accent); border-color: var(--accent); }
+.lang-btn .chev { opacity: .6; }
+.lang-list {
+  position: absolute; top: calc(100% + 7px); right: 0; z-index: 40;
+  min-width: 200px; margin: 0; padding: 6px; list-style: none;
+  background: var(--sheet-bg); border: 1px solid var(--card-edge);
+  border-radius: 14px; box-shadow: var(--shadow);
+}
+.lang-list button {
+  display: flex; align-items: baseline; gap: 9px; width: 100%;
+  font-family: var(--ui); text-align: left; border: 0; background: none;
+  border-radius: 9px; padding: 9px 11px; cursor: pointer; color: var(--ink);
+}
+.lang-list button b { font-size: 14.5px; font-weight: 600; }
+.lang-list button span { font-size: 11.5px; color: var(--ink-3); }
+.lang-list button:hover { background: var(--accent-wash); }
+.lang-list button.on { background: var(--accent); }
+.lang-list button.on b, .lang-list button.on span { color: #fff8ec; }
+
+/* ───────── tap-a-word hint + translation note ───────── */
+.tap-hint {
+  display: flex; align-items: center; gap: 12px;
+  margin: 18px auto 4px; max-width: 620px;
+  background: var(--accent-wash); border: 1px dashed var(--accent);
+  border-radius: 14px; padding: 11px 14px;
+  font-family: var(--ui); font-size: 13.5px; color: var(--ink-2);
+  transition: opacity .28s, transform .28s;
+}
+.tap-hint.bye { opacity: 0; transform: translateY(-6px); }
+.tap-hint .tap-ic { font-size: 19px; }
+.tap-hint p { margin: 0; flex: 1; line-height: 1.5; }
+.tap-hint .w.demo {
+  color: var(--pali); font-style: italic;
+  border-bottom: 1.5px dotted var(--accent); cursor: default;
+}
+.tap-hint button {
+  font-family: var(--ui); font-size: 12.5px; font-weight: 700;
+  color: var(--accent-deep); background: none; border: 1px solid var(--accent);
+  border-radius: 99px; padding: 5px 13px; cursor: pointer; white-space: nowrap;
+}
+.tap-hint button:hover { background: var(--accent); color: #fff8ec; }
+.trans-note {
+  margin: 10px auto 0; max-width: 620px; text-align: center;
+  font-family: var(--ui); font-size: 12.5px; color: var(--ink-3);
+}
+
+/* gentle affordance on tappable Pāli words */
+.pali .w { border-bottom: 1px dotted color-mix(in srgb, var(--pali) 38%, transparent); }
+.pali .w:hover { border-bottom-color: var(--accent); }
+
+/* Hindi entry text in the sheet */
+.entry.hi { font-family: var(--serif); }

@@ -1,0 +1,452 @@
+{
+  "codito": {
+    "meaning": "exhorted; rebuked; urged on",
+    "gram": "past participle of codeti (√cud)",
+    "breakdown": [
+      ["code-", "Stem of codeti, to urge, exhort, reprove."],
+      ["-ita", "Past participle suffix: having been exhorted."]
+    ]
+  },
+  "cuti": {
+    "meaning": "vanishing; passing away; death (the fall from one existence)",
+    "gram": "feminine abstract noun, from cavati (√cu)",
+    "breakdown": [
+      ["√cu", "Root meaning to fall away, to pass from one state of existence."],
+      ["-ti", "Abstract noun suffix: the act of falling away, vanishing."]
+    ]
+  },
+  "cāgo": {
+    "meaning": "abandoning; forsaking; relinquishment; generosity of letting go",
+    "gram": "masculine noun, from cajati (√caj)",
+    "breakdown": [
+      ["√caj", "Root meaning to give up, to abandon (strengthened to cāg-)."],
+      ["-a", "Noun-forming suffix; nominative singular -o."]
+    ]
+  },
+  "cānujaññā": {
+    "meaning": "and may permit; and would approve, consent to",
+    "summary": "A sandhi fusion of the particle ca with the optative of anujānāti.",
+    "gram": "particle + verb, 3rd person singular optative of anujānāti (anu + √ñā)",
+    "breakdown": [
+      ["ca", "And (the c- of the fused form)."],
+      ["anujaññā", "Optative of anujānāti, to permit, approve, consent to (anu + √ñā). Sandhi: ca + anu- > cānu-."]
+    ]
+  },
+  "cāsāradassino": {
+    "meaning": "and seeing the nonessential (as essential)",
+    "gram": "compound adjective, masculine plural, fused with the particle ca",
+    "breakdown": [
+      ["ca", "And. Sandhi: ca + asāra- > cāsāra-."],
+      ["asāra", "Without essence; the nonessential (a- negative + sāra, essence, core)."],
+      ["dassino", "Seeing, those who see (from √dis, to see)."]
+    ]
+  },
+  "cātuddasī": {
+    "meaning": "the fourteenth day of the fortnight",
+    "summary": "Named with pañcadasī and aṭṭhamī: the 14th, 15th, and 8th days of the lunar fortnight, the traditional uposatha observance days.",
+    "gram": "feminine ordinal noun, from catuddasa (fourteen)",
+    "breakdown": [
+      ["catu > cātu", "Four (lengthened in composition)."],
+      ["dasa", "Ten; catuddasa = fourteen."],
+      ["-ī", "Feminine suffix forming the ordinal day-name."]
+    ]
+  },
+  "cātuddasī pañcadasī": {
+    "meaning": "the fourteenth and fifteenth (days of the lunar fortnight)",
+    "summary": "Together with the eighth day (aṭṭhamī), these are the traditional uposatha observance days of the fortnight.",
+    "gram": "phrase; two feminine ordinal nouns",
+    "breakdown": [
+      ["cātuddasī", "The fourteenth day (catu + dasa + ī)."],
+      ["pañcadasī", "The fifteenth day, full-moon or new-moon day (pañca + dasa + ī)."]
+    ]
+  },
+  "cātumāsiniyā": {
+    "meaning": "of the four-month period; belonging to the four months (of a season)",
+    "gram": "feminine compound adjective, locative/genitive singular",
+    "breakdown": [
+      ["catu > cātu", "Four (lengthened in composition)."],
+      ["māsa", "Month."],
+      ["-inī (-iniyā)", "Feminine possessive suffix, here in oblique case."]
+    ]
+  },
+  "cātuyāmasaṁvarasaṁvuto": {
+    "meaning": "restrained by the fourfold restraint",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["cātu", "Four."],
+      ["yāma", "Restraint; a watch (division) of the night; here the fourfold discipline."],
+      ["saṁvara", "Restraint, guarding, discipline."],
+      ["saṁvuto", "Restrained, controlled (past participle of saṁvarati)."]
+    ],
+    "forms": ["cātuyāmasaṁvarasaṁvuto"]
+  },
+  "cāṭiyā": {
+    "meaning": "jar; waterpot",
+    "gram": "feminine noun (cāṭī), instrumental/oblique singular",
+    "breakdown": [
+      ["cāṭī", "A large jar or waterpot."],
+      ["-iyā", "Oblique case ending (instrumental, dative, genitive, or locative singular)."]
+    ]
+  },
+  "cūḷahatthipadopamasuttaṁ": {
+    "meaning": "the Cūḷahatthipadopama Sutta, the Shorter Discourse on the Simile of the Elephant's Footprint",
+    "summary": "This is a compound sutta title meaning \"the shorter discourse with the simile of the elephant's footprint\".",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["cūḷa", "Small, lesser, shorter."],
+      ["hatthi", "Elephant."],
+      ["pada (upada)", "Foot, footprint."],
+      ["upama", "Simile, comparison. Sandhi: -pada + upama- > -padopama-."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Cūḷahatthipadopamasuttaṁ"]
+  },
+  "dahara": {
+    "meaning": "young; small",
+    "gram": "adjective"
+  },
+  "dakkhiṇeyyo": {
+    "meaning": "worthy of offerings; worthy of donations",
+    "summary": "Said of those, such as the Saṅgha, to whom gifts are fittingly given.",
+    "gram": "adjective, masculine nominative singular, from dakkhiṇā",
+    "breakdown": [
+      ["dakkhiṇā", "Offering, donation, gift given with respect (√dakkh)."],
+      ["-eyya", "Suffix of worthiness: deserving of, fit to receive."]
+    ]
+  },
+  "dakkhiṇeyyo worthy of": {
+    "meaning": "worthy of offerings",
+    "summary": "A fragmentary lexicon row; the headword proper is dakkhiṇeyyo, worthy of offerings.",
+    "gram": "adjective (see dakkhiṇeyyo)",
+    "note": "uncertain: the key is an artifact of a split vocabulary row (\"dakkhiṇeyyo worthy of / offerings\"); the entry belongs under dakkhiṇeyyo."
+  },
+  "dakkhiṇeyyā": {
+    "meaning": "worthy of donations; worthy of offerings (plural)",
+    "gram": "adjective, masculine nominative plural, from dakkhiṇā",
+    "breakdown": [
+      ["dakkhiṇā", "Offering, donation (√dakkh)."],
+      ["-eyya", "Suffix of worthiness: deserving of, fit to receive."]
+    ]
+  },
+  "dakkhiṇo": {
+    "meaning": "right (as opposed to left); southern",
+    "gram": "adjective, masculine nominative singular (√dakkh + iṇa)",
+    "breakdown": [
+      ["√dakkh", "Root associated with skill and the right-hand side."],
+      ["-iṇa", "Adjective-forming suffix."]
+    ]
+  },
+  "dakkhiṇā": {
+    "meaning": "offering; donation; gift given with respect",
+    "gram": "feminine noun (√dakkh + iṇā)",
+    "breakdown": [
+      ["√dakkh", "Root associated with skill, worthiness, the right hand."],
+      ["-iṇā", "Feminine noun suffix: a respectful offering."]
+    ]
+  },
+  "dalidde": {
+    "meaning": "poor; wretched",
+    "gram": "adjective, locative singular or masculine accusative plural",
+    "breakdown": [
+      ["dalidda", "Poor, destitute, wretched."],
+      ["-e", "Inflectional ending."]
+    ]
+  },
+  "daliddā": {
+    "meaning": "poor; wretched",
+    "gram": "adjective, plural or feminine form of dalidda",
+    "breakdown": [
+      ["dalidda", "Poor, destitute, wretched."],
+      ["-ā", "Inflectional ending."]
+    ]
+  },
+  "damasaccena": {
+    "meaning": "by self-control and truth; through restraint and truthfulness",
+    "gram": "neuter compound noun, instrumental singular",
+    "breakdown": [
+      ["dama", "Restraint, self-control, taming."],
+      ["sacca", "Truth, truthfulness."],
+      ["-ena", "Instrumental singular ending: by means of."]
+    ]
+  },
+  "danapūjanāsu:": {
+    "meaning": "in gain, honour, respect, reverence, esteem and veneration from others",
+    "summary": "A fragment of the longer compound paralābhasakkāragarukāramānanavandanapūjanāsu, listing the worldly rewards a person may receive from others.",
+    "gram": "compound noun, feminine locative plural",
+    "breakdown": [
+      ["para", "Others, another."],
+      ["lābha", "Gain, acquisition."],
+      ["sakkāra", "Honour, hospitality."],
+      ["garukāra", "Respect, deference."],
+      ["mānana", "Esteem, honouring."],
+      ["vandana", "Reverence, homage."],
+      ["pūjanā", "Veneration, worship."],
+      ["-su", "Locative plural ending: in, amid."]
+    ],
+    "note": "uncertain: the key is a truncated tail of the full compound; the initial element is vandana + pūjanā, not dana."
+  },
+  "dandhā": {
+    "meaning": "slothful; slow; heavy; foolish",
+    "gram": "adjective (√dandh + a), plural or feminine form",
+    "breakdown": [
+      ["√dandh", "Root meaning to be slow, sluggish."],
+      ["-a", "Adjective-forming suffix."]
+    ]
+  },
+  "dasabalassa sāsanaṁ": {
+    "meaning": "the teaching of the One of Ten Powers (an epithet of the Buddha)",
+    "summary": "A phrase meaning literally \"the teaching of the one possessing ten powers\", dasabala being an epithet of the Tathāgata.",
+    "gram": "phrase; genitive noun + neuter noun",
+    "breakdown": [
+      ["dasa", "Ten."],
+      ["bala (balassa)", "Power, strength; genitive singular: of the one of (ten) powers."],
+      ["sāsanaṁ", "Teaching, dispensation, message."]
+    ],
+    "goenka": "Dasabala, \"the one of ten powers\", is an epithet of the Tathāgata. The ten powers are ten fields of perfect knowledge: he understands according to reality (yathābhūtaṁ pajānāti) what is possible and what is impossible; the results of past, present and future actions with regard to their bases and causes; where any path of practice leads — to the hell realm, animal realm, ghost realm, human realm, deva realm, or to nibbāna; the world with its numerous and diverse elements; the diverse dispositions of beings; the range of faculties of other beings and persons; the defilement and purification associated with the jhānas, liberations, concentrations and attainments; and the remaining powers of recollecting past lives, the divine eye, and the destruction of the taints. The phrase dasabalassa sāsanaṁ thus means the dispensation of the Buddha so endowed.",
+    "forms": ["dasabalassa sāsanaṁ"]
+  },
+  "dassana-sampadāya": {
+    "meaning": "by the attainment of insight; through accomplishment in seeing",
+    "gram": "feminine compound noun, instrumental/dative singular",
+    "breakdown": [
+      ["dassana", "Seeing, vision, insight (from √dis, to see)."],
+      ["sampadā", "Attainment, accomplishment, success."],
+      ["-āya", "Instrumental/dative singular ending."]
+    ]
+  },
+  "dassanīyo": {
+    "meaning": "fair to behold; beautiful; worth seeing",
+    "gram": "potential participle of √dis (to see), masculine nominative singular",
+    "breakdown": [
+      ["dassa", "Seeing (from √dis, to see)."],
+      ["-anīya", "Potential participle suffix: worthy of, fit to be."]
+    ]
+  },
+  "dassenti": {
+    "meaning": "they show; they point out",
+    "gram": "verb, 3rd person plural present, causative of passati (√dis)",
+    "breakdown": [
+      ["dasse-", "Causative stem of √dis, to see: to cause to see, to show."],
+      ["-nti", "3rd person plural present ending."]
+    ]
+  },
+  "dassesuṁ": {
+    "meaning": "they showed; they pointed out",
+    "gram": "verb, 3rd person plural aorist of dasseti (causative of √dis)",
+    "breakdown": [
+      ["dasse-", "Causative stem of √dis, to see: to show."],
+      ["-suṁ", "3rd person plural aorist ending."]
+    ],
+    "forms": ["dassesuṁ"]
+  },
+  "dassāmannañca": {
+    "meaning": "and I will give food",
+    "summary": "A sandhi fusion of three words: dassāmi (I will give) + annaṁ (food) + ca (and).",
+    "gram": "verb phrase fused by sandhi; future 1st person singular + accusative noun + particle",
+    "breakdown": [
+      ["dassāmi", "I will give (future of dadāti, √dā). Final -i elided before annaṁ."],
+      ["annaṁ", "Food, boiled rice (accusative). The -ṁ assimilates to -ñ before ca."],
+      ["ca", "And."]
+    ]
+  },
+  "dayāpanno": {
+    "meaning": "showing compassion; moved by sympathy",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["dayā", "Compassion, sympathy, kindness."],
+      ["āpanno", "Entered upon, having attained (past participle of āpajjati): one who has entered into compassion."]
+    ]
+  },
+  "daḷhaparakkamo": {
+    "meaning": "of steadfast exertion; firm in energy",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["daḷha", "Firm, strong, steadfast."],
+      ["parakkamo", "Exertion, effort, energy."]
+    ]
+  },
+  "daḷhaparakkamā": {
+    "meaning": "of steadfast exertion; firm in effort and energy (plural)",
+    "gram": "compound adjective, masculine nominative plural",
+    "breakdown": [
+      ["daḷha", "Firm, strong, steadfast."],
+      ["parakkamā", "Exertion, effort, energy (plural ending)."]
+    ]
+  },
+  "daḷhaparakkamā:": {
+    "meaning": "strong and firm in exertion, effort, energy",
+    "gram": "compound adjective, masculine nominative plural (see daḷhaparakkamā)",
+    "breakdown": [
+      ["daḷha", "Strong, firm."],
+      ["parakkamā", "Exertion, effort, energy."]
+    ],
+    "note": "uncertain: key duplicates daḷhaparakkamā with a stray colon from the source vocabulary row."
+  },
+  "daḷhāya": {
+    "meaning": "strong; firm",
+    "gram": "past participle of √dah used as adjective, dative/genitive singular",
+    "breakdown": [
+      ["√dah", "Root meaning to be firm; √dah + ta > daḍha > daḷha."],
+      ["-āya", "Dative/genitive feminine singular ending."]
+    ]
+  },
+  "daṇḍena": {
+    "meaning": "by a stick; with a rod",
+    "gram": "masculine noun, instrumental singular",
+    "breakdown": [
+      ["daṇḍa", "Stick, rod, staff; also punishment."],
+      ["-ena", "Instrumental singular ending."]
+    ]
+  },
+  "daṭṭhu": {
+    "meaning": "having seen; to see, observe, behold",
+    "gram": "gerund (absolutive) of dakkhati (√dis, to see)",
+    "breakdown": [
+      ["√dis", "Root meaning to see (with the dakkh- present stem)."],
+      ["-ṭṭhu", "Archaic absolutive ending: having seen."]
+    ]
+  },
+  "desessāmi": {
+    "meaning": "I will teach; I shall expound",
+    "gram": "verb, 1st person singular future of deseti (causative of √dis, to point out)",
+    "breakdown": [
+      ["dese-", "Stem of deseti, to teach, expound (causative of disati)."],
+      ["-(i)ssāmi", "1st person singular future ending."]
+    ]
+  },
+  "desetabbaṁ": {
+    "meaning": "should be taught; to be expounded",
+    "gram": "potential (future passive) participle of deseti, neuter nominative singular",
+    "breakdown": [
+      ["dese-", "Stem of deseti, to teach, expound."],
+      ["-tabba", "Potential participle suffix: that which should be done."]
+    ],
+    "forms": ["desetabbaṁ"]
+  },
+  "desetvā": {
+    "meaning": "having taught; having expounded",
+    "gram": "gerund (absolutive) of deseti",
+    "breakdown": [
+      ["dese-", "Stem of deseti, to teach, expound."],
+      ["-tvā", "Absolutive ending: having done."]
+    ]
+  },
+  "desetā": {
+    "meaning": "instructor; teacher; one who expounds",
+    "gram": "masculine agent noun (desetar), nominative singular, from deseti",
+    "breakdown": [
+      ["dese-", "Stem of deseti, to teach, expound."],
+      ["-tar (-tā)", "Agent noun suffix: the one who teaches."]
+    ]
+  },
+  "dessī": {
+    "meaning": "hating; one who hates",
+    "gram": "adjective, from dessati (√dis, to hate)",
+    "breakdown": [
+      ["dessa", "Stem of dessati, to hate, detest."],
+      ["-ī", "Possessive adjective suffix: having hatred."]
+    ]
+  },
+  "devamanussānaṁ": {
+    "meaning": "of gods and humans; for devas and mankind",
+    "gram": "masculine compound noun, dative/genitive plural",
+    "breakdown": [
+      ["deva", "God, deity, celestial being."],
+      ["manussa", "Human being, mankind."],
+      ["-ānaṁ", "Dative/genitive plural ending: of, for."]
+    ],
+    "forms": ["devamanussānaṁ", "devamanussānanti"]
+  },
+  "devamanussānaṁ nibbedhabhāgiyavāsanābhāgiyavaradhammadāyīti.": {
+    "meaning": "\"the giver to gods and humans of the excellent Dhamma that partakes of penetration and of (good) latent impressions\" (an epithet of the Buddha, with quotation marker ti)",
+    "gram": "phrase; dative/genitive plural noun + long compound epithet + quotation particle",
+    "breakdown": [
+      ["devamanussānaṁ", "Of/for gods and humans (deva + manussa, dative/genitive plural)."],
+      ["nibbedha", "Penetration, breaking through."],
+      ["bhāgiya", "Partaking of, conducive to."],
+      ["vāsanā", "Latent impression, habituation."],
+      ["vara", "Excellent, noble, best."],
+      ["dhamma", "Teaching, Dhamma."],
+      ["dāyī", "Giver, bestower (from √dā, to give)."],
+      ["ti", "Quotation marker (iti); final -ī + ti by sandhi."]
+    ]
+  },
+  "devatā": {
+    "meaning": "deity; god or goddess; celestial being",
+    "gram": "feminine noun, from deva (√div + a + tā)",
+    "breakdown": [
+      ["deva", "God, celestial being (√div, to shine)."],
+      ["-tā", "Suffix forming a general or collective noun: divinity, deity."]
+    ],
+    "goenka": "Devatā is a general expression for gods, female or male. They dwell above the human realm, beginning with the realm of the four great kings (cātumahārājikā devā), the sphere of the thirty-three (tāvatiṁsā devā), the field of the yāmā devā, the tusitā devā, those who delight in creation (nimmānaratī devā), and those dwelling in the sphere of beings with power over the creations of others (paranimmitavasavattī devā)."
+  },
+  "dhajaggasuttaṁ": {
+    "meaning": "the Dhajagga Sutta, the Discourse on the Top of the Banner",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dhaja", "Banner, flag, emblem."],
+      ["agga", "Top, tip, crest."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dhajaggasuttaṁ"]
+  },
+  "dhajāhatā": {
+    "meaning": "struck down under the banner; taken as booty in battle",
+    "gram": "compound adjective (past participle), plural",
+    "breakdown": [
+      ["dhaja", "Flag, banner."],
+      ["āhatā", "Struck, beaten (past participle of āhanati): captured under the standard, taken as spoils."]
+    ]
+  },
+  "dhamma": {
+    "meaning": "Dhamma: the teaching of the Buddha; the universal law of nature; the path. dhamma: phenomenon; mental object; quality; thing",
+    "summary": "Capitalised Dhamma and lowercase dhamma are distinguished senses of the same word.",
+    "gram": "masculine noun (√dhar, to uphold)",
+    "breakdown": [
+      ["√dhar", "Root meaning to hold, uphold, support: that which upholds."],
+      ["-ma", "Noun-forming suffix; dhar + ma > dhamma."]
+    ],
+    "goenka": "Capitalisation carries the distinction. Dhamma (capitalised) denotes the teaching of the Buddha, the universal law of nature, and the path itself; dhamma (lowercase) denotes a phenomenon, a mental object, an element of experience. Klaus uses Dhamma capitalised throughout to denote both the Buddha's teaching and the universal law. He explicitly distinguishes saddhamma, the true Dhamma, which contains seven qualities: saddhā (faith), sati (awareness), hirī (sense of shame), ottappa (moral sense of guilt), bahusacca (ample learning), vīriya (diligence) and paññā (wisdom). The phrase saddhammassavanaṁ, listening to the true Dhamma, is presented as one of the rarities (dullabho) — encountering the teaching is itself rare. Volume 2's title, Svākkhāto ca Parisuddho Dhammo, means \"So Well-Explained and Utterly Pure Dhamma\". The Pāli term is retained in tradition usage; it is not replaced by the Sanskrit dharma.",
+    "forms": ["Dhamma", "dhammo", "dhammaṁ"]
+  },
+  "dhammacakkappavattanasuttaṁ": {
+    "meaning": "the Dhammacakkappavattana Sutta, the Discourse Setting in Motion the Wheel of Dhamma",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dhamma", "The Dhamma, the teaching."],
+      ["cakka", "Wheel."],
+      ["pavattana", "Setting in motion, turning (the doubled pp is sandhi doubling)."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dhammacakkappavattanasuttaṁ"]
+  },
+  "dhammacariyasamacariyatthā": {
+    "meaning": "for the sake of walking in Dhamma and walking rightly; for the purpose of righteous and correct conduct",
+    "gram": "compound noun, ablative/dative sense (for the purpose of)",
+    "breakdown": [
+      ["dhamma", "Dhamma, righteousness."],
+      ["cariya", "Walking, conduct, way of living."],
+      ["samacariya", "Correct walking, right conduct (sama, even/right + cariya)."],
+      ["atthā", "For the purpose of, for the sake of (attha, aim, benefit)."]
+    ]
+  },
+  "dhammaniruttipaṭisambhidāvisayato": {
+    "meaning": "by way of the analytical knowledge of Dhamma and of language; concerning the characteristic field of the analyses of Dhamma and grammatical exegesis",
+    "gram": "compound noun with ablative suffix -to",
+    "breakdown": [
+      ["dhamma", "Dhamma, the teaching."],
+      ["nirutti", "Explanation, language, grammatical exegesis."],
+      ["paṭisambhidā", "Analytical knowledge, discriminating analyses."],
+      ["visaya", "Field, domain, characteristic scope."],
+      ["-to", "Ablative suffix: by way of, with respect to."]
+    ]
+  },
+  "dhammasandosā": {
+    "meaning": "corruption of the Dhamma; defilement, pollution of the teaching",
+    "gram": "masculine compound noun, nominative plural or ablative singular",
+    "breakdown": [
+      ["dhamma", "Dhamma, the teaching."],
+      ["sandosā", "Defilement, pollution, corruption (saṁ + dosa)."]
+    ]
+  }
+}

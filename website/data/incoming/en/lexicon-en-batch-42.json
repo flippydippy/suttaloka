@@ -1,0 +1,426 @@
+{
+ "pañcupādānakkhandhā": {
+  "meaning": "the five aggregates of attachment; the five clung-to aggregates",
+  "gram": "masculine noun, compound, nominative plural",
+  "summary": "This is a compound meaning “the five aggregates of clinging” — the five components of mind and matter to which attachment arises.",
+  "breakdown": [
+   ["pañca", "Five."],
+   ["upādāna", "Clinging, attachment, grasping."],
+   ["khandhā", "Aggregates, heaps (nominative plural); the k is doubled at the compound boundary (sandhi doubling)."]
+  ],
+  "goenka": "The five aggregates — rūpa (matter), vedanā (sensation), saññā (perception), saṅkhāra (mental conditioning) and viññāṇa (consciousness) — become pañcupādānakkhandhā, “aggregates of attachment”, because of the clinging that arises towards them. In the tradition's framing, the entire mass of suffering summarised in the First Noble Truth is precisely these five aggregates of attachment; the meditator observes them directly within the framework of the body to dissolve the clinging."
+ },
+ "pañhabyākaraṇāni": {
+  "meaning": "explanations of questions; ways of answering questions",
+  "gram": "neuter noun, compound, nominative/accusative plural",
+  "breakdown": [
+   ["pañha", "Question, inquiry."],
+   ["byākaraṇāni", "Explanations, expositions, answers (plural)."]
+  ]
+ },
+ "paññapetvā": {
+  "meaning": "having laid down; having made known, appointed; having prepared (a seat)",
+  "gram": "gerund of paññapeti (causative of pajānāti)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ñape", "Causative stem of √ñā “to know”: “make known, declare, set out”."],
+   ["-tvā", "Gerund (absolutive) suffix."]
+  ]
+ },
+ "paññattam": {
+  "meaning": "made known; declared; laid down",
+  "gram": "past participle of paññapeti, neuter/accusative singular",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√ñā", "Root meaning “to know”; causative stem ñāpe “make known”."],
+   ["-ta", "Past participle suffix (ñāpe + ta > ñatta)."]
+  ]
+ },
+ "paññattasikkhāpadapūraṇaṁ": {
+  "meaning": "fulfilling the laid-down precepts; the filling-up of the training rules that have been declared",
+  "gram": "neuter noun, compound, nominative/accusative singular",
+  "breakdown": [
+   ["paññatta", "Pointed out, laid down, declared (past participle of paññapeti)."],
+   ["sikkhāpada", "Training rule, precept."],
+   ["pūraṇaṁ", "Filling, fulfilling."]
+  ],
+  "forms": ["paññattasikkhāpadapūraṇaṃ"]
+ },
+ "paññattaṁ": {
+  "meaning": "made known; declared; laid down",
+  "gram": "past participle of paññapeti, neuter/accusative singular",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√ñā", "Root meaning “to know”; causative stem ñāpe “make known”."],
+   ["-ta", "Past participle suffix."]
+  ],
+  "forms": ["paññattaṃ"]
+ },
+ "paññavantassa": {
+  "meaning": "of one endowed with wisdom; of the wise",
+  "gram": "adjective paññavant, genitive/dative singular",
+  "breakdown": [
+   ["paññā", "Wisdom, insight."],
+   ["-vant", "Possessive suffix “endowed with”."],
+   ["-assa", "Genitive/dative singular ending."]
+  ]
+ },
+ "paññā": {
+  "meaning": "wisdom; insight; experiential understanding",
+  "gram": "feminine noun (pa + √ñā)",
+  "breakdown": [
+   ["pa-", "Intensifying prefix, “thoroughly”."],
+   ["√ñā", "Root meaning “to know”: thorough, penetrating knowing."]
+  ],
+  "goenka": "Paññā (wisdom, insight) is the third and culminating division of the path, following sīla and samādhi. The tradition distinguishes three kinds of wisdom: sutamayā paññā, wisdom gained from hearing others; cintāmayā paññā, wisdom gained from intellectual reflection; and bhāvanāmayā paññā, wisdom arising from direct personal experience in meditation. It is bhāvanāmayā paññā — the highest of the three — that vipassana develops: the experience of the arising and passing, and even the dissolution of the body (bhaṅgañāṇa), gives a vastly more impressionable understanding of impermanence (anicca) than any belief or reasoning could."
+ },
+ "paññācakkhunā": {
+  "meaning": "with the eye of wisdom",
+  "gram": "neuter noun, compound, instrumental singular",
+  "breakdown": [
+   ["paññā", "Wisdom, insight."],
+   ["cakkhunā", "Eye (instrumental): seeing by means of wisdom."]
+  ]
+ },
+ "paññāpanā": {
+  "meaning": "declaration; making known; designation",
+  "gram": "feminine/neuter action noun from paññapeti",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ñāpe", "Causative stem of √ñā “make known”."],
+   ["-anā", "Action-noun suffix."]
+  ]
+ },
+ "paññāpesi": {
+  "meaning": "made known; declared; assigned, prepared",
+  "gram": "verb, aorist 3rd person singular of paññāpeti (causative of pajānāti)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ñāpe", "Causative stem of √ñā “to know”."],
+   ["-si", "Aorist 3rd person singular ending."]
+  ]
+ },
+ "paññāpetuṁ": {
+  "meaning": "to declare; to proclaim; to point out, appoint",
+  "gram": "infinitive of paññāpeti",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ñāpe", "Causative stem of √ñā “make known”."],
+   ["-tuṁ", "Infinitive ending."]
+  ],
+  "forms": ["paññāpetuṃ"]
+ },
+ "paññāsīlaparakkamaṁ": {
+  "meaning": "wisdom, virtue and exertion (as a set)",
+  "gram": "masculine noun, compound, accusative singular",
+  "breakdown": [
+   ["paññā", "Wisdom, insight."],
+   ["sīla", "Virtue, morality."],
+   ["parakkamaṁ", "Exertion, effort, valour."]
+  ],
+  "forms": ["paññāsīlaparakkamaṃ"]
+ },
+ "paññātte": {
+  "meaning": "made known, assigned; on the prepared (seat)",
+  "gram": "past participle of paññāpeti, locative singular",
+  "breakdown": [
+   ["paññatta", "Made known, prepared, appointed (past participle of paññāpeti)."],
+   ["-e", "Locative singular ending."]
+  ]
+ },
+ "paññāyati": {
+  "meaning": "is known; is renowned; is perceived, is evident",
+  "gram": "verb, 3rd person singular present passive of pajānāti (pa + √ñā)",
+  "breakdown": [
+   ["pa-", "Prefix “thoroughly”."],
+   ["ñāya", "Passive stem of √ñā “to know”."],
+   ["-ti", "Present tense, 3rd person singular ending."]
+  ],
+  "note": "divergence: the lexicon marks the form “caus.”, but it is the passive of pajānāti (DPD); the senses given (“be well known, be perceived”) are passive senses."
+ },
+ "paññāyati to be": {
+  "meaning": "to be known; to exist; to be perceived",
+  "gram": "glossary artifact; verb, 3rd person singular present passive of pajānāti",
+  "note": "uncertain: the headword is a run-on glossary line for paññāyati; see the entry paññāyati."
+ },
+ "paḷāsī": {
+  "meaning": "spiteful; unmerciful; malicious",
+  "gram": "adjective (from paḷāsa “spite”)",
+  "breakdown": [
+   ["paḷāsa", "Spite, malice, domineering."],
+   ["-ī", "Possessive adjective suffix: “having spite”."]
+  ]
+ },
+ "paṇavena": {
+  "meaning": "with a small drum; by drum",
+  "gram": "masculine noun paṇava, instrumental singular"
+ },
+ "paṇidhi": {
+  "meaning": "resolve; aspiration; request, wish",
+  "gram": "masculine noun (pa + ni + √dhā)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ni-", "Prefix “down”."],
+   ["√dhā", "Root meaning “to place”: a setting-down of the mind, hence resolve, aspiration."]
+  ]
+ },
+ "paṇidhāya": {
+  "meaning": "aspiring for; having directed (the mind) towards; attending to",
+  "gram": "gerund of paṇidahati (pa + ni + √dhā + ya)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ni-", "Prefix “down”."],
+   ["√dhā", "Root meaning “to place, to direct”."],
+   ["-ya", "Gerund (absolutive) suffix."]
+  ]
+ },
+ "paṇāmetvā": {
+  "meaning": "having raised; having stretched out (e.g. joined hands); having dismissed",
+  "gram": "gerund of paṇāmeti (pa + √nam, causative)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["ṇāme", "Causative stem of √nam “to bend”: “cause to bend forth”, raise, stretch out."],
+   ["-tvā", "Gerund (absolutive) suffix."]
+  ]
+ },
+ "paṇītaṁ": {
+  "meaning": "excellent; precious; refined, sublime",
+  "gram": "past participle of paṇeti used as adjective, neuter/accusative singular",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√nī", "Root meaning “to lead”: “brought forth”, hence exalted, excellent."],
+   ["-ta", "Past participle suffix."]
+  ],
+  "forms": ["paṇītaṃ"]
+ },
+ "paṇḍitalakkhaṇāni": {
+  "meaning": "the attributes of a wise person; marks of the wise",
+  "gram": "neuter noun, compound, nominative/accusative plural",
+  "breakdown": [
+   ["paṇḍita", "Wise person, sage."],
+   ["lakkhaṇāni", "Attributes, characteristics, marks (plural)."]
+  ]
+ },
+ "paṇḍitamānī": {
+  "meaning": "conceited about his wisdom; proud of his (imagined) intelligence",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["paṇḍita", "Wise person."],
+   ["mānī", "Proud, conceited (from māna “conceit”): one who thinks himself wise."]
+  ]
+ },
+ "paṇḍitatā": {
+  "meaning": "skill; wisdom; the state of being wise",
+  "gram": "feminine abstract noun from paṇḍita",
+  "breakdown": [
+   ["paṇḍita", "Wise person."],
+   ["-tā", "Abstract noun suffix “-ness”."]
+  ]
+ },
+ "paṇḍito wise": {
+  "meaning": "a wise one; the wise person",
+  "gram": "glossary artifact; masculine noun paṇḍita, nominative singular",
+  "note": "uncertain: the headword is a run-on glossary line for paṇḍito “wise one”."
+ },
+ "paṭhama-asappurisasuttaṁ": {
+  "meaning": "the First Asappurisa Sutta (“First Discourse on the Unworthy Person”)",
+  "gram": "proper noun (sutta title), neuter singular",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["asappurisa", "Unworthy person (a + sappurisa “good/true person”)."],
+   ["suttaṁ", "Discourse, sutta."]
+  ],
+  "forms": ["Paṭhama-asappurisasuttaṃ"]
+ },
+ "paṭhamabrahmacariyasuttaṁ": {
+  "meaning": "the First Brahmacariya Sutta (“First Discourse on Leading the Holy Life”)",
+  "gram": "proper noun (sutta title), neuter singular",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["brahmacariya", "Leading a holy life, the chaste religious life."],
+   ["suttaṁ", "Discourse, sutta."]
+  ],
+  "forms": ["Paṭhamabrahmacariyasuttaṃ"]
+ },
+ "paṭhamabrahmaññasutta": {
+  "meaning": "the First Brahmañña Sutta (paired with the Dutiyabrahmaññasutta, “Second Brahmañña Sutta”)",
+  "gram": "proper noun (sutta title), neuter",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["brahmañña", "The state of being a brahmin / the true brahmin ideal."],
+   ["sutta", "Discourse, sutta."]
+  ],
+  "forms": ["Paṭhamabrahmaññasutta"]
+ },
+ "paṭhamabrahmaññasuttaṁ": {
+  "meaning": "the First Brahmañña Sutta (“First Discourse on the Brahmin Ideal”)",
+  "gram": "proper noun (sutta title), neuter singular",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["brahmañña", "The state of the true brahmin."],
+   ["suttaṁ", "Discourse, sutta."]
+  ],
+  "forms": ["Paṭhamabrahmaññasuttaṃ"]
+ },
+ "paṭhamamaggaṭṭho": {
+  "meaning": "one established on the first path (the stage of stream-entry)",
+  "gram": "masculine noun, compound, nominative singular",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["magga", "Path."],
+   ["ṭṭho", "One who stands (in/on), from √ṭhā “to stand”; sandhi doubling at the boundary."]
+  ]
+ },
+ "paṭhamapaṭipadāsuttaṁ": {
+  "meaning": "the First Paṭipadā Sutta (“First Discourse on Walking the Path”)",
+  "gram": "proper noun (sutta title), neuter singular",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["paṭipadā", "The way of practice, walking the path."],
+   ["suttaṁ", "Discourse, sutta."]
+  ],
+  "forms": ["Paṭhamapaṭipadāsuttaṃ"]
+ },
+ "paṭhamasmiṁ": {
+  "meaning": "in the first",
+  "gram": "ordinal number paṭhama, locative singular",
+  "forms": ["paṭhamasmiṃ"]
+ },
+ "paṭhamasāmaññasuttaṁ": {
+  "meaning": "the First Sāmañña Sutta (“First Discourse on the Ascetic Life”)",
+  "gram": "proper noun (sutta title), neuter singular",
+  "breakdown": [
+   ["paṭhama", "First."],
+   ["sāmañña", "The state of a samaṇa, the ascetic life."],
+   ["suttaṁ", "Discourse, sutta."]
+  ],
+  "forms": ["Paṭhamasāmaññasuttaṃ"]
+ },
+ "paṭhamo": {
+  "meaning": "the first",
+  "gram": "ordinal number, nominative masculine singular"
+ },
+ "paṭhamo the": {
+  "meaning": "the first",
+  "gram": "glossary artifact; ordinal number paṭhama, nominative masculine singular",
+  "note": "uncertain: the headword is a run-on glossary line for paṭhamo “the first”."
+ },
+ "paṭhaviṁ": {
+  "meaning": "the earth; in/onto the earth",
+  "gram": "feminine noun paṭhavī, accusative singular",
+  "forms": ["paṭhaviṃ"]
+ },
+ "paṭhaviṁ in the": {
+  "meaning": "in the earth",
+  "gram": "glossary artifact; feminine noun paṭhavī, accusative singular",
+  "note": "uncertain: the headword is a run-on glossary line for paṭhaviṁ “in the earth”."
+ },
+ "paṭibalena": {
+  "meaning": "able; competent (instrumental: by one who is able)",
+  "gram": "adjective paṭibala, instrumental singular",
+  "breakdown": [
+   ["paṭi-", "Prefix “up to, matching”."],
+   ["bala", "Strength, power: “having strength equal to (the task)”, hence competent."]
+  ]
+ },
+ "paṭibalā": {
+  "meaning": "able; competent",
+  "gram": "adjective paṭibala, nominative plural (or feminine singular)",
+  "breakdown": [
+   ["paṭi-", "Prefix “up to, matching”."],
+   ["bala", "Strength, power: capable, fit for the task."]
+  ]
+ },
+ "paṭibhānavā": {
+  "meaning": "intelligent; possessed of ready wit; quick in understanding",
+  "gram": "adjective paṭibhānavant, nominative masculine singular",
+  "breakdown": [
+   ["paṭibhāna", "Ready wit, perspicacity, intelligence (from √bhaṇ)."],
+   ["-vā", "Possessive suffix -vant, nominative singular: “endowed with”."]
+  ]
+ },
+ "paṭibhātu": {
+  "meaning": "let it become evident; may it occur (to you); please expound",
+  "gram": "verb, 3rd person singular imperative of paṭibhāti (paṭi + √bhā)",
+  "breakdown": [
+   ["paṭi-", "Prefix “towards, back”."],
+   ["√bhā", "Root meaning “to shine”: “to shine forth (to the mind)”, become evident."],
+   ["-tu", "3rd person singular imperative ending."]
+  ]
+ },
+ "paṭicchannaṁ": {
+  "meaning": "covered; hidden, concealed",
+  "gram": "past participle of paṭicchādeti (paṭi + √chad + na), neuter/accusative singular",
+  "breakdown": [
+   ["paṭi-", "Prefix “over, against”."],
+   ["√chad", "Root meaning “to cover”."],
+   ["-na", "Past participle suffix (chad + na > channa)."]
+  ],
+  "forms": ["paṭicchannaṃ"]
+ },
+ "paṭicchannaṁ vā vivareyya…": {
+  "meaning": "“or would uncover what is concealed…” (phrase from the stock passage praising the Dhamma)",
+  "gram": "phrase",
+  "breakdown": [
+   ["paṭicchannaṁ", "Concealed, hidden (accusative)."],
+   ["vā", "Or."],
+   ["vivareyya", "Would uncover, would reveal (optative of vivarati)."]
+  ]
+ },
+ "paṭicchādāya": {
+  "meaning": "for concealing; for covering up",
+  "gram": "masculine noun paṭicchāda, dative singular",
+  "breakdown": [
+   ["paṭi-", "Prefix “over, against”."],
+   ["√chad", "Root meaning “to cover”; paṭicchāda is a covering, concealment."],
+   ["-āya", "Dative singular ending."]
+  ]
+ },
+ "paṭideseti": {
+  "meaning": "confesses; admits a fault",
+  "gram": "verb, 3rd person singular present, causative of paṭi + √dis",
+  "breakdown": [
+   ["paṭi-", "Prefix “back, in return”."],
+   ["√dis", "Root meaning “to point out”: “to point back at (one's own fault)”, confess."],
+   ["-eti", "Causative present ending."]
+  ]
+ },
+ "paṭigaṇhanti": {
+  "meaning": "they accept; they receive",
+  "gram": "verb, 3rd person plural present of paṭigaṇhati (paṭi + √gah)",
+  "breakdown": [
+   ["paṭi-", "Prefix “in return, towards”."],
+   ["√gah", "Root meaning “to take, to grasp”."],
+   ["-anti", "Present tense, 3rd person plural ending."]
+  ]
+ },
+ "paṭiggaṇhituṁ": {
+  "meaning": "to receive; to accept, take",
+  "gram": "infinitive of paṭiggaṇhāti",
+  "breakdown": [
+   ["paṭi-", "Prefix “in return, towards”; the g doubles at the boundary."],
+   ["gaṇhā", "Present stem of √gah “to take”."],
+   ["-ituṁ", "Infinitive ending."]
+  ],
+  "forms": ["paṭiggaṇhituṃ"]
+ },
+ "paṭiggaṇhāma": {
+  "meaning": "we accept; we receive",
+  "gram": "verb, 1st person plural present of paṭiggaṇhāti",
+  "breakdown": [
+   ["paṭi-", "Prefix “in return, towards”; sandhi doubling of g."],
+   ["gaṇhā", "Present stem of √gah “to take”."],
+   ["-ma", "1st person plural ending."]
+  ]
+ },
+ "paṭiggaṇhātuāyatiṁ": {
+  "meaning": "may he accept… for the future (run-together phrase: paṭiggaṇhātu + āyatiṁ)",
+  "gram": "phrase: 3rd person singular imperative + adverb",
+  "breakdown": [
+   ["paṭiggaṇhātu", "May he accept, let him receive (imperative of paṭiggaṇhāti)."],
+   ["āyatiṁ", "In future, henceforth."]
+  ],
+  "forms": ["paṭiggaṇhātuāyatiṃ"],
+  "note": "uncertain: the headword runs two words together as printed; in the stock formula of asking pardon the Buddha is asked to accept (a confession) so that there is restraint in the future."
+ }
+}

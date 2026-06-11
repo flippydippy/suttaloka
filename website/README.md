@@ -31,6 +31,7 @@ blurbs, styles — anything):
 
 ```bash
 python3 website/build.py                  # regenerate data/suttas.js from the markdown
+python3 website/build_lexicon.py          # regenerate data/lexicon-{en,fa,hi}.js from data/incoming/
 node website/serve.js                     # optional: preview at http://localhost:8741
 git add -A && git commit -m "Add Iti 16"  # commit (describe what changed)
 git push                                  # → deploys automatically
@@ -40,6 +41,13 @@ Notes:
 
 - `build.py` is the step people forget: the site reads the generated
   `data/suttas.js`, so markdown edits don't appear until you rebuild.
+- The tap-a-word dictionary is two layers: the generated lexicon
+  (`data/lexicon-<lang>.js`, built by `build_lexicon.py` from the batch
+  files in `data/incoming/<lang>/`) underneath, and the hand-curated
+  `data/dictionary.js` / `data/dictionary-fa.js` on top — a curated entry
+  always wins for the same headword. English loads with the page; the
+  Persian and Hindi lexicons are fetched on demand when the reader picks
+  that language from the toolbar globe menu.
 - Check the deploy if needed at
   https://github.com/flippydippy/suttaloka/actions — each push shows up as
   a "Deploy site to GitHub Pages" run.

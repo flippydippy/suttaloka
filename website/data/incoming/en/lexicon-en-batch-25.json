@@ -1,0 +1,429 @@
+{
+ "jeṭṭhāpacāyino": {
+  "meaning": "paying respect to elders; honouring one's elders",
+  "summary": "This is a compound adjective meaning \"one who pays respect to elders\".",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["jeṭṭha", "Elder, eldest, senior."],
+   ["apacāyī", "Paying respect, honouring. (The two words coalesce: jeṭṭha + apacāyī → jeṭṭhāpacāyī.)"]
+  ]
+ },
+ "jeṭṭhāpacāyitā": {
+  "meaning": "respect for elders; the honouring of one's elders",
+  "gram": "feminine abstract noun (from jeṭṭhāpacāyī)",
+  "breakdown": [
+   ["jeṭṭha", "Elder, eldest, senior."],
+   ["apacāyī", "Honouring, paying respect (from apacāyati \"to honour\")."],
+   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "jhāyino": {
+  "meaning": "meditator; one dedicated to meditation",
+  "gram": "masculine agent noun (jhāyī, from jhāyati \"to meditate\"; here plural/genitive form)",
+  "breakdown": [
+   ["√jhā", "Root: to meditate, to contemplate (jhāyati)."],
+   ["-ī", "Agent suffix: one who meditates."]
+  ]
+ },
+ "jighacchā": {
+  "meaning": "hunger",
+  "gram": "feminine abstract noun (desiderative formation from √ghas \"to eat\")",
+  "breakdown": [
+   ["√ghas", "Root: to eat. The desiderative reduplication jighacchati means \"to wish to eat\", hence hunger."],
+   ["-ā", "Feminine abstract-noun ending."]
+  ]
+ },
+ "jigucchati": {
+  "meaning": "to loathe; to be disgusted",
+  "gram": "verb, 3rd person singular present (desiderative of √gup)",
+  "breakdown": [
+   ["√gup", "Root: to protect, shun; in the desiderative form jigucchati, \"to be disgusted at, to loathe\"."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "jigucchitvā": {
+  "meaning": "having been disgusted; having felt revulsion",
+  "gram": "gerund (absolutive) of jigucchati",
+  "breakdown": [
+   ["jiguccha", "Stem of jigucchati \"to be disgusted, to loathe\" (desiderative of √gup)."],
+   ["-itvā", "Gerund suffix: \"having done\"."]
+  ]
+ },
+ "jinasāsanavarampi": {
+  "meaning": "and the excellent teaching of the Conqueror",
+  "summary": "This is a compound with the enclitic pi attached: \"the excellent (true) teaching of the Conqueror, and\".",
+  "gram": "compound noun (neuter/masculine accusative) + enclitic particle pi",
+  "breakdown": [
+   ["jina", "Conqueror — an epithet of the Buddha, who has conquered the defilements."],
+   ["sāsana", "The teaching, the dispensation of the Buddha."],
+   ["varaṁ", "Excellent, true, best."],
+   ["pi", "Enclitic particle: \"and, also\"."]
+  ]
+ },
+ "jino": {
+  "meaning": "conquered, beaten, deprived",
+  "summary": "Here a past participle of jayati \"to conquer\"; not to be confused with Jina, \"the Conqueror\", an epithet of the Buddha.",
+  "gram": "past participle of jayati/jināti (masculine nominative singular)",
+  "breakdown": [
+   ["√ji", "Root: to conquer, to win (jayati, jināti)."],
+   ["-na", "Past participle suffix."]
+  ]
+ },
+ "jivhā": {
+  "meaning": "tongue",
+  "gram": "feminine noun",
+  "breakdown": [
+   ["jivhā", "Tongue; one of the six sense doors (the base of taste)."]
+  ]
+ },
+ "jiṇṇakaṁ": {
+  "meaning": "grown old; aged, decrepit",
+  "gram": "adjective (from jiṇṇa, past participle of jīrati \"to grow old\"; here accusative/neuter singular)",
+  "breakdown": [
+   ["√jīr", "Root: to decay, to grow old."],
+   ["jiṇṇa", "Past participle: grown old, decayed."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "jotiparāyaṇo": {
+  "meaning": "having light as one's goal; destined for light",
+  "summary": "Describes one heading from darkness or light toward light, as in the four types of persons taught in the suttas.",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["joti", "Light, brightness."],
+   ["parāyaṇa", "Having as final goal, destined for, ending in."]
+  ]
+ },
+ "jutimanto": {
+  "meaning": "full of splendour; resplendent",
+  "gram": "adjective (juti + possessive suffix -mant; here nominative plural)",
+  "breakdown": [
+   ["juti", "Splendour, brightness, effulgence (from √jut \"to shine\")."],
+   ["-mant", "Possessive suffix: \"possessing, full of\"."]
+  ]
+ },
+ "jutiñca": {
+  "meaning": "and splendour; and effulgence",
+  "gram": "feminine noun (accusative singular jutiṁ) + enclitic ca, joined by sandhi",
+  "breakdown": [
+   ["jutiṁ", "Splendour, effulgence (accusative of juti, from √jut \"to shine\")."],
+   ["ca", "And. (The niggahīta ṁ + ca becomes ñca by sandhi.)"]
+  ]
+ },
+ "jālavāgurādihatthe": {
+  "meaning": "with nets, snares and so forth in hand",
+  "gram": "compound adjective (locative/accusative plural)",
+  "breakdown": [
+   ["jāla", "Net."],
+   ["vāgurā", "Snare, trap-net."],
+   ["ādi", "And so forth, et cetera."],
+   ["hattha", "Hand; here \"having in the hand\"."]
+  ]
+ },
+ "jānipatayo": {
+  "meaning": "wife and husband",
+  "gram": "masculine noun, compound, nominative plural (dvandva)",
+  "breakdown": [
+   ["jāni", "Wife."],
+   ["pati", "Husband, lord."]
+  ]
+ },
+ "jāniṁ": {
+  "meaning": "loss; decay",
+  "gram": "feminine noun (jāni, from jahati \"to abandon\"; accusative singular)",
+  "breakdown": [
+   ["√hā", "Root: to abandon, lose (jahati); weakened to jā- in this formation."],
+   ["-ni", "Noun suffix."]
+  ]
+ },
+ "jātarūparajatapaṭiggahaṇā": {
+  "meaning": "accepting gold and silver",
+  "summary": "This compound names one of the things abstained from in the training precepts: the acceptance of gold and silver (money).",
+  "gram": "neuter action noun, compound (here ablative: \"from accepting gold and silver\")",
+  "breakdown": [
+   ["jātarūpa", "Gold (literally \"natural form\")."],
+   ["rajata", "Silver."],
+   ["paṭiggahaṇa", "Acceptance, receiving."]
+  ]
+ },
+ "jātassa āpādeta": {
+  "meaning": "one who brings up the one born; a rearer of the child",
+  "gram": "phrase: genitive of jāta (\"of the one born\") + agent noun from āpādeti, causative of āpajjati",
+  "breakdown": [
+   ["jātassa", "Of the one born (genitive of jāta, past participle of jāyati \"to be born\")."],
+   ["āpādetā", "One who brings up to a certain state, who rears; agent noun from āpādeti, causative of āpajjati \"to enter, fall into, reach\"."]
+  ],
+  "note": "uncertain: the lexicon gives this as a phrase fragment; the parse follows the lexicon's gloss \"birth + one who brings up to a certain state\"."
+ },
+ "jātidhammā": {
+  "meaning": "subject to birth; having the nature of being born",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["jāti", "Birth."],
+   ["dhamma", "Here as final member of a compound: \"having the nature of, subject to\"."]
+  ]
+ },
+ "jātipi": {
+  "meaning": "birth too; and birth",
+  "summary": "As in the First Noble Truth formula: \"birth too is suffering\" (jātipi dukkhā).",
+  "gram": "feminine noun (jāti, nominative singular) + enclitic particle pi",
+  "breakdown": [
+   ["jāti", "Birth (from √jan \"to be born\")."],
+   ["pi", "Enclitic particle: \"too, also, and\"."]
+  ]
+ },
+ "jātitthaddho": {
+  "meaning": "proud of birth; haughty about one's descent",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["jāti", "Birth, descent, caste."],
+   ["thaddha", "Hard, rigid; haughty, selfish. (The doubling tth is junction doubling.)"]
+  ]
+ },
+ "jātu": {
+  "meaning": "surely; undoubtedly",
+  "gram": "indeclinable, emphatic particle"
+ },
+ "jāṇussoṇibrāhmaṇasuttaṁ": {
+  "meaning": "the Discourse to the Brahmin Jāṇussoṇi",
+  "gram": "proper noun, neuter (title of a sutta)",
+  "breakdown": [
+   ["Jāṇussoṇi", "Name of a brahmin who questioned the Buddha."],
+   ["brāhmaṇa", "Brahmin, member of the priestly caste."],
+   ["sutta", "Discourse."]
+  ],
+  "forms": ["Jāṇussoṇibrāhmaṇasuttaṁ"]
+ },
+ "jīraṇatā": {
+  "meaning": "decay; the state of growing old",
+  "gram": "feminine abstract noun (from jīraṇa)",
+  "breakdown": [
+   ["√jīr", "Root: to decay, grow old (jīrati)."],
+   ["-aṇa", "Action-noun suffix: aging."],
+   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "jīvitaṁ": {
+  "meaning": "life; living",
+  "gram": "neuter noun (past participle of jīvati used as noun; nominative/accusative singular)",
+  "breakdown": [
+   ["√jīv", "Root: to live (jīvati)."],
+   ["-ita", "Past participle suffix; here the participle serves as a noun, \"life\"."]
+  ]
+ },
+ "jīvitindriyassupacchedo": {
+  "meaning": "the cutting off of the life faculty; destruction of the faculty of life",
+  "gram": "masculine noun, sandhi compound (nominative singular)",
+  "breakdown": [
+   ["jīvita", "Life."],
+   ["indriya", "Faculty; jīvitindriya is the life faculty."],
+   ["indriyassa", "Genitive: \"of the faculty\". (The final -a fuses with the following u-.)"],
+   ["upaccheda", "Cutting off, destruction."]
+  ]
+ },
+ "jīvitindriyupacchedakaupakkamasamuṭṭhāpikā": {
+  "meaning": "occasioning an attack that cuts off the life faculty",
+  "gram": "feminine adjective, long compound",
+  "breakdown": [
+   ["jīvita", "Life."],
+   ["indriya", "Faculty."],
+   ["upacchedaka", "Cutting off, destroying."],
+   ["upakkama", "Attack, undertaking, assault."],
+   ["samuṭṭhāpikā", "Causing to arise, occasioning (feminine)."]
+  ]
+ },
+ "jūtakīḷanamanuyutto": {
+  "meaning": "addicted to playing at gambling",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["jūta", "Gambling, dice-play."],
+   ["kīḷana", "Playing."],
+   ["m", "Junction consonant (sandhi insertion)."],
+   ["anuyutta", "Addicted to, devoted to, applying oneself to."]
+  ]
+ },
+ "jūtappamādassa": {
+  "meaning": "of the negligence of gambling; of heedlessness in dice-play",
+  "gram": "masculine noun, compound (genitive singular)",
+  "breakdown": [
+   ["jūta", "Gambling, playing dice."],
+   ["pamāda", "Negligence, heedlessness. (The doubling pp is junction doubling.)"]
+  ]
+ },
+ "jūtappamādaṭṭhānānuyogo": {
+  "meaning": "addiction to gambling, an occasion for heedlessness",
+  "summary": "One of the channels for dissipating wealth taught in the Siṅgālasutta.",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["jūta", "Gambling."],
+   ["pamāda", "Carelessness, heedlessness."],
+   ["ṭhāna", "Place, occasion for."],
+   ["anuyoga", "Being addicted to, applying oneself to."]
+  ]
+ },
+ "kacchapo": {
+  "meaning": "turtle; tortoise",
+  "gram": "masculine noun (nominative singular)",
+  "breakdown": [
+   ["kaccha", "Marshy land, riverbank."],
+   ["-pa", "Suffix: \"drinking/dwelling\"; the kacchapa is the marsh-dweller, the turtle."]
+  ]
+ },
+ "kacci": {
+  "meaning": "truly?; surely?; an interrogative particle expecting confirmation",
+  "gram": "indeclinable, interrogative particle (from ka + ci)"
+ },
+ "kadāci": {
+  "meaning": "at any time; sometimes",
+  "gram": "indeclinable adverb (kadā \"when\" + indefinite -ci)",
+  "note": "uncertain: the lexicon's gloss line for this row is garbled (it runs together with neighbouring rows such as kappati and kampati); the meaning given follows the standard sense of kadāci supported by the DPD analysis."
+ },
+ "kahāpaṇā": {
+  "meaning": "kahāpaṇas, the coins of those days",
+  "gram": "masculine noun (nominative/accusative plural)",
+  "breakdown": [
+   ["kahāpaṇa", "A square copper, silver or gold coin; the standard currency unit of ancient India."]
+  ]
+ },
+ "kakkasa": {
+  "meaning": "rough; harsh",
+  "gram": "adjective",
+  "breakdown": [
+   ["kakkasa", "Rough, harsh; used of harsh speech."]
+  ]
+ },
+ "kalahajātā": {
+  "meaning": "fallen into strife; embroiled in quarrel",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["kalaha", "Strife, quarrel, battle."],
+   ["jāta", "Produced, born, arisen (past participle of jāyati)."]
+  ]
+ },
+ "kalahappavaḍḍhanī": {
+  "meaning": "increasing quarrels; that which makes strife grow",
+  "gram": "feminine adjective/noun, compound",
+  "breakdown": [
+   ["kalaha", "Quarrel, strife, battle."],
+   ["pavaḍḍhanī", "Increasing, making grow (feminine). (The doubling pp is junction doubling.)"]
+  ]
+ },
+ "kalyāṇamittassetaṁ": {
+  "meaning": "this is... of one who has virtuous friends",
+  "gram": "sandhi fusion: genitive adjective + pronoun (kalyāṇamittassa + etaṁ)",
+  "breakdown": [
+   ["kalyāṇamitta", "One who has good, virtuous friends; friendship with the virtuous."],
+   ["-assa", "Genitive singular ending: \"of\"."],
+   ["etaṁ", "This. (The final -a of -assa elides into e- of etaṁ.)"]
+  ]
+ },
+ "kalyāṇamittatā": {
+  "meaning": "friendship with the virtuous; having wholesome, beneficial friends",
+  "summary": "Often taught alongside kalyāṇasahāyatā (companionship with the virtuous) and kalyāṇasampavaṅkatā (being colleagues of the virtuous).",
+  "gram": "feminine abstract noun, compound (from kalyāṇamitta)",
+  "breakdown": [
+   ["kalyāṇa", "Wholesome, beneficial, virtuous."],
+   ["mitta", "Friend."],
+   ["-tā", "Abstract-noun suffix: \"the state of having\"."]
+  ],
+  "goenka": "Association with the virtuous is given great weight in the suttas studied in this tradition: kalyāṇamittatā, friendship with those established in Dhamma, supports a meditator's own growth in sīla, samādhi and paññā. The teaching groups it with kalyāṇasahāyatā, companionship with the virtuous, and kalyāṇasampavaṅkatā, being colleagues of the virtuous — together describing an environment in which wholesome qualities can develop."
+ },
+ "kalyāṇasahāyatā": {
+  "meaning": "companionship with the virtuous",
+  "gram": "feminine abstract noun, compound",
+  "breakdown": [
+   ["kalyāṇa", "Wholesome, beneficial, virtuous."],
+   ["sahāya", "Companion."],
+   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "kalyāṇasampavaṅkatā": {
+  "meaning": "being colleagues of the virtuous; close association with the good",
+  "gram": "feminine abstract noun, compound",
+  "breakdown": [
+   ["kalyāṇa", "Wholesome, beneficial, virtuous."],
+   ["sampavaṅka", "Intimate associate, colleague."],
+   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "kalyāṇādhimuttikā": {
+  "meaning": "inclined to the beneficial; intent upon the wholesome",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["kalyāṇa", "Beneficial, wholesome. (Final -a coalesces with following a-.)"],
+   ["adhimuttika", "Intent upon, inclined to."]
+  ]
+ },
+ "kalāpa": {
+  "meaning": "the smallest indivisible unit of matter as experienced in advanced vipassanā",
+  "gram": "masculine noun",
+  "breakdown": [
+   ["kalāpa", "Literally a bundle or sheaf; in Goenka-tradition usage, the sub-atomic particle of matter."]
+  ],
+  "goenka": "In Goenkaji's discourses, especially in the advanced portions of the 10-day course, kalāpa names the smallest indivisible unit of matter: as vipassanā deepens, the meditator experiences the entire material structure of the body as a mass of tiny kalāpas arising and passing away with great rapidity. This direct experience of matter as vibration dissolves the illusion of solidity and confirms anicca at the most subtle level.",
+  "note": "uncertain: this term is not attested in the three-volume Exploring the Path series; the gloss is a placeholder drawn from conventional Goenka-tradition usage (10-day discourses, Days 5 and 8) and requires verification by a human reviewer before being treated as authoritative."
+ },
+ "kamati": {
+  "meaning": "to go; to enter into; to come to, get to",
+  "gram": "verb, 3rd person singular present (√kam)",
+  "breakdown": [
+   ["√kam", "Root: to go, to step."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "kamma": {
+  "meaning": "action; volitional action; the law of action and result",
+  "summary": "Kamma is volitional action — mental, verbal or physical — together with the law by which such action bears its corresponding fruit.",
+  "gram": "neuter noun, irregular (from karoti, √kar)",
+  "breakdown": [
+   ["√kar", "Root: to do, to make (karoti)."],
+   ["-ma", "Noun suffix; kamma is literally \"the deed, what is done\"."]
+  ],
+  "goenka": "In this tradition kamma is understood as volitional action: the performance of kamma is nothing but the determined realisation and purposeful accomplishment of one's positive or negative volition. Kamma is wholesome or unwholesome volition, and one's present condition is the ripened fruit of past volition and the actions derived from it. The emphasis is on complete personal responsibility, captured in the recurring reflection from the Abhiṇhapaccavekkhitabbaṭhānasutta: \"Kamma is my only possession, I am heir to my kamma, I am born from my kamma, kamma is my relative, kamma is my reconciliation; whatever kamma I perform, wholesome or unwholesome, I will be the heir thereof.\" The term should not be flattened into \"fate\" or the Hindu cosmic-justice sense of \"karma\" — the weight falls on present volition and its results.",
+  "forms": ["kammaṁ"]
+ },
+ "kammabandhu": {
+  "meaning": "having kamma as one's relative; kamma is one's kin",
+  "summary": "One term in the reflection \"kamma is my relative\" from the recollection on kamma.",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["bandhu", "Relative, kinsman."]
+  ]
+ },
+ "kammadāyādo": {
+  "meaning": "heir to one's kamma",
+  "summary": "From the same reflection: \"I am heir to my kamma\".",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["dāyāda", "Heir: dāya + ā + da — receiving the son's portion, getting what is left."]
+  ]
+ },
+ "kammakiliṭṭhamattano": {
+  "meaning": "one's own impure deed; the stained action of oneself",
+  "gram": "sandhi fusion: neuter noun + adjective + genitive pronoun (kamma + kiliṭṭhaṁ + attano)",
+  "breakdown": [
+   ["kamma", "Deed, action."],
+   ["kiliṭṭha", "Impure, stained, defiled (past participle of kilissati)."],
+   ["m", "Junction consonant (sandhi insertion)."],
+   ["attano", "Of oneself, one's own (genitive of attā)."]
+  ]
+ },
+ "kammantasaṁvidhānena": {
+  "meaning": "by the arrangement of work; through the proper organisation of one's tasks",
+  "gram": "neuter noun, compound (instrumental singular)",
+  "breakdown": [
+   ["kammanta", "Work, occupation, business."],
+   ["saṁvidhāna", "Appointing, arrangement, organisation."]
+  ]
+ },
+ "kammanto": {
+  "meaning": "action; work, occupation",
+  "gram": "masculine noun (nominative singular)",
+  "breakdown": [
+   ["kamma", "Action, deed."],
+   ["-anta", "Suffix extending the stem; kammanta covers action, work and occupation, as in sammā-kammanta, right action."]
+  ]
+ }
+}

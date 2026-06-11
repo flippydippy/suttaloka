@@ -1,0 +1,330 @@
+{
+ "bhūmirāmaṇeyyakaṁ": {
+  "meaning": "delightful places; the loveliness of the land",
+  "gram": "neuter noun, compound (bhūmi + rāmaṇeyyaka)",
+  "breakdown": [
+   ["bhūmi", "Ground, place, land."],
+   ["rāmaṇeyyakaṁ", "Enjoyable, delightful; from ramati “to delight”."]
+  ],
+  "forms": ["bhūmirāmaṇeyyakaṃ"]
+ },
+ "bhūri": {
+  "meaning": "abundant, much, many; (figuratively) wisdom",
+  "gram": "adjective (√bhū + ri)"
+ },
+ "bhūtapubbaṁ": {
+  "meaning": "formerly; once upon a time",
+  "gram": "adverb / adjective, compound (bhūta + pubba, “having been before”)",
+  "breakdown": [
+   ["bhūta", "Been, happened; past participle of bhavati."],
+   ["pubbaṁ", "Before, formerly."]
+  ],
+  "forms": ["bhūtapubbaṃ"]
+ },
+ "boddhabbaṁ": {
+  "meaning": "should be understood; you should understand",
+  "gram": "potential participle of bujjhati (√budh + tabba)",
+  "breakdown": [
+   ["√budh", "Root “to awaken, understand” (budh > boddh- before the suffix)."],
+   ["-abbaṁ", "Potential participle suffix: “should be”."]
+  ],
+  "forms": ["boddhabbaṃ"]
+ },
+ "bojjhaṅga": {
+  "meaning": "factor of enlightenment; constituent of awakening",
+  "summary": "This compound (bodhi + aṅga) names the seven factors of enlightenment.",
+  "gram": "masculine noun, compound (bodhi + aṅga)",
+  "breakdown": [
+   ["bodhi", "Enlightenment, awakening (bodhi + aṅga coalesces to bojjhaṅga)."],
+   ["aṅga", "Limb, part, constituent."]
+  ],
+  "goenka": "The bojjhaṅgā (also sambojjhaṅgā) are the seven factors of enlightenment: sati (awareness), dhammavicaya (investigation of the Dhamma), viriya (effort), pīti (rapture), passaddhi (tranquillity), samādhi (concentration) and upekkhā (equanimity). Their perfection is laid out in the Ānāpānassati Sutta, where the meditator develops them one by one to their fulfilment on the path to liberation."
+ },
+ "brahmacariyavāso": {
+  "meaning": "living the holy life; the dwelling in brahmacariya",
+  "gram": "masculine noun, nominative singular, compound (brahmacariya + vāsa)",
+  "breakdown": [
+   ["brahmacariya", "The holy life; the pure life of practice."],
+   ["vāso", "Living, dwelling; from vasati."]
+  ]
+ },
+ "brahmacariyaṁ": {
+  "meaning": "the holy life; faring the path of a brahma; the life of purity",
+  "gram": "neuter noun, compound (brahma + cariya)",
+  "breakdown": [
+   ["brahma", "Sublime, divine; brahma-like."],
+   ["cariyaṁ", "Faring, conduct, way of life; from carati “to move, conduct oneself”."]
+  ],
+  "forms": ["brahmacariyaṃ"]
+ },
+ "brahmajālasuttavaṇṇanā": {
+  "meaning": "the commentary on the Brahmajāla Sutta (“The Net of Brahmā”; brahma + jāla “net, entanglement”)",
+  "gram": "proper noun (commentary title; vaṇṇanā: explanation, commentarial exposition)",
+  "forms": ["Brahmajālasuttavaṇṇanā"]
+ },
+ "brahmalokaparāyaṇataṁ": {
+  "meaning": "having the Brahmā world as one’s destination; finding one’s support in the Brahmā sphere",
+  "gram": "abstract noun, compound (brahma + loka + parāyaṇa + -tā)",
+  "breakdown": [
+   ["brahma", "Brahmā; divine."],
+   ["loka", "World, sphere."],
+   ["parāyaṇa", "Destination, final support; attached to, finding one’s support in."],
+   ["-taṁ", "Abstract suffix -tā, accusative."]
+  ],
+  "forms": ["brahmalokaparāyaṇataṃ"]
+ },
+ "brahmayānarūpaṁ": {
+  "meaning": "having the form of the divine vehicle; the brahma-like vehicle",
+  "gram": "neuter noun, compound (brahma + yāna + rūpa)",
+  "breakdown": [
+   ["brahma", "Divine, sublime, brahmin-like."],
+   ["yāna", "Vehicle, carriage."],
+   ["rūpaṁ", "Form, body, appearance."]
+  ],
+  "forms": ["brahmayānarūpaṃ"]
+ },
+ "bravuṁ": {
+  "meaning": "they spoke; they said",
+  "gram": "verb, aorist 3rd person plural of brūti (√brū)",
+  "forms": ["abravuṁ"]
+ },
+ "brūhetvā": {
+  "meaning": "having increased; having developed, perfected",
+  "gram": "absolutive (gerund) of brūheti “to increase, develop”"
+ },
+ "brūhi": {
+  "meaning": "tell!; speak! (you)",
+  "gram": "verb, imperative 2nd person singular of brūti (√brū)"
+ },
+ "brūmi": {
+  "meaning": "I tell; I say",
+  "gram": "verb, present tense, 1st person singular of brūti (√brū)"
+ },
+ "brūsi": {
+  "meaning": "you tell; you say",
+  "gram": "verb, present tense, 2nd person singular of brūti (√brū)"
+ },
+ "buddha,": {
+  "meaning": "Buddha; the Awakened One",
+  "gram": "masculine noun (past participle of bujjhati, √budh “to awaken”)",
+  "note": "uncertain: this headword is a glossary-row artifact (a footnote fragment mentioning the Buddha, the Theravādins and the doctrine of logic); see Buddha."
+ },
+ "buddhavaggo, dhammapadapāḷi, khuddakanikāye.": {
+  "meaning": "the Buddha chapter of the Dhammapada, in the Khuddaka Nikāya",
+  "gram": "phrase (textual citation)"
+ },
+ "buddhānamuppādo": {
+  "meaning": "the arising of Buddhas; the appearance of the Awakened Ones",
+  "gram": "masculine noun, compound (buddhānaṁ + uppāda)",
+  "breakdown": [
+   ["buddhānaṁ", "Of the Buddhas; genitive plural (the m bridges in sandhi)."],
+   ["uppādo", "Arising, appearance; from ud + √pad."]
+  ]
+ },
+ "buddhānussatikathā, chaanussatiniddeso, visuddhimagga.": {
+  "meaning": "the “Discussion of the Recollection of the Buddha” in the exposition of the six recollections of the Visuddhimagga",
+  "gram": "phrase (textual citation)"
+ },
+ "buddhānussatikathā, dhammānussatikathā, saṅghānussatikathā.": {
+  "meaning": "the discussions of the recollection of the Buddha, the recollection of the Dhamma and the recollection of the Saṅgha",
+  "gram": "phrase (textual citation)"
+ },
+ "byantīkaroti": {
+  "meaning": "to abolish; to get rid of, make an end of",
+  "gram": "verb, present tense, 3rd person singular, compound verb (byanta + karoti)",
+  "breakdown": [
+   ["byantī", "To an end (vi + anta “end”, in compound form byantī-)."],
+   ["karoti", "Makes, does; “makes an end of”."]
+  ]
+ },
+ "byappanā/ vyappanā": {
+  "meaning": "application of the mind; fixing of the mind, focusing",
+  "gram": "feminine noun (vi + appanā)",
+  "breakdown": [
+   ["vi", "Prefix (vy-/by- before a vowel)."],
+   ["appanā", "Fixing, application (of the mind onto its object)."]
+  ],
+  "forms": ["byappanā", "vyappanā"]
+ },
+ "byasanaṁ": {
+  "meaning": "misfortune; loss",
+  "gram": "neuter noun (vi + √as + ana)",
+  "forms": ["byasanaṃ", "vyasanaṁ"]
+ },
+ "byasanena": {
+  "meaning": "by misfortune; through loss",
+  "gram": "neuter noun, instrumental singular of byasana"
+ },
+ "byattena": {
+  "meaning": "by one experienced; by a learned, competent person",
+  "gram": "past participle of byañjayati, instrumental singular (vi + √añj + ta)"
+ },
+ "byañjanato": {
+  "meaning": "as to the letter; by the word, the characteristic, the distinctive mark",
+  "gram": "neuter noun, ablative singular of byañjana (vi + √añj + ana)",
+  "forms": ["vyañjanato"]
+ },
+ "byādhidhammomhi": {
+  "meaning": "I am of the nature to fall sick; sickness is my nature",
+  "gram": "sandhi phrase: byādhi + dhammo + amhi",
+  "breakdown": [
+   ["byādhi", "Disease, sickness."],
+   ["dhammo", "Nature, having the nature of."],
+   ["amhi", "I am (1st person singular of atthi; dhammo + amhi fuses to dhammomhi)."]
+  ]
+ },
+ "byāpajjati": {
+  "meaning": "to be malevolent; to have ill will",
+  "gram": "verb, present tense, 3rd person singular (vi + ā + √pad)"
+ },
+ "byāpatti": {
+  "meaning": "malevolence; ill will",
+  "gram": "feminine abstract noun (vi + ā + √pad + ti)"
+ },
+ "byāpādo": {
+  "meaning": "ill will; aversion, hatred",
+  "summary": "Byāpāda is one of the five hindrances and one of the unwholesome roots of action.",
+  "gram": "masculine noun, nominative singular (vi + ā + √pad)",
+  "breakdown": [
+   ["vi + ā", "Verbal prefixes (vy- > by- before the vowel)."],
+   ["√pad", "Root “to go, fall”; byāpāda is the mind “gone wrong” — ill will."]
+  ],
+  "goenka": "Byāpādo is ill will — aversion, hatred — one of the principal impurities of the mind. It appears among the five hindrances that block concentration, and as the root that right thought abandons: the thought free from ill will (abyāpādasaṅkappa) is an aspect of sammāsaṅkappa on the Noble Eightfold Path."
+ },
+ "byārosanā": {
+  "meaning": "out of anger; injuring in anger",
+  "gram": "feminine abstract noun (from byāroseti, vi + ā + √rus)"
+ },
+ "byārosanā out of": {
+  "meaning": "byārosanā: out of anger",
+  "gram": "feminine abstract noun",
+  "note": "uncertain: this headword is a glossary-row artifact; the entry is byārosanā with the gloss “out of anger”. See byārosanā."
+ },
+ "bādhenti": {
+  "meaning": "they injure, hurt, oppress",
+  "gram": "verb, present tense, 3rd person plural, causative of bādhati (√bādh)"
+ },
+ "bāhitvā": {
+  "meaning": "having warded off; having removed",
+  "gram": "absolutive (gerund) of bāheti “to ward off, keep away”"
+ },
+ "bāhusaccañca": {
+  "meaning": "and great learning",
+  "gram": "neuter abstract noun + particle (bāhusacca + ca, with sandhi ñc)",
+  "breakdown": [
+   ["bāhusacca", "Great learning; the state of having heard much (from bahussuta)."],
+   ["ca", "And (saccaṁ + ca fuses to saccañca in sandhi)."]
+  ]
+ },
+ "bāhābalaparicitā": {
+  "meaning": "accumulated by the strength of one’s arms; earned by one’s own labour",
+  "gram": "adjective, compound (bāhā + bala + paricita)",
+  "breakdown": [
+   ["bāhā", "Arm."],
+   ["bala", "Strength."],
+   ["paricitā", "Accumulated, gathered; past participle of pacināti/paricināti."]
+  ]
+ },
+ "bālalakkhaṇāni": {
+  "meaning": "the marks of a fool",
+  "gram": "neuter noun, plural, compound (bāla + lakkhaṇa)",
+  "breakdown": [
+   ["bāla", "Fool, foolish."],
+   ["lakkhaṇāni", "Marks, characteristics."]
+  ]
+ },
+ "bālanimittāni": {
+  "meaning": "the signs of a fool",
+  "gram": "neuter noun, plural, compound (bāla + nimitta)",
+  "breakdown": [
+   ["bāla", "Fool, foolish."],
+   ["nimittāni", "Signs, indications."]
+  ]
+ },
+ "bālā": {
+  "meaning": "fools; the foolish",
+  "gram": "adjective/masculine noun, nominative plural of bāla"
+ },
+ "bālāpadānāni": {
+  "meaning": "the characteristics of a fool; the deeds that mark a fool",
+  "gram": "neuter noun, plural, compound (bāla + apadāna)",
+  "breakdown": [
+   ["bāla", "Fool, foolish (bāla + apadāna coalesces to bālāpadāna)."],
+   ["apadānāni", "Characteristics, exploits, deeds."]
+  ]
+ },
+ "bījagāmabhūtagāmasamārambhā": {
+  "meaning": "injury to seeds and plants; damaging seed-life and plant-life",
+  "gram": "masculine noun, ablative singular, compound (bījagāma + bhūtagāma + samārambha)",
+  "breakdown": [
+   ["bījagāma", "The collection of seeds; seed-life."],
+   ["bhūtagāma", "The collection of grown plants; plant-life."],
+   ["samārambhā", "Injury to, destruction of; from saṁ + ā + √rabh."]
+  ]
+ },
+ "bījarukkhādikānaṁva": {
+  "meaning": "like seeds, trees and so on",
+  "gram": "compound, genitive plural + particle (bīja + rukkha + ādika + va)",
+  "breakdown": [
+   ["bīja", "Seed."],
+   ["rukkha", "Tree."],
+   ["ādikānaṁ", "Beginning with, and so on; genitive plural."],
+   ["va", "Like, as (iva, shortened and fused)."]
+  ],
+  "forms": ["bījarukkhādikānaṃva"]
+ },
+ "bījavaggo": {
+  "meaning": "the Seed chapter (bīja + vagga)",
+  "gram": "proper noun, masculine (chapter title)",
+  "forms": ["Bījavaggo"]
+ },
+ "bījaṁ": {
+  "meaning": "seed",
+  "gram": "neuter noun",
+  "forms": ["bījaṃ"]
+ },
+ "bījīyati": {
+  "meaning": "is being fanned",
+  "gram": "verb, present tense, 3rd person singular, passive of vījati “to fan”"
+ },
+ "cakkavattisutta": {
+  "meaning": "the Cakkavatti Sutta, the discourse on the duties of a righteous wheel-turning king",
+  "gram": "proper noun (sutta title)",
+  "goenka": "The Cakkavattisutta describes the different lengths of the human lifespan and their close dependence on the quality of moral standards that are upheld — on social and ethical principles such as sammāvācā, sammākammanto and sammā-ājīvo (right speech, right action and right livelihood). According to this text the lifespan varies from a maximum of 80,000 years down to 10 years as morality declines.",
+  "forms": ["Cakkavattisutta", "Cakkavattisuttaṃ"]
+ },
+ "cakkavattivatta’nti": {
+  "meaning": "“the duty of a wheel-turning monarch”, they say",
+  "gram": "sandhi phrase: cakkavattivattaṁ + ti (quotation marker)",
+  "breakdown": [
+   ["cakkavatti", "Wheel-turning monarch (cakka “wheel” + vattin “one who sets rolling”)."],
+   ["vattaṁ", "Duty, observance."],
+   ["-nti", "Quotation marker ti fused with the preceding niggahīta (ṁ + ti > nti)."]
+  ]
+ },
+ "cakkavattī": {
+  "meaning": "a wheel-turning monarch; a universal king who sets the wheel (of righteousness) rolling",
+  "gram": "masculine agent noun, nominative singular, compound (cakka + vattin)",
+  "breakdown": [
+   ["cakka", "Wheel; the wheel of righteousness."],
+   ["vattī", "One who sets rolling, who keeps in motion; from √vatt."]
+  ]
+ },
+ "cakkavāḷesu": {
+  "meaning": "in the world systems",
+  "gram": "masculine noun, locative plural of cakkavāḷa",
+  "breakdown": [
+   ["cakka", "Wheel, circle."],
+   ["vāḷesu", "Enclosure, rim; cakkavāḷa is a world system, locative plural “in”."]
+  ]
+ },
+ "cakkaṁva": {
+  "meaning": "like a wheel",
+  "gram": "neuter noun + particle (cakkaṁ + va “like”)",
+  "breakdown": [
+   ["cakkaṁ", "Wheel."],
+   ["va", "Like, as (iva, shortened and fused in sandhi)."]
+  ],
+  "forms": ["cakkaṃva"]
+ }
+}

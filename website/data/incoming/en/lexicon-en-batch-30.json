@@ -1,0 +1,418 @@
+{
+ "labheyyāhaṁ": {
+  "meaning": "may I receive; might I obtain",
+  "gram": "sandhi fusion: optative + pronoun (labheyyaṁ + ahaṁ)",
+  "breakdown": [
+   ["labheyyaṁ", "May I receive (1st person singular optative of labhati \"to gain\")."],
+   ["ahaṁ", "I. (The two fuse: labheyyaṁ + ahaṁ → labheyyāhaṁ.)"]
+  ]
+ },
+ "laddhā": {
+  "meaning": "obtained; having been obtained",
+  "gram": "past participle of labhati (feminine/plural form); also used as gerund \"having obtained\"",
+  "breakdown": [
+   ["√labh", "Root: to gain, to obtain (labhati)."],
+   ["-ta", "Past participle suffix (labh + ta → laddha by assimilation)."]
+  ]
+ },
+ "lahukaṁ": {
+  "meaning": "short, quick; light, trifling",
+  "gram": "adjective (accusative/neuter singular of lahuka)",
+  "breakdown": [
+   ["lahu", "Light, quick."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "lahukā": {
+  "meaning": "light; trifling",
+  "gram": "adjective (feminine/plural form of lahuka)",
+  "breakdown": [
+   ["lahu", "Light, quick."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "lajjā": {
+  "meaning": "shame; modesty",
+  "gram": "feminine noun (from lajjati \"to be ashamed\")",
+  "breakdown": [
+   ["√lajj", "Root: to be ashamed, to be modest (lajjati)."],
+   ["-ā", "Feminine abstract-noun ending."]
+  ]
+ },
+ "lajjī": {
+  "meaning": "having shame; modest, conscientious",
+  "gram": "adjective (from lajjā; possessive -ī suffix)",
+  "breakdown": [
+   ["lajjā", "Shame, bashfulness."],
+   ["-ī", "Possessive adjectival suffix: \"possessing shame\"."]
+  ]
+ },
+ "lajjī/lajjā": {
+  "meaning": "shame; bashfulness; one possessing shame",
+  "gram": "feminine noun (lajjā) and its possessive adjective (lajjī)",
+  "breakdown": [
+   ["lajjā", "Shame, bashfulness (feminine noun)."],
+   ["lajjī", "Possessing shame, modest (adjective)."]
+  ]
+ },
+ "lapanā": {
+  "meaning": "prattling; flattering talk",
+  "gram": "noun (action noun from lapati \"to talk\")",
+  "breakdown": [
+   ["√lap", "Root: to prattle, to talk (lapati)."],
+   ["-anā", "Action-noun suffix."]
+  ]
+ },
+ "lapati": {
+  "meaning": "to talk; to tell, prattle",
+  "gram": "verb, 3rd person singular present (√lap)",
+  "breakdown": [
+   ["√lap", "Root: to talk, to prattle."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "lapitaṁ": {
+  "meaning": "talked; uttered",
+  "gram": "past participle of lapati (neuter nominative/accusative singular)",
+  "breakdown": [
+   ["√lap", "Root: to talk, to utter."],
+   ["-ita", "Past participle suffix."]
+  ]
+ },
+ "lekhasuttaṁ": {
+  "meaning": "the Lekhasutta, the Discourse on Inscriptions (writing)",
+  "gram": "proper noun, neuter (title of a sutta)",
+  "breakdown": [
+   ["lekha", "Writing, inscription."],
+   ["sutta", "Discourse."]
+  ],
+  "forms": ["Lekhasuttaṁ"]
+ },
+ "leḍḍu": {
+  "meaning": "clod of earth",
+  "gram": "masculine noun"
+ },
+ "leḍḍunā": {
+  "meaning": "with a clod of earth; with a stone",
+  "gram": "masculine noun (instrumental singular of leḍḍu)",
+  "breakdown": [
+   ["leḍḍu", "Clod of earth."],
+   ["-nā", "Instrumental singular ending: \"with, by\"."]
+  ]
+ },
+ "lobho": {
+  "meaning": "craving; desire, greed",
+  "gram": "masculine noun (from lubbhati \"to be greedy\")",
+  "breakdown": [
+   ["√lubh", "Root: to be greedy, to covet (lubbhati); strengthened to lobh-."],
+   ["-a", "Noun suffix."]
+  ],
+  "goenka": "Lobha, greed or craving, is one of the three roots of unwholesome action together with dosa (aversion) and moha (delusion). Every kamma rooted in lobha multiplies one's misery. In vipassanā practice the meditator observes how the mind reacts with greed to pleasant sensations, and by observing those sensations with equanimity, understanding their impermanence, gradually weakens and eradicates this root."
+ },
+ "lokajeṭṭhaṁ": {
+  "meaning": "the foremost in the world; the eldest, highest of the world",
+  "gram": "masculine noun, compound (accusative singular)",
+  "breakdown": [
+   ["loka", "World."],
+   ["jeṭṭha", "Foremost, highest, eldest."]
+  ]
+ },
+ "lokakkhāyikaṁ": {
+  "meaning": "talk about the world; speculative narration about the world",
+  "summary": "One item in the stock list of frivolous kinds of talk avoided by the meditator.",
+  "gram": "feminine noun, compound (accusative singular)",
+  "breakdown": [
+   ["loka", "World."],
+   ["akkhāyikā", "Narration, story-telling. (The doubling kkh is junction doubling.)"]
+  ]
+ },
+ "lokasmiṁ": {
+  "meaning": "in the world",
+  "gram": "masculine noun (locative singular of loka)",
+  "breakdown": [
+   ["loka", "World."],
+   ["-smiṁ", "Locative singular ending: \"in\"."]
+  ]
+ },
+ "lokavidū": {
+  "meaning": "knower of the worlds; wise about the world",
+  "summary": "One of the nine standard epithets of the Buddha in the iti'pi so formula.",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["loka", "World."],
+   ["vidū", "Knowing, clever, wise (from vindati/vidati \"to know\")."]
+  ],
+  "goenka": "Lokavidū, knower of the worlds, is one of the qualities of the Buddha recollected in the iti'pi so formula chanted in this tradition. Having explored the entire field of mind and matter within the framework of his own body, the Buddha knew by direct experience all the worlds — the entire range of conditioned existence — and what lies beyond it."
+ },
+ "lokāmisūpādānā": {
+  "meaning": "clinging to worldly gain; attachment to the bait of the world",
+  "gram": "neuter noun, compound (here ablative/plural form)",
+  "breakdown": [
+   ["loka", "World."],
+   ["āmisa", "Gain, bait, material allure."],
+   ["upādāna", "Attachment, clinging. (The vowels fuse: āmisa + upādāna → āmisūpādāna.)"]
+  ]
+ },
+ "lokānukampāya": {
+  "meaning": "out of compassion for the world",
+  "summary": "Literally \"trembling along with\" — having pity for the suffering in the world; said of the Buddha's motivation in teaching.",
+  "gram": "feminine abstract noun, compound (dative singular)",
+  "breakdown": [
+   ["loka", "World."],
+   ["anukampā", "Compassion; literally \"trembling along with\", being moved by the suffering of others."],
+   ["-āya", "Dative singular ending: \"for the sake of\"."]
+  ],
+  "goenka": "The lexicon highlights the literal sense: anukampā is \"trembling along with\", that is, having compassion, out of pity for the suffering in the world. The phrase lokānukampāya recurs in the suttas to describe why the Buddha and his disciples teach Dhamma: for the benefit and happiness of many, out of compassion for the world."
+ },
+ "lomahaṁso": {
+  "meaning": "horripilation; the hair of the body standing on end",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["loma", "Hair of the body."],
+   ["haṁsa", "Bristling, standing on end."]
+  ]
+ },
+ "luddho": {
+  "meaning": "greedy; desirous",
+  "gram": "past participle of lubbhati (masculine nominative singular)",
+  "breakdown": [
+   ["√lubh", "Root: to be greedy, to covet."],
+   ["-ta", "Past participle suffix (lubh + ta → luddha by assimilation)."]
+  ]
+ },
+ "luddo": {
+  "meaning": "fierce, gruesome; a hunter",
+  "gram": "adjective, also used as a masculine noun (nominative singular)",
+  "breakdown": [
+   ["ludda", "Fierce, cruel (related to Sanskrit raudra); as a noun, a hunter."]
+  ]
+ },
+ "lujjati": {
+  "meaning": "to break; to fall apart, crumble",
+  "gram": "verb, 3rd person singular present (√luj)",
+  "breakdown": [
+   ["√luj", "Root: to break up, to dissolve."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "luto": {
+  "meaning": "cut off; broken",
+  "gram": "past participle of lunāti \"to cut\" (masculine nominative singular)",
+  "breakdown": [
+   ["√lu", "Root: to cut, to reap (lunāti)."],
+   ["-ta", "Past participle suffix."]
+  ]
+ },
+ "lābhasakkārasilokasannissitassa": {
+  "meaning": "of one based upon gain, honour and fame",
+  "gram": "adjective, compound (genitive singular)",
+  "breakdown": [
+   ["lābha", "Gain, acquisition."],
+   ["sakkāra", "Honour, hospitality."],
+   ["siloka", "Fame, renown."],
+   ["sannissita", "Based on, depending on."]
+  ]
+ },
+ "lābhasakkāraṁ": {
+  "meaning": "gain and honour; receiving and hospitality",
+  "gram": "masculine noun, compound (accusative singular)",
+  "breakdown": [
+   ["lābha", "Gain, receiving."],
+   ["sakkāra", "Respect, honour, hospitality."]
+  ]
+ },
+ "lābhena": {
+  "meaning": "through gain; by means of gain",
+  "gram": "masculine noun (instrumental singular of lābha)",
+  "breakdown": [
+   ["lābha", "Gain (from labhati \"to obtain\")."],
+   ["-ena", "Instrumental singular ending: \"through, by\"."]
+  ]
+ },
+ "lābhena lābhaṁ": {
+  "meaning": "gain upon gain; (pursuing) one gain by means of another",
+  "summary": "A stock phrase for insatiable acquisitiveness: chasing gain through gain.",
+  "gram": "phrase: instrumental + accusative of lābha",
+  "breakdown": [
+   ["lābhena", "Through gain (instrumental singular)."],
+   ["lābhaṁ", "Gain (accusative singular)."]
+  ]
+ },
+ "lābhā": {
+  "meaning": "gain; possession (also in the idiom \"it is a gain for...\")",
+  "gram": "masculine noun (nominative plural or ablative singular of lābha)",
+  "breakdown": [
+   ["√labh", "Root: to gain, obtain (labhati); strengthened to lābh-."],
+   ["-a", "Noun suffix."]
+  ]
+ },
+ "lābhādikāmatāya": {
+  "meaning": "through desire for gain and the rest (gain, offerings and renown)",
+  "summary": "The phrase probably refers to the standard set lābha-sakkāra-siloka: gain, offerings and renown.",
+  "gram": "compound noun (dative/instrumental singular)",
+  "breakdown": [
+   ["lābha", "Gain, receiving."],
+   ["ādi", "Starting from, and so forth."],
+   ["kāmatā", "Desire, craving (abstract of kāma)."]
+  ]
+ },
+ "lāmakācāro": {
+  "meaning": "of vile practice; one whose conduct is inferior",
+  "gram": "compound (masculine nominative singular)",
+  "breakdown": [
+   ["lāmaka", "Vile, inferior, low."],
+   ["ācāra", "Practice, conduct."]
+  ]
+ },
+ "maccena": {
+  "meaning": "by the mortal; by man",
+  "gram": "masculine noun (instrumental singular of macca)",
+  "breakdown": [
+   ["√mar", "Root: to die (marati); macca is \"one destined to die\", a mortal."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "maccha": {
+  "meaning": "fish",
+  "gram": "masculine noun"
+ },
+ "macchaghātako": {
+  "meaning": "fish-killer; fisherman",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["maccha", "Fish."],
+   ["ghātaka", "Killer, one who slays."]
+  ]
+ },
+ "macchamaṁsavatthusmiṁ": {
+  "meaning": "with regard to fish and meat",
+  "gram": "compound noun (locative singular)",
+  "breakdown": [
+   ["maccha", "Fish."],
+   ["maṁsa", "Meat, flesh."],
+   ["vatthu", "Matter, subject; locative: \"with regard to\"."]
+  ]
+ },
+ "maccu": {
+  "meaning": "death",
+  "gram": "masculine noun (from √mar \"to die\")",
+  "breakdown": [
+   ["√mar", "Root: to die."],
+   ["-tyu", "Noun suffix: maccu, death; also personified as Māra, the lord of death."]
+  ]
+ },
+ "maccudheyya": {
+  "meaning": "the realm of death; the sphere of mortality",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["maccu", "Death."],
+   ["dheyya", "Realm, sphere, domain."]
+  ]
+ },
+ "maccāna": {
+  "meaning": "of mortals; of men",
+  "gram": "masculine noun (genitive plural of macca, shortened in verse)",
+  "breakdown": [
+   ["macca", "Mortal, one destined to die (from √mar)."],
+   ["-āna(ṁ)", "Genitive plural ending: \"of\"."]
+  ]
+ },
+ "madaniyaṭṭhena": {
+  "meaning": "on account of being intoxicating; in the sense of causing intoxication",
+  "gram": "compound noun (instrumental singular used adverbially)",
+  "breakdown": [
+   ["madanīya", "Intoxicating, causing infatuation (from √mad)."],
+   ["aṭṭhena", "On account of, in the sense of (instrumental of attha; with junction doubling)."]
+  ]
+ },
+ "madappamādahetuto": {
+  "meaning": "by reason of intoxication and heedlessness",
+  "gram": "compound noun with ablative suffix -to",
+  "breakdown": [
+   ["mada", "Intoxication, conceit."],
+   ["pamāda", "Heedlessness, negligence. (The doubling pp is junction doubling.)"],
+   ["hetu", "Cause, reason."],
+   ["-to", "Ablative suffix: \"by reason of\"."]
+  ]
+ },
+ "madhurattāya": {
+  "meaning": "for sweetness; on account of its sweetness",
+  "gram": "neuter abstract noun (dative form of madhuratta)",
+  "breakdown": [
+   ["madhura", "Sweet (from madhu \"honey\")."],
+   ["-tta", "Abstract-noun suffix: \"the state of\"."],
+   ["-āya", "Dative ending: \"for\"."]
+  ]
+ },
+ "madā": {
+  "meaning": "intoxications; forms of vanity",
+  "gram": "masculine noun (nominative plural of mada, from majjati \"to be intoxicated\")",
+  "breakdown": [
+   ["√mad", "Root: to be intoxicated, exhilarated (majjati)."],
+   ["-a", "Noun suffix: mada, intoxication, vanity."]
+  ]
+ },
+ "maggasaccaniddeso": {
+  "meaning": "the Exposition of the Truth of the Path",
+  "summary": "Section title in the Mahāsatipaṭṭhānasutta: the detailed exposition of the Noble Eightfold Path as the truth of the way out of suffering.",
+  "gram": "masculine noun, compound (nominative singular; section title)",
+  "breakdown": [
+   ["magga", "Path."],
+   ["sacca", "Truth."],
+   ["niddesa", "Exposition, detailed explanation."]
+  ],
+  "forms": ["Maggasaccaniddeso"]
+ },
+ "maggavaggo, dhammapadapāḷi.": {
+  "meaning": "the Maggavagga (Chapter on the Path) of the Dhammapada",
+  "gram": "phrase: proper noun (text citation)",
+  "breakdown": [
+   ["magga", "Path."],
+   ["vagga", "Chapter, section."],
+   ["Dhammapadapāḷi", "The Dhammapada text of the Pāli Canon."]
+  ],
+  "forms": ["Maggavaggo, Dhammapadapāḷi."]
+ },
+ "maggenamaggappaṭipattiadhivāsananti": {
+  "meaning": "assent to practising the path by the path; mental consent to engaging (in sexual intercourse)",
+  "summary": "A difficult technical term: it refers to actually permitting and engaging in sexual intercourse, pointing to the intentional concomitant of mental agreement.",
+  "gram": "long compound + quotation particle ti",
+  "breakdown": [
+   ["maggena", "By the path (of penetration) (instrumental)."],
+   ["magga", "Path. (The doubling pp follows in junction with paṭipatti.)"],
+   ["paṭipatti", "Practice, engaging in."],
+   ["adhivāsana", "Assent, consent, permitting."],
+   ["ti", "Quotation marker; the niggahīta ṁ + ti becomes nti."]
+  ]
+ },
+ "mahaggata": {
+  "meaning": "grown great; expanded, exalted (of mind)",
+  "summary": "Used of the mind in meditation: cittaṁ mahaggataṁ, the expanded mind, as observed in cittānupassanā.",
+  "gram": "adjective, compound (mahā + gata)",
+  "breakdown": [
+   ["mahā", "Great."],
+   ["gata", "Gone, become (past participle of gacchati); mahaggata is literally \"gone to greatness\"."]
+  ]
+ },
+ "mahantā": {
+  "meaning": "great; large",
+  "gram": "adjective (plural or feminine form of mahanta)",
+  "breakdown": [
+   ["√mah", "Root: to be great."],
+   ["-nta", "Adjectival suffix: mahanta, great."]
+  ]
+ },
+ "mahapphalāni": {
+  "meaning": "of great fruit; very fruitful (deeds)",
+  "gram": "adjective, compound (neuter nominative/accusative plural)",
+  "breakdown": [
+   ["mahā", "Great."],
+   ["phala", "Fruit, result. (The doubling pph is junction doubling.)"]
+  ]
+ },
+ "mahapphalāni great": {
+  "meaning": "of great fruit",
+  "gram": "adjective, compound, neuter plural (duplicate row; see mahapphalāni)",
+  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"great\" was attached to the headword mahapphalāni; see the entry mahapphalāni."
+ }
+}

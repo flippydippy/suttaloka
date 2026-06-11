@@ -1,0 +1,447 @@
+{
+  "vinayaññūnamaggena": {
+    "meaning": "by the path of those who know the Vinaya; by the procedure of one versed in the discipline",
+    "summary": "This is a compound meaning “by the path/procedure of knowing the Vinaya”.",
+    "gram": "masculine noun, instrumental singular (compound)",
+    "breakdown": [
+      ["vinaya", "The monastic discipline; the code of training rules."],
+      ["aññū", "Knowing, one who knows."],
+      ["magga", "Path; procedure, method (here instrumental maggena, “by the path”)."]
+    ]
+  },
+  "vinenti": {
+    "meaning": "they put away; they instruct, train, conquer",
+    "gram": "verb, 3rd person plural present (vi + √nī)",
+    "breakdown": [
+      ["vi-", "Prefix: away, apart; or intensive."],
+      ["√nī", "Root: to lead. vi + √nī, “to lead away”, hence to remove or to train, discipline."],
+      ["-nti", "3rd person plural present ending."]
+    ]
+  },
+  "vineti": {
+    "meaning": "instructs, educates; trains, disciplines; removes",
+    "gram": "verb, 3rd person singular present (vi + √nī)",
+    "breakdown": [
+      ["vi-", "Prefix: away, apart; or intensive."],
+      ["√nī", "Root: to lead. “To lead away”, hence to remove, and by extension to train, instruct, educate."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "vineyya": {
+    "meaning": "having removed; having put away",
+    "gram": "gerund (absolutive) of vineti (vi + √nī)",
+    "breakdown": [
+      ["vi-", "Prefix: away, apart."],
+      ["√nī", "Root: to lead; vi + √nī, to remove, put away."],
+      ["-eyya", "Gerund (absolutive) ending: “having done”."]
+    ]
+  },
+  "vinicchayamānāpi": {
+    "meaning": "even while investigating; investigation and measuring too",
+    "gram": "compound with enclitic pi (“also, even”)",
+    "breakdown": [
+      ["vinicchaya", "Investigation, deliberation, judgement."],
+      ["māna", "Measuring; measure."],
+      ["pi", "Enclitic particle: also, even, too (api)."]
+    ]
+  },
+  "vinipātaṁ": {
+    "meaning": "the downfall; a state of suffering, a place of ruin (where beings fall after death)",
+    "gram": "masculine noun, accusative singular (vi + ni + √pat)",
+    "breakdown": [
+      ["vi-", "Prefix: down, asunder."],
+      ["nipāta", "Falling down (ni “down” + √pat “to fall”). Hence a fall into a lower state of existence, a state of woe."]
+    ],
+    "forms": ["vinipātaṃ"]
+  },
+  "vinodameva": {
+    "meaning": "just the dispelling; only the removal",
+    "gram": "masculine noun, accusative singular + enclitic eva",
+    "breakdown": [
+      ["vinoda", "Dispelling, removing (vi + √nud “to push away”)."],
+      ["eva", "Emphatic particle: just, only, indeed. (The final -m of vinodam is sandhi before eva.)"]
+    ]
+  },
+  "vinodeti": {
+    "meaning": "dispels, removes, drives out",
+    "gram": "verb, 3rd person singular present, causative of vi + √nud",
+    "breakdown": [
+      ["vi-", "Prefix: away, asunder."],
+      ["√nud", "Root: to push, drive. Causative stem node/noda: to cause to be driven away, to dispel."],
+      ["-eti", "Causative present ending, 3rd person singular."]
+    ]
+  },
+  "vinābhāvo": {
+    "meaning": "separation; the state of being separated (from what is dear)",
+    "gram": "masculine noun, abstract compound",
+    "breakdown": [
+      ["vinā", "Without, apart from (indeclinable)."],
+      ["bhāva", "State, condition. Together: the state of being apart, separation."]
+    ]
+  },
+  "vināseti": {
+    "meaning": "causes destruction; ruins, destroys, squanders",
+    "gram": "verb, 3rd person singular present, causative of vinassati (vi + √nas)",
+    "breakdown": [
+      ["vi-", "Prefix: intensive."],
+      ["√nas", "Root: to perish. Causative stem nāse: to cause to perish, to destroy."],
+      ["-eti", "Causative present ending, 3rd person singular."]
+    ]
+  },
+  "vipaccati": {
+    "meaning": "ripens, bears fruit; comes to fruition (of kamma)",
+    "gram": "verb, 3rd person singular present, passive of vipacati (vi + √pac)",
+    "breakdown": [
+      ["vi-", "Prefix: intensive, fully."],
+      ["√pac", "Root: to cook, ripen. The passive stem pacca: to be ripened, to come to fruition."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "vipanno": {
+    "meaning": "fallen away, failed, gone wrong",
+    "gram": "past participle of vipajjati (vi + √pad), masculine nominative singular",
+    "breakdown": [
+      ["vi-", "Prefix: asunder, wrongly."],
+      ["√pad", "Root: to go. vi + √pad, “to go wrong”, to fail."],
+      ["-na", "Past participle suffix (pad + na > panna)."]
+    ]
+  },
+  "vipariṇāmadhammaṁ": {
+    "meaning": "subject to change; of a nature to alter and reverse",
+    "summary": "This is a compound meaning “having change as its nature”, said of all conditioned things.",
+    "gram": "adjective compound, accusative/neuter singular",
+    "breakdown": [
+      ["vipariṇāma", "Change, alteration, reversal; vicissitude."],
+      ["dhamma", "Here: nature, quality — “having the nature of...”."]
+    ],
+    "forms": ["vipariṇāmadhammaṃ"]
+  },
+  "vipassanā": {
+    "meaning": "insight meditation; the practice of seeing things as they really are; direct experiential insight",
+    "gram": "feminine noun (vi + √dis/pass)",
+    "breakdown": [
+      ["vi-", "Prefix: in a special way, distinctly, thoroughly."],
+      ["passanā", "Seeing, observing (√pass/√dis, to see). Together: seeing things in a special way — as they really are."]
+    ],
+    "goenka": "In this tradition Vipassana is the heart of the Buddha's teaching: the direct, experiential observation of reality within oneself, seeing things as they really are. Klaus writes the romanised form “Vipassana” (capitalised, without diacritics) when referring to the practice and tradition, and the Pāli form vipassanā in textual context. He explicitly equates Vipassana with purification of the mind: “Vipassana for purification of the mind. Only with mental purification does a person become truly established in sīla.” He also speaks of “the calming meditation of Vipassana” and “the magnificent teaching of Vipassana.” It is the stage of paññā in the progression of the path: sīla (morality) → samādhi (concentration) → vipassanā (insight) leading to nibbāna."
+  },
+  "vipassanāgabbhaṁ": {
+    "meaning": "the womb of vipassanā; the interior (embryonic stage) of insight",
+    "gram": "compound noun, accusative singular",
+    "breakdown": [
+      ["vipassanā", "Insight; seeing things as they really are."],
+      ["gabbha", "Womb, interior; embryo, foetus."]
+    ],
+    "forms": ["vipassanāgabbhaṃ"]
+  },
+  "vippahāya": {
+    "meaning": "having completely abandoned; having given up",
+    "gram": "gerund (absolutive) of vippajahati (vi + pa + √hā)",
+    "breakdown": [
+      ["vi-", "Prefix: intensive (the pp doubling gives vippa-)."],
+      ["pa-", "Prefix: forth."],
+      ["√hā", "Root: to abandon, leave."],
+      ["-ya", "Gerund (absolutive) ending: “having done”."]
+    ]
+  },
+  "vippamutto": {
+    "meaning": "completely freed; fully released",
+    "gram": "past participle of vippamuccati (vi + pa + √muc), masculine nominative singular",
+    "breakdown": [
+      ["vi-", "Prefix: intensive, completely."],
+      ["pa-", "Prefix: forth."],
+      ["√muc", "Root: to release, free."],
+      ["-ta", "Past participle suffix (muc + ta > mutta)."]
+    ]
+  },
+  "vippasanno": {
+    "meaning": "become clear, bright; serene, purified",
+    "gram": "past participle of vippasīdati (vi + pa + √sad), masculine nominative singular",
+    "breakdown": [
+      ["vi-", "Prefix: intensive."],
+      ["pa-", "Prefix: forth."],
+      ["√sad", "Root: to settle, become clear. vi + pa + √sad: to become perfectly clear, serene."],
+      ["-na", "Past participle suffix (sad + na > sanna)."]
+    ]
+  },
+  "vippayogopi": {
+    "meaning": "separation too; even being apart (from what is dear)",
+    "summary": "From the first noble truth: “separation from what is dear is suffering” (piyehi vippayogo dukkho).",
+    "gram": "masculine noun, nominative singular + enclitic pi",
+    "breakdown": [
+      ["vi-", "Prefix: away, apart."],
+      ["payoga", "Combination, association (pa + √yuj, to join). With vi-: dis-association, separation."],
+      ["pi", "Enclitic particle: also, even, too."]
+    ]
+  },
+  "vippaṭisārino": {
+    "meaning": "remorseful, regretful, repentant",
+    "gram": "adjective (vippaṭisārī), genitive/dative singular or nominative plural",
+    "breakdown": [
+      ["vi-", "Prefix: intensive."],
+      ["paṭi-", "Prefix: back, against."],
+      ["√sar", "Root: to remember. Remembering back (with pain): remorse, regret."],
+      ["-ī (-ino)", "Possessive adjective suffix: one having remorse."]
+    ]
+  },
+  "vipphandati": {
+    "meaning": "struggles, writhes; twitches about",
+    "gram": "verb, 3rd person singular present (vi + √phand)",
+    "breakdown": [
+      ["vi-", "Prefix: intensive (with doubling: vipph-)."],
+      ["√phand", "Root: to throb, quiver. Hence to struggle, writhe."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "vipphanditavinayakaraṁ": {
+    "meaning": "effecting the removal of struggling; bringing about the abolishment of the struggle of physical and verbal actions",
+    "gram": "adjective compound, accusative singular",
+    "breakdown": [
+      ["vipphandita", "Struggling, writhing (past participle of vipphandati used as a noun)."],
+      ["vinaya", "Removal, abolishment; discipline."],
+      ["kara", "Making, effecting, bringing about."]
+    ],
+    "forms": ["vipphanditavinayakaraṃ"]
+  },
+  "vipulaṁ": {
+    "meaning": "abundant, extensive, manifold; great",
+    "gram": "adjective, accusative/neuter singular",
+    "breakdown": [
+      ["vi-", "Prefix: intensive."],
+      ["√pul", "Root: to be great, heap up. vipula: abundant, extensive."]
+    ],
+    "forms": ["vipulaṃ"]
+  },
+  "vipākasocanaṁ": {
+    "meaning": "sorrowing over the result; grief at the fruit (of one's deeds)",
+    "gram": "compound noun, neuter accusative singular",
+    "breakdown": [
+      ["vipāka", "Fruit, result, consequence (of kamma)."],
+      ["socana", "Sorrow, grieving, bewailing (√suc, to grieve)."]
+    ],
+    "forms": ["vipākasocanaṃ"]
+  },
+  "virahitanti": {
+    "meaning": "“exempt from, without” (with quotation marker)",
+    "gram": "adjective virahita, accusative singular + quotation particle ti",
+    "breakdown": [
+      ["vi-", "Prefix: away, without."],
+      ["√rah", "Root: to leave, be separate. virahita: deprived of, without."],
+      ["ti", "Quotation particle (iti), marking the preceding word as cited speech."]
+    ]
+  },
+  "virajaṁ": {
+    "meaning": "free from defilements; stainless, dustless",
+    "gram": "adjective, accusative/neuter singular",
+    "breakdown": [
+      ["vi-", "Prefix: without, free from."],
+      ["raja", "Dust, dirt; figuratively defilement, impurity."]
+    ],
+    "forms": ["virajaṃ"]
+  },
+  "virati": {
+    "meaning": "abstinence; refraining (from evil)",
+    "gram": "feminine abstract noun, from viramati (vi + √ram)",
+    "breakdown": [
+      ["vi-", "Prefix: away from."],
+      ["√ram", "Root: to delight, stop. viramati: to abstain, desist."],
+      ["-ti", "Feminine abstract-noun suffix."
+      ]
+    ]
+  },
+  "virattacittāyatike": {
+    "meaning": "with mind detached from future becoming; whose heart is detached regarding the future",
+    "gram": "adjective compound, locative singular",
+    "breakdown": [
+      ["viratta", "Detached, dispassionate (past participle of virajjati)."],
+      ["citta", "Mind."],
+      ["āyatika", "Belonging to the future (āyati, the future)."]
+    ]
+  },
+  "viratī": {
+    "meaning": "shunning; abstinence",
+    "gram": "feminine noun (= virati, with metrically lengthened final vowel)",
+    "breakdown": [
+      ["vi-", "Prefix: away from."],
+      ["√ram", "Root: to delight, stop; viramati, to abstain. The long -ī is metri causa in verse."]
+    ]
+  },
+  "virādhayitvā": {
+    "meaning": "having failed, having missed; having lost",
+    "gram": "gerund (absolutive) of virādhayati (vi + √rādh)",
+    "breakdown": [
+      ["vi-", "Prefix: asunder, wrongly."],
+      ["√rādh", "Root: to succeed. With vi-: to fail, miss."],
+      ["-itvā", "Gerund (absolutive) ending: “having done”."]
+    ]
+  },
+  "virāganissitaṁ": {
+    "meaning": "based on dispassion; given to detachment",
+    "gram": "adjective compound, accusative singular",
+    "breakdown": [
+      ["virāga", "Dispassion, detachment, fading away of craving."],
+      ["nissita", "Based on, depending on, given to (past participle of nissayati)."]
+    ],
+    "forms": ["virāganissitaṃ"]
+  },
+  "virāgaṁ": {
+    "meaning": "detachment; dispassion, fading away (of craving)",
+    "gram": "masculine noun, accusative singular (vi + √raj)",
+    "breakdown": [
+      ["vi-", "Prefix: away, without."],
+      ["rāga", "Passion, craving, colouring (√raj, to colour). virāga: the fading away of passion, detachment."]
+    ],
+    "forms": ["virāgaṃ"]
+  },
+  "virāgaṁ detachment vilepana": {
+    "meaning": "virāgaṁ: detachment; vilepana: cosmetics, ointment, unguent",
+    "summary": "A glossary line covering two separate words: virāgaṁ (detachment) and vilepana (cosmetics).",
+    "gram": "phrase (glossary entry covering two words)",
+    "breakdown": [
+      ["virāgaṁ", "Detachment, dispassion (accusative of virāga)."],
+      ["vilepana", "Cosmetics; ointment, unguent applied to the body."]
+    ],
+    "forms": ["virāgaṃ detachment vilepana"]
+  },
+  "virāgāya": {
+    "meaning": "for detachment; for the sake of dispassion",
+    "gram": "masculine noun, dative singular of virāga",
+    "breakdown": [
+      ["virāga", "Dispassion, detachment (vi + rāga, “away from passion”)."],
+      ["-āya", "Dative singular ending: for, for the sake of."]
+    ]
+  },
+  "visa": {
+    "meaning": "poison, venom",
+    "gram": "neuter noun (visaṁ)"
+  },
+  "visabhāgasantati": {
+    "meaning": "a dissimilar continuity; a different lineage or succession",
+    "gram": "feminine compound noun",
+    "breakdown": [
+      ["visabhāga", "Different, dissimilar (vi + sabhāga, “not having a common part”)."],
+      ["santati", "Continuity, succession, lineage."]
+    ]
+  },
+  "visame": {
+    "meaning": "uneven, disharmonious; in what is uneven (wrong conduct)",
+    "gram": "adjective, locative singular",
+    "breakdown": [
+      ["vi-", "Prefix: not, contrary."],
+      ["sama", "Even, equal, harmonious. visama: uneven, discordant, unrighteous."]
+    ]
+  },
+  "visaṁvādanapurekkhārassa": {
+    "meaning": "of one devoted to deceiving; of one intent on lying",
+    "gram": "adjective compound, genitive singular",
+    "breakdown": [
+      ["visaṁvādana", "Deceiving, lying; breaking one's word."],
+      ["purekkhāra", "Putting in front, deference; being devoted or intent on."]
+    ],
+    "forms": ["visaṃvādanapurekkhārassa"]
+  },
+  "visaṁvādanādhippāyena": {
+    "meaning": "with the intention of deceiving; with intent to lie",
+    "gram": "compound noun, instrumental singular",
+    "breakdown": [
+      ["visaṁvādana", "Deceiving, lying."],
+      ["adhippāya", "Desire, intention (the long ā- joins by sandhi: -na + adhi- > -nādhi-)."]
+    ],
+    "forms": ["visaṃvādanādhippāyena"]
+  },
+  "vissajjesi": {
+    "meaning": "distributed; answered, sent forth; spent, gave away",
+    "gram": "verb, 3rd person singular aorist of vissajjeti",
+    "breakdown": [
+      ["vi-", "Prefix: away, apart (with doubling: viss-)."],
+      ["√sajj", "Root: to let go, release."],
+      ["-esi", "3rd person singular aorist ending."]
+    ]
+  },
+  "vissajjeti": {
+    "meaning": "sends forth, sends away; emits, discharges; distributes, answers",
+    "gram": "verb, 3rd person singular present, causative of vissajjati (vi + √sajj)",
+    "breakdown": [
+      ["vi-", "Prefix: away, apart (with doubling: viss-)."],
+      ["√sajj", "Root: to let go, release."],
+      ["-eti", "Causative present ending, 3rd person singular."]
+    ]
+  },
+  "vissaṭṭhaparalokassa": {
+    "meaning": "of one who has dismissed the next world; of one who has given up concern for the world beyond",
+    "gram": "adjective compound, genitive singular",
+    "breakdown": [
+      ["vissaṭṭha", "Dismissed, given up (past participle of vissajjati; vi + saṭṭha, pp. of sajati)."],
+      ["para", "Other, next."],
+      ["loka", "World. paraloka: the next world, the world beyond."]
+    ]
+  },
+  "vissāsika": {
+    "meaning": "trustworthy, intimate, confidential",
+    "gram": "adjective (also spelled vissāsaka)",
+    "breakdown": [
+      ["vissāsa", "Trust, confidence, intimacy (vi + √sas, to breathe; “breathing freely with”)."],
+      ["-ika", "Adjectival suffix: belonging to, characterised by."]
+    ],
+    "forms": ["vissāsaka"]
+  },
+  "vissāsiko": {
+    "meaning": "intimate, confidential, trustworthy",
+    "gram": "adjective, masculine nominative singular of vissāsika",
+    "breakdown": [
+      ["vissāsa", "Trust, confidence, intimacy."],
+      ["-ika", "Adjectival suffix: belonging to, characterised by."]
+    ]
+  },
+  "visuddhimagga": {
+    "meaning": "the Visuddhimagga (“Path of Purification”), Buddhaghosa's classical commentarial compendium",
+    "gram": "proper noun (title of a text); masculine compound",
+    "breakdown": [
+      ["visuddhi", "Purification, purity."],
+      ["magga", "Path."]
+    ],
+    "forms": ["Visuddhimagga"]
+  },
+  "visārade": {
+    "meaning": "skilled, self-possessed; confident",
+    "gram": "adjective, locative singular or vocative/accusative plural",
+    "breakdown": [
+      ["vi-", "Prefix: free from."],
+      ["sārada", "Autumnal; figuratively immature, timid. visārada: free from timidity — confident, skilled."]
+    ]
+  },
+  "visārado": {
+    "meaning": "confident, self-possessed; wise and skilled",
+    "gram": "adjective, masculine nominative singular",
+    "breakdown": [
+      ["vi-", "Prefix: free from."],
+      ["sārada", "Timid, immature. visārada: free from timidity — confident, self-possessed."]
+    ]
+  },
+  "visūkadassanā": {
+    "meaning": "from seeing shows; visiting spectacles and exhibitions (abstaining from which is part of right conduct)",
+    "gram": "neuter compound noun, ablative singular",
+    "breakdown": [
+      ["visūka", "Shows, spectacles, exhibitions."],
+      ["dassana", "Seeing, visiting (√dis, to see)."]
+    ]
+  },
+  "vitakkanamattameva": {
+    "meaning": "just mere thinking; only the mere act of thought",
+    "gram": "compound noun, accusative singular + enclitic eva",
+    "breakdown": [
+      ["vitakkana", "Thinking, the act of thought (vi + √takk)."],
+      ["matta", "Mere, only; measure."],
+      ["eva", "Emphatic particle: just, only. (The -m- is sandhi: mattam + eva.)"]
+    ]
+  },
+  "vitakkapariyāyapathesu": {
+    "meaning": "in the courses of the succession of thoughts; among the ways of thought-sequences",
+    "gram": "masculine compound noun, locative plural",
+    "breakdown": [
+      ["vitakka", "Thought, reflection."],
+      ["pariyāya", "Succession, order; method, course."],
+      ["patha", "Path, course, way."]
+    ]
+  }
+}

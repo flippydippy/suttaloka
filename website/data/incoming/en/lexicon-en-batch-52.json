@@ -1,0 +1,431 @@
+{
+ "sannirundheyya": {
+  "meaning": "should restrain; would block, hold back completely",
+  "gram": "verb, optative 3rd person singular of sannirundhati (saṁ + ni + √rudh)",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["ni-", "Prefix: down."],
+   ["√rudh", "Root meaning “to obstruct, restrain”."],
+   ["-eyya", "Optative ending."]
+  ]
+ },
+ "sannisādemi": {
+  "meaning": "I calm; I quieten, make settle down",
+  "gram": "verb, present tense 1st person singular (causative of sannisīdati, √sad)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ni-", "Prefix: down."],
+   ["√sad (sādeti)", "Root “to settle”; causative: to make settle, to calm."],
+   ["-mi", "1st person singular ending."]
+  ]
+ },
+ "sannivāreyya": {
+  "meaning": "should restrain; would check, keep in check",
+  "gram": "verb, optative 3rd person singular of sannivāreti (causative; saṁ + ni + √var)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ni-", "Prefix: down."],
+   ["√var (vāreti)", "Root “to obstruct”; causative: to ward off, restrain."],
+   ["-eyya", "Optative ending."]
+  ]
+ },
+ "sannāmeyyā": {
+  "meaning": "should bend; would contract, flex",
+  "gram": "verb, optative 3rd person singular (causative of saṁ + √nam “to bend”)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√nam (nāmeti)", "Root “to bend”; causative: to make bend, contract."],
+   ["-eyyā", "Optative ending."]
+  ]
+ },
+ "santhate": {
+  "meaning": "spread; covered (with a covering laid out)",
+  "gram": "past participle of santharati (locative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: over, completely."],
+   ["√thar + ta", "Root “to spread” with past participle suffix: spread, strewn."]
+  ]
+ },
+ "santika": {
+  "meaning": "near; vicinity, presence",
+  "gram": "adjective/neuter noun (from anta)",
+  "breakdown": [
+   ["sa- + anta", "“With an end/limit”: close by (santa)."],
+   ["-ika", "Adjectival suffix: belonging to nearness."]
+  ]
+ },
+ "santindriyo": {
+  "meaning": "with peaceful faculties; whose senses are calmed",
+  "gram": "adjective, compound (nominative singular)",
+  "breakdown": [
+   ["santa", "Peaceful, calmed (past participle of sammati)."],
+   ["indriya", "Faculty, sense organ."]
+  ]
+ },
+ "santo": {
+  "meaning": "existing; being (present); (also) a good, peaceful person",
+  "gram": "present participle of atthi (√as), nominative singular",
+  "breakdown": [
+   ["√as", "Root meaning “to be” (atthi “is”)."],
+   ["-nta", "Present participle suffix: existing."]
+  ]
+ },
+ "santussako": {
+  "meaning": "contented; easily satisfied",
+  "gram": "adjective, from santussati (nominative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√tus", "Root meaning “to be pleased, satisfied”."],
+   ["-aka", "Adjectival suffix: one who is content."]
+  ]
+ },
+ "santuṭṭhi": {
+  "meaning": "contentment",
+  "gram": "feminine abstract noun, from santussati (saṁ + √tus)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√tus + ti", "Root “to be satisfied” with abstract suffix: contentment."]
+  ],
+  "goenka": "Santuṭṭhi, contentment, is praised in the suttas as a great wealth and named in the Maṅgalasutta among the highest welfares. For one walking on the path, contentment with little supports the simple life in which the mind can be trained without being scattered by craving for more."
+ },
+ "santānakā": {
+  "meaning": "offspring; lineage; (figuratively) the entanglement of having children",
+  "gram": "neuter noun, from santāna (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: continuously."],
+   ["√tan + a", "Root “to stretch”: santāna, a continuum, lineage."],
+   ["-ka", "Noun suffix."]
+  ]
+ },
+ "santānaṁ of": {
+  "meaning": "of the good, of saints; (santānaṁ, genitive plural of santa)",
+  "gram": "adjective/noun (genitive plural)",
+  "note": "uncertain: this key is a glossary parsing artifact — the English word “of” from the gloss “of saints” was attached to the headword santānaṁ; the form is the genitive plural of santa “good person, saint”."
+ },
+ "santāressaṁ": {
+  "meaning": "I will make cross over; I shall carry across",
+  "gram": "verb, future 1st person singular of santāreti (causative of santarati, √tar)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√tar (tāreti)", "Root “to cross”; causative: to make cross, to ferry over."],
+   ["-essaṁ", "Future 1st person singular ending (= santāressāmi)."]
+  ],
+  "forms": ["santāressāmi"]
+ },
+ "saparidaṇḍā": {
+  "meaning": "protected under penalty (a class of women whose violation is punished by the rod)",
+  "gram": "adjective, feminine (nominative plural)",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["pari-", "Prefix: around."],
+   ["daṇḍa", "Stick, rod; punishment. Together: guarded with the threat of punishment."]
+  ]
+ },
+ "saparidaṇḍāti": {
+  "meaning": "“…protected under penalty” (end of quotation)",
+  "gram": "adjective, feminine plural + quotation particle ti",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["paridaṇḍā", "Punishment all around; protection under penalty of the rod."],
+   ["ti", "Quotation-closing particle (iti)."]
+  ]
+ },
+ "sapariggahena": {
+  "meaning": "with belongings; having a spouse (married)",
+  "gram": "adjective (instrumental singular), from pariggaha",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["pariggaha", "Possession, belongings; also a wife (pari + √gah “to take hold of”)."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "sapattabhārova": {
+  "meaning": "with only his wings as burden (like a bird carrying nothing but its feathers)",
+  "gram": "adjective, compound (nominative singular) + emphatic eva",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["patta", "Wing, feather; leaf."],
+   ["bhāra", "Burden, load."],
+   ["va (eva)", "Just, only (enclitic, fused in sandhi)."]
+  ]
+ },
+ "sapattasaṁvāsaññeva": {
+  "meaning": "just living together with what has been obtained; cohabiting as with a rival",
+  "gram": "masculine noun, compound (accusative singular) + emphatic yeva (sandhi)",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["patta", "Obtained (past participle of pāpuṇāti)."],
+   ["saṁvāsa", "Living together, cohabitation."],
+   ["yeva", "Just, precisely (the -ṁ + y- gives -ññ- in sandhi)."]
+  ]
+ },
+ "saradasamaye": {
+  "meaning": "in the autumn season",
+  "gram": "masculine noun, compound (locative singular)",
+  "breakdown": [
+   ["sarada", "Autumn."],
+   ["samaya", "Season, time."],
+   ["-e", "Locative singular ending."]
+  ]
+ },
+ "saraṇavaraggagāmino": {
+  "meaning": "going to the best and highest refuge",
+  "gram": "adjective, compound (nominative plural / genitive singular)",
+  "breakdown": [
+   ["saraṇa", "Refuge, shelter."],
+   ["vara", "Best, excellent."],
+   ["agga", "Top, highest."],
+   ["gāmī", "Going to (from √gam)."]
+  ]
+ },
+ "sareyyātha": {
+  "meaning": "you should remember; may you recollect",
+  "gram": "verb, optative 2nd person plural of sarati (√sar “to remember”)",
+  "breakdown": [
+   ["√sar", "Root meaning “to remember”."],
+   ["-eyyātha", "Optative 2nd person plural ending."]
+  ]
+ },
+ "sarūpato": {
+  "meaning": "with reference to its own form; according to its nature",
+  "gram": "adjective with ablative suffix -to, from rūpa",
+  "breakdown": [
+   ["sa-", "Prefix: with, own."],
+   ["rūpa", "Form, appearance."],
+   ["-to", "Ablative suffix: from, with reference to."]
+  ]
+ },
+ "sasakkaṁ": {
+  "meaning": "certainly; surely",
+  "gram": "indeclinable adverb (accusative of sasakka used adverbially)"
+ },
+ "sassata": {
+  "meaning": "eternal; perpetual; permanent",
+  "gram": "adjective",
+  "breakdown": [
+   ["sassati", "Eternity, perpetuity."],
+   ["-a", "Adjectival formation: everlasting."]
+  ],
+  "goenka": "Sassata, “eternal”, names the eternalist position (sassatadiṭṭhi) — the wrong view that there is a permanent, everlasting self or world. The Buddha's teaching rejects both this eternalism and its opposite, annihilationism; through vipassanā the meditator experiences directly that all phenomena are anicca, arising and passing away, leaving no ground for a doctrine of permanence."
+ },
+ "sassato": {
+  "meaning": "perpetual; eternal",
+  "gram": "adjective (nominative singular masculine)",
+  "breakdown": [
+   ["sassati", "Eternity, perpetuity."],
+   ["-a", "Adjectival formation; -o nominative singular ending."]
+  ]
+ },
+ "sassatādikaṁ diṭṭhiṁ": {
+  "meaning": "the view of eternalism and so forth; views beginning with the eternity-view",
+  "gram": "phrase: adjective compound + noun (accusative singular)",
+  "breakdown": [
+   ["sassata", "Eternality, the doctrine of permanence."],
+   ["ādika", "Beginning with, and so forth."],
+   ["diṭṭhiṁ", "View, belief (accusative singular)."]
+  ],
+  "goenka": "The lexicon notes that the Brahmajālasutta of the Dīghanikāya surveys the many kinds of micchā diṭṭhi (wrong view) prevailing at the Buddha's time: sassata diṭṭhi, which maintains the idea of permanence; antānantavāda, doctrines of the world's finitude and infinity; aparantakappika, speculation about the future; and others. All such speculative views are set aside by the direct experience of arising and passing away."
+ },
+ "sasāmikā": {
+  "meaning": "having a husband; a married woman",
+  "gram": "feminine adjective/noun (nominative singular or plural)",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["sāmī (sāmika)", "Husband, master."],
+   ["-ā", "Feminine ending."]
+  ]
+ },
+ "satasahasse": {
+  "meaning": "a hundred thousand (locative)",
+  "gram": "cardinal numeral, neuter compound (locative singular)",
+  "breakdown": [
+   ["sata", "Hundred."],
+   ["sahassa", "Thousand."]
+  ]
+ },
+ "satekicchāya": {
+  "meaning": "curable; pardonable (of an offence that can still be remedied)",
+  "gram": "adjective (dative/genitive singular feminine), from tikicchā",
+  "breakdown": [
+   ["sa-", "Prefix: with."],
+   ["tekicchā", "Cure, remedy (from tikicchati “treats, cures”, √kit). Together: having a cure, pardonable."]
+  ]
+ },
+ "satha": {
+  "meaning": "(in the compound seyyāvasathapadīpeyya) bed, dwelling and material for lamps",
+  "gram": "noun fragment (from āvasatha “dwelling”)",
+  "breakdown": [
+   ["(āva)satha", "Dwelling, abode."],
+   ["padīpeyya", "Material for lamps, lighting (mentioned in the source compound)."]
+  ],
+  "note": "uncertain: this headword is a fragment cut from a longer compound (seyyāvasatha-padīpeyya “bed + dwelling + lamp-materials”); satha alone is not an independent word here."
+ },
+ "sati": {
+  "meaning": "awareness; mindfulness; the faculty of being aware in the present",
+  "summary": "A core meditation term: the awareness that, joined with sampajañña, makes satipaṭṭhāna.",
+  "gram": "feminine abstract noun, from sarati (√sar “to remember”)",
+  "breakdown": [
+   ["√sar", "Root meaning “to remember”."],
+   ["-ti", "Abstract noun suffix: remembrance; in the meditative sense, present-moment awareness."]
+  ],
+  "goenka": "Sati is awareness — the faculty of being aware in the present moment. The volumes introduce it as one of the seven saddhammas: saddhā (faith), sati (awareness), hirī (sense of shame), ottappa (moral sense of guilt), bāhusacca (ample learning), vīriya (diligence) and paññā (wisdom). It stands at the heart of the satipaṭṭhāna formula: the meditator “remains contemplating the body, ardent, with thorough understanding and aware (ātāpī sampajāno satimā), having put aside covetousness and grief towards the world”. The rendering “awareness” rather than “mindfulness” reflects this tradition's emphasis on direct, present-moment attention to the reality of mind and body; sati works together with sampajañña, the constant thorough understanding of impermanence.",
+  "forms": ["satimā", "satiṁ"]
+ },
+ "satidovāriko": {
+  "meaning": "with awareness as gatekeeper",
+  "summary": "An image from the suttas: sati guards the sense doors as a gatekeeper guards a city.",
+  "gram": "adjective, compound (nominative singular)",
+  "breakdown": [
+   ["sati", "Awareness."],
+   ["dovārika", "Gatekeeper, door-keeper (from dvāra “door”)."]
+  ],
+  "goenka": "The image of awareness as gatekeeper describes the noble disciple whose sati stands guard at the doors of the senses: whatever arises at eye, ear, nose, tongue, body or mind is met with awareness, so that unwholesome reactions do not slip in unnoticed."
+ },
+ "satikaraṇīyameva": {
+  "meaning": "merely a matter of awareness; just something to remain aware of",
+  "gram": "adjective compound (nominative singular neuter) + emphatic eva",
+  "breakdown": [
+   ["sati", "Awareness."],
+   ["karaṇīya", "To be done, a duty (potential participle of karoti)."],
+   ["eva", "Just, merely (enclitic; -ṁ + e- gives -m- in sandhi)."]
+  ]
+ },
+ "satinepakkena": {
+  "meaning": "with awareness and prudence; by mindful heedfulness",
+  "gram": "neuter abstract noun, compound (instrumental singular)",
+  "breakdown": [
+   ["sati", "Awareness."],
+   ["nepakka", "Prudence, heedfulness."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "satipaṭṭhāna": {
+  "meaning": "establishment of awareness; the four foundations of mindfulness",
+  "summary": "The fourfold establishing of awareness on body, sensations, mind and mental contents.",
+  "gram": "neuter noun, compound (sati + paṭṭhāna / upaṭṭhāna)",
+  "breakdown": [
+   ["sati", "Awareness."],
+   ["paṭṭhāna", "Setting up, establishing (pa + √ṭhā “to stand”); also analysed as upaṭṭhāna “attending upon”."]
+  ],
+  "goenka": "Satipaṭṭhāna is the establishment of awareness in four fields, set out in the classic formula: the meditator dwells contemplating the body in the body, sensations in the sensations, mind in the mind and mental contents in the mental contents — in each case “ardent, with thorough understanding and aware, having put aside covetousness and grief towards the world” (ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ). The volumes link the four satipaṭṭhānas to ānāpānassati: with the development and full engagement of ānāpānassati the four satipaṭṭhānas are fulfilled; the four satipaṭṭhānas when developed fulfil the seven factors of enlightenment; and the seven factors when developed fulfil realisation through wisdom and liberation."
+ },
+ "sattakaya": {
+  "meaning": "the seven bodies (the seven permanent substances asserted in Pakudha Kaccāyana's doctrine)",
+  "gram": "masculine noun, compound (satta + kāya)",
+  "breakdown": [
+   ["satta", "Seven."],
+   ["kāya", "Body, group, substance."]
+  ],
+  "note": "uncertain: the lexicon cites the doctrine that these seven “do not move, do not change” (te na iñjanti, na vipariṇamanti) — a wrong view recorded in the suttas, not a teaching of the Buddha."
+ },
+ "sattanikāye": {
+  "meaning": "in the class of beings; in whatever assemblage of beings",
+  "gram": "masculine noun, compound (locative singular)",
+  "breakdown": [
+   ["satta", "Being, living creature."],
+   ["nikāya", "Assemblage, collection, class."],
+   ["-e", "Locative singular ending."]
+  ]
+ },
+ "sattatiṁsa bodhipakkhiyodhamma": {
+  "meaning": "the thirty-seven factors of enlightenment; the thirty-seven qualities that side with awakening",
+  "gram": "phrase: numeral + masculine compound noun",
+  "breakdown": [
+   ["sattatiṁsa", "Thirty-seven."],
+   ["bodhi", "Enlightenment, awakening."],
+   ["pakkhiya", "Belonging to the side or wing of, partaking in."],
+   ["dhamma", "Factors, qualities."]
+  ],
+  "goenka": "The thirty-seven bodhipakkhiyā dhammā are the factors, parts or limbs of enlightenment: the four satipaṭṭhānas, four right efforts, four bases of accomplishment, five faculties, five powers, seven factors of enlightenment and the Noble Eightfold Path. Together they map the whole training by which awareness and wisdom are developed to fulfilment."
+ },
+ "satthu": {
+  "meaning": "of the Teacher; under the Teacher",
+  "gram": "masculine agent noun (genitive/dative singular of satthā)",
+  "breakdown": [
+   ["√sās", "Root meaning “to instruct”."],
+   ["-tar", "Agent suffix: one who instructs, the Teacher."],
+   ["-u", "Genitive/dative singular ending of -ar stems."]
+  ]
+ },
+ "satthā": {
+  "meaning": "the Teacher (an epithet of the Buddha)",
+  "gram": "masculine agent noun (nominative singular of satthar)",
+  "breakdown": [
+   ["√sās", "Root meaning “to instruct, teach”."],
+   ["-tā (-tar)", "Agent suffix: the one who teaches."]
+  ],
+  "forms": ["satthu", "satthāraṁ", "satthārā"]
+ },
+ "saya": {
+  "meaning": "(in saya / sayagyi) teacher; gyi is a Burmese suffix denoting respect",
+  "gram": "noun (Burmese loan usage); as Pāli stem, an adjective from sayati “to lie”",
+  "note": "divergence: the lexicon glosses saya as the Burmese word for “teacher” (as in Sayagyi, the respectful title used for U Ba Khin); the Pāli stem saya- (from √sī “to lie down”) is a different word."
+ },
+ "sayaṁ": {
+  "meaning": "oneself; by oneself, self-",
+  "gram": "indeclinable reflexive adverb"
+ },
+ "sayeyya": {
+  "meaning": "should sleep; would lie down",
+  "gram": "verb, optative 3rd person singular of sayati (√sī)",
+  "breakdown": [
+   ["√sī (saya-)", "Root meaning “to lie down, sleep”."],
+   ["-eyya", "Optative ending."]
+  ]
+ },
+ "sayāno": {
+  "meaning": "lying down; reclining",
+  "gram": "present participle of sayati (nominative singular)",
+  "breakdown": [
+   ["√sī (saya-)", "Root meaning “to lie down”."],
+   ["-āna", "Middle present participle suffix."]
+  ]
+ },
+ "sañjagghati": {
+  "meaning": "jokes; laughs together with",
+  "gram": "verb, present tense 3rd person singular (saṁ + √jaggh)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√jaggh", "Root meaning “to laugh”."],
+   ["-ti", "3rd person singular ending."]
+  ]
+ },
+ "sañjāti": {
+  "meaning": "birth; origin; coming into being",
+  "gram": "feminine abstract noun, from sañjāyati (saṁ + √jan)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√jan > jā + ti", "Root “to be born” with abstract suffix: being born, origin."]
+  ]
+ },
+ "sañjāyati": {
+  "meaning": "is born; is produced; arises",
+  "gram": "verb, present tense 3rd person singular (saṁ + √jan)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["jāyati", "Is born (√jan)."]
+  ]
+ },
+ "sañjāyati be": {
+  "meaning": "is born, produced",
+  "gram": "verb, present tense 3rd person singular",
+  "note": "uncertain: this key is a glossary parsing artifact — the English word “be” from the gloss “be born, produced” was attached to the headword sañjāyati; see the entry sañjāyati."
+ },
+ "saññatti": {
+  "meaning": "convincing; persuasion; making understood",
+  "gram": "feminine abstract noun, from saññāpeti (causative of saṁ + √ñā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√ñā (ñāpeti)", "Root “to know”; causative: to make known, convince."],
+   ["-ti", "Abstract noun suffix."]
+  ]
+ },
+ "saññatā": {
+  "meaning": "restrained; self-controlled",
+  "gram": "past participle of saṁyamati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√yam + ta", "Root “to restrain” with past participle suffix (saṁyata > saññata)."]
+  ]
+ }
+}

@@ -1,0 +1,400 @@
+{
+  "gāyantiyā": {
+    "meaning": "of (a woman) singing; while she sings",
+    "gram": "present participle of gāyati (√gā), feminine oblique singular",
+    "breakdown": [
+      ["gāya-", "Stem of gāyati, to sing (√gā)."],
+      ["-ntiyā", "Present participle, feminine oblique singular ending."]
+    ]
+  },
+  "gāḷhabandhanaṁ": {
+    "meaning": "strong binding; a tight bond",
+    "gram": "neuter compound noun, nominative/accusative singular",
+    "breakdown": [
+      ["gāḷha", "Strong, tight, firm."],
+      ["bandhanaṁ", "Binding, bond, fetter (√bandh)."]
+    ],
+    "forms": ["gāḷhabandhanaṁ"]
+  },
+  "gīta": {
+    "meaning": "singing; song",
+    "gram": "neuter noun (past participle of gāyati, √gā)",
+    "breakdown": [
+      ["√gā (gī-)", "Root meaning to sing."],
+      ["-ta", "Past participle suffix: what is sung."]
+    ]
+  },
+  "gīvaṁ": {
+    "meaning": "the neck; throat",
+    "gram": "feminine noun (gīvā), accusative singular",
+    "breakdown": [
+      ["gīvā", "Neck, throat."],
+      ["-ṁ", "Accusative singular ending."]
+    ],
+    "forms": ["gīvaṁ"]
+  },
+  "halaṁ": {
+    "meaning": "enough!; why should (one)...? (variant of alaṁ)",
+    "gram": "indeclinable particle (h- prefixed variant of alaṁ)",
+    "forms": ["halaṁ", "alaṁ"]
+  },
+  "halaṁ/alaṁ": {
+    "meaning": "enough!; why should (one)...?",
+    "gram": "indeclinable particle (halaṁ is a variant of alaṁ)"
+  },
+  "hananti": {
+    "meaning": "they thresh; they kill, strike",
+    "gram": "verb, 3rd person plural present (√han)",
+    "breakdown": [
+      ["√han", "Root meaning to strike, kill."],
+      ["-anti", "3rd person plural present ending."]
+    ]
+  },
+  "hanati": {
+    "meaning": "kills; strikes",
+    "gram": "verb, 3rd person singular present (√han)",
+    "breakdown": [
+      ["√han", "Root meaning to strike, kill."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "haranti": {
+    "meaning": "they carry; they take away",
+    "gram": "verb, 3rd person plural present (√har)",
+    "breakdown": [
+      ["√har", "Root meaning to carry, take."],
+      ["-anti", "3rd person plural present ending."]
+    ]
+  },
+  "harate": {
+    "meaning": "brings; carries (for oneself)",
+    "gram": "verb, 3rd person singular present middle voice of harati (√har)",
+    "breakdown": [
+      ["hara-", "Present stem of harati, to carry."],
+      ["-te", "3rd person singular middle (reflexive) ending."]
+    ]
+  },
+  "haraṇanti": {
+    "meaning": "\"...seizing, removing\" (with closing quotation marker)",
+    "gram": "neuter action noun, nominative/accusative singular + quotation particle ti",
+    "breakdown": [
+      ["haraṇaṁ", "Seizing, carrying off, removing (√har + aṇa)."],
+      ["ti", "Quotation marker (iti); -ṁ + ti > -nti by sandhi."]
+    ],
+    "forms": ["haraṇaṁ"]
+  },
+  "harito": {
+    "meaning": "green; fresh vegetation",
+    "gram": "masculine noun / adjective, nominative singular (√har)",
+    "breakdown": [
+      ["√har", "Root associated with the yellow-green colour."],
+      ["-ita", "Adjective suffix: green, verdant."]
+    ]
+  },
+  "harāyati": {
+    "meaning": "is ashamed; is vexed",
+    "gram": "verb, 3rd person singular present, denominative from hiri (shame)",
+    "breakdown": [
+      ["hiri (har-)", "Shame, modesty."],
+      ["-āya- + -ti", "Denominative formation: to feel shame."]
+    ]
+  },
+  "harāyitvā": {
+    "meaning": "having felt ashamed",
+    "gram": "gerund (absolutive) of harāyati",
+    "breakdown": [
+      ["harāya-", "Stem of harāyati, to be ashamed."],
+      ["-itvā", "Absolutive ending: having done."]
+    ]
+  },
+  "hasitalapitakīḷitāni": {
+    "meaning": "laughing, talking and playing; amusements",
+    "gram": "neuter compound noun, nominative/accusative plural",
+    "breakdown": [
+      ["hasita", "Laughing (past participle of hasati)."],
+      ["lapita", "Talking, chatting (past participle of lapati)."],
+      ["kīḷitāni", "Playing, amusements (past participle of kīḷati), neuter plural."]
+    ]
+  },
+  "hatapahate": {
+    "meaning": "injured and killed; struck down and slain",
+    "gram": "masculine compound (past participles), locative singular or accusative plural",
+    "breakdown": [
+      ["hata", "Injured, struck, tortured (past participle of hanati)."],
+      ["pahate", "Killed, struck down (past participle of paharati)."]
+    ]
+  },
+  "hatthigavāssavaḷavāpaṭiggahaṇā": {
+    "meaning": "(abstaining) from accepting elephants, cattle, horses and mares",
+    "gram": "neuter compound action noun, ablative singular",
+    "breakdown": [
+      ["hatthi", "Elephant."],
+      ["gava", "Cow, cattle."],
+      ["assa", "Horse. Sandhi: gava + assa > gavāssa."],
+      ["vaḷavā", "Mare."],
+      ["paṭiggahaṇā", "Accepting, receiving; ablative: from accepting."]
+    ]
+  },
+  "have": {
+    "meaning": "indeed; certainly; truly",
+    "gram": "indeclinable emphatic particle (ha + ve)"
+  },
+  "hañci": {
+    "meaning": "if indeed; truly, I say (emphatic)",
+    "gram": "indeclinable particle (ha + ci)",
+    "breakdown": [
+      ["ha", "Indeed, truly, I say."],
+      ["ci", "Emphatic/indefinite particle; junction -ñ- by sandhi."]
+    ]
+  },
+  "hehiti": {
+    "meaning": "it will be",
+    "gram": "verb, 3rd person singular future of hoti (√hū)",
+    "breakdown": [
+      ["hehi-", "Future stem of hoti, to be."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "hessati": {
+    "meaning": "will be",
+    "gram": "verb, 3rd person singular future of hoti (√hū)",
+    "breakdown": [
+      ["hessa-", "Future stem of hoti, to be."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "hetaṁ": {
+    "meaning": "for this; because (this)",
+    "gram": "sandhi fusion: particle + pronoun",
+    "breakdown": [
+      ["hi", "Because, for, indeed."],
+      ["etaṁ", "This. Sandhi: hi + etaṁ > hetaṁ."]
+    ],
+    "forms": ["hetaṁ"]
+  },
+  "hettha": {
+    "meaning": "for here; because in this matter",
+    "gram": "sandhi fusion: particle + adverb",
+    "breakdown": [
+      ["hi", "Because, for, indeed."],
+      ["ettha", "Here, herein. Sandhi: hi + ettha > hettha."]
+    ]
+  },
+  "hetuppabhavā": {
+    "meaning": "arising from a cause; having their origin in a cause",
+    "gram": "compound adjective, plural or ablative singular",
+    "breakdown": [
+      ["hetu", "Cause, reason."],
+      ["pabhavā", "Arising, origination (pa + √bhū; the doubled pp is sandhi doubling)."]
+    ],
+    "goenka": "The phrase echoes the famous verse by which Sāriputta gained the eye of Dhamma: ye dhammā hetuppabhavā — \"whatever phenomena arise from a cause, of these the Tathāgata has told the cause, and also their cessation.\""
+  },
+  "hetusambhārapaccayā": {
+    "meaning": "by means of cause, constituents and condition",
+    "gram": "compound noun, ablative singular or plural",
+    "breakdown": [
+      ["hetu", "Cause."],
+      ["sambhāra", "Component part, constituent, accumulation."],
+      ["paccayā", "Condition; by means of (ablative)."]
+    ]
+  },
+  "hevaṁ": {
+    "meaning": "for thus; surely so",
+    "gram": "sandhi fusion: particle + adverb",
+    "breakdown": [
+      ["hi", "Because, indeed, surely."],
+      ["evaṁ", "Thus, so. Sandhi: hi + evaṁ > hevaṁ."]
+    ],
+    "forms": ["hevaṁ"]
+  },
+  "heṭṭhato": {
+    "meaning": "from below",
+    "gram": "indeclinable adverb (ablative of heṭṭhā)"
+  },
+  "hi": {
+    "meaning": "for; because; indeed; yes",
+    "gram": "indeclinable emphatic particle"
+  },
+  "hidaṁ": {
+    "meaning": "for this; because (this)",
+    "gram": "sandhi fusion: particle + pronoun",
+    "breakdown": [
+      ["hi", "Because, for, indeed."],
+      ["idaṁ", "This (neuter). Sandhi: hi + idaṁ > hidaṁ."]
+    ],
+    "forms": ["hidaṁ"]
+  },
+  "hiraññaṁ": {
+    "meaning": "gold; money, bullion",
+    "gram": "neuter noun, nominative/accusative singular",
+    "breakdown": [
+      ["hirañña", "Gold, uncoined bullion, money."],
+      ["-ṁ", "Nominative/accusative singular ending."]
+    ],
+    "forms": ["hiraññaṁ"]
+  },
+  "hiraññaṁ gold and": {
+    "meaning": "gold and money; bullion",
+    "gram": "neuter noun (see hiraññaṁ)",
+    "note": "uncertain: the key is an artifact of a split vocabulary row (\"hiraññaṁ gold and / money, bullion\"); the entry belongs under hiraññaṁ."
+  },
+  "hirīnisedho": {
+    "meaning": "restrained by shame; one whom conscience holds back",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["hirī", "Shame, moral conscience, modesty."],
+      ["nisedho", "Prevention, restraining, holding back (ni + √sidh)."]
+    ]
+  },
+  "hirīsuttaṁ": {
+    "meaning": "the Hirī Sutta, the Discourse on Shame (moral conscience)",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["hirī", "Shame, moral conscience."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Hirīsuttaṁ"]
+  },
+  "hissa": {
+    "meaning": "because of this; for of this (with reference to kissa)",
+    "gram": "particle hi + genitive pronoun, fused in verse",
+    "breakdown": [
+      ["hi", "Because, for."],
+      ["assa", "Of this, of him (genitive). Sandhi: hi + assa > hissa."]
+    ]
+  },
+  "hitajjhāsayataṁ": {
+    "meaning": "the state of intending others' welfare; the disposition wishing for benefit",
+    "gram": "compound abstract noun, accusative singular",
+    "breakdown": [
+      ["hita", "Well-being, benefit, welfare."],
+      ["ajjhāsaya", "Intention, wish, disposition (adhi + āsaya; the doubled jjh is sandhi)."],
+      ["-taṁ", "Abstract suffix -tā in the accusative: the state of being so."]
+    ],
+    "forms": ["hitajjhāsayataṁ"]
+  },
+  "hitakāmā": {
+    "meaning": "desiring (others') benefit; wishing well",
+    "gram": "compound adjective, plural or feminine form",
+    "breakdown": [
+      ["hita", "Benefit, welfare, fortune."],
+      ["kāmā", "Wishing, desiring."]
+    ]
+  },
+  "hitesinā": {
+    "meaning": "by one wishing welfare; by a well-wisher",
+    "gram": "compound adjective, instrumental singular",
+    "breakdown": [
+      ["hita", "Welfare, benefit."],
+      ["esinā", "Seeking, wishing (esī, from √es, to seek), instrumental singular."]
+    ]
+  },
+  "hitvā": {
+    "meaning": "having abandoned; renouncing",
+    "gram": "gerund (absolutive) of jahati (√hā)",
+    "breakdown": [
+      ["√hā", "Root meaning to abandon, leave."],
+      ["-itvā", "Absolutive ending: having abandoned."]
+    ]
+  },
+  "hiṁsati": {
+    "meaning": "injures; kills; harms",
+    "gram": "verb, 3rd person singular present (√his/hiṁs)",
+    "breakdown": [
+      ["√his (hiṁs-)", "Root meaning to injure, harm."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "hontu": {
+    "meaning": "may they be; let them be",
+    "gram": "verb, 3rd person plural imperative of hoti (√hū)",
+    "breakdown": [
+      ["ho-", "Present stem of hoti, to be."],
+      ["-ntu", "3rd person plural imperative ending."]
+    ],
+    "goenka": "Hontu appears in the mettā aspiration chanted in the tradition: sabbe sattā sukhī hontu — may all beings be happy."
+  },
+  "huraṁ": {
+    "meaning": "beyond; in the other world",
+    "gram": "indeclinable adverb",
+    "forms": ["huraṁ"]
+  },
+  "hutaṁ": {
+    "meaning": "what has been sacrificed; an oblation",
+    "gram": "neuter noun (past participle of juhati, √hu), nominative/accusative singular",
+    "breakdown": [
+      ["√hu", "Root meaning to sacrifice, offer."],
+      ["-ta", "Past participle suffix: offered, sacrificed."]
+    ],
+    "forms": ["hutaṁ"]
+  },
+  "hutvā": {
+    "meaning": "having been; having become",
+    "gram": "gerund (absolutive) of hoti/bhavati (√hū)",
+    "breakdown": [
+      ["√hū", "Root meaning to be, become."],
+      ["-tvā", "Absolutive ending: having been."]
+    ]
+  },
+  "hāpeti": {
+    "meaning": "forsakes; neglects; omits",
+    "gram": "verb, 3rd person singular present, causative of jahati (√hā)",
+    "breakdown": [
+      ["hāpe-", "Causative stem of √hā, to abandon: to cause to be left, neglect."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "hāraye": {
+    "meaning": "would cause to take; should have (something) carried",
+    "gram": "verb, 3rd person singular optative, causative of harati (√har)",
+    "breakdown": [
+      ["hāraya-", "Causative stem of harati, to carry: to cause to take."],
+      ["-e", "3rd person singular optative ending."]
+    ]
+  },
+  "hīnappaṇītatāyāti": {
+    "meaning": "\"...as inferiority and superiority\" (with closing quotation marker)",
+    "gram": "feminine abstract compound noun, oblique singular + quotation particle ti",
+    "breakdown": [
+      ["hīna", "Low, inferior."],
+      ["paṇīta", "High, exalted, excellent (the doubled pp is sandhi doubling)."],
+      ["-tāya", "Abstract suffix -tā in oblique case: the state of being low and excellent."],
+      ["ti", "Quotation marker (iti), fused by sandhi."]
+    ]
+  },
+  "hīnavīriyo": {
+    "meaning": "of low energy; lacking in effort",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["hīna", "Lacking, low, deficient."],
+      ["vīriyo", "Energy, effort, diligence."]
+    ]
+  },
+  "hīno": {
+    "meaning": "low; inferior; vile",
+    "summary": "Appears in kāmasukhallikānuyogo, the low pursuit of sensual pleasure, one of the two extremes rejected in the first discourse.",
+    "gram": "past participle of hāyati (√hā) used as adjective, masculine nominative singular",
+    "breakdown": [
+      ["√hā (hī-)", "Root meaning to abandon, diminish."],
+      ["-na", "Past participle suffix: left behind, hence low, inferior."]
+    ]
+  },
+  "hīnādhimuttikehi": {
+    "meaning": "with those inclined to the low; by people of inferior disposition",
+    "gram": "compound adjective, instrumental/ablative plural",
+    "breakdown": [
+      ["hīna", "Low, inferior."],
+      ["adhimuttika", "Intent upon, inclined to (adhi + √muc). Sandhi: hīna + adhi- > hīnādhi-."],
+      ["-ehi", "Instrumental/ablative plural ending."]
+    ]
+  },
+  "hīnāyāvattissāmī": {
+    "meaning": "\"I will return to the low (life)\" — revert to lay life",
+    "gram": "verb phrase fused by sandhi; dative adjective + 1st person singular future",
+    "breakdown": [
+      ["hīnāya", "To the low (state), the inferior lay life (dative of hīna)."],
+      ["āvattissāmi", "I will return, turn back (future of āvattati). Sandhi lengthening at the junction."]
+    ],
+    "forms": ["hīnāyāvattissāmī"]
+  }
+}

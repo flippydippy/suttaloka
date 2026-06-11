@@ -1,0 +1,444 @@
+{
+  "upapajjati": {
+    "meaning": "arises, originates; is reborn",
+    "gram": "verb, 3rd person singular present (upa + √pad)",
+    "breakdown": [
+      ["upa", "Prefix: towards, up."],
+      ["√pad", "Root: to go; upapajjati “to arise, be reborn”."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "upaparikkhanti": {
+    "meaning": "they test, reflect on, investigate",
+    "gram": "verb, 3rd person plural present (upa + pari + √ikkh)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["pari", "Prefix: all around."],
+      ["√ikkh", "Root: to see; upaparikkhati “to examine closely”."],
+      ["-nti", "3rd person plural ending."]
+    ]
+  },
+  "upaparikkhati": {
+    "meaning": "investigates, examines",
+    "gram": "verb, 3rd person singular present (upa + pari + √ikkh)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["pari", "Prefix: all around."],
+      ["√ikkh", "Root: to see; to examine closely."]
+    ]
+  },
+  "upapatti": {
+    "meaning": "birth; rebirth, arising",
+    "gram": "feminine abstract noun (from upapajjati)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["√pad", "Root: to go."],
+      ["-ti", "Abstract-noun suffix."]
+    ]
+  },
+  "upari": {
+    "meaning": "on top, above",
+    "gram": "indeclinable preposition/adverb"
+  },
+  "uparipāsādavaragato": {
+    "meaning": "gone to the upper storey of the best palace",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["upari", "Upper, above."],
+      ["pāsāda", "Palace, mansion."],
+      ["vara", "Best, excellent."],
+      ["gata", "Gone (past participle of gacchati)."]
+    ]
+  },
+  "upasampadā": {
+    "meaning": "obtaining, acquiring; (also) the higher ordination of a monk",
+    "gram": "feminine abstract noun (from upasampajjati)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["saṁ", "Prefix: fully, together."],
+      ["√pad", "Root: to go; upasampadā “full attainment”."]
+    ]
+  },
+  "upasamānussatīti": {
+    "meaning": "“recollection of peace”, (with quotation marker ti)",
+    "gram": "feminine noun (compound) + quotation particle",
+    "breakdown": [
+      ["upasama", "Calmness, tranquillity, quietude."],
+      ["anussati", "Recollection, proper attention (anu “along with, following” + sati; with sandhi doubling of s)."],
+      ["ti", "Quotation marker (with vowel lengthening in sandhi)."]
+    ]
+  },
+  "upasamāya": {
+    "meaning": "for appeasement; for the allaying, for tranquillity",
+    "gram": "masculine noun, dative singular (of upasama)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["√sam", "Root: to be calm; upasama “calming, appeasement”."],
+      ["-āya", "Dative singular ending."]
+    ]
+  },
+  "upasantassa": {
+    "meaning": "of one who is tranquil, calm, at peace",
+    "gram": "past participle of upasammati, genitive singular",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["√sam", "Root: to be calm."],
+      ["-ta", "Past participle suffix (upasanta “calmed”)."],
+      ["-ssa", "Genitive singular ending."]
+    ]
+  },
+  "upasaṁharati": {
+    "meaning": "brings together; supplies, provides",
+    "gram": "verb, 3rd person singular present (upa + saṁ + √har)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["saṁ", "Prefix: together."],
+      ["√har", "Root: to carry, bring."]
+    ],
+    "forms": ["upasaṃharati"]
+  },
+  "upasaṁharati to bring": {
+    "meaning": "brings together; supplies, provides (duplicate listing of upasaṁharati)",
+    "gram": "verb, 3rd person singular present",
+    "note": "uncertain: the key includes stray English words from the source layout; the Pāli lemma is upasaṁharati."
+  },
+  "upasaṅkamitvā": {
+    "meaning": "having approached",
+    "gram": "absolutive (gerund) of upasaṅkamati",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["saṁ", "Prefix: together (becomes saṅ before k)."],
+      ["√kam", "Root: to go, step."],
+      ["-itvā", "Absolutive ending: “having …-ed”."]
+    ]
+  },
+  "upavadeyya": {
+    "meaning": "would blame, would reproach",
+    "gram": "verb, optative 3rd person singular of upavadati",
+    "breakdown": [
+      ["upa", "Prefix: towards, at."],
+      ["√vad", "Root: to speak; upavadati “to speak against, blame”."],
+      ["-eyya", "Optative ending."]
+    ]
+  },
+  "upavadeyyuṁ": {
+    "meaning": "they would censure, blame",
+    "gram": "verb, optative 3rd person plural of upavadati",
+    "breakdown": [
+      ["upa", "Prefix: towards, at."],
+      ["√vad", "Root: to speak."],
+      ["-eyyuṁ", "Optative 3rd person plural ending."]
+    ],
+    "forms": ["upavadeyyuṃ"]
+  },
+  "upavutthuposatho": {
+    "meaning": "having observed the uposatha; one who has kept the uposatha day",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["upavuttha", "Observed, kept (past participle of upavasati)."],
+      ["uposatha", "The uposatha observance day (the vowels merge in sandhi)."]
+    ]
+  },
+  "upaḍḍhamidaṁ": {
+    "meaning": "this is half; one half of this",
+    "gram": "sandhi fusion (upaḍḍhaṁ + idaṁ)",
+    "breakdown": [
+      ["upaḍḍha", "One half (upa + aḍḍha)."],
+      ["idaṁ", "This (with connecting m)."]
+    ],
+    "forms": ["upaḍḍhamidaṃ"]
+  },
+  "upaḍḍhasuttaṁ": {
+    "meaning": "the Upaḍḍha Sutta, “the Half (of the holy life)” (a discourse title)",
+    "gram": "proper noun (sutta title), neuter",
+    "breakdown": [
+      ["upaḍḍha", "Half."],
+      ["sutta", "Discourse."]
+    ],
+    "forms": ["Upaḍḍhasuttaṃ"]
+  },
+  "upaṭṭhito": {
+    "meaning": "served, provided, attended to",
+    "gram": "past participle of upaṭṭhahati (√ṭhā), masculine nominative singular",
+    "breakdown": [
+      ["upa", "Prefix: near, at."],
+      ["√ṭhā", "Root: to stand; upaṭṭhahati “to attend on, serve”."],
+      ["-ita", "Past participle suffix."]
+    ]
+  },
+  "upaṭṭhāke": {
+    "meaning": "attendant, servant (oblique form)",
+    "gram": "masculine agent noun, locative singular / accusative plural (of upaṭṭhāka)",
+    "breakdown": [
+      ["upa", "Prefix: near, at."],
+      ["√ṭhā", "Root: to stand."],
+      ["-aka", "Agent-noun suffix: one who stands by — an attendant."]
+    ]
+  },
+  "upaṭṭhānasāraṁ": {
+    "meaning": "taking attendance as the essence; valuing service as what matters most",
+    "gram": "adjective, accusative singular (compound)",
+    "breakdown": [
+      ["upaṭṭhāna", "Attending to, service."],
+      ["sāra", "Essence, core value."]
+    ],
+    "forms": ["upaṭṭhānasāraṃ"]
+  },
+  "upaṭṭhānaṁ": {
+    "meaning": "serving; attendance, waiting upon",
+    "gram": "neuter action noun (from upaṭṭhahati)",
+    "breakdown": [
+      ["upa", "Prefix: near, at."],
+      ["√ṭhā", "Root: to stand."],
+      ["-ana", "Action-noun suffix."]
+    ],
+    "forms": ["upaṭṭhānaṃ"]
+  },
+  "upaṭṭhāne": {
+    "meaning": "in ministering, in attending to",
+    "gram": "neuter noun, locative singular (of upaṭṭhāna)",
+    "breakdown": [
+      ["upa", "Prefix: near, at (with sandhi doubling of ṭ)."],
+      ["ṭhāna", "Standing, attending."]
+    ]
+  },
+  "upaṭṭhānena": {
+    "meaning": "by attendance, through service",
+    "gram": "neuter noun, instrumental singular (of upaṭṭhāna)",
+    "breakdown": [
+      ["upaṭṭhāna", "Attendance, service."],
+      ["-ena", "Instrumental singular ending."]
+    ]
+  },
+  "upaṭṭhāpetabbā": {
+    "meaning": "to be put forth, to be provided, to be procured",
+    "gram": "future passive participle of upaṭṭhāpeti (causative of upaṭṭhahati)",
+    "breakdown": [
+      ["upa", "Prefix: near, at."],
+      ["ṭhāpe", "Causative stem of √ṭhā: to cause to stand, provide."],
+      ["-tabbā", "Future passive participle ending: “to be …-ed”."]
+    ]
+  },
+  "upaṭṭhāpetvā": {
+    "meaning": "having put forth, having provided",
+    "gram": "absolutive (gerund) of upaṭṭhāpeti",
+    "breakdown": [
+      ["upa", "Prefix: near, at."],
+      ["ṭhāpe", "Causative stem of √ṭhā."],
+      ["-tvā", "Absolutive ending: “having …-ed”."]
+    ]
+  },
+  "upecca": {
+    "meaning": "having approached; having come near",
+    "gram": "gerund (absolutive) of upeti (upa + √i)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["√i", "Root: to go; upeti “to approach”."],
+      ["-tya", "Gerund formation (upecca)."]
+    ]
+  },
+  "upeccapi": {
+    "meaning": "even having approached; even undergoing, attaining",
+    "gram": "gerund + particle (upecca + api)",
+    "breakdown": [
+      ["upecca", "Having approached (gerund of upeti)."],
+      ["api", "Even, also (elided to pi)."]
+    ]
+  },
+  "upekkhāsatipārisuddhiṁ": {
+    "meaning": "the purity of equanimity and awareness (characterizing the fourth jhāna)",
+    "gram": "feminine noun, accusative singular (compound)",
+    "breakdown": [
+      ["upekkhā", "Equanimity."],
+      ["sati", "Awareness."],
+      ["pārisuddhi", "Purification, complete purity."]
+    ],
+    "forms": ["upekkhāsatipārisuddhiṃ"]
+  },
+  "upeto": {
+    "meaning": "endowed with; having undergone, obtained",
+    "gram": "past participle of upeti, masculine nominative singular",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["√i", "Root: to go."],
+      ["-ta", "Past participle suffix (upeta)."]
+    ]
+  },
+  "uposatha": {
+    "meaning": "the uposatha; the observance day of the lunar fortnight",
+    "gram": "masculine noun (from upavasati)",
+    "breakdown": [
+      ["upa", "Prefix: near."],
+      ["√vas", "Root: to dwell; upavasati “to observe, keep (a fast day)”; upavasa contracts to uposa-."],
+      ["-tha", "Noun-forming suffix."]
+    ],
+    "goenka": "The uposatha days — following the full moon, the new moon, and the eighth and fourteenth nights of the lunar cycle — were traditionally used by householders to observe the five and eight precepts and to dedicate themselves to meditation. For the Saṅgha it is the day of communal recitation and confirmation of the discipline.",
+    "forms": ["Uposatha"]
+  },
+  "uppabbājāpayī": {
+    "meaning": "caused (someone) to leave the order; had (him) expelled",
+    "gram": "verb, aorist 3rd person singular, causative (of uppabbajāpeti)",
+    "breakdown": [
+      ["ud", "Prefix: out (assimilated: uppa-)."],
+      ["pabbajati", "To go forth (into the order); causative “to make leave”."],
+      ["-āpayī", "Causative aorist ending."]
+    ]
+  },
+  "uppajjamāno": {
+    "meaning": "arising; while it arises",
+    "gram": "present participle of uppajjati, masculine nominative singular",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: uppa-)."],
+      ["√pad", "Root: to go; uppajjati “to arise”."],
+      ["-māna", "Present participle suffix."]
+    ]
+  },
+  "uppajjamānā": {
+    "meaning": "arising, occurring",
+    "gram": "present participle of uppajjati, nominative plural / feminine singular",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: uppa-)."],
+      ["√pad", "Root: to go."],
+      ["-māna", "Present participle suffix."]
+    ]
+  },
+  "uppajjanti": {
+    "meaning": "they arise",
+    "gram": "verb, 3rd person plural present of uppajjati",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: uppa-)."],
+      ["√pad", "Root: to go."],
+      ["-nti", "3rd person plural ending."]
+    ]
+  },
+  "uppajjati": {
+    "meaning": "comes out, arises",
+    "gram": "verb, 3rd person singular present (ud + √pad)",
+    "breakdown": [
+      ["ud", "Prefix: up, out (assimilated: uppa-)."],
+      ["√pad", "Root: to go."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "uppajjissantyanāgate": {
+    "meaning": "they will arise in the future",
+    "gram": "sandhi fusion (uppajjissanti + anāgate), future 3rd person plural + locative",
+    "breakdown": [
+      ["uppajjissanti", "They will arise (future of uppajjati; final i becomes y before the vowel)."],
+      ["anāgate", "In the future (locative; literally “the not-yet-come”)."]
+    ]
+  },
+  "uppannuppanne": {
+    "meaning": "whenever (they have) arisen; each time one arises",
+    "gram": "adjective, locative singular (distributive repetition of uppanna)",
+    "breakdown": [
+      ["uppanna", "Arisen (past participle of uppajjati)."],
+      ["uppanna", "Repeated for distributive sense: “arisen and arisen”, i.e. each one as it arises (the vowels merge in sandhi)."]
+    ]
+  },
+  "upādāyupādāya": {
+    "meaning": "taking up again and again; clinging to one thing after another",
+    "gram": "indeclinable (distributive repetition of the gerund upādāya)",
+    "breakdown": [
+      ["upādāya", "Taking up, being attached to (gerund of upādiyati)."],
+      ["upādāya", "Repeated for distributive emphasis (the vowels merge in sandhi)."]
+    ]
+  },
+  "upāgacchati": {
+    "meaning": "comes to; arrives at, reaches, obtains",
+    "gram": "verb, 3rd person singular present (upa + ā + √gam)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["ā", "Prefix: to, towards."],
+      ["gacchati", "Goes, comes (√gam)."]
+    ]
+  },
+  "upāhanā": {
+    "meaning": "shoes, sandals",
+    "gram": "masculine/feminine noun, plural",
+    "breakdown": [
+      ["upa", "Prefix: near, on."],
+      ["√nah", "Root: to bind — what is bound on (the foot)."]
+    ]
+  },
+  "upārambha": {
+    "meaning": "finding fault, reproach, censure",
+    "gram": "masculine noun (from upārambhati)",
+    "breakdown": [
+      ["upa", "Prefix: at."],
+      ["ā", "Prefix: towards."],
+      ["√rabh", "Root: to seize; upārambha “seizing upon (faults)”."]
+    ]
+  },
+  "upāsakaṁ": {
+    "meaning": "lay disciple, lay follower",
+    "gram": "masculine agent noun, accusative singular (of upāsaka)",
+    "breakdown": [
+      ["upa", "Prefix: near."],
+      ["√ās", "Root: to sit; upāsaka “one who sits near” — a lay follower."],
+      ["-aka", "Agent-noun suffix."]
+    ],
+    "forms": ["upāsakaṃ"]
+  },
+  "upātigacchati": {
+    "meaning": "goes out over; surpasses, overcomes",
+    "gram": "verb, 3rd person singular present (upa + ati + √gam)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["ati", "Prefix: beyond, over."],
+      ["gacchati", "Goes (√gam)."]
+    ]
+  },
+  "upāyehi": {
+    "meaning": "by means, by ways (of approach)",
+    "gram": "masculine noun, instrumental plural (of upāya)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["√i", "Root: to go; upāya “means, approach, method”."],
+      ["-ehi", "Instrumental plural ending."]
+    ]
+  },
+  "upāyāsa": {
+    "meaning": "trouble, unrest, disturbance; despair",
+    "gram": "masculine noun",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["ā", "Prefix: to."],
+      ["√yas", "Root: to exert, struggle; upāyāsa “distress, despair”."]
+    ]
+  },
+  "upāyāsabahulo": {
+    "meaning": "full of despair; abounding in irritation and trouble",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["upāyāsa", "Despair, desperation, irritation."],
+      ["bahula", "Much, abundant, full of."]
+    ]
+  },
+  "upāyāsabahulā": {
+    "meaning": "full of despair; abounding in trouble (plural)",
+    "gram": "adjective, nominative plural (compound)",
+    "breakdown": [
+      ["upāyāsa", "Despair, trouble."],
+      ["bahula", "Much, abundant."]
+    ]
+  },
+  "upāyāsitattaṁ": {
+    "meaning": "the state of being troubled; restlessness, disturbance",
+    "gram": "neuter abstract noun (from upāyāsita)",
+    "breakdown": [
+      ["upāyāsita", "Troubled, distressed (past participle formation from upāyāsa)."],
+      ["-tta", "Abstract-noun suffix: “the state of”."]
+    ],
+    "forms": ["upāyāsitattaṃ"]
+  },
+  "upāyāso": {
+    "meaning": "trouble, disturbance; despair",
+    "gram": "masculine noun, nominative singular (of upāyāsa)",
+    "breakdown": [
+      ["upa", "Prefix: towards."],
+      ["ā", "Prefix: to."],
+      ["√yas", "Root: to exert, struggle."]
+    ]
+  }
+}

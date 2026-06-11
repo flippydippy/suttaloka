@@ -1,0 +1,426 @@
+{
+  "ādiyati take": {
+    "meaning": "ādiyati: takes up, grasps",
+    "summary": "A glossary fragment; the entry is simply ādiyati, “takes up, grasps”.",
+    "gram": "verb, 3rd person singular present (glossary fragment)",
+    "breakdown": [
+      ["ādiyati", "Takes up, grasps (ā + √dā/ādā, to take)."]
+    ]
+  },
+  "ādiyeyyāmā": {
+    "meaning": "we should attend to; we should take up",
+    "gram": "verb, 1st person plural optative of ādiyati (√ādā)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, to oneself."],
+      ["√dā (ādā)", "Root: to take; ādiyati: to take up, undertake."],
+      ["-eyyāma", "1st person plural optative ending: “we should” (with metrically long final -ā)."]
+    ]
+  },
+  "ādiyissati": {
+    "meaning": "will attend to, will seize, will take up",
+    "gram": "verb, 3rd person singular future of ādiyati (√ādā)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, to oneself."],
+      ["√dā (ādā)", "Root: to take; ādiyati: to take up."],
+      ["-issati", "3rd person singular future ending."]
+    ]
+  },
+  "ādāna": {
+    "meaning": "holding, grasping; taking up",
+    "gram": "neuter noun (ā + dāna)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, to oneself."],
+      ["dāna", "Here from √dā “to take”: the act of taking — grasping, holding."]
+    ]
+  },
+  "ādānapaṭinissagge": {
+    "meaning": "in the giving up of grasping; in the renouncing of clinging",
+    "gram": "masculine compound noun, locative singular",
+    "breakdown": [
+      ["ādāna", "Grasping, clinging, taking up."],
+      ["paṭinissagga", "Giving up, renouncing, relinquishment (paṭi + ni + √sajj)."],
+      ["-e", "Locative singular ending."]
+    ]
+  },
+  "ādāso": {
+    "meaning": "mirror",
+    "gram": "masculine noun, nominative singular (ā + √dis, to see)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√dis", "Root: to see. ādāsa: that in which one sees oneself — a mirror."]
+    ]
+  },
+  "āgacchati": {
+    "meaning": "comes to, approaches; arrives, comes back",
+    "gram": "verb, 3rd person singular present (ā + √gam)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, hither."],
+      ["√gam", "Root: to go. ā + √gam: to come."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "āgama": {
+    "meaning": "coming, approach; result; (also) received tradition, scripture",
+    "gram": "masculine noun (ā + √gam)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go. āgama: the coming, what has come down."]
+    ]
+  },
+  "āgamana": {
+    "meaning": "oncoming, arrival, approach",
+    "gram": "neuter action noun, from āgacchati (ā + √gam)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go."],
+      ["-ana", "Action-noun suffix: the act of coming."]
+    ]
+  },
+  "āgameti": {
+    "meaning": "causes someone to come to one; waits, awaits",
+    "gram": "verb, 3rd person singular present, causative of āgacchati",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go. Causative āgame: to make come — to wait for."],
+      ["-eti", "Causative present ending, 3rd person singular."]
+    ]
+  },
+  "āgamma": {
+    "meaning": "owing to, by means of; depending on",
+    "gram": "gerund of āgacchati used adverbially (ā + √gam + ya)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go."],
+      ["-ya (-mma)", "Gerund ending: literally “having come to” — hence owing to, by means of."]
+    ]
+  },
+  "āgantar": {
+    "meaning": "one who is coming or going to come",
+    "gram": "masculine agent noun (āgantā), from āgacchati",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go."],
+      ["-tar", "Agent-noun suffix: one who comes."]
+    ],
+    "forms": ["āgantā"]
+  },
+  "āgantu": {
+    "meaning": "occasional, incidental; adventitious, coming from outside",
+    "gram": "adjective/agent stem from āgacchati (ā + √gam)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go. āgantu: what comes in from outside — incidental."]
+    ]
+  },
+  "āgantuka": {
+    "meaning": "coming, arriving; a newcomer, guest, stranger",
+    "gram": "masculine noun/adjective (āgantu + -ka)",
+    "breakdown": [
+      ["āgantu", "One who comes (ā + √gam + tu)."],
+      ["-ka", "Noun suffix: a newcomer, visitor."]
+    ]
+  },
+  "āgantvā": {
+    "meaning": "having come",
+    "gram": "gerund (absolutive) of āgacchati (ā + √gam)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go."],
+      ["-tvā", "Gerund (absolutive) ending: “having done”."]
+    ]
+  },
+  "āgataṭṭhāne": {
+    "meaning": "in the place arrived at; in the state or condition attained",
+    "gram": "neuter compound noun, locative singular",
+    "breakdown": [
+      ["āgata", "Arrived, attained (past participle of āgacchati)."],
+      ["ṭhāna", "Place, state, condition (junction doubling gives -ṭṭh-)."],
+      ["-e", "Locative singular ending."]
+    ]
+  },
+  "āgati": {
+    "meaning": "coming, return; (as glossed) come",
+    "gram": "feminine abstract noun, from āgacchati (ā + √gam + ti)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go."],
+      ["-ti", "Feminine abstract-noun suffix: the coming."]
+    ]
+  },
+  "āgato": {
+    "meaning": "arrived, come; obtained",
+    "gram": "past participle of āgacchati, masculine nominative singular",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√gam", "Root: to go."],
+      ["-ta", "Past participle suffix (gam + ta > gata)."]
+    ]
+  },
+  "āghātavatthusuttaṁ": {
+    "meaning": "the Āghātavatthu Sutta, the “Discourse on the Grounds of Hatred”",
+    "gram": "proper noun (title of a sutta); neuter compound",
+    "breakdown": [
+      ["āghāta", "Hatred, ill will, resentment."],
+      ["vatthu", "Ground, basis, occasion."],
+      ["sutta", "Discourse of the Buddha."]
+    ],
+    "forms": ["Āghātavatthusuttaṃ"]
+  },
+  "āghātavatthūni": {
+    "meaning": "the grounds of hatred; the occasions for resentment",
+    "gram": "neuter compound noun, nominative/accusative plural",
+    "breakdown": [
+      ["āghāta", "Hatred, anger, resentment."],
+      ["vatthu", "Ground, basis (plural vatthūni)."]
+    ]
+  },
+  "āgilāyati": {
+    "meaning": "is tired; aches",
+    "gram": "verb, 3rd person singular present (ā + √gilā)",
+    "breakdown": [
+      ["ā-", "Prefix: intensive."],
+      ["√gilā", "Root: to be weary, exhausted."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "āgilāyati be": {
+    "meaning": "āgilāyati: is tired, aches",
+    "summary": "A glossary fragment; the entry is simply āgilāyati, “to be tired, to ache”.",
+    "gram": "verb, 3rd person singular present (glossary fragment)",
+    "breakdown": [
+      ["āgilāyati", "Is tired, aches (ā + √gilā, to be weary)."]
+    ]
+  },
+  "āgāmin": {
+    "meaning": "returning; one who returns (to this world)",
+    "gram": "adjective/agent noun (ā + √gam + -in)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, back."],
+      ["√gam", "Root: to go."],
+      ["-in", "Possessive/agent suffix: one who comes back."]
+    ]
+  },
+  "āgāḷhenapi": {
+    "meaning": "even with what is harsh; even by rough (speech)",
+    "gram": "past participle/adjective, instrumental singular + enclitic pi",
+    "breakdown": [
+      ["āgāḷha", "Harsh, rough, severe (ā + √gāh; gāḍha > gāḷha)."],
+      ["-ena", "Instrumental singular ending."],
+      ["pi", "Even, also (api)."]
+    ]
+  },
+  "āha": {
+    "meaning": "said, says; he spoke",
+    "gram": "verb, perfect of √ah (to say), 3rd person singular"
+  },
+  "āhacca": {
+    "meaning": "having struck; striking, beating, throwing against",
+    "gram": "gerund (absolutive) of āhanati (ā + √han)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, against."],
+      ["√han", "Root: to strike."],
+      ["-tya (-cca)", "Gerund ending: “having struck”."]
+    ]
+  },
+  "āhananapariyāhananaraso": {
+    "meaning": "having the function of striking and striking all around; whose essence is impact (a commentarial definition of the earth element's hardness or of contact)",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["āhanana", "Striking, hitting."],
+      ["pariyāhanana", "Striking all around, heavy striking (pari + āhanana)."],
+      ["rasa", "Function, essence, taste (in commentarial usage: characteristic function)."]
+    ]
+  },
+  "āhanaṁ": {
+    "meaning": "striking; I strike (in verse: beating the drum of the deathless)",
+    "gram": "verb form of āhanati (ā + √han), 1st person singular present/participle in verse",
+    "breakdown": [
+      ["ā-", "Prefix: towards, against."],
+      ["√han", "Root: to strike."]
+    ],
+    "note": "divergence: the lexicon line here glosses a different cluster (ucchādana, parimaddana, nahāpana — anointing, massage, bathing); āhanaṁ itself is from āhanati, “to strike”.",
+    "forms": ["āhanaṃ"]
+  },
+  "āharati": {
+    "meaning": "brings, takes; fetches",
+    "gram": "verb, 3rd person singular present (ā + √har)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√har", "Root: to carry. ā + √har: to bring."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "āhuna": {
+    "meaning": "oblation, sacrifice; offering",
+    "gram": "neuter noun",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√hu", "Root: to offer, sacrifice. āhuna: an oblation."]
+    ]
+  },
+  "āhuneyyo": {
+    "meaning": "worthy of gifts, worthy of adoration (an epithet of the Saṅgha)",
+    "gram": "adjective, masculine nominative singular (from āhuna)",
+    "breakdown": [
+      ["āhuna", "Oblation, offering (ā + √hu)."],
+      ["-eyya", "Suffix of worthiness: worthy of receiving offerings."]
+    ]
+  },
+  "āhuneyyo worthy of": {
+    "meaning": "āhuneyyo: worthy of gifts, of adoration",
+    "summary": "A glossary fragment; the entry is simply āhuneyyo, “worthy of gifts”.",
+    "gram": "adjective, masculine nominative singular (glossary fragment)",
+    "breakdown": [
+      ["āhuneyyo", "Worthy of offerings and adoration (āhuna + -eyya)."]
+    ]
+  },
+  "āhuneyyā": {
+    "meaning": "worthy of offerings (plural)",
+    "gram": "adjective, masculine nominative plural of āhuneyya",
+    "breakdown": [
+      ["āhuna", "Oblation, offering (ā + √hu)."],
+      ["-eyya", "Suffix of worthiness: worthy of receiving offerings."]
+    ]
+  },
+  "āhuneyyā worthy of": {
+    "meaning": "āhuneyyā: worthy of offering",
+    "summary": "A glossary fragment; the entry is simply āhuneyyā, “worthy of offering”.",
+    "gram": "adjective, plural (glossary fragment)",
+    "breakdown": [
+      ["āhuneyyā", "Worthy of offerings (āhuna + -eyya, plural)."]
+    ]
+  },
+  "ājānāhi": {
+    "meaning": "understand!, perceive! (with hi: for, because)",
+    "gram": "verb, 2nd person singular imperative of ājānāti (+ particle hi as the lexicon parses)",
+    "breakdown": [
+      ["ā-", "Prefix: fully."],
+      ["√ñā (jānā)", "Root: to know. ājānāti: to understand, perceive."],
+      ["-hi", "2nd person singular imperative ending (the lexicon also reads an enclitic hi, “because”)."]
+    ]
+  },
+  "ājīvahetupaññattānaṁ": {
+    "meaning": "of (rules) made known for the sake of livelihood; of what has been declared on account of livelihood",
+    "gram": "compound past participle, genitive plural",
+    "breakdown": [
+      ["ājīva", "Livelihood."],
+      ["hetu", "Cause, for the sake of."],
+      ["paññatta", "Made known, declared, laid down (past participle of paññāpeti)."]
+    ],
+    "forms": ["ājīvahetupaññattānaṃ"]
+  },
+  "ājīvapārisuddhisīlaṁ": {
+    "meaning": "the virtue of purity of livelihood; sīla consisting in purification of one's means of living",
+    "gram": "neuter compound noun, nominative/accusative singular",
+    "breakdown": [
+      ["ājīva", "Livelihood."],
+      ["pārisuddhi", "Purification, complete purity."],
+      ["sīla", "Virtue, morality."]
+    ],
+    "forms": ["ājīvapārisuddhisīlaṃ"]
+  },
+  "ājīvo": {
+    "meaning": "livelihood; means of living",
+    "gram": "masculine noun, nominative singular (ā + √jīv)",
+    "breakdown": [
+      ["ā-", "Prefix: by means of."],
+      ["√jīv", "Root: to live. ājīva: livelihood — as in sammā-ājīvo, right livelihood."]
+    ]
+  },
+  "ākaṅkhamānā": {
+    "meaning": "wishing for, desiring",
+    "gram": "present participle of ākaṅkhati, feminine singular or masculine plural",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√kaṅkh", "Root: to desire, long for."],
+      ["-māna", "Present participle suffix: “wishing”."]
+    ]
+  },
+  "ākaṅkhati": {
+    "meaning": "wishes, desires",
+    "gram": "verb, 3rd person singular present (ā + √kaṅkh)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√kaṅkh", "Root: to desire, long for."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "ākoṭeyya": {
+    "meaning": "would beat, would thrash; should knock",
+    "gram": "verb, 3rd person singular optative of ākoṭeti (ā + √kuṭ)",
+    "breakdown": [
+      ["ā-", "Prefix: against."],
+      ["√kuṭ", "Root: to strike. ākoṭeti: to beat, knock."],
+      ["-eyya", "3rd person singular optative ending: “would, should”."]
+    ]
+  },
+  "ākāraparivitakkena": {
+    "meaning": "by careful consideration of reasons; through examining the grounds",
+    "gram": "masculine compound noun, instrumental singular",
+    "breakdown": [
+      ["ākāra", "Reason, cause; aspect, mode."],
+      ["parivitakka", "Careful consideration, examination (pari + vitakka, thorough thinking)."],
+      ["-ena", "Instrumental singular ending: by."]
+    ]
+  },
+  "ālayarāmā": {
+    "meaning": "delighting in clinging; taking pleasure in attachment (said of beings)",
+    "gram": "adjective compound, masculine nominative plural",
+    "breakdown": [
+      ["ālaya", "Clinging, attachment; abode, what one hangs on to."],
+      ["rāma", "Delighting in, taking pleasure (from ārāma/√ram)."]
+    ]
+  },
+  "āma": {
+    "meaning": "yes, truly, indeed",
+    "gram": "indeclinable particle of assent"
+  },
+  "āmakadhaññapaṭiggahaṇā": {
+    "meaning": "from accepting raw grain (one of the abstentions in the monk's morality)",
+    "gram": "neuter compound action noun, ablative singular",
+    "breakdown": [
+      ["āmaka", "Raw, uncooked."],
+      ["dhañña", "Grain, corn."],
+      ["paṭiggahaṇa", "Acceptance, receiving (here ablative: abstaining from)."]
+    ]
+  },
+  "āmakamaṁsapaṭiggahaṇā": {
+    "meaning": "from accepting raw meat (one of the abstentions in the monk's morality)",
+    "gram": "neuter compound action noun, ablative singular",
+    "breakdown": [
+      ["āmaka", "Raw, uncooked."],
+      ["maṁsa", "Meat, flesh."],
+      ["paṭiggahaṇa", "Acceptance, receiving (here ablative: abstaining from)."]
+    ],
+    "forms": ["āmakamaṃsapaṭiggahaṇā"]
+  },
+  "āmantayati, āmanteti": {
+    "meaning": "addresses, invites, informs",
+    "gram": "verb, 3rd person singular present (ā + √mant); two stem forms",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√mant", "Root: to address, consult. āmanteti/āmantayati: to address, call, invite."]
+    ]
+  },
+  "āmantā": {
+    "meaning": "yes, certainly (in answer)",
+    "gram": "indeclinable particle of assent"
+  },
+  "āmisakiñcikkhahetu": {
+    "meaning": "for the sake of some little material gain; on account of a trifling reward",
+    "gram": "indeclinable adverbial compound",
+    "breakdown": [
+      ["āmisa", "Material gain, reward; food, the carnal."],
+      ["kiñcikkha", "A trifle, some little thing."],
+      ["hetu", "For the sake of, by reason of."]
+    ]
+  },
+  "āmisantaro": {
+    "meaning": "having gain within; inwardly intent on reward, wishing for gain",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["āmisa", "Reward, material gain."],
+      ["antara", "Inner, within. Together: one whose inner motive is gain."]
+    ]
+  }
+}

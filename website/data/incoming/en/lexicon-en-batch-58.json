@@ -1,0 +1,418 @@
+{
+  "tathāgatappaveditassa": {
+    "meaning": "made known by a Tathāgata; proclaimed by the Tathāgata",
+    "gram": "adjective, genitive singular (compound)",
+    "breakdown": [
+      ["tathāgata", "The Tathāgata, the Buddha (tathā + gata/āgata)."],
+      ["pavedita", "Made known, proclaimed (past participle of pavedeti; the p doubles in composition)."],
+      ["-ssa", "Genitive singular ending."]
+    ]
+  },
+  "tathāgato": {
+    "meaning": "the Tathāgata; the one who has thus gone and thus come; an epithet the Buddha uses for himself",
+    "summary": "An epithet of the Buddha with a deliberate double derivation: “thus gone” and “thus come”.",
+    "gram": "masculine noun, nominative singular (of tathāgata)",
+    "breakdown": [
+      ["tathā", "Thus, in that way."],
+      ["gata", "Gone (past participle of gacchati): having gone the path to enlightenment from beginning to end."],
+      ["āgata", "Come (alternative derivation, tathā + āgata): having attained the state of enlightenment by the path he and all the Buddhas have proclaimed."]
+    ],
+    "goenka": "Tathāgato is the term the Buddha uses whenever he talks about himself. The tradition accepts both derivations: from tathā gata, “having gone thus” — having gone the path to enlightenment from the beginning to the end — and from tathā āgata, “having come thus” — having attained the state of enlightenment by the path he and all the Buddhas have proclaimed. A translation that picks only one of these loses the intended double meaning, so the term is usually left untranslated as “the Tathāgata”.",
+    "note": "divergence: not to be rendered “the prophet”, “the savior”, or “the perfect one” alone — such renderings lose the dual derivation."
+  },
+  "tathāgato tesaṁ aggamakkhāyatī": {
+    "meaning": "the Tathāgata is declared the foremost of them",
+    "gram": "phrase",
+    "breakdown": [
+      ["tathāgato", "The Tathāgata, the Buddha."],
+      ["tesaṁ", "Of them (genitive plural)."],
+      ["aggam", "Top, foremost (accusative)."],
+      ["akkhāyatī", "Is declared, is praised (passive of akkhāti; final vowel lengthened in verse)."]
+    ],
+    "forms": ["tathāgato tesaṃ aggamakkhāyatī"]
+  },
+  "tathāviññattisamuṭṭhāpikā": {
+    "meaning": "causing such intimation to arise; occasioning intimation in that way",
+    "gram": "feminine adjective, nominative singular (compound)",
+    "breakdown": [
+      ["tathā", "Thus, in that way."],
+      ["viññatti", "Intimation, making known."],
+      ["samuṭṭhāpikā", "Causing to arise, occasioning (feminine agent adjective)."]
+    ]
+  },
+  "tathūpamaṁ": {
+    "meaning": "likewise; of such a comparison; just so",
+    "gram": "adjective, accusative/neuter singular (compound)",
+    "breakdown": [
+      ["tathā", "Likewise, thus (final vowel merges with the following u: tathūpama)."],
+      ["upamā", "Comparison, simile."]
+    ],
+    "forms": ["tathūpamaṃ"]
+  },
+  "tatiyadhammasaṁgīti, pañcama pariccheda.": {
+    "meaning": "the Third Dhamma Council, fifth chapter (a section heading)",
+    "gram": "phrase (title)",
+    "breakdown": [
+      ["tatiya", "Third."],
+      ["dhammasaṁgīti", "Council for the communal recitation of the Dhamma."],
+      ["pañcama", "Fifth."],
+      ["pariccheda", "Chapter, division."]
+    ],
+    "forms": ["Tatiyadhammasaṃgīti, Pañcama pariccheda."]
+  },
+  "tatiyo": {
+    "meaning": "the third",
+    "gram": "ordinal numeral, masculine nominative singular (of tatiya)"
+  },
+  "tato": {
+    "meaning": "thence; then; from that",
+    "gram": "pronominal adverb (ablative of ta)"
+  },
+  "tato pabhuti": {
+    "meaning": "henceforth; from then onwards",
+    "gram": "phrase (adverbial)",
+    "breakdown": [
+      ["tato", "From that, thence."],
+      ["pabhuti", "Onwards, beginning from."]
+    ]
+  },
+  "tatonidānaṁ": {
+    "meaning": "on account of that; with that as its source",
+    "gram": "adverb (compound, accusative used adverbially)",
+    "breakdown": [
+      ["tato", "From that, subsequently."],
+      ["nidāna", "Cause, source, origin."]
+    ],
+    "forms": ["tatonidānaṃ"]
+  },
+  "tatra": {
+    "meaning": "there; in this connection",
+    "gram": "adverb (indeclinable, from ta)"
+  },
+  "tatratatrābhinandinī": {
+    "meaning": "finding delight here and there; seeking pleasure now in this, now in that",
+    "summary": "A standard epithet of taṇhā (craving) in the second Noble Truth.",
+    "gram": "feminine adjective, nominative singular (compound)",
+    "breakdown": [
+      ["tatra tatra", "Here and there, in this and that (distributive repetition)."],
+      ["abhinandinī", "Finding pleasure in, delighting in (feminine of abhinandī; the initial a lengthens in sandhi)."]
+    ]
+  },
+  "tatrābhiratimiccheyya": {
+    "meaning": "should wish for delight therein; should desire the highest pleasure there",
+    "gram": "verb, optative 3rd person singular (compound verb)",
+    "breakdown": [
+      ["tatra", "There, therein."],
+      ["abhirati", "Delight, highest pleasure (the initial a lengthens in sandhi)."],
+      ["-m-", "Accusative ending joining to the verb."],
+      ["iccheyya", "Should wish (optative of icchati)."]
+    ]
+  },
+  "tatrānanda": {
+    "meaning": "there, Ānanda; in that connection, Ānanda",
+    "gram": "sandhi fusion (tatra + Ānanda), adverb + vocative",
+    "breakdown": [
+      ["tatra", "There, in that connection."],
+      ["Ānanda", "Ānanda, the Buddha's attendant (vocative)."]
+    ]
+  },
+  "tattha": {
+    "meaning": "there; in that connection",
+    "gram": "adverb (indeclinable, from ta)"
+  },
+  "tatthetaṁ": {
+    "meaning": "there this; in connection with which this",
+    "gram": "sandhi fusion (tattha + etaṁ)",
+    "breakdown": [
+      ["tattha", "There, in that connection."],
+      ["etaṁ", "This (accusative)."]
+    ],
+    "forms": ["tatthetaṃ"]
+  },
+  "tava": {
+    "meaning": "your; of you; to you",
+    "gram": "pronoun, 2nd person genitive/dative singular of tvaṁ"
+  },
+  "tayidaṁ": {
+    "meaning": "with reference to this; now this",
+    "gram": "sandhi fusion (ta + [y] + idaṁ)",
+    "forms": ["tayidaṃ"]
+  },
+  "tayome": {
+    "meaning": "these three",
+    "gram": "sandhi fusion (tayo + ime), numeral + pronoun",
+    "breakdown": [
+      ["tayo", "Three (masculine nominative)."],
+      ["ime", "These (masculine nominative plural)."]
+    ]
+  },
+  "taḷākassa": {
+    "meaning": "of the pond; of the lake",
+    "gram": "neuter noun, genitive singular (of taḷāka)",
+    "breakdown": [
+      ["taḷāka", "Pond, lake, reservoir."],
+      ["-ssa", "Genitive singular ending."]
+    ]
+  },
+  "taṁsampāpakamaggatthāyāti": {
+    "meaning": "“for the sake of the path leading to that”, (with quotation marker ti)",
+    "gram": "compound, dative + quotation particle ti",
+    "breakdown": [
+      ["taṁ", "This, that."],
+      ["sampāpaka", "Causing to reach, leading to."],
+      ["magga", "Path."],
+      ["atthāya", "For the sake of (dative)."],
+      ["ti", "Quotation marker (with vowel lengthening in sandhi)."]
+    ],
+    "forms": ["taṃsampāpakamaggatthāyāti"]
+  },
+  "taṇhakkhayo sabbadukkhaṁ jināti.": {
+    "meaning": "the eradication of craving surmounts all misery",
+    "summary": "The closing line of the Dhammapada verse: the gift of Dhamma excels all gifts; the eradication of all craving surmounts all misery.",
+    "gram": "phrase (verse line)",
+    "breakdown": [
+      ["taṇhakkhayo", "The eradication (khaya) of craving (taṇhā); with sandhi doubling of kh."],
+      ["sabbadukkhaṁ", "All misery, all suffering (accusative)."],
+      ["jināti", "Conquers, surmounts (3rd person singular)."]
+    ],
+    "forms": ["Taṇhakkhayo sabbadukkhaṃ jināti."]
+  },
+  "taṇhā": {
+    "meaning": "craving; the deep mental thirst that drives the cycle of suffering",
+    "gram": "feminine noun",
+    "breakdown": [
+      ["√tas", "Root meaning “to thirst”; taṇhā is literally “thirst”, used for the deep mental thirst of craving."],
+      ["-hā", "Feminine noun formation."]
+    ],
+    "goenka": "Taṇhā — craving — is the central diagnostic of the Four Noble Truths: the second truth identifies it as the origin of suffering. The tradition explains the chain by which it arises: consciousness (viññāṇa) arises with the impact on the sense organs, contact (samphassa) follows, producing sensations (samphassajā vedanā) that are cognized as enticing and pleasurable; perception (saññā) is followed by a mental reaction (sañcetanā) which results in craving (taṇhā) towards an increase of objects that may continue the process of enjoyment. Three kinds are distinguished: kāmataṇhā (craving for sensual pleasures), bhavataṇhā (craving for becoming, for continued existence) and vibhavataṇhā (craving for non-becoming, annihilation). Its defining characteristic is ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī — leading to renewed becoming, accompanied by delight and lust, seeking delight here and there. Nibbāna itself is defined as taṇhākkhayo, the annihilation of craving.",
+    "note": "divergence: not mere “desire” or “wanting” (too weak), nor literal “thirst” alone — taṇhā is the deep mental thirst that perpetuates suffering."
+  },
+  "taṇhāya": {
+    "meaning": "of craving; by craving",
+    "gram": "feminine noun, genitive/instrumental/dative singular of taṇhā",
+    "breakdown": [
+      ["taṇhā", "Craving, the deep mental thirst."],
+      ["-ya", "Oblique singular ending."]
+    ]
+  },
+  "tebhūmakasaṅkhāre": {
+    "meaning": "the conditioned formations belonging to the three planes (of existence)",
+    "gram": "masculine noun, accusative plural (compound)",
+    "breakdown": [
+      ["te", "Three (ti in composition)."],
+      ["bhūmaka", "Belonging to the planes or stages — the rounds of existence."],
+      ["saṅkhāra", "Conditioned formations — the rounds of kamma, kilesa (impurity) and vipāka (result)."]
+    ]
+  },
+  "telapajjotaṁ": {
+    "meaning": "an oil lamp; the light of sesame oil",
+    "gram": "masculine noun, accusative singular (compound)",
+    "breakdown": [
+      ["tela", "Sesame oil, oil."],
+      ["pajjota", "Light, lamp, splendour."]
+    ],
+    "forms": ["telapajjotaṃ"]
+  },
+  "tenahānanda": {
+    "meaning": "well then, Ānanda; therefore, Ānanda",
+    "gram": "sandhi fusion (tena + hi + Ānanda)",
+    "breakdown": [
+      ["tena", "Therefore, by that."],
+      ["hi", "Because, indeed."],
+      ["Ānanda", "Ānanda (vocative)."]
+    ]
+  },
+  "tenañjaliṁ": {
+    "meaning": "(towards) there with folded hands",
+    "gram": "sandhi fusion (tena + añjaliṁ), adverb + feminine accusative",
+    "breakdown": [
+      ["tena", "There, in that direction; they."],
+      ["añjali", "The gesture of folded hands, reverential salutation."]
+    ],
+    "forms": ["tenañjaliṃ"]
+  },
+  "tenevāha": {
+    "meaning": "therefore he said; thus indeed he spoke",
+    "gram": "sandhi fusion (tena + eva + āha)",
+    "breakdown": [
+      ["tena", "Therefore, by that."],
+      ["eva", "Just, thus (emphatic)."],
+      ["āha", "He said (perfect of √ah)."]
+    ]
+  },
+  "tenupasaṅkami": {
+    "meaning": "approached there; went up to that place",
+    "gram": "verb, aorist 3rd person singular (sandhi tena + upasaṅkami)",
+    "breakdown": [
+      ["tena", "There, in that direction."],
+      ["upasaṅkami", "Approached (aorist of upasaṅkamati: upa + saṁ + √kam)."]
+    ]
+  },
+  "tenāti": {
+    "meaning": "“by this”, (with quotation marker ti)",
+    "gram": "pronoun, instrumental singular + quotation particle (sandhi tena + ti)",
+    "breakdown": [
+      ["tena", "By this, by that (instrumental of ta)."],
+      ["ti", "Quotation marker (with vowel lengthening in sandhi)."]
+    ]
+  },
+  "tesamekassāpekakasiṇepi na ijjhati": {
+    "meaning": "for not even one of them does it succeed even in a single kasiṇa",
+    "gram": "phrase",
+    "breakdown": [
+      ["tesaṁ", "Of these (genitive plural)."],
+      ["ekassa", "Of one (genitive singular)."],
+      ["api", "Even (elided in sandhi)."],
+      ["eka", "One."],
+      ["kasiṇe", "In the kasiṇa — the whole, entire meditation object (locative)."],
+      ["pi", "Even."],
+      ["na", "Not."],
+      ["ijjhati", "Has good result, succeeds, prospers."]
+    ]
+  },
+  "tevijjo": {
+    "meaning": "possessing the threefold knowledge",
+    "summary": "Refers to one endowed with the three higher knowledges attained at full enlightenment.",
+    "gram": "adjective, masculine nominative singular (compound, from tivijjā)",
+    "breakdown": [
+      ["te", "Three (ti in composition)."],
+      ["vijjā", "Knowledge, higher knowledge."]
+    ]
+  },
+  "thaddho": {
+    "meaning": "firm; obstinate, stubborn",
+    "gram": "past participle of thambhati (√thambh), masculine nominative singular",
+    "breakdown": [
+      ["√thambh", "Root meaning “to make firm, to prop”."],
+      ["-ta", "Past participle suffix (assimilated: thaddha)."]
+    ]
+  },
+  "thalajā": {
+    "meaning": "land-born; growing on dry land",
+    "gram": "adjective, nominative plural (compound)",
+    "breakdown": [
+      ["thala", "Dry land, high ground."],
+      ["ja", "Born of, growing from (√jan)."]
+    ]
+  },
+  "thambha": {
+    "meaning": "obduracy; rigidity, deceit, selfishness",
+    "gram": "masculine noun (from thambhati)",
+    "breakdown": [
+      ["√thambh", "Root meaning “to make firm, to prop”; figuratively rigidity, hard-heartedness."],
+      ["-a", "Noun-forming suffix."]
+    ]
+  },
+  "theramānandamānandakarama": {
+    "meaning": "(to) the elder Ānanda, the bringer of joy (first part of theramānandamānandakaramabravuṁ)",
+    "gram": "word fragment (line-break)",
+    "note": "uncertain: this is a truncated fragment of theramānandamānandakaramabravuṁ in the source, not an independent word."
+  },
+  "theramānandamānandakaramabravuṁ": {
+    "meaning": "they spoke to the elder Ānanda, the bringer of joy",
+    "gram": "verse compound with aorist verb, 3rd person plural",
+    "breakdown": [
+      ["thera", "Elder (senior monk)."],
+      ["Ānanda", "Ānanda (with connecting m in verse sandhi)."],
+      ["ānandakara", "Bringing joy, causing delight (a play on Ānanda's name)."],
+      ["abravuṁ", "They said, told, spoke (aorist 3rd person plural of brūti)."]
+    ],
+    "forms": ["theramānandamānandakaramabravuṃ"]
+  },
+  "theto": {
+    "meaning": "reliable, true, trustworthy",
+    "gram": "adjective, masculine nominative singular (of theta, related to ṭhita)",
+    "breakdown": [
+      ["√ṭhā", "Root meaning “to stand”; theta is one who stands firm — reliable."]
+    ]
+  },
+  "theyyasaṅkhātaṁ": {
+    "meaning": "reckoned as theft; what is called stealing",
+    "gram": "adjective, accusative/neuter singular (compound)",
+    "breakdown": [
+      ["theyya", "Theft, stealing."],
+      ["saṅkhāta", "Named, called, reckoned (past participle of saṅkhāyati)."]
+    ],
+    "forms": ["theyyasaṅkhātaṃ"]
+  },
+  "thāmadassinā": {
+    "meaning": "by one who sees strength; seeing (its) power",
+    "gram": "adjective, instrumental singular (compound)",
+    "breakdown": [
+      ["thāma", "Strength, power, vigour."],
+      ["dassin", "Seeing, perceiving (from √dis)."]
+    ]
+  },
+  "thāmasā": {
+    "meaning": "resolutely, firmly; with vigour",
+    "gram": "masculine noun, instrumental singular (of thāma, used adverbially)",
+    "breakdown": [
+      ["√ṭhā", "Root meaning “to stand”; thāma is firmness, strength."],
+      ["-sā", "Instrumental ending of the -as stem."]
+    ]
+  },
+  "thāmavā": {
+    "meaning": "resolute, firm; possessing strength",
+    "gram": "adjective, masculine nominative singular (of thāmavant)",
+    "breakdown": [
+      ["thāma", "Strength, firmness."],
+      ["-vant", "Possessive suffix: “possessing”."]
+    ]
+  },
+  "thāvarā": {
+    "meaning": "stationary; still, immovable (of beings, in contrast to the trembling, tasā)",
+    "gram": "adjective, nominative plural (of thāvara)",
+    "breakdown": [
+      ["√ṭhā", "Root meaning “to stand”."],
+      ["-vara", "Adjectival suffix: thāvara “standing still, stationary”."]
+    ]
+  },
+  "tibbo": {
+    "meaning": "keen, eager; intense, extensive",
+    "gram": "past participle of √tij, masculine nominative singular",
+    "breakdown": [
+      ["√tij", "Root meaning “to be sharp”; tibba is what has become sharp — keen, intense."]
+    ]
+  },
+  "tikkhindriye": {
+    "meaning": "with sharp faculties; of quick spiritual faculties",
+    "gram": "adjective, locative singular / accusative plural (compound)",
+    "breakdown": [
+      ["tikkha", "Sharp, quick."],
+      ["indriya", "Faculty (the two vowels merge in sandhi: tikkhindriya)."]
+    ]
+  },
+  "tikoṭiparisuddha": {
+    "meaning": "pure in the three points; utterly clean in three respects",
+    "gram": "adjective (compound)",
+    "breakdown": [
+      ["ti", "Three."],
+      ["koṭi", "Point, end, division."],
+      ["parisuddha", "Clean, utterly pure (past participle of parisujjhati)."]
+    ]
+  },
+  "tikoṭiparisuddhaṁ": {
+    "meaning": "utterly pure in the three points",
+    "gram": "adjective, accusative/neuter singular (compound)",
+    "breakdown": [
+      ["ti", "Three."],
+      ["koṭi", "Point, division."],
+      ["parisuddha", "Utterly pure (past participle)."]
+    ],
+    "forms": ["tikoṭiparisuddhaṃ"]
+  },
+  "timbaru": {
+    "meaning": "the timbaru tree (a certain tree, nux vomica)",
+    "gram": "masculine noun"
+  },
+  "timbarutthaniṁ": {
+    "meaning": "with breasts like timbaru fruit (an expression describing a young woman)",
+    "gram": "feminine adjective, accusative singular (compound)",
+    "breakdown": [
+      ["timbaru", "The timbaru tree and its round fruit."],
+      ["thana", "Breast (with sandhi doubling: -tthanī)."],
+      ["-ī", "Feminine possessive adjective ending."]
+    ],
+    "forms": ["timbarutthaniṃ"]
+  }
+}

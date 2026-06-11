@@ -1,0 +1,423 @@
+{
+  "yojana": {
+    "meaning": "a yojana, the common ancient measure of distance — as far as could be travelled by one yoke (of oxen), about seven miles",
+    "gram": "neuter noun (√yuj, to yoke)",
+    "breakdown": [
+      ["√yuj", "Root: to yoke, join."],
+      ["-ana", "Noun suffix: the distance covered by one yoking — a yojana."]
+    ]
+  },
+  "yojanagaṇanāni": {
+    "meaning": "(distances) counted in yojanas; many yojanas in measure",
+    "gram": "neuter compound noun, nominative/accusative plural",
+    "breakdown": [
+      ["yojana", "A yojana (measure of about seven miles)."],
+      ["gaṇanā", "Counting, reckoning, measure."]
+    ]
+  },
+  "yoni": {
+    "meaning": "womb; origin, mode of birth",
+    "gram": "feminine noun",
+    "breakdown": [
+      ["√yu", "Root: to join, bind. yoni: womb; place of origin, form of rebirth."]
+    ]
+  },
+  "yottaṁ": {
+    "meaning": "the tie of the yoke; a strap, cord",
+    "gram": "neuter noun, nominative/accusative singular",
+    "breakdown": [
+      ["√yu", "Root: to join, bind."],
+      ["-tta", "Noun suffix; yotta: the fastening of the yoke."]
+    ],
+    "forms": ["yottaṃ"]
+  },
+  "yuddhakathaṁ": {
+    "meaning": "talk about war; conversation about battles (a kind of unsuitable talk)",
+    "gram": "feminine compound noun, accusative singular",
+    "breakdown": [
+      ["yuddha", "Fight, war (past participle of yujjhati, to fight)."],
+      ["kathā", "Talk, conversation."]
+    ],
+    "forms": ["yuddhakathaṃ"]
+  },
+  "yugaṁ": {
+    "meaning": "yoke",
+    "gram": "neuter noun, nominative/accusative singular (√yuj)",
+    "breakdown": [
+      ["√yuj", "Root: to yoke, join. yuga: the yoke that joins draught animals."]
+    ],
+    "forms": ["yugaṃ"]
+  },
+  "yugāni": {
+    "meaning": "pairs; yokes",
+    "gram": "neuter noun, nominative/accusative plural of yuga",
+    "breakdown": [
+      ["√yuj", "Root: to yoke, join. yuga: yoke; by extension a pair (as in “the four pairs of persons”)."]
+    ]
+  },
+  "yuttaṭṭhāne": {
+    "meaning": "in the connected (appropriate) place; where it is fitting",
+    "gram": "neuter compound noun, locative singular",
+    "breakdown": [
+      ["yutta", "Connected, yoked; fitting, proper (past participle of yuñjati)."],
+      ["ṭhāna", "Place, occasion (junction doubling gives -ṭṭh-)."]
+    ]
+  },
+  "yācayogo": {
+    "meaning": "devoted to those who ask; open-handed, accessible to beggars",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["yāca", "What is begged, asked for."],
+      ["yoga", "Engaged in, devoted to. Together: devoted to giving when asked — open-handed."]
+    ]
+  },
+  "yānassa": {
+    "meaning": "of a vehicle; with vehicles",
+    "gram": "neuter noun, genitive/dative singular of yāna",
+    "breakdown": [
+      ["√yā", "Root: to go. yāna: vehicle, carriage, means of going."],
+      ["-assa", "Genitive/dative singular ending."]
+    ]
+  },
+  "yānīdha": {
+    "meaning": "whatever (things) here",
+    "gram": "sandhi fusion: relative pronoun plural + adverb (yāni + idha)",
+    "breakdown": [
+      ["yāni", "Whatever, which (neuter plural of ya)."],
+      ["idha", "Here. Sandhi: yāni + idha > yānīdha."]
+    ]
+  },
+  "yāpanīyaṁ": {
+    "meaning": "supporting, sustaining; suitable for keeping going (of health: bearable)",
+    "gram": "future passive participle of yāpeti, neuter/accusative singular",
+    "breakdown": [
+      ["√yā", "Root: to go. Causative yāpe: to keep going, sustain."],
+      ["-anīya", "Future passive participle suffix: that by which one can keep going."]
+    ],
+    "forms": ["yāpanīyaṃ"]
+  },
+  "yāpenti": {
+    "meaning": "they live on, they sustain themselves (by)",
+    "gram": "verb, 3rd person plural present, causative of yāti (√yā)",
+    "breakdown": [
+      ["√yā", "Root: to go. Causative stem yāpe: to keep going, subsist."],
+      ["-nti", "3rd person plural present ending."]
+    ]
+  },
+  "yāpeti": {
+    "meaning": "makes go; keeps going, lives by, subsists",
+    "gram": "verb, 3rd person singular present, causative of yāti (√yā)",
+    "breakdown": [
+      ["√yā", "Root: to go."],
+      ["-pe-ti", "Causative stem + 3rd person singular ending: to cause to go — to sustain oneself."]
+    ]
+  },
+  "yāva": {
+    "meaning": "as far as, up to, until",
+    "gram": "indeclinable adverb"
+  },
+  "yāvakīvañca": {
+    "meaning": "and as long as",
+    "gram": "indeclinable sandhi fusion (yāva + kīvaṁ + ca)",
+    "breakdown": [
+      ["yāva", "As far as, as long as."],
+      ["kīvaṁ", "How much, how long."],
+      ["ca", "And (sandhi: kīvaṁ + ca > kīvañca)."]
+    ]
+  },
+  "yāvatassa": {
+    "meaning": "as long as; for as long as (for him)",
+    "gram": "adverbial phrase (yāvatā + assa)",
+    "breakdown": [
+      ["yāvatā", "As long as, as far as."],
+      ["assa", "For him, his (genitive/dative pronoun)."]
+    ]
+  },
+  "yāvatassa as long": {
+    "meaning": "yāvatassa: as long as",
+    "summary": "A glossary fragment; the entry is simply yāvatassa, “as long as”.",
+    "gram": "adverbial phrase (glossary fragment)"
+  },
+  "yāvatā": {
+    "meaning": "as far as; to whatever extent",
+    "gram": "indeclinable adverb (ablative of yāva)"
+  },
+  "ñāpetabbo": {
+    "meaning": "to be made known, to be announced",
+    "gram": "future passive participle of ñāpeti (causative of jānāti, √ñā), masculine nominative singular",
+    "breakdown": [
+      ["√ñā", "Root: to know. Causative ñāpe: to make known."],
+      ["-tabba", "Future passive participle suffix: “to be done”."]
+    ]
+  },
+  "ñātakānaṁ": {
+    "meaning": "of relatives; among kinsmen",
+    "gram": "masculine noun, genitive/dative plural of ñātaka",
+    "breakdown": [
+      ["ñāta", "Known (past participle of jānāti, √ñā)."],
+      ["-ka", "Noun suffix; ñātaka: one who is known — a relative."],
+      ["-ānaṁ", "Genitive/dative plural ending."]
+    ],
+    "forms": ["ñātakānaṃ"]
+  },
+  "ñātisālohitā": {
+    "meaning": "relatives and blood-relations",
+    "gram": "masculine compound noun, nominative plural",
+    "breakdown": [
+      ["ñāti", "Relative, kinsman."],
+      ["sālohita", "Blood-relation (sa “with” + lohita “blood”: of the same blood)."]
+    ]
+  },
+  "ñāyapaṭipanno": {
+    "meaning": "practising the right way; entered upon the proper method (an epithet of the Saṅgha)",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["ñāya", "The right way, the proper method; wisdom."],
+      ["paṭipanna", "Entered upon, practising (past participle of paṭipajjati)."]
+    ]
+  },
+  "ñāyaṁ": {
+    "meaning": "the right way, the true method (accusative); in the lexicon's parsing of the verse context: “not this” (na + ayaṁ)",
+    "gram": "masculine noun ñāya, accusative singular; or sandhi of na + ayaṁ as the lexicon parses",
+    "breakdown": [
+      ["ñāya", "Method, right way; system, logic."],
+      ["-aṁ", "Accusative singular ending."]
+    ],
+    "note": "uncertain: the lexicon line parses this occurrence as na + ayaṁ (“not + this”), which would normally yield nāyaṁ; as a lexeme ñāyaṁ is the accusative of ñāya, “the right way”.",
+    "forms": ["ñāyaṃ"]
+  },
+  "ñāyaṁ dhammanti": {
+    "meaning": "“the right-way dhamma” — i.e. the Dhamma of the noble path (ariyamaggadhamma), with quotation marker",
+    "gram": "phrase: noun + noun + quotation particle ti",
+    "breakdown": [
+      ["ñāya", "The right way, proper method; here referring to the noble path (ariyamagga)."],
+      ["dhamma", "Teaching, dhamma (accusative dhammaṁ; the -n- before ti is sandhi)."],
+      ["ti", "Quotation particle (iti)."]
+    ],
+    "forms": ["ñāyaṃ dhammanti"]
+  },
+  "ñāṇakaraṇī": {
+    "meaning": "producing knowledge; making for true knowledge",
+    "gram": "adjective compound, feminine nominative singular",
+    "breakdown": [
+      ["ñāṇa", "Knowledge, true knowing (√ñā)."],
+      ["karaṇī", "Making, producing (feminine of karaṇa)."]
+    ]
+  },
+  "ñāṇaṁ": {
+    "meaning": "knowledge, wisdom; true knowing",
+    "gram": "neuter noun, nominative/accusative singular (√ñā)",
+    "breakdown": [
+      ["√ñā", "Root: to know."],
+      ["-aṇa", "Action-noun suffix; ñāṇa: knowing, knowledge."]
+    ],
+    "forms": ["ñāṇaṃ"]
+  },
+  "ābharaṇa": {
+    "meaning": "decoration, ornament",
+    "gram": "neuter noun (ā + √bhar)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, upon."],
+      ["√bhar", "Root: to bear, carry. ābharaṇa: what is worn — an ornament."]
+    ]
+  },
+  "ābhicetasikānaṁ": {
+    "meaning": "of (states) belonging to the higher mind; of clear consciousness",
+    "gram": "adjective, genitive plural (from abhicetas)",
+    "breakdown": [
+      ["ābhi-", "Strengthened form of abhi-: higher, superior."],
+      ["cetas", "Mind, consciousness (√cit)."],
+      ["-ika", "Adjectival suffix: belonging to. Of the higher, clear mind — said of the jhānas."]
+    ],
+    "forms": ["ābhicetasikānaṃ"]
+  },
+  "ābādho": {
+    "meaning": "disease, illness, affliction",
+    "gram": "masculine noun, nominative singular (ā + √bādh)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, upon."],
+      ["√bādh", "Root: to oppress, afflict. ābādha: affliction — illness."]
+    ]
+  },
+  "ācariyamuṭṭhi": {
+    "meaning": "the teacher's fist — keeping something of the teaching back from the disciple",
+    "summary": "An idiom: a closed-fisted teacher withholds part of the teaching; the Buddha declared he had no such “teacher's fist”.",
+    "gram": "feminine compound noun",
+    "breakdown": [
+      ["ācariya", "Teacher."],
+      ["muṭṭhi", "Fist. The closed fist of a teacher: esoteric withholding of the teaching."]
+    ]
+  },
+  "ācikkhanti": {
+    "meaning": "they tell, relate, describe",
+    "gram": "verb, 3rd person plural present of ācikkhati (ā + √cikkh)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√cikkh", "Root: to tell, point out."],
+      ["-anti", "3rd person plural present ending."]
+    ]
+  },
+  "ācikkhati": {
+    "meaning": "announces; points out, tells, describes",
+    "gram": "verb, 3rd person singular present (ā + √cikkh)",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√cikkh", "Root: to tell, point out."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "ācikkhaṇā": {
+    "meaning": "pointing out, explanation; telling",
+    "gram": "feminine abstract noun, from ācikkhati",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√cikkh", "Root: to tell, point out."],
+      ["-aṇā", "Feminine action-noun suffix: the act of pointing out."]
+    ]
+  },
+  "ācikkheyya": {
+    "meaning": "would tell, would relate, should describe",
+    "gram": "verb, 3rd person singular optative of ācikkhati",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√cikkh", "Root: to tell, point out."],
+      ["-eyya", "3rd person singular optative ending: “would, should”."]
+    ]
+  },
+  "ācikkhissāmyanāgataṁ": {
+    "meaning": "I will tell the future; I shall announce what is to come",
+    "gram": "sandhi fusion: 1st person singular future + noun (ācikkhissāmi + anāgataṁ)",
+    "breakdown": [
+      ["ācikkhissāmi", "I will tell, show, announce (future of ācikkhati; the -y- is a sandhi glide)."],
+      ["anāgata", "The future, what has not yet come (an + āgata, “not come”)."]
+    ],
+    "forms": ["ācikkhissāmyanāgataṃ"]
+  },
+  "āciṇṇaṁ": {
+    "meaning": "practised, habitually done",
+    "gram": "past participle of ācarati (ā + √car), neuter/accusative singular",
+    "breakdown": [
+      ["ā-", "Prefix: towards."],
+      ["√car", "Root: to move, conduct oneself."],
+      ["-na", "Past participle suffix (car + na > ciṇṇa): practised, carried out."]
+    ],
+    "forms": ["āciṇṇaṃ"]
+  },
+  "ācārapaññātti": {
+    "meaning": "regulation of right conduct; precept or ordinance concerning practice",
+    "gram": "feminine compound noun",
+    "breakdown": [
+      ["ācāra", "Practice, right conduct."],
+      ["paññātti", "Precept, ordinance, regulation; designation."]
+    ]
+  },
+  "ācārasīlaguṇavattapaṭipattiyā": {
+    "meaning": "by conduct, sīla, quality, observance and practice",
+    "gram": "feminine compound noun, instrumental/genitive singular",
+    "breakdown": [
+      ["ācāra", "Conduct, behaviour."],
+      ["sīla", "Morality, sīla."],
+      ["guṇa", "Quality, virtue."],
+      ["vatta", "Observance, duty."],
+      ["paṭipatti", "Practice, the carrying out."]
+    ]
+  },
+  "ādevanā": {
+    "meaning": "lamentation, crying, bewailing",
+    "gram": "feminine abstract noun, from ādevati (ā + √dev)",
+    "breakdown": [
+      ["ā-", "Prefix: intensive."],
+      ["√dev", "Root: to lament."],
+      ["-anā", "Feminine action-noun suffix: the act of lamenting."]
+    ]
+  },
+  "ādevitattaṁ": {
+    "meaning": "the state of lamentation; the condition of crying and bewailing",
+    "gram": "neuter abstract noun (ādevita + -tta), nominative/accusative singular",
+    "breakdown": [
+      ["ādevita", "Lamented; lamentation (past participle of ādevati)."],
+      ["-tta", "Abstract suffix: the state of."]
+    ],
+    "forms": ["ādevitattaṃ"]
+  },
+  "ādevo": {
+    "meaning": "lamentation, crying, bewailing",
+    "gram": "masculine noun, nominative singular (ā + √dev)",
+    "breakdown": [
+      ["ā-", "Prefix: intensive."],
+      ["√dev", "Root: to lament. ādeva: wailing, lamentation."]
+    ]
+  },
+  "ādhānaggāhī": {
+    "meaning": "sticking obstinately to what one has taken up; dogmatically tenacious",
+    "gram": "adjective compound, masculine nominative singular",
+    "breakdown": [
+      ["ādhāna", "Depositing, placing down; what is laid hold of."],
+      ["gāhī", "Taking up, seizing (the gg is junction doubling). Together: one who grips what he has taken up — obstinate."]
+    ]
+  },
+  "ādikalyāṇaṁ": {
+    "meaning": "beneficial in the beginning; lovely at the start (said of the Dhamma)",
+    "gram": "adjective compound, accusative/neuter singular",
+    "breakdown": [
+      ["ādi", "Beginning."],
+      ["kalyāṇa", "Beneficial, good, lovely."]
+    ],
+    "forms": ["ādikalyāṇaṃ"]
+  },
+  "ādimajjhapariyosānakalyāṇattā": {
+    "meaning": "because of being beneficial in the beginning, the middle and the end",
+    "gram": "compound abstract noun, ablative singular (“because of...”)",
+    "breakdown": [
+      ["ādi", "Beginning."],
+      ["majjha", "Middle."],
+      ["pariyosāna", "End, conclusion."],
+      ["kalyāṇa", "Beneficial, good."],
+      ["-ttā", "Abstract suffix in the ablative: because of the state of being so."]
+    ]
+  },
+  "ādinā": {
+    "meaning": "with (this) as the beginning; and so forth (usually with nayena: “in this and similar ways”)",
+    "gram": "adjective/noun ādi, instrumental singular",
+    "breakdown": [
+      ["ādi", "Beginning; et cetera."],
+      ["-nā", "Instrumental singular ending."]
+    ]
+  },
+  "ādinā nayena": {
+    "meaning": "thus and in similar ways; by this method and the like",
+    "gram": "phrase, instrumental singular",
+    "breakdown": [
+      ["ādinā", "With (this) as the beginning; and so forth."],
+      ["nayena", "By the method, in the manner (instrumental of naya)."]
+    ]
+  },
+  "ādittaṁ": {
+    "meaning": "blazing, burning, on fire",
+    "gram": "past participle of ādippati (ā + √dīp), neuter/accusative singular",
+    "breakdown": [
+      ["ā-", "Prefix: intensive."],
+      ["√dīp", "Root: to shine, burn."],
+      ["-ta", "Past participle suffix (dīp + ta > ditta): set ablaze."]
+    ],
+    "forms": ["ādittaṃ"]
+  },
+  "ādivassasate": {
+    "meaning": "in the first hundred years; in the first century",
+    "gram": "compound noun, locative singular",
+    "breakdown": [
+      ["ādi", "Beginning, first."],
+      ["vassa", "Year (literally rainy season)."],
+      ["sata", "Hundred (locative sate)."]
+    ]
+  },
+  "ādiyati": {
+    "meaning": "takes up, grasps; takes upon oneself (e.g. a precept)",
+    "gram": "verb, 3rd person singular present (√ādā)",
+    "breakdown": [
+      ["ā-", "Prefix: towards, to oneself."],
+      ["√dā (ādā)", "Root: to take. ādiyati: to take up, undertake."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  }
+}

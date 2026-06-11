@@ -1,0 +1,405 @@
+{
+ "kumbhakārāvesane": {
+  "meaning": "in a potter's workshop",
+  "gram": "neuter noun, compound (locative singular)",
+  "breakdown": [
+   ["kumbhakāra", "Potter (kumbha \"pot\" + kāra \"maker\")."],
+   ["āvesana", "Workshop, lobby, lodging."]
+  ]
+ },
+ "kumbhathunanti": {
+  "meaning": "drum (a pot-drum), with quotation marker",
+  "gram": "neuter compound noun + quotation particle ti (kumbhathunaṁ + ti → kumbhathunanti by sandhi)",
+  "breakdown": [
+   ["kumbha", "Pot."],
+   ["thuna", "Drum-sound; kumbhathuna is a kind of pot-drum."],
+   ["ti", "Quotation marker; the niggahīta ṁ + ti becomes nti."]
+  ]
+ },
+ "kumbhaṭṭhānakathaṁ": {
+  "meaning": "talk about the watering place; gossip at the well",
+  "summary": "One item in the stock list of frivolous kinds of talk avoided by the meditator.",
+  "gram": "feminine noun, compound (accusative singular)",
+  "breakdown": [
+   ["kumbha", "Waterpot."],
+   ["ṭhāna", "Place. (The doubling ṭṭh is junction doubling.)"],
+   ["kathā", "Speech, talk."]
+  ]
+ },
+ "kumbhi": {
+  "meaning": "pot",
+  "gram": "feminine noun (from kumbha)"
+ },
+ "kumārakā": {
+  "meaning": "boys",
+  "gram": "masculine noun, diminutive of kumāra (nominative plural)",
+  "breakdown": [
+   ["kumāra", "Boy, youth."],
+   ["-ka", "Diminutive suffix."]
+  ]
+ },
+ "kuppati": {
+  "meaning": "to be angry; to be agitated, perturbed",
+  "gram": "verb, 3rd person singular present (√kup)",
+  "breakdown": [
+   ["√kup", "Root: to be agitated, to be angry."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "kuru": {
+  "meaning": "do!, make! (a rare middle form of karoti)",
+  "gram": "verb, imperative, rare middle form of karoti",
+  "breakdown": [
+   ["√kar", "Root: to do, to make; middle stem kuru-."]
+  ]
+ },
+ "kurute": {
+  "meaning": "makes, does",
+  "gram": "verb, 3rd person singular present, middle voice of karoti",
+  "breakdown": [
+   ["√kar", "Root: to do, to make; middle stem kuru-."],
+   ["-te", "3rd person singular middle ending."]
+  ]
+ },
+ "kurūrakammantā": {
+  "meaning": "of cruel occupation; those with a cruel profession",
+  "gram": "adjective, compound (here nominative plural)",
+  "breakdown": [
+   ["kurūra", "Cruel, bloody."],
+   ["kammanta", "Profession, occupation, work."]
+  ]
+ },
+ "kusale": {
+  "meaning": "wholesome; fortunate, beneficial (things)",
+  "gram": "adjective (locative singular or accusative plural of kusala)",
+  "breakdown": [
+   ["kusala", "Wholesome, skilful, beneficial — of actions that bear happy results."]
+  ]
+ },
+ "kusīto": {
+  "meaning": "slothful; indolent, lazy",
+  "gram": "adjective (masculine nominative singular)",
+  "breakdown": [
+   ["ku-", "Pejorative prefix: badly, wrongly."],
+   ["sīta", "From √sad, sinking down; kusīta is one who sinks into indolence."]
+  ]
+ },
+ "kuto": {
+  "meaning": "whence?; where from?",
+  "gram": "interrogative adverb, ablative of ka"
+ },
+ "kuṇī": {
+  "meaning": "deformed; crooked (of limbs); a cripple-armed person",
+  "gram": "adjective (from kuṇa)",
+  "breakdown": [
+   ["√kuṇ", "Root: to be crooked, bent."],
+   ["-ī", "Adjectival suffix."]
+  ]
+ },
+ "kuṭikā": {
+  "meaning": "hut; small dwelling",
+  "gram": "feminine noun, diminutive of kuṭi",
+  "breakdown": [
+   ["kuṭi", "Hut."],
+   ["-kā", "Diminutive suffix."]
+  ]
+ },
+ "kvaci": {
+  "meaning": "anywhere; somewhere",
+  "gram": "indeclinable adverb (kva \"where\" + indefinite -ci)"
+ },
+ "kālakiriyā": {
+  "meaning": "death; literally, the fulfilling of one's time",
+  "gram": "feminine abstract noun, compound",
+  "breakdown": [
+   ["kāla", "Time; one's appointed time."],
+   ["kiriyā", "Doing, performance (abstract noun related to karoti); kālakiriyā is \"doing one's time\", dying."]
+  ]
+ },
+ "kālapamukha": {
+  "meaning": "with time as the foremost; time as chief",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kāla", "Time."],
+   ["pamukha", "Foremost, chief."]
+  ]
+ },
+ "kālena": {
+  "meaning": "at the appropriate time; timely",
+  "gram": "masculine noun kāla in the instrumental singular, used adverbially",
+  "breakdown": [
+   ["kāla", "Time, proper time."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "kāmabhogino": {
+  "meaning": "enjoying sensual pleasures; those who partake of sense pleasures",
+  "gram": "adjective, compound (kāmabhogī; here plural/genitive form)",
+  "breakdown": [
+   ["kāma", "Sensual pleasure, sense desire."],
+   ["bhogī", "Enjoying, partaking of (from bhuñjati \"to enjoy\")."]
+  ]
+ },
+ "kāmabhogīnaṁ": {
+  "meaning": "of those enjoying sensual pleasures",
+  "summary": "From a discourse to householders on the ten kinds of livelihood among those who enjoy sense pleasures.",
+  "gram": "adjective, compound (genitive plural of kāmabhogī)",
+  "breakdown": [
+   ["kāma", "Sensual pleasure."],
+   ["bhogī", "Enjoying."],
+   ["-naṁ", "Genitive plural ending: \"of\"."]
+  ],
+  "goenka": "The lexicon notes that this form comes from a discourse of the Buddha addressing householders, explaining the ten kinds of performing one's livelihood among those who enjoy sense pleasures: prosperity could be acquired by righteous or unrighteous means; by violence or without it; used for one's own wellbeing only, for the wellbeing of others, or both; and finally whether one is attached to one's possessions or not. Summing up all these distinctions, ten kinds are described."
+ },
+ "kāmaguṇehi": {
+  "meaning": "with the strands of sensual pleasure; by the five cords of sense pleasure",
+  "gram": "masculine noun, compound (instrumental/ablative plural)",
+  "breakdown": [
+   ["kāma", "Sensual pleasure."],
+   ["guṇa", "Strand, cord, quality; the five kāmaguṇas are the pleasures of the five senses."],
+   ["-ehi", "Instrumental/ablative plural ending."]
+  ]
+ },
+ "kāmakāmino": {
+  "meaning": "pleasure-loving; fond of and striving after sense pleasures",
+  "gram": "adjective, compound (kāmakāmī; here plural/genitive form)",
+  "breakdown": [
+   ["kāma", "Sensual pleasure."],
+   ["kāmī", "Desiring, loving (from kāmeti \"to desire\")."]
+  ]
+ },
+ "kāmassādavasena": {
+  "meaning": "on account of relishing sensual enjoyment",
+  "gram": "compound noun (instrumental singular used adverbially)",
+  "breakdown": [
+   ["kāma", "Sensual enjoyment."],
+   ["assāda", "Relishing, taste, gratification."],
+   ["vasena", "On account of, by way of."]
+  ]
+ },
+ "kāmasukhallikānuyogo": {
+  "meaning": "the practice of clinging to sensual happiness; devotion to sense indulgence",
+  "summary": "One of the two extremes rejected in the Buddha's first discourse, the other being self-mortification.",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["kāma", "Sense pleasure."],
+   ["sukha", "Happiness."],
+   ["allika", "Clinging to, adhering."],
+   ["anuyoga", "Practice of, devotion to."]
+  ],
+  "goenka": "In the Dhammacakkappavattanasutta the Buddha names kāmasukhallikānuyogo, addiction to indulgence in sensual pleasure, as one of the two extremes a meditator must avoid, the other being attakilamathānuyogo, addiction to self-mortification. The middle path of sīla, samādhi and paññā avoids both: one neither runs after pleasant sensations nor torments oneself, but observes whatever arises with equanimity."
+ },
+ "kāmataṇhā": {
+  "meaning": "craving for sensual pleasures",
+  "gram": "feminine abstract noun, compound",
+  "breakdown": [
+   ["kāma", "Sensual pleasure."],
+   ["taṇhā", "Craving, thirst."]
+  ],
+  "goenka": "Kāmataṇhā is the first of the three kinds of taṇhā (craving) taught in the Second Noble Truth: craving for sensual pleasures, alongside bhavataṇhā (craving for becoming) and vibhavataṇhā (craving for annihilation). In practice it is observed as the mind's habit of reacting with craving to pleasant sensations; vipassanā weakens this habit by revealing the impermanence of every sensation."
+ },
+ "kāmavitakkaṁ": {
+  "meaning": "a thought of sense desire",
+  "gram": "masculine noun, compound (accusative singular)",
+  "breakdown": [
+   ["kāma", "Sense desire."],
+   ["vitakka", "Thought."]
+  ]
+ },
+ "kāmavitakkādīnaṁ": {
+  "meaning": "of thoughts of sense desire and the rest (thoughts of ill will and cruelty)",
+  "gram": "compound (genitive plural)",
+  "breakdown": [
+   ["kāma", "Sense desire."],
+   ["vitakka", "Thought."],
+   ["ādi", "Beginning with, and so forth."],
+   ["-naṁ", "Genitive plural ending."]
+  ]
+ },
+ "kāme": {
+  "meaning": "desires; sense pleasures",
+  "gram": "noun (accusative plural or locative singular of kāma)",
+  "breakdown": [
+   ["√kam", "Root: to desire (kāmeti)."],
+   ["-a", "Noun stem kāma: desire, object of sensual enjoyment."]
+  ]
+ },
+ "kāmesu": {
+  "meaning": "in sensual pleasures; among sense desires",
+  "gram": "noun (locative plural of kāma)",
+  "breakdown": [
+   ["kāma", "Sensual pleasure."],
+   ["-esu", "Locative plural ending: \"in, among\"."]
+  ]
+ },
+ "kāmesumicchācāro": {
+  "meaning": "wrong conduct in sensual pleasures; sexual misconduct",
+  "summary": "The third of the five precepts of sīla: abstaining from wrong conduct in sensual pleasures.",
+  "gram": "masculine noun, compound (locative kāmesu + micchācāra; nominative singular)",
+  "breakdown": [
+   ["kāmesu", "In sensual pleasures (locative plural of kāma)."],
+   ["micchā", "Wrong, false."],
+   ["cāra", "Conduct, behaviour."]
+  ],
+  "goenka": "Abstaining from kāmesumicchācāro, wrong conduct in sensual pleasures, is one of the five precepts of sīla on which all progress on the path rests. By restraining the misuse of the senses, above all sexual misconduct, the meditator stops generating fresh agitation and remorse, providing the base of moral conduct on which samādhi and paññā can be developed."
+ },
+ "kāruññataṁ": {
+  "meaning": "compassion; the state of compassionateness (as in \"out of compassion\")",
+  "gram": "feminine abstract noun (accusative singular of kāruññatā)",
+  "breakdown": [
+   ["karuṇā", "Compassion (lengthened to kāruñ- in this derivation)."],
+   ["-ya", "Abstract suffix forming kāruñña."],
+   ["-tā", "Further abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "kāruññataṁ out of": {
+  "meaning": "out of compassion",
+  "gram": "feminine abstract noun, accusative singular (duplicate row; see kāruññataṁ)",
+  "note": "uncertain: this headword is a glossary-row artifact in which part of the English gloss \"out of compassion\" was attached to the headword kāruññataṁ; see the entry kāruññataṁ."
+ },
+ "kārāpessāma": {
+  "meaning": "we will cause to be done; we will have (something) made",
+  "gram": "verb, 1st person plural future, causative of karoti (kārāpeti)",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-āpe-", "Causative suffix: to cause to do."],
+   ["-ssāma", "1st person plural future ending."]
+  ]
+ },
+ "kāsāva": {
+  "meaning": "the yellow robe; ochre-coloured (robe of a monk)",
+  "gram": "adjective, used as a noun (from kasāva \"astringent, ochre\")",
+  "breakdown": [
+   ["kasāva", "Astringent; the ochre dye; lengthened to kāsāva, the yellow-brown robe of the renunciate."]
+  ]
+ },
+ "kāsāva yellow": {
+  "meaning": "the yellow robe",
+  "gram": "adjective used as a noun (duplicate row; see kāsāva)",
+  "note": "uncertain: this headword is a glossary-row artifact in which the English gloss \"yellow\" was attached to the headword kāsāva; see the entry kāsāva."
+ },
+ "kāsāyāni": {
+  "meaning": "yellow robes; ochre garments",
+  "gram": "adjective (neuter nominative/accusative plural of kāsāya)",
+  "breakdown": [
+   ["kāsāya", "Ochre, yellow-brown; the colour of the renunciate's robes."],
+   ["-āni", "Neuter plural ending."]
+  ]
+ },
+ "kātuṁ": {
+  "meaning": "to do; to make",
+  "gram": "infinitive of karoti",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-tuṁ", "Infinitive suffix: \"to do\"."]
+  ]
+ },
+ "kāyaduccaritaṁ": {
+  "meaning": "bad bodily action; misconduct by body",
+  "gram": "neuter noun, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["kāya", "Body."],
+   ["du-", "Prefix: bad, evil. (The doubling cc is junction doubling.)"],
+   ["carita", "Action, conduct (past participle of carati)."]
+  ]
+ },
+ "kāyaduccaritādīnametaṁ": {
+  "meaning": "this... of bad bodily conduct and the rest",
+  "gram": "sandhi chain: compound in the genitive plural + pronoun (kāyaduccaritādīnaṁ + etaṁ)",
+  "breakdown": [
+   ["kāya", "Body."],
+   ["duccarita", "Bad, evil conduct."],
+   ["ādi", "Beginning with, and so forth."],
+   ["-naṁ", "Genitive plural ending; the niggahīta becomes m before the vowel."],
+   ["etaṁ", "This."]
+  ]
+ },
+ "kāyakammaṁ": {
+  "meaning": "bodily action; deeds of body",
+  "gram": "neuter noun, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["kāya", "Body."],
+   ["kamma", "Action, deed."]
+  ]
+ },
+ "kāyaparihārikena": {
+  "meaning": "just enough to maintain the body; for the upkeep of the body",
+  "gram": "adjective, compound (instrumental singular)",
+  "breakdown": [
+   ["kāya", "Body."],
+   ["parihārika", "Keeping, preserving, sustaining."]
+  ]
+ },
+ "kāyavacīpayogasamuṭṭhāpikā": {
+  "meaning": "occasioned by means of body and speech; causing (kamma) through bodily and verbal effort",
+  "gram": "feminine adjective, compound",
+  "breakdown": [
+   ["kāya", "Body."],
+   ["vacī", "Speech."],
+   ["payoga", "Means, effort, application."],
+   ["samuṭṭhāpikā", "Causing to arise, occasioning (feminine)."]
+  ]
+ },
+ "kāḷapakkheva": {
+  "meaning": "just as in the dark fortnight; like the waning half of the month",
+  "gram": "masculine compound (locative singular) + comparison particle iva/eva, fused",
+  "breakdown": [
+   ["kāḷa", "Dark, black."],
+   ["pakkha", "Half of the lunar month, fortnight; kāḷapakkha is the moonless, waning half."],
+   ["eva/iva", "Just as, like (fused with the locative pakkhe)."]
+  ]
+ },
+ "kāṇo": {
+  "meaning": "blind; one-eyed",
+  "gram": "adjective (masculine nominative singular)"
+ },
+ "kūṭa": {
+  "meaning": "false; deceitful; falsehood, deceit",
+  "gram": "adjective (also used as a noun)",
+  "breakdown": [
+   ["√kuṭ", "Root: to be crooked; kūṭa is what is crooked, false."]
+  ]
+ },
+ "kūṭamānakūṭā": {
+  "meaning": "false measures and false scales; cheating with weights and measures",
+  "summary": "From the stock list tulākūṭa-kaṁsakūṭa-mānakūṭa: false scales, false coinage and false measures.",
+  "gram": "compound (plural)",
+  "breakdown": [
+   ["kūṭa", "False, deceitful."],
+   ["māna", "Measure, measurement."],
+   ["tulā", "Scale, balance (in the fuller list tulākūṭa)."],
+   ["kaṁsa", "Bronze plate, coinage (in the fuller list kaṁsakūṭa)."]
+  ]
+ },
+ "la, ḷa": {
+  "meaning": "the letters la and ḷa, which often get swapped in Pāli words",
+  "summary": "A pronunciation note: when pronouncing ḷa the tongue moves from above the teeth towards the lips, performing a trembling sound.",
+  "gram": "phrase: phonological note on two letters of the Pāli alphabet"
+ },
+ "labbhati": {
+  "meaning": "to be gained; to be obtained",
+  "gram": "verb, 3rd person singular present, passive of labhati (√labh)",
+  "breakdown": [
+   ["√labh", "Root: to gain, to obtain (labhati)."],
+   ["-bha-", "Passive stem labbha- (with junction doubling)."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "labbhetha": {
+  "meaning": "could be obtained; might be taken",
+  "gram": "verb, optative (middle form) of the passive labbhati",
+  "breakdown": [
+   ["√labh", "Root: to gain, to obtain."],
+   ["labbha-", "Passive stem: to be obtained."],
+   ["-etha", "Optative middle ending: \"could, might\"."]
+  ]
+ },
+ "labhati": {
+  "meaning": "to gain; to achieve, obtain",
+  "gram": "verb, 3rd person singular present (√labh)",
+  "breakdown": [
+   ["√labh", "Root: to gain, to obtain."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ }
+}

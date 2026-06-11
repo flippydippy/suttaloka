@@ -1,0 +1,422 @@
+{
+ "saññāpetha": {
+  "meaning": "convince!; make (him) understand, persuade",
+  "gram": "verb, imperative/optative 2nd person plural of saññāpeti (causative of sañjānāti, √ñā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√ñā (ñāpeti)", "Root “to know”; causative: to make known, convince."],
+   ["-tha", "2nd person plural ending."]
+  ]
+ },
+ "saṁ": {
+  "meaning": "together; along with (prefix); one's own",
+  "gram": "prefix / reflexive pronominal base"
+ },
+ "saṁhareyya": {
+  "meaning": "should draw together; would collect, gather, pull in",
+  "gram": "verb, optative 3rd person singular of saṁharati (saṁ + √har)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√har", "Root meaning “to carry, take”."],
+   ["-eyya", "Optative ending."]
+  ]
+ },
+ "saṁharitvā": {
+  "meaning": "having collected; having gathered, accumulated",
+  "gram": "gerund of saṁharati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√har", "Root meaning “to carry, take”."],
+   ["-itvā", "Gerund ending: “having …-ed”."]
+  ]
+ },
+ "saṁhāni": {
+  "meaning": "decline; loss; running down (of the life faculties)",
+  "gram": "feminine noun (saṁ + hāni, from √hā “to diminish”)",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["hāni", "Decrease, decay, loss (√hā “to abandon, wane”)."]
+  ],
+  "note": "divergence: the lexicon's running gloss reads “destroy, suppress” (as if from saṁhanati); the form here is the noun saṁhāni “decline”, used of āyuno saṁhāni, the running down of the life span."
+ },
+ "saṁkelāyati": {
+  "meaning": "amuses oneself; treats playfully, fondles",
+  "gram": "verb, present tense 3rd person singular (causative of saṁkīḷati, √kīḷ)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√kīḷ (kelāyati)", "Root “to play”: to amuse, treat as a plaything."]
+  ]
+ },
+ "saṁkīḷati": {
+  "meaning": "plays; sports together",
+  "gram": "verb, present tense 3rd person singular (saṁ + √kīḷ)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["kīḷati", "Plays (√kīḷ)."]
+  ]
+ },
+ "saṁsandati": {
+  "meaning": "runs together; associates; agrees, fits together",
+  "gram": "verb, present tense 3rd person singular (saṁ + √sand)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["sandati", "Flows (√sand). Together: flows together, converges, agrees."]
+  ]
+ },
+ "saṁsandati to run": {
+  "meaning": "runs together; associates",
+  "gram": "verb, present tense 3rd person singular",
+  "note": "uncertain: this key is a glossary parsing artifact — the words “to run” from the gloss “to run together” were attached to the headword saṁsandati; see the entry saṁsandati."
+ },
+ "saṁsandatimeva": {
+  "meaning": "just associates with; precisely agrees, comes together thus",
+  "gram": "verb, present tense 3rd person singular + emphatic eva (sandhi)",
+  "breakdown": [
+   ["saṁsandati", "Runs together, associates (saṁ + √sand)."],
+   ["-m-", "Euphonic consonant inserted in sandhi."],
+   ["eva", "Just, precisely (emphatic enclitic)."]
+  ]
+ },
+ "saṁsara": {
+  "meaning": "wander on!; (imperative of saṁsarati) move through the round of existences",
+  "gram": "verb, imperative 2nd person singular of saṁsarati (saṁ + √sar)",
+  "breakdown": [
+   ["saṁ-", "Prefix: continuously."],
+   ["√sar", "Root meaning “to move, flow”: to wander on through births."]
+  ],
+  "note": "uncertain: the lexicon gives only the bare form saṁsara without a gloss; parsed here as a form of saṁsarati “to transmigrate”."
+ },
+ "saṁsita": {
+  "meaning": "transmigrated; having moved about continuously (through the round of births)",
+  "gram": "past participle of saṁsarati (contracted from saṁsarita)",
+  "breakdown": [
+   ["saṁ-", "Prefix: continuously."],
+   ["√sar + ita", "Root “to move, flow” with past participle suffix (saṁsarita > saṁsita)."]
+  ]
+ },
+ "saṁsitaṁ": {
+  "meaning": "transmigrated; gone through continuously",
+  "gram": "past participle of saṁsarati (accusative singular; contracted from saṁsarita)",
+  "breakdown": [
+   ["saṁsita", "Transmigrated (saṁ + √sar + ita)."],
+   ["-aṁ", "Accusative singular ending."]
+  ]
+ },
+ "saṁsārassatthikārako": {
+  "meaning": "the maker of the existence of this round of rebirths",
+  "gram": "phrase: sandhi compound (saṁsārassa + atthi + kārako)",
+  "breakdown": [
+   ["saṁsārassa", "Of the round of existences (genitive singular of saṁsāra)."],
+   ["atthi", "Being, existence."],
+   ["kārako", "Maker, doer (from karoti)."]
+  ]
+ },
+ "saṁvaraṁ": {
+  "meaning": "restraint; guarding (of the senses)",
+  "gram": "masculine noun (accusative singular), from saṁvarati (√var)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√var + a", "Root “to obstruct, ward off”: restraint, guarding."]
+  ],
+  "goenka": "Saṁvara, restraint, is the guarding of the sense doors and of one's conduct that protects the practice of sīla. The meditator restrains the senses not by suppression but with awareness, so that unwholesome states find no entry and the mind remains fit for samādhi and paññā."
+ },
+ "saṁvattantī": {
+  "meaning": "they lead to; they conduce, involve",
+  "gram": "verb, present tense 3rd person plural of saṁvattati",
+  "breakdown": [
+   ["saṁ-", "Prefix: along."],
+   ["vattati", "Proceeds, goes on (√vatt). Together: leads to, conduces."],
+   ["-antī", "3rd person plural ending (with metrical lengthening)."]
+  ]
+ },
+ "saṁvattati": {
+  "meaning": "leads to; conduces to",
+  "gram": "verb, present tense 3rd person singular (saṁ + √vatt)",
+  "breakdown": [
+   ["saṁ-", "Prefix: along."],
+   ["vattati", "Proceeds, turns (√vatt). Together: leads to."]
+  ]
+ },
+ "saṁvaḍḍhāni": {
+  "meaning": "grown up; brought up, reared",
+  "gram": "past participle of saṁvaḍḍhati (nominative/accusative plural neuter)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√vaḍḍh + ta", "Root “to grow” with past participle suffix: grown up."],
+   ["-āni", "Neuter plural ending."]
+  ]
+ },
+ "saṁvejaniyesu": {
+  "meaning": "among (the places or things) that stir the heart; in those arousing a sense of urgency",
+  "gram": "potential participle of saṁvejeti (locative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√vij (vejeti)", "Root “to stir, tremble”; causative: to move, inspire urgency (saṁvega)."],
+   ["-aniya", "Potential participle suffix: “fit to stir”."],
+   ["-esu", "Locative plural ending."]
+  ]
+ },
+ "saṁvibhajati": {
+  "meaning": "divides; shares out",
+  "gram": "verb, present tense 3rd person singular (saṁ + vi + √bhaj)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["vi-", "Prefix: apart."],
+   ["√bhaj", "Root meaning “to divide, share”."]
+  ]
+ },
+ "saṁvibhajetha": {
+  "meaning": "should share; may (one) divide with others",
+  "gram": "verb, optative (middle) 3rd person singular / 2nd person plural of saṁvibhajati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["vi-", "Prefix: apart."],
+   ["√bhaj", "Root meaning “to divide, share”."],
+   ["-etha", "Optative middle ending."]
+  ]
+ },
+ "saṁvidahassu": {
+  "meaning": "arrange!; appoint, see to it (for yourself)",
+  "gram": "verb, imperative middle 2nd person singular of saṁvidahati (saṁ + vi + √dhā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["vi-", "Prefix: apart, in detail."],
+   ["√dhā (dahati)", "Root “to place”: to arrange, dispose."],
+   ["-assu", "Imperative middle 2nd person singular ending."]
+  ]
+ },
+ "saṁvidhātuṁ": {
+  "meaning": "to arrange; to appoint, settle, organize",
+  "gram": "infinitive of saṁvidahati",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["vi-", "Prefix: apart, in detail."],
+   ["√dhā + tuṁ", "Root “to place” with infinitive ending: to arrange."]
+  ]
+ },
+ "saṁvijjamānā": {
+  "meaning": "being found; existing, present",
+  "gram": "present participle (passive) of saṁvijjati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["vijja", "Being found (passive stem of √vid “to find”)."],
+   ["-māna", "Middle present participle suffix."]
+  ]
+ },
+ "saṁvijjanti": {
+  "meaning": "they are found, exist; (of persons) they are stirred, moved",
+  "gram": "verb, present tense 3rd person plural of saṁvijjati (√vid)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["vijjati", "Is found (passive of vindati, √vid); also “is stirred” (√vij)."],
+   ["-anti", "3rd person plural ending."]
+  ]
+ },
+ "saṁvijjantīdha": {
+  "meaning": "they are found here; there exist in this world",
+  "gram": "verb, present tense 3rd person plural + adverb idha (sandhi fusion)",
+  "breakdown": [
+   ["saṁvijjanti", "They are found, exist."],
+   ["idha", "Here, in this world. (The -i and i- merge to -ī- in sandhi.)"]
+  ]
+ },
+ "saṁvutā": {
+  "meaning": "restrained; controlled, guarded",
+  "gram": "past participle of saṁvarati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√var + ta", "Root “to ward off” with past participle suffix (vur + ta > vuta): restrained."]
+  ]
+ },
+ "saṁyamo": {
+  "meaning": "refraining; restraint, self-control",
+  "gram": "masculine noun (nominative singular), saṁ + √yam",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√yam + a", "Root “to hold back” with noun suffix: restraint."]
+  ]
+ },
+ "saṁyogena": {
+  "meaning": "by the bond; through the fetter, connection",
+  "gram": "masculine noun (instrumental singular), from saṁyojeti (√yuj)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["yoga", "Bond, yoke (√yuj “to join”)."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "saṁyutto": {
+  "meaning": "tied; connected, fettered",
+  "gram": "past participle of saṁyuñjati (nominative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√yuj + ta", "Root “to join” with past participle suffix: yoked, bound."]
+  ]
+ },
+ "saṅgacchati": {
+  "meaning": "meets; comes together with",
+  "gram": "verb, present tense 3rd person singular (saṁ + √gam)",
+  "breakdown": [
+   ["saṁ- (> saṅ)", "Prefix: together (assimilated before g)."],
+   ["gacchati", "Goes (√gam). Together: comes together, meets."]
+  ]
+ },
+ "saṅgahappabhedaṁ": {
+  "meaning": "the divisions of the compilation; the classification by groupings",
+  "gram": "masculine noun, compound (accusative singular)",
+  "breakdown": [
+   ["saṅgaha", "Collecting, compiling; grouping (saṁ + √gah)."],
+   ["pabheda", "Breaking up, division, classification (pa + √bhid). (The doubled pp is sandhi doubling.)"]
+  ]
+ },
+ "saṅgahitaparijanā": {
+  "meaning": "whose servants and attendants are kindly treated",
+  "gram": "adjective, compound (nominative singular feminine)",
+  "breakdown": [
+   ["saṅgahita", "Kindly treated, taken care of (past participle of saṅgaṇhāti)."],
+   ["parijana", "Servants, attendants, retinue."]
+  ]
+ },
+ "saṅgaho": {
+  "meaning": "caring; tending, kind treatment; support",
+  "gram": "masculine noun (nominative singular), from saṅgaṇhāti",
+  "breakdown": [
+   ["saṁ- (> saṅ)", "Prefix: together."],
+   ["√gah + a", "Root “to take hold” with noun suffix: taking care of, sympathy, support."]
+  ]
+ },
+ "saṅgahāya": {
+  "meaning": "for the sake of kindness; for friendliness, sympathy, harmony",
+  "gram": "masculine noun (dative singular), from saṅgaṇhāti",
+  "breakdown": [
+   ["saṅgaha", "Kind treatment, sympathy, support."],
+   ["-āya", "Dative singular ending: “for the sake of”."]
+  ]
+ },
+ "saṅgati": {
+  "meaning": "meeting; association; union",
+  "gram": "feminine noun, from saṅgacchati (saṁ + √gam + ti)",
+  "breakdown": [
+   ["saṁ- (> saṅ)", "Prefix: together."],
+   ["√gam + ti", "Root “to go” with abstract suffix: a coming together."]
+  ]
+ },
+ "saṅgaṇhāti": {
+  "meaning": "takes care of; provides for, treats kindly, favours; collects",
+  "gram": "verb, present tense 3rd person singular (saṁ + √gah)",
+  "breakdown": [
+   ["saṁ- (> saṅ)", "Prefix: together."],
+   ["gaṇhāti", "Takes (√gah). Together: takes up, embraces, supports."]
+  ]
+ },
+ "saṅghabhedasuttaṁ": {
+  "meaning": "the Sutta on the Splitting of the Saṅgha (Saṅghabhedasutta)",
+  "gram": "proper noun, neuter (title of a discourse)",
+  "breakdown": [
+   ["saṅgha", "The Saṅgha, the community of monks."],
+   ["bheda", "Breaking, splitting (√bhid)."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "saṅghānussatikathā, chaanussatiniddeso, visuddhimaggo.": {
+  "meaning": "“The discussion of recollection of the Saṅgha”, in the Exposition of the Six Recollections, of the Visuddhimagga",
+  "gram": "phrase (citation of a text passage)",
+  "breakdown": [
+   ["saṅghānussatikathā", "The discussion (kathā) of recollection (anussati) of the Saṅgha."],
+   ["chaanussatiniddeso", "The exposition (niddesa) of the six (cha) recollections."],
+   ["visuddhimaggo", "The Visuddhimagga, “Path of Purification” (Buddhaghosa's manual)."]
+  ]
+ },
+ "saṅghānussatikathā, visuddhimaggo.": {
+  "meaning": "“The discussion of recollection of the Saṅgha”, in the Visuddhimagga",
+  "gram": "phrase (citation of a text passage)",
+  "breakdown": [
+   ["saṅghānussatikathā", "The discussion (kathā) of recollection (anussati) of the Saṅgha."],
+   ["visuddhimaggo", "The Visuddhimagga, “Path of Purification”."]
+  ]
+ },
+ "saṅgāmavijayo": {
+  "meaning": "victory in battle; triumph in war",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["saṅgāma", "Battle, war."],
+   ["vijaya", "Victory, triumph (vi + √ji)."]
+  ]
+ },
+ "saṅgāravasuttaṁ": {
+  "meaning": "the Saṅgārava Sutta (Saṅgārava — name of a brahmin)",
+  "gram": "proper noun, neuter (title of a discourse)",
+  "breakdown": [
+   ["saṅgārava", "Saṅgārava, a brahmin questioner of the Buddha."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "saṅkappo": {
+  "meaning": "thought; intention",
+  "gram": "masculine noun (nominative singular), from saṅkappeti (√kapp)",
+  "breakdown": [
+   ["saṁ- (> saṅ)", "Prefix: fully."],
+   ["√kapp + a", "Root “to arrange, fashion”: thought, intention."]
+  ],
+  "goenka": "Saṅkappa, thought or intention, appears chiefly in sammāsaṅkappa, right thought — the second limb of the Noble Eightfold Path. Right thoughts are those of renunciation, of non-ill will and of non-violence; as the mind is purified by practice, thought inclines naturally away from craving and harm."
+ },
+ "saṅkhalikhitaṁ": {
+  "meaning": "polished like a conch shell; carved and made smooth as shell (of the perfectly pure holy life)",
+  "gram": "adjective, compound (accusative singular)",
+  "breakdown": [
+   ["saṅkha", "Conch shell."],
+   ["likhita", "Carved, polished (past participle of likhati)."]
+  ]
+ },
+ "saṅkhatamabhisaṅkharontīti": {
+  "meaning": "“…they put together what is conditioned” (end of quotation; why they are called saṅkhārā)",
+  "gram": "phrase: past participle (accusative) + verb 3rd person plural + quotation particle ti",
+  "breakdown": [
+   ["saṅkhataṁ", "The conditioned, what is put together (past participle of saṅkharoti)."],
+   ["-m-", "Euphonic consonant in sandhi."],
+   ["abhisaṅkharonti", "They condition, they put together (abhi + saṁ + √kar)."],
+   ["ti", "Quotation-closing particle (iti), with lengthening of the preceding vowel."]
+  ],
+  "goenka": "This phrase comes from the canonical word-play explaining saṅkhāra: “they put together the conditioned, therefore they are called saṅkhārā”. The saṅkhāras are both the conditioning reactions and the conditioned products of those reactions — the mental habit patterns that vipassanā gradually brings to the surface and eradicates."
+ },
+ "saṅkhyeyyapariveṇaṁ": {
+  "meaning": "the Saṅkhyeyya hermitage; the monastic cell named Saṅkhyeyya",
+  "gram": "proper noun, neuter compound",
+  "breakdown": [
+   ["saṅkhyeyya", "Saṅkhyeyya, name of the monastery/hermitage."],
+   ["pariveṇa", "Hermit's cell, monastic residence."]
+  ]
+ },
+ "saṅkhāra": {
+  "meaning": "mental conditioning; deep-rooted mentally conditioned reaction; volitional formation",
+  "summary": "A central doctrinal term: the conditioned reactions of the mind, not “choices” or mere “formations”.",
+  "gram": "masculine noun, from saṅkharoti (saṁ + √kar)",
+  "breakdown": [
+   ["saṁ- (> saṅ)", "Prefix: together."],
+   ["√kar (> khār)", "Root meaning “to do, make”. Literally: a putting-together, a conditioning."]
+  ],
+  "goenka": "When the term saṅkhāra is used in Pāli, it usually refers to mental preconditioning or mentally conditioned reactions. Such reactions usually occur throughout one's life, mostly unnoticed below the threshold of consciousness. The Lekhasutta divides these reactive patterns into three categories: those of little influence that pass away quickly (like lines drawn on water), those of stronger influence (like lines in earth), and those of firm, predominant influence whose effect remains for a long period (like lines carved in rock). It is a helpful urge for every meditator to become more aware of the push inflicted by saṅkhāras and to exercise detachment in neutralising their strong impact. The canonical verse of the tradition (Hirīsutta, V1): anicca vata saṅkhārā, uppādavayadhammino, uppajjitvā nirujjhanti, tesaṁ vūpasamo sukho — “Impermanent truly are all saṅkhāras, by their nature constantly arising and vanishing. When they arise and are eradicated, their cessation brings true happiness.” The goal is visaṅkhāragataṁ cittaṁ — the mind become free of all saṅkhāras, totally purified.",
+  "forms": ["saṅkhārā", "saṅkhāraṁ", "saṅkhāro"],
+  "note": "divergence: academic translations sometimes render saṅkhāra as “choice” or “formation”; the lexicon's tradition-faithful sense is mental conditioning / conditioned reaction, and that sense is followed."
+ },
+ "saṅkiyo": {
+  "meaning": "to be suspected; open to suspicion; anxious",
+  "gram": "potential participle of saṅkati (√saṅk)",
+  "breakdown": [
+   ["√saṅk", "Root meaning “to doubt, suspect”."],
+   ["-iya", "Potential participle suffix: “to be suspected”."]
+  ]
+ },
+ "saṇha": {
+  "meaning": "smooth; soft; gentle (of speech)",
+  "gram": "adjective"
+ },
+ "saṇṭhapanā": {
+  "meaning": "composing; settling, deportment; setting in order",
+  "gram": "neuter/feminine action noun (saṁ + ṭhapana, from √ṭhā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ṭhapana", "Placing, setting (causative of √ṭhā “to stand”). Together: composing, settling."]
+  ]
+ }
+}

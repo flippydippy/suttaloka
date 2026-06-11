@@ -1,0 +1,443 @@
+{
+ "sambodhiparāyanā": {
+  "meaning": "destined for complete enlightenment; having full awakening as their final goal",
+  "gram": "adjective, compound (nominative plural)",
+  "breakdown": [
+   ["sambodhi", "Complete enlightenment, full awakening (saṁ + bodhi)."],
+   ["parāyana", "Final aim, ultimate destination."]
+  ]
+ },
+ "sambodhiyaṅgesu": {
+  "meaning": "in the limbs of enlightenment; among the factors of awakening",
+  "gram": "masculine noun, compound (locative plural)",
+  "breakdown": [
+   ["sambodhi", "Complete enlightenment (saṁ + bodhi)."],
+   ["-y-", "Euphonic glide consonant inserted in sandhi."],
+   ["aṅga", "Limb, factor, constituent."],
+   ["-esu", "Locative plural ending."]
+  ]
+ },
+ "sambādho": {
+  "meaning": "crowded; confined; inconvenience, pressure",
+  "gram": "adjective/masculine noun (nominative singular), from sambādheti",
+  "breakdown": [
+   ["saṁ-", "Prefix: together, completely."],
+   ["√bādh", "Root meaning “to press, oppress”."]
+  ]
+ },
+ "sambāhanaṁ:": {
+  "meaning": "rubbing; massage; shampooing the limbs",
+  "summary": "Listed with ucchādana (anointing) and parimaddana (rubbing) among the bodily indulgences a renunciate abstains from.",
+  "gram": "neuter noun (nominative/accusative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: thoroughly."],
+   ["bāhana", "Rubbing, kneading. Together: massage, shampooing."]
+  ]
+ },
+ "sameti": {
+  "meaning": "meets; comes together; agrees",
+  "gram": "verb, present tense 3rd person singular (saṁ + eti)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["eti", "Goes, comes (√i). Together: comes together, meets."]
+  ]
+ },
+ "samma": {
+  "meaning": "friend!, my dear (familiar address); right, properly",
+  "gram": "indeclinable, vocative of address",
+  "note": "uncertain: the lesson vocabulary glosses samma as “right” (as in sammā); as an independent word samma is most often a friendly vocative “my dear”."
+ },
+ "sammadakkhāte": {
+  "meaning": "well-proclaimed; perfectly explained",
+  "gram": "adjective, compound (locative singular / vocative plural)",
+  "breakdown": [
+   ["sammā", "Rightly, perfectly, well."],
+   ["-d-", "Euphonic consonant inserted in sandhi."],
+   ["akkhāta", "Explained, proclaimed (past participle of akkhāti)."]
+  ]
+ },
+ "sammadaññā": {
+  "meaning": "through right knowledge; having rightly understood",
+  "gram": "gerund of sammā ājānāti (compound verb)",
+  "breakdown": [
+   ["sammā", "Rightly, perfectly."],
+   ["-d-", "Euphonic consonant inserted in sandhi."],
+   ["aññā", "Final knowledge, full understanding (shortened from aññāya, gerund of ājānāti)."]
+  ]
+ },
+ "sammadaññāvimutto": {
+  "meaning": "liberated through right knowledge; freed by perfect understanding",
+  "gram": "adjective, compound (nominative singular)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["-d-", "Euphonic consonant inserted in sandhi."],
+   ["aññā", "Knowledge, final understanding."],
+   ["vimutta", "Liberated, freed (past participle of vimuccati)."]
+  ]
+ },
+ "sammadaññāvimuttā": {
+  "meaning": "liberated through right knowledge (plural)",
+  "gram": "adjective, compound (nominative plural)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["-d-", "Euphonic consonant inserted in sandhi."],
+   ["aññā", "Knowledge, wisdom."],
+   ["vimuttā", "Liberated, freed (past participle of vimuccati, plural)."]
+  ]
+ },
+ "sammatta": {
+  "meaning": "righteousness; correctness; rightness",
+  "summary": "The eight sammattā are the eight limbs of the Noble Eightfold Path stated as attainments of rightness.",
+  "gram": "neuter abstract noun (from sammā)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["-tta", "Abstract suffix: the state of being right."]
+  ],
+  "goenka": "The lexicon explains that the eight sammattā — states of righteousness or correctness — are the eight limbs of the Noble Eightfold Path: right view, right thought, right speech, right action, right livelihood, right effort, right awareness and right concentration. Walking on the path means developing each of these in one's own conduct and practice.",
+  "note": "divergence: DPD lists sammatta also as past participle of sammajjati/sammadati; the lexicon's sense here is the abstract noun from sammā, “rightness”, and that sense is followed."
+ },
+ "sammodamānā": {
+  "meaning": "exchanging friendly greetings; on friendly terms, in agreement",
+  "gram": "present participle of sammodati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√mud", "Root meaning “to rejoice”."],
+   ["-māna", "Middle present participle suffix."]
+  ]
+ },
+ "sammodanīyaṁ": {
+  "meaning": "pleasant; agreeable (of polite, courteous talk)",
+  "gram": "potential participle of sammodati (accusative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√mud > mod", "Root meaning “to rejoice, be glad”."],
+   ["-anīya", "Potential participle suffix: “fit to be rejoiced in”, pleasant."]
+  ]
+ },
+ "sammodi": {
+  "meaning": "rejoiced; exchanged friendly greetings",
+  "gram": "aorist 3rd person singular of sammodati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√mud", "Root meaning “to rejoice”."],
+   ["-i", "Aorist ending."]
+  ]
+ },
+ "sammodiṁsu": {
+  "meaning": "they rejoiced; they exchanged friendly greetings",
+  "gram": "aorist 3rd person plural of sammodati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√mud", "Root meaning “to rejoice”."],
+   ["-iṁsu", "Aorist 3rd person plural ending."]
+  ]
+ },
+ "sammukhāssa": {
+  "meaning": "face to face with him; in his presence",
+  "gram": "indeclinable + pronoun (sandhi fusion)",
+  "breakdown": [
+   ["sammukhā", "Face to face, in the presence of (saṁ + mukha “face”)."],
+   ["assa", "Of him/it (genitive singular pronoun, fused in sandhi)."]
+  ]
+ },
+ "sammukhībhāvā": {
+  "meaning": "from the state of being face to face; owing to the presence of",
+  "gram": "masculine abstract noun, compound (ablative singular)",
+  "breakdown": [
+   ["sammukhī", "Face to face (sammukhā in compound form)."],
+   ["bhāva", "State, condition."]
+  ]
+ },
+ "sammādiṭṭhikassa": {
+  "meaning": "of one holding right view",
+  "gram": "adjective, compound (genitive singular)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["diṭṭhi", "View, belief."],
+   ["-ka", "Possessive suffix: “holding (right view)”."],
+   ["-assa", "Genitive singular ending."]
+  ]
+ },
+ "sammādiṭṭhisuttaṁ": {
+  "meaning": "the Sutta on Right View (Sammādiṭṭhisutta)",
+  "gram": "proper noun, neuter (title of a discourse)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["diṭṭhi", "View."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "sammāmanasikāramanvāya": {
+  "meaning": "in consequence of right attention; as a result of rightly fixing the mind",
+  "gram": "indeclinable adverbial compound",
+  "breakdown": [
+   ["sammā", "Right, proper."],
+   ["manasikāraṁ", "Fixing of attention, attending (manasi “in the mind” + kāra “making”)."],
+   ["anvāya", "Undergoing, in consequence of (gerund of anveti)."]
+  ]
+ },
+ "sammānanāya": {
+  "meaning": "with honour; by veneration",
+  "gram": "feminine abstract noun (instrumental/dative singular), from sammāneti",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√man", "Root meaning “to think, esteem”: māneti “honours”."],
+   ["-anā", "Abstract action suffix: honouring, veneration."]
+  ]
+ },
+ "sammāpaṭipadā": {
+  "meaning": "the right path; right manner of walking, right practice",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["paṭipadā", "Manner of walking, way of practice, path."]
+  ],
+  "goenka": "Sammāpaṭipadā is the right manner of walking on the path — not a belief to be accepted but a practice to be undertaken step by step. In this tradition the entire teaching is paṭipadā, something to be walked: practising sīla, samādhi and paññā in one's own life so that the truth is experienced directly."
+ },
+ "sammāpaṭipattādhikaraṇahetu": {
+  "meaning": "by reason of correct practice; in consequence of right conduct",
+  "gram": "indeclinable adverbial compound",
+  "breakdown": [
+   ["sammā", "Correct, right."],
+   ["paṭipatti", "Practice, conduct."],
+   ["adhikaraṇa", "In consequence of, on account of."],
+   ["hetu", "Cause, reason; at the end of a compound: “by reason of”."]
+  ]
+ },
+ "sammāsaṅkappagocarā": {
+  "meaning": "dwelling in the sphere of right thoughts; whose pasture is right thought",
+  "gram": "adjective, compound (nominative plural)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["saṅkappa", "Thought, intention."],
+   ["gocara", "Pasture, sphere, dwelling-ground (go “cow” + cara “roaming”)."]
+  ]
+ },
+ "sammāsaṅkappaṁpahaṁ": {
+  "meaning": "and right thought, I (say)",
+  "gram": "phrase: noun (accusative singular) + particle + pronoun (sandhi fusion)",
+  "breakdown": [
+   ["sammā", "Right, perfect."],
+   ["saṅkappaṁ", "Thought, intention (accusative singular)."],
+   ["-p-", "Remnant of the particle pi “also”, doubled in sandhi."],
+   ["ahaṁ", "I."]
+  ]
+ },
+ "sammūḷhā": {
+  "meaning": "bewildered; confused; ignorant",
+  "gram": "past participle of sammuyhati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["√muh", "Root meaning “to be confused, deluded” (mūḍha > mūḷha)."]
+  ]
+ },
+ "samo": {
+  "meaning": "equal; same; even",
+  "gram": "adjective (nominative singular)"
+ },
+ "samodhāna": {
+  "meaning": "combination; collocation; being contained or brought together",
+  "gram": "neuter noun (saṁ + ava + √dhā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["ava- (> o)", "Prefix: down, into."],
+   ["√dhā + ana", "Root “to place” with action suffix: placing together, combination."]
+  ]
+ },
+ "samodhāna to be": {
+  "meaning": "to be contained; collocation, combination",
+  "gram": "neuter noun",
+  "note": "uncertain: this key is a glossary parsing artifact — the words “to be” from the gloss “to be contained” were attached to the headword samodhāna; see the entry samodhāna."
+ },
+ "samodhānaṁ": {
+  "meaning": "combination; collocation; coming together",
+  "gram": "neuter noun (nominative/accusative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["ava- (> o)", "Prefix: down, into."],
+   ["√dhā + ana", "Root “to place” with action suffix: placing together, combination."]
+  ]
+ },
+ "sampahaṁsetvā": {
+  "meaning": "having gladdened; having made joyful",
+  "gram": "gerund of sampahaṁseti (causative; saṁ + pa + √haṁs)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pa-", "Prefix: forth."],
+   ["√haṁs", "Root meaning “to be thrilled, delighted”; causative: to gladden."],
+   ["-tvā", "Gerund ending: “having …-ed”."]
+  ]
+ },
+ "sampajañña": {
+  "meaning": "thorough understanding; clear comprehension of impermanence in every sensation",
+  "summary": "A core meditation term, paired with sati in the formula “ātāpī sampajāno satimā”.",
+  "gram": "neuter abstract noun (from sampajāna; saṁ + pa + √ñā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully, thoroughly."],
+   ["pa-", "Prefix: forth, intensifying."],
+   ["√ñā (jānāti)", "Root meaning “to know”. Sampajāna: knowing thoroughly."],
+   ["-ya (-añña)", "Abstract noun suffix: the quality of thorough understanding."]
+  ],
+  "goenka": "Sampajañña is thorough understanding — the constant, clear comprehension of impermanence in every sensation. The volumes attest it chiefly through the adjective sampajāno in the classic satipaṭṭhāna formula ātāpī sampajāno satimā, “ardent, with thorough understanding and aware”: the meditator dwells aware with constant thorough understanding of arising and passing. In this tradition sampajañña is not mere mindfulness of activities but the wisdom that arises from observing the impermanent nature of sensations from moment to moment. In the compound sampajānamusāvāda (“deliberate lie”) the same prefix-word sampajāna carries the everyday sense “with full awareness, intentional”.",
+  "forms": ["sampajāno", "sampajānaṁ"]
+ },
+ "sampajānamusāvādo": {
+  "meaning": "a deliberate lie; intentional false speech",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["sampajāna", "Knowing fully, deliberate, intentional."],
+   ["musāvāda", "False speech, lying (musā “falsely” + vāda “speech”)."]
+  ]
+ },
+ "sampakkhandanalakkhaṇasaddhāpañho, milindapañhapāḷi, khuddakanikāye.": {
+  "meaning": "“The question on faith as marked by leaping forward” — a section of the Milindapañha, in the Khuddakanikāya",
+  "gram": "phrase (citation of a text passage)",
+  "breakdown": [
+   ["sampakkhandanalakkhaṇasaddhāpañho", "The question (pañha) on faith (saddhā) whose characteristic mark (lakkhaṇa) is leaping forward (sampakkhandana)."],
+   ["milindapañhapāḷi", "The Milindapañha text (Questions of King Milinda)."],
+   ["khuddakanikāye", "In the Khuddakanikāya, the Minor Collection (locative)."]
+  ]
+ },
+ "sampakkhandanalakkhaṇā": {
+  "meaning": "having the characteristic mark of leaping forward; marked by aspiration",
+  "gram": "feminine adjective, compound (nominative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: with, fully."],
+   ["pakkhandana", "Leaping forward, springing towards; aspiration."],
+   ["lakkhaṇā", "Characteristic mark, distinguishing feature."]
+  ]
+ },
+ "sampannadiṭṭhino": {
+  "meaning": "one endowed with (accomplished in) view; one whose view is perfected",
+  "gram": "adjective, compound (genitive singular / nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["panna", "Fallen (into), attained (past participle of √pad). Sampanna: endowed with, accomplished."],
+   ["diṭṭhī (-ino)", "One who has a view; here: possessing (right) view."]
+  ]
+ },
+ "sampanno": {
+  "meaning": "endowed with; accomplished; perfect in",
+  "gram": "past participle of sampajjati (nominative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√pad + na", "Root “to go, attain” with past participle suffix: attained, endowed."]
+  ]
+ },
+ "samparāyahitāya": {
+  "meaning": "for welfare in the future life; for benefit in lives to come",
+  "gram": "neuter noun, compound (dative singular)",
+  "breakdown": [
+   ["samparāya", "The future life, the next world (saṁ + parā + √i “to go on”)."],
+   ["hita", "Welfare, benefit."],
+   ["-āya", "Dative singular ending: “for the sake of”."]
+  ]
+ },
+ "samparāyasukhāya": {
+  "meaning": "for happiness in the future life",
+  "gram": "neuter noun, compound (dative singular)",
+  "breakdown": [
+   ["samparāya", "The future life, the next world."],
+   ["sukha", "Happiness."],
+   ["-āya", "Dative singular ending: “for the sake of”."]
+  ]
+ },
+ "samparāyikaṁ": {
+  "meaning": "belonging to the future life; concerning the next world",
+  "gram": "adjective, from samparāya (accusative singular)",
+  "breakdown": [
+   ["samparāya", "The future life (saṁ + parā + √i)."],
+   ["-ika", "Adjectival suffix: relating to."]
+  ]
+ },
+ "sampassantā": {
+  "meaning": "viewing; looking at; clearly seeing",
+  "gram": "present participle of sampassati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["passati", "Sees (√dis/√pas)."],
+   ["-anta", "Present participle suffix."]
+  ]
+ },
+ "sampasādanalakkhaṇasaddhāpañho,": {
+  "meaning": "“The question on faith as marked by tranquillization” — a section of the Milindapañha, in the Khuddakanikāya",
+  "gram": "phrase (citation of a text passage)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pasādana", "Making serene, tranquillizing."],
+   ["lakkhaṇa", "Characteristic mark."],
+   ["saddhāpañho", "The question (pañha) concerning faith (saddhā)."]
+  ]
+ },
+ "sampasādanalakkhaṇā": {
+  "meaning": "having the characteristic mark of serenity; marked by tranquillization",
+  "gram": "feminine adjective, compound (nominative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pasādana", "Serenity, tranquillization (from pasīdati “becomes calm and clear”)."],
+   ["lakkhaṇā", "Characteristic mark."]
+  ]
+ },
+ "sampasādanaṁ": {
+  "meaning": "stillness; tranquillity; inner serenity",
+  "gram": "neuter noun (nominative/accusative singular), from sampasīdati",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pa-", "Prefix: forth."],
+   ["√sad + ana", "Root “to settle” with action suffix: settling down, becoming serene."]
+  ]
+ },
+ "sampattaviratiādīsu": {
+  "meaning": "in (the kinds of abstinence) beginning with abstinence on a given occasion",
+  "gram": "compound (locative plural)",
+  "breakdown": [
+   ["sampatta", "Arrived at, reached (past participle of sampāpuṇāti)."],
+   ["virati", "Abstinence."],
+   ["ādi", "Beginning with, and so on."],
+   ["-īsu", "Locative plural ending."]
+  ]
+ },
+ "sampatti": {
+  "meaning": "attainment; success; excellence",
+  "gram": "feminine abstract noun, from sampajjati",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√pad + ti", "Root “to attain” with abstract suffix: attainment."]
+  ]
+ },
+ "sampavati": {
+  "meaning": "blows forth; diffuses a scent",
+  "gram": "verb, present tense 3rd person singular (saṁ + pavati)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pavati", "Blows, wafts (√vā). Together: blows forth, spreads fragrance."]
+  ]
+ },
+ "sampayogopi": {
+  "meaning": "and association with; even being combined with",
+  "gram": "masculine noun (nominative singular) + enclitic pi",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["payoga", "Combination, association (pa + √yuj “to join”)."],
+   ["pi", "Also, even (enclitic; -o + pi in sandhi)."]
+  ]
+ },
+ "samphappalāpo": {
+  "meaning": "frivolous talk; idle chatter, useless prattle",
+  "gram": "masculine noun, compound (nominative singular)",
+  "breakdown": [
+   ["sampha", "Useless, idle, frivolous."],
+   ["palāpa", "Chatter, prattle (pa + √lap “to talk”). (The doubled pp is sandhi doubling.)"]
+  ],
+  "goenka": "Samphappalāpa, frivolous talk, is one of the four unwholesome actions of speech abandoned in sammāvācā, right speech. The volumes describe how one who has given it up speaks at the proper time, speaks what is true and beneficial, and utters words worth treasuring — speech that supports rather than scatters the development of the mind."
+ },
+ "samphappalāpā": {
+  "meaning": "from frivolous talk; prattling, chattering",
+  "gram": "masculine noun, compound (ablative singular)",
+  "breakdown": [
+   ["sampha", "Useless, idle, frivolous."],
+   ["palāpa", "Chatter, prattle (pa + √lap). (The doubled pp is sandhi doubling.)"],
+   ["-ā", "Ablative singular ending: (abstaining) from."]
+  ]
+ }
+}

@@ -1,0 +1,431 @@
+{
+ "nānujānanti": {
+  "meaning": "they do not agree; they do not consent to",
+  "gram": "verb, 3rd person plural present, negated (na + anujānāti, √ñā)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["anu", "Prefix: along, after."],
+   ["√ñā", "To know; anujānāti means to consent, permit."]
+  ]
+ },
+ "nānusocanti": {
+  "meaning": "they do not grieve; they do not wail or moan",
+  "gram": "verb, 3rd person plural present, negated (na + anusocati, √suc)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["anu", "Prefix: along, after."],
+   ["√suc", "To grieve; anusocati means to mourn over, wail."]
+  ]
+ },
+ "nānābhāvo": {
+  "meaning": "separation; becoming different, diversity (of all kinds, various)",
+  "gram": "masculine abstract noun, compound, nominative singular",
+  "breakdown": [
+   ["nānā", "Various, different."],
+   ["bhāva", "State, becoming, nature."]
+  ]
+ },
+ "nānābāhāsu": {
+  "meaning": "by many arms; among the various arms",
+  "gram": "feminine noun, compound, locative plural",
+  "breakdown": [
+   ["nānā", "Various, many."],
+   ["bāhā", "Arm."],
+   ["-su", "Locative plural ending."]
+  ]
+ },
+ "nānākulā": {
+  "meaning": "of different families; from various clans",
+  "gram": "adjective, compound, plural form",
+  "breakdown": [
+   ["nānā", "Various, different."],
+   ["kula", "Family, clan."]
+  ]
+ },
+ "nāparaṁ": {
+  "meaning": "nothing further; not another, no more",
+  "gram": "negated pronoun/adverb, neuter singular (na + aparaṁ)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["apara", "Other, further, another."]
+  ]
+ },
+ "nāpasādaye": {
+  "meaning": "should not disparage; would not blame or put down",
+  "gram": "verb, 3rd person singular optative, causative, negated (na + apasādeti)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["apasādeti", "To disparage, put down, dismiss (causative of apa + √sad)."],
+   ["-aye", "Optative ending."]
+  ]
+ },
+ "nārādhako": {
+  "meaning": "not one who accomplishes; one who does not succeed (in the practice)",
+  "gram": "masculine noun, negated, nominative singular (na + ārādhaka)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["ārādhaka", "One who accomplishes, succeeds, wins favour (from ārādheti, √rādh)."]
+  ]
+ },
+ "nārādhakoti na": {
+  "meaning": "\"not one who accomplishes\" (quoted form)",
+  "gram": "phrase (glossary row)",
+  "note": "uncertain: this row is an extraction artifact — nārādhako followed by the quotation marker ti and a stray na. See nārādhako."
+ },
+ "nātimaññetha": {
+  "meaning": "should not despise; let one not look down upon",
+  "gram": "verb, 3rd person singular optative/imperative middle, negated (na + atimaññati, √man)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["ati", "Prefix: over, beyond."],
+   ["√man", "To think; atimaññati means to despise, to think oneself above another."]
+  ]
+ },
+ "nāvattena": {
+  "meaning": "not by falling back; without turning back to",
+  "gram": "negated noun, instrumental singular (na + āvatta)",
+  "breakdown": [
+   ["na", "Not (fused with the following ā- to nā-)."],
+   ["āvatta", "Turning back, falling back to (ā + √vatt)."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "nāññamaññassa": {
+  "meaning": "not of one another; not to each other",
+  "gram": "sandhi fusion: negative + reciprocal pronoun (na + aññamaññassa)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["aññamañña", "One another, each other (añña \"one\" + añña \"another\")."],
+   ["-assa", "Genitive/dative singular ending."]
+  ]
+ },
+ "nāññatra": {
+  "meaning": "not otherwise than; not except, nowhere else",
+  "gram": "indeclinable, negated (na + aññatra)",
+  "breakdown": [
+   ["na", "Not (fused with the following vowel to nā-)."],
+   ["aññatra", "Elsewhere, except (añña \"other\" + -tra locative suffix)."]
+  ]
+ },
+ "nīce": {
+  "meaning": "low; inferior, humble",
+  "gram": "adjective, locative singular or plural form of nīca"
+ },
+ "nīlakācamaṇisannibhasilātalaṁ": {
+  "meaning": "a rock surface resembling a dark-blue glass-like gem",
+  "summary": "This is a long descriptive compound: \"dark blue + glasslike + gem + resembling + rock + surface\".",
+  "gram": "neuter noun, compound, accusative/nominative singular",
+  "breakdown": [
+   ["nīla", "Dark blue."],
+   ["kāca", "Glass, crystal; glasslike."],
+   ["maṇi", "Gem, jewel."],
+   ["sannibha", "Resembling, looking like."],
+   ["silā", "Stone, rock."],
+   ["tala", "Surface, ground, level place."]
+  ]
+ },
+ "nīvaraṇa": {
+  "meaning": "hindrance; obstacle (especially one of the five hindrances)",
+  "gram": "neuter (also masculine) noun (from nivāreti, ni + √var)",
+  "breakdown": [
+   ["ni-", "Prefix: down, back (lengthened to nī- in this derivative)."],
+   ["√var", "To obstruct, hold back; nīvaraṇa is that which obstructs the mind."],
+   ["-aṇa", "Action-noun suffix."]
+  ],
+  "goenka": "In the study material nīvaraṇa is the hindrance or obstacle, and the five hindrances (pañca nīvaraṇāni) are listed as sensual desire, ill will, sloth and torpor, agitation and feeling of remorse, and all kinds of doubt — kāmacchando, byāpādo, thīnamiddha, uddhaccakukkucca, vicikicchā. These are the five enemies the meditator must learn to master in practice; Klaus Nothnagel refers readers to lesson 3.7.8, Nīvaraṇapabbaṁ — Mastering the Hindrances, for the full treatment."
+ },
+ "obhaṭacumbaṭā": {
+  "meaning": "one whose head-cloth has been taken away; with the head-pad removed",
+  "gram": "feminine adjective, compound",
+  "breakdown": [
+   ["obhaṭa", "Taken away, removed (past participle of obharati)."],
+   ["cumbaṭa", "Head-cloth, the coiled pad placed on the head for carrying loads."]
+  ]
+ },
+ "obhāsetvā": {
+  "meaning": "having illuminated; illuminating, lighting up",
+  "gram": "gerund (absolutive) of obhāseti (ava + √bhās)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, over."],
+   ["√bhās", "To shine; obhāseti means to illuminate."],
+   ["-etvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "obhāso": {
+  "meaning": "light, radiance; here: showing, indicating (an improper hint for gains)",
+  "gram": "masculine noun, nominative singular (from obhāsati, ava + √bhās)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, over."],
+   ["√bhās", "To shine; obhāsa is shining, light; figuratively, giving a broad hint."]
+  ]
+ },
+ "odapattakinī": {
+  "meaning": "a wife by the water-bowl ceremony; one given in marriage by dipping the hand in water",
+  "gram": "feminine adjective/noun (oda + pattaka + feminine suffix)",
+  "breakdown": [
+   ["oda", "Water."],
+   ["pattaka", "Bowl; hand-bowl."],
+   ["-inī", "Feminine suffix."]
+  ],
+  "note": "divergence: the source explains the term as udakapattaṁ āmasitvā vāseti, \"she lives with her hand having touched the water (bowl)\"; Bhikkhu Bodhi renders it \"given (in marriage with the ceremony of) dipping the hand in water\"."
+ },
+ "odātamanasaṅkappo": {
+  "meaning": "with clean mind and intentions; of pure thoughts",
+  "gram": "adjective, compound, masculine nominative singular",
+  "breakdown": [
+   ["odāta", "White, clean, pure."],
+   ["mana", "Mind."],
+   ["saṅkappa", "Thought, intention."]
+  ]
+ },
+ "ogacchati": {
+  "meaning": "goes down; sinks",
+  "gram": "verb, 3rd person singular present (ava + √gam)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down."],
+   ["√gam", "To go."]
+  ]
+ },
+ "ogha": {
+  "meaning": "flood; figuratively, the flood of ignorance (that sweeps beings along)",
+  "gram": "masculine noun",
+  "breakdown": [
+   ["ogha", "Flood, torrent; in the suttas a figure for the currents of sensuality, becoming, views and ignorance that carry beings through saṁsāra."]
+  ]
+ },
+ "ohitabhāro": {
+  "meaning": "one who has laid down the burden",
+  "gram": "adjective, compound, masculine nominative singular",
+  "breakdown": [
+   ["ohita", "Laid down, put down (past participle of ava + √dhā)."],
+   ["bhāra", "Burden, load."]
+  ],
+  "goenka": "Ohitabhāro, \"the burden laid down\", is one of the stock epithets of the Arahant: one who has lived the holy life, done what had to be done, and laid down the burden of the five aggregates — the load of mental and physical conditioning that an unliberated being keeps carrying."
+ },
+ "ohitabhārā": {
+  "meaning": "those who have laid down the burden",
+  "gram": "adjective, compound, masculine nominative plural",
+  "breakdown": [
+   ["ohita", "Laid down, put down (past participle of ava + √dhā)."],
+   ["bhāra", "Burden, load."]
+  ],
+  "forms": ["ohitabhāro"]
+ },
+ "ohāretvā": {
+  "meaning": "having removed; having cut off (e.g. hair and beard)",
+  "gram": "gerund (absolutive) of ohāreti (ava + √har)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, off."],
+   ["√har", "To carry; ohāreti means to remove, cut off."],
+   ["-etvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "okappessati": {
+  "meaning": "will put one's trust in; will settle confidence upon",
+  "gram": "verb, 3rd person singular future of okappeti (ava + √kapp)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, upon."],
+   ["√kapp", "To fix, arrange; okappeti means to settle on, put trust in."],
+   ["-essati", "Future tense ending: \"will ...\"."]
+  ],
+  "forms": ["okappeti"]
+ },
+ "okassa": {
+  "meaning": "of the house; of the dwelling (also: of attachment to home)",
+  "gram": "masculine/neuter noun, genitive singular of oka",
+  "breakdown": [
+   ["oka", "House, dwelling, abode; figuratively the \"home\" of attachment."],
+   ["-assa", "Genitive singular ending."]
+  ],
+  "forms": ["oka"]
+ },
+ "okkamamānā": {
+  "meaning": "descending; falling into, entering",
+  "gram": "present participle of okkamati (ava + √kam), plural or feminine form",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down. (The doubled kk arises by assimilation.)"],
+   ["√kam", "To step; okkamati means to descend, fall into, enter."],
+   ["-māna", "Present participle (middle) suffix."]
+  ]
+ },
+ "okkamati": {
+  "meaning": "enters; descends into, develops",
+  "gram": "verb, 3rd person singular present (ava + √kam)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down. (The doubled kk arises by assimilation.)"],
+   ["√kam", "To step; okkamati means to step down into, enter."]
+  ]
+ },
+ "okkanti": {
+  "meaning": "descent; falling down, entry (e.g. into the womb, conception)",
+  "gram": "feminine abstract noun (from okkamati, ava + √kam)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down."],
+   ["√kam", "To step."],
+   ["-ti", "Abstract noun suffix."]
+  ]
+ },
+ "okoṭimako": {
+  "meaning": "of ugly appearance; deformed (literally \"having the top lowered\", dwarfish)",
+  "gram": "adjective, masculine nominative singular",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down."],
+   ["koṭi", "Top, point, summit."],
+   ["-maka", "Adjectival suffix (from -mant + ka): \"having ...\"."]
+  ]
+ },
+ "okāraṁ": {
+  "meaning": "worthlessness; vileness, degradation",
+  "gram": "masculine noun, accusative singular (ava + √kar)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, low."],
+   ["√kar", "To do, make; okāra is what is brought low — vileness, worthlessness."]
+  ]
+ },
+ "omakkhiṁ karonti": {
+  "meaning": "they make smaller; they belittle",
+  "gram": "phrase: adjective + verb, 3rd person plural present",
+  "breakdown": [
+   ["omakkhiṁ", "Smaller, lessened (accusative)."],
+   ["karonti", "They make, they do (3rd person plural of karoti, √kar)."]
+  ]
+ },
+ "onamissati": {
+  "meaning": "will bend down; will stoop",
+  "gram": "verb, 3rd person singular future of onamati (ava + √nam)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down."],
+   ["√nam", "To bend; onamati means to bend down."],
+   ["-issati", "Future tense ending: \"will ...\"."]
+  ],
+  "forms": ["onamati"]
+ },
+ "opaneyyiko": {
+  "meaning": "leading straight to the goal; to be brought within, leading onward",
+  "gram": "adjective, masculine nominative singular (from upaneyya, √nī)",
+  "breakdown": [
+   ["upa > opa", "Prefix: towards (with strengthened vowel)."],
+   ["√nī", "To lead."],
+   ["-eyya + -ika", "Suffixes forming \"fit to lead one on\"."]
+  ],
+  "goenka": "Opaneyyiko is one of the six qualities of the Dhamma recited in the formula of Dhamma reflection: the teaching is sandiṭṭhiko (to be seen here and now), akāliko (timeless, giving results without delay), ehipassiko (inviting one to come and see), opaneyyiko (leading straight to the goal), and paccattaṁ veditabbo viññūhi (to be experienced directly by the wise, each for oneself). The emphasis is experiential: the Dhamma leads onward whoever actually walks the path."
+ },
+ "opapātikā": {
+  "meaning": "spontaneously born (beings); arisen without parents",
+  "gram": "adjective, masculine nominative plural (from upapāta, √pat)",
+  "breakdown": [
+   ["upa > opa", "Prefix: towards (with strengthened vowel)."],
+   ["√pat", "To fall, alight; upapāta is rebirth by spontaneous arising."],
+   ["-ika", "Adjectival suffix."]
+  ],
+  "forms": ["opapātika"]
+ },
+ "opeti": {
+  "meaning": "puts in; inserts (also written oseti)",
+  "gram": "verb, 3rd person singular present (√op)",
+  "forms": ["oseti"]
+ },
+ "orabbhiko": {
+  "meaning": "butcher (of sheep); one who slaughters rams",
+  "gram": "masculine agent noun, nominative singular (from urabbha \"ram\")",
+  "breakdown": [
+   ["urabbha > orabbha", "Ram, sheep."],
+   ["-ika", "Agent suffix: one who deals in, a slaughterer of."]
+  ]
+ },
+ "orambhāgiyānaṁ": {
+  "meaning": "belonging to the lower (world); of the lower kind (said of the five lower fetters)",
+  "gram": "adjective, compound, genitive plural",
+  "breakdown": [
+   ["ora", "Below, on this side, inferior. (The m is a junction consonant.)"],
+   ["bhāgiya", "Belonging to a part or share (from bhāga \"part, section\")."],
+   ["-ānaṁ", "Genitive plural ending."]
+  ],
+  "forms": ["orambhāgiya"]
+ },
+ "orima": {
+  "meaning": "the lowest; on this side, the nearer (shore)",
+  "gram": "adjective, superlative of ora",
+  "breakdown": [
+   ["ora", "This side, below."],
+   ["-ima", "Superlative suffix: nearest, lowest."]
+  ]
+ },
+ "orimatīrasuttaṁ": {
+  "meaning": "the Discourse on the Nearer Shore (Orimatīrasutta)",
+  "gram": "proper noun, neuter; title of a sutta",
+  "breakdown": [
+   ["orima", "This side, the nearer; the lowest."],
+   ["tīra", "Shore, bank."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "orohitvā": {
+  "meaning": "having descended; having climbed down",
+  "gram": "gerund (absolutive) of orohati (ava + √ruh)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down."],
+   ["√ruh", "To climb; orohati means to climb down, descend."],
+   ["-itvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "osarati": {
+  "meaning": "goes to; enters, approaches",
+  "gram": "verb, 3rd person singular present (ava + √sar)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, towards."],
+   ["√sar", "To move, flow; osarati means to go to, enter."]
+  ]
+ },
+ "ottappa": {
+  "meaning": "moral dread; sense of guilt, anxiety about evil that could cause blame",
+  "gram": "neuter noun (from ottappati, ud + √tapp)",
+  "breakdown": [
+   ["ud > od", "Prefix: up, out."],
+   ["√tapp", "To be tormented, scorched; ottappa is the wholesome dread of wrongdoing."]
+  ],
+  "goenka": "Ottappa is explained in the source as having dread of blame as its characteristic: anxiety about evil that could cause blame, citing the commentarial definition tehiyeva ottappatīti ottappaṁ — pāpato ubbegassetaṁ adhivacanaṁ, uttāsanalakkhaṇaṁ ottappaṁ. Together with hiri (moral shame), it is one of the two guardians of the world: hiri recoils from evil out of self-respect, ottappa out of dread of its consequences and of blame."
+ },
+ "otāretvā": {
+  "meaning": "having brought down; having taken down",
+  "gram": "gerund (absolutive) of otāreti (causative of ava + √tar)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down."],
+   ["√tar", "To cross; the causative otāreti means to cause to come down, take down."],
+   ["-etvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "ovadanti": {
+  "meaning": "they instruct; they exhort, they advise",
+  "gram": "verb, 3rd person plural present of ovadati (ava + √vad)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, towards."],
+   ["√vad", "To speak; ovadati means to advise, exhort."]
+  ]
+ },
+ "ovadati": {
+  "meaning": "gives advice; exhorts, instructs",
+  "gram": "verb, 3rd person singular present (ava + √vad)",
+  "breakdown": [
+   ["o- (ava)", "Prefix: down, towards."],
+   ["√vad", "To speak; ovadati means to advise, admonish, instruct."]
+  ]
+ },
+ "ovadeyyānusāseyya": {
+  "meaning": "should admonish and advise; would exhort and instruct",
+  "gram": "sandhi fusion of two optative verbs (ovadeyya + anusāseyya)",
+  "breakdown": [
+   ["ovadeyya", "Should admonish, exhort (optative of ovadati, ava + √vad)."],
+   ["anusāseyya", "Should advise, instruct (optative of anusāsati, anu + √sās). (The two optatives fuse by vowel coalescence.)"]
+  ]
+ },
+ "oḷārikaṁ": {
+  "meaning": "gross; coarse (as opposed to subtle)",
+  "gram": "adjective, accusative/neuter singular of oḷārika",
+  "breakdown": [
+   ["uḷāra > oḷāra", "Great, massive, gross."],
+   ["-ika", "Adjectival suffix."]
+  ],
+  "forms": ["oḷārika"]
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "mānusiyā": {
+  "meaning": "human; relating to human beings",
+  "gram": "adjective, feminine oblique form (from manu)",
+  "breakdown": [
+   ["mānusa", "Human, belonging to humankind; derived from manu, the archetypal human."],
+   ["-iyā", "Feminine oblique case ending."]
+  ]
+ },
+ "mānusiyā toward": {
+  "meaning": "human; toward what is human",
+  "gram": "phrase (glossary row)",
+  "note": "uncertain: this back-glossary row duplicates the entry mānusiyā; the English word \"toward\" was carried into the headword during extraction. See mānusiyā."
+ },
+ "mārisa": {
+  "meaning": "sir; dear sir (respectful form of address)",
+  "gram": "masculine noun, used vocatively"
+ },
+ "māsaddhamāsā": {
+  "meaning": "a month and a half-month; months and fortnights",
+  "summary": "This is a compound meaning \"month + half-month\", i.e. periods of a month and a fortnight.",
+  "gram": "masculine noun, compound",
+  "breakdown": [
+   ["māsa", "Month."],
+   ["addhamāsa", "Half-month, fortnight (addha \"half\" + māsa \"month\"; the doubled dd reflects compound sandhi)."]
+  ]
+ },
+ "mātikāpariyosānā": {
+  "meaning": "ending with the summaries; concluding with the mātikā (the schematic lists of the Abhidhamma)",
+  "summary": "This is a compound meaning \"summary list + termination\".",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["mātikā", "Order, list, summary; the introductory summary or schematic concept-list that opens texts of the Abhidhamma."],
+   ["pariyosāna", "Termination, conclusion, ending."]
+  ],
+  "goenka": "In the tradition's study material this term is explained with reference to the Abhidhamma: the mātikā is the introductory summary, the presented concept-list of an Abhidhamma text, and mātikāpariyosānā means reaching the termination of those lists. Klaus Nothnagel refers readers to lesson 3.1.13, Abhidhamma — Introduction and Terminology, for fuller detail."
+ },
+ "mātugāmena": {
+  "meaning": "woman; womenfolk (instrumental: with or by a woman)",
+  "gram": "masculine noun, compound; instrumental singular of mātugāma",
+  "breakdown": [
+   ["mātu", "Mother (stem form of mātar)."],
+   ["gāma", "Literally \"village, collection\"; mātugāma is the standard idiom for womankind, women collectively."]
+  ],
+  "forms": ["mātugāma"]
+ },
+ "mātukaṁ": {
+  "meaning": "having a mother",
+  "gram": "neuter noun/adjective (mātu + ka)",
+  "breakdown": [
+   ["mātu", "Mother (stem form of mātar)."],
+   ["-ka", "Possessive suffix: \"having, provided with\"."]
+  ]
+ },
+ "mātā": {
+  "meaning": "mother",
+  "gram": "feminine noun, nominative singular of mātar",
+  "breakdown": [
+   ["mātar", "Mother; the -ar stem noun, nominative singular mātā."]
+  ]
+ },
+ "māṇava": {
+  "meaning": "young man; young brahmin; brahmin student",
+  "gram": "masculine noun (from manu)",
+  "breakdown": [
+   ["manu", "The archetypal human; māṇava is literally \"descendant of manu\", hence a youth, especially a young brahmin."]
+  ]
+ },
+ "mūgabbataṁ": {
+  "meaning": "the vow of dumbness; the ascetic practice of keeping mute",
+  "summary": "This is a compound meaning \"dumb + practice\", an ascetic observance of total silence.",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["mūga", "Dumb, mute."],
+   ["vata", "Vow, religious practice, observance. (The bb arises by compound sandhi of -a + va-.)"]
+  ]
+ },
+ "mūlaghaccaṁ": {
+  "meaning": "destroyed at the root; cut off root and all",
+  "gram": "adjective, compound (neuter/accusative form)",
+  "breakdown": [
+   ["mūla", "Root."],
+   ["ghacca", "To be destroyed, destruction (from √han \"to strike, kill\")."]
+  ]
+ },
+ "mūḷhaṁ": {
+  "meaning": "gone astray; having lost one's way; deluded",
+  "gram": "past participle of muyhati (√muh), accusative/neuter singular",
+  "breakdown": [
+   ["√muh", "To be confused, deluded; the past participle √muh + ta gives mūḍha, in Pāli mūḷha."]
+  ]
+ },
+ "mūḷhaṁ gone": {
+  "meaning": "astray; having lost one's way",
+  "gram": "phrase (glossary row)",
+  "note": "uncertain: this back-glossary row duplicates the entry mūḷhaṁ; the English word \"gone\" was carried into the headword during extraction. See mūḷhaṁ."
+ },
+ "mūḷho": {
+  "meaning": "deluded; delusive, full of illusion",
+  "gram": "past participle of muyhati (√muh), masculine nominative singular",
+  "breakdown": [
+   ["√muh", "To be confused, deluded; the past participle √muh + ta gives mūḍha, in Pāli mūḷha."]
+  ]
+ },
+ "nacca": {
+  "meaning": "dancing; dance",
+  "gram": "neuter noun (from naccati, √nat)",
+  "breakdown": [
+   ["√nat", "To dance; nacca is the action noun \"dancing\"."]
+  ]
+ },
+ "nadīviduggaṁ": {
+  "meaning": "a river difficult to cross; a treacherous river-ford",
+  "summary": "This is a compound meaning \"river + very hard to pass\".",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["nadī", "River, river-ford."],
+   ["vi-", "Intensifying prefix."],
+   ["dugga", "Difficult terrain, hard to pass (du \"bad, hard\" + gga from √gam \"go\")."]
+  ]
+ },
+ "nagarakaṁ": {
+  "meaning": "small fortified city; little town",
+  "gram": "neuter noun (nagara + ka)",
+  "breakdown": [
+   ["nagara", "City, fortified town."],
+   ["-ka", "Diminutive suffix."]
+  ]
+ },
+ "nakkosakaparibhāsako": {
+  "meaning": "not one who reviles and abuses",
+  "summary": "This is a negated compound: \"not (someone who is) reviling + abusing\".",
+  "gram": "masculine adjective, negated compound, nominative singular",
+  "breakdown": [
+   ["an-/na-", "Negative prefix \"not\" (here fused as na- with doubling of the following k)."],
+   ["akkosaka", "One who reviles, an abuser with words."],
+   ["paribhāsaka", "One who abuses, scolds, defames."]
+  ]
+ },
+ "namassāma": {
+  "meaning": "we pay respects; we revere, we bow down",
+  "gram": "verb, 1st person plural present of namassati (√namass)",
+  "breakdown": [
+   ["√namass", "To pay homage, revere (denominative from namo \"homage\")."],
+   ["-āma", "First person plural ending: \"we ...\"."]
+  ]
+ },
+ "nandīrāgasahagatā": {
+  "meaning": "bound up with pleasure and lust; accompanied by delight and sensuous craving",
+  "summary": "This is a compound describing craving (taṇhā): \"enjoyment + lust + going together with\".",
+  "gram": "adjective, compound, feminine nominative singular",
+  "breakdown": [
+   ["nandī", "Enjoyment, delight, rejoicing in."],
+   ["rāga", "Sensuous lust, passion, pleasure."],
+   ["sahagata", "Going together with, accompanied by (saha \"together\" + gata \"gone\")."]
+  ],
+  "goenka": "The term appears in the Dhammacakkappavattana and Mahāsatipaṭṭhāna expositions of the Second Noble Truth: the craving that leads to repeated becoming is nandīrāgasahagatā, bound up with pleasure and lust, finding delight now here, now there. It characterizes how taṇhā arises and gets established wherever in the world of mind and matter there is something enticing and pleasurable."
+ },
+ "nappajappanti": {
+  "meaning": "they do not crave; they do not prattle or long for",
+  "gram": "verb, 3rd person plural present, negated (na + pajappati, √japp)",
+  "breakdown": [
+   ["na", "Not. (The doubled pp is sandhi doubling after na.)"],
+   ["pajappati", "To prattle; to crave, long for (pa + √japp)."]
+  ]
+ },
+ "nappasaṁsanti": {
+  "meaning": "they do not praise; they do not commend",
+  "gram": "verb, 3rd person plural present, negated (na + pasaṁsati, √saṁs)",
+  "breakdown": [
+   ["na", "Not. (The doubled pp is sandhi doubling after na.)"],
+   ["pasaṁsati", "To praise, declare, commend (pa + √saṁs)."]
+  ]
+ },
+ "narāsabhaṁ": {
+  "meaning": "bull among men; chief of men (an epithet of the Buddha)",
+  "summary": "This is a compound meaning \"man + bull\", i.e. the noblest, most eminent of men.",
+  "gram": "masculine noun, compound, accusative singular",
+  "breakdown": [
+   ["nara", "Man, human being."],
+   ["āsabha", "Bull; figuratively a leader, the most eminent one. (The long ā arises by vowel coalescence at the compound boundary.)"]
+  ]
+ },
+ "nati": {
+  "meaning": "inclination; bending",
+  "gram": "feminine abstract noun (from namati, √nam)",
+  "breakdown": [
+   ["√nam", "To bend, incline; nati is the abstract noun \"bending, inclination\"."]
+  ]
+ },
+ "natthañño": {
+  "meaning": "there is no other",
+  "gram": "sandhi fusion: indeclinable + verb + pronoun",
+  "breakdown": [
+   ["na", "Not."],
+   ["atthi", "There is (3rd person singular of √as \"to be\")."],
+   ["añño", "Another, other (masculine nominative singular)."]
+  ]
+ },
+ "natthika": {
+  "meaning": "one who denies existence; holding the view \"there is not\" (an annihilationist)",
+  "gram": "adjective (from na atthi)",
+  "breakdown": [
+   ["na", "Not."],
+   ["atthi", "There is, it exists (√as)."],
+   ["-ka", "Adjectival suffix: characterized by the view that \"there is not\"."]
+  ]
+ },
+ "nayahetu": {
+  "meaning": "by inference; by reason of logical method",
+  "gram": "masculine noun, compound, used adverbially",
+  "breakdown": [
+   ["naya", "Method, inference, logical guide."],
+   ["hetu", "Cause, reason; in compounds \"on account of\"."]
+  ]
+ },
+ "nayidaṁ": {
+  "meaning": "not this; this is not",
+  "gram": "sandhi fusion: indeclinable + pronoun",
+  "breakdown": [
+   ["na", "Not."],
+   ["[y]", "Euphonic glide inserted between vowels."],
+   ["idaṁ", "This (neuter nominative/accusative singular)."]
+  ],
+  "note": "uncertain: the lexicon's glossary row pairs this headword with the gloss \"not + clinging to existence\" and breakdown an + upādāya, which belongs to anupādāya; the row appears misaligned. The meaning given here follows the form itself (na + idaṁ)."
+ },
+ "naḷova": {
+  "meaning": "like a reed; just as a reed",
+  "gram": "sandhi fusion: masculine noun + emphatic particle (naḷa + iva/eva)",
+  "breakdown": [
+   ["naḷa", "Reed."],
+   ["iva/eva", "Like; just as (fused with the preceding vowel to -ova)."]
+  ]
+ },
+ "ne": {
+  "meaning": "them",
+  "gram": "pronoun, masculine accusative plural of ta (alternative form)"
+ },
+ "negama": {
+  "meaning": "belonging to a town; townsfolk, town-dweller",
+  "gram": "adjective (from nigama)",
+  "breakdown": [
+   ["nigama", "Market town (ni + √gam); the derivative negama, with strengthened first vowel, means \"belonging to a town\"."]
+  ]
+ },
+ "negamajānapadesu": {
+  "meaning": "among townsfolk and countryfolk",
+  "summary": "This is a compound meaning \"townfolk + countryfolk\", here in the locative plural.",
+  "gram": "masculine noun, compound, locative plural",
+  "breakdown": [
+   ["negama", "Townsfolk; belonging to a town (from nigama \"market town\")."],
+   ["jānapada", "Countryfolk; people of the countryside (from janapada \"country, district\")."],
+   ["-esu", "Locative plural ending: \"among ...\"."]
+  ]
+ },
+ "nekapariyāyena": {
+  "meaning": "in many ways; by various methods",
+  "gram": "instrumental singular, compound used adverbially",
+  "breakdown": [
+   ["aneka", "Many, various (literally \"not one\"; here with initial a- elided to neka- by sandhi)."],
+   ["pariyāya", "Way, method, manner of presentation."],
+   ["-ena", "Instrumental singular ending: \"by, in\"."]
+  ]
+ },
+ "nekatikā": {
+  "meaning": "fraudulent; a cheat, a deceiver",
+  "gram": "masculine noun/adjective (from nikati \"fraud\"), plural or feminine form",
+  "breakdown": [
+   ["nikati", "Fraud, deceit (ni + √kar)."],
+   ["-ika", "Suffix forming an agent or characterizing adjective: one given to fraud."]
+  ]
+ },
+ "nekkhammasaṅkappo": {
+  "meaning": "thought of renunciation; intention of renunciation",
+  "summary": "This is a compound meaning \"renunciation + thought\", one of the three right thoughts of sammāsaṅkappa.",
+  "gram": "masculine noun, compound, nominative singular",
+  "breakdown": [
+   ["nekkhamma", "Renunciation; giving up of sensual craving and worldly life."],
+   ["saṅkappa", "Thought, intention, mental resolve."]
+  ],
+  "goenka": "In the suttas studied in the tradition, nekkhammasaṅkappa is one of the three kinds of right thought (sammāsaṅkappa) of the Noble Eightfold Path, alongside thoughts free from ill will and from cruelty: thoughts of renunciation, turned away from craving for sensual pleasures."
+ },
+ "nela": {
+  "meaning": "blameless, faultless; without sin",
+  "gram": "adjective (na + ela)",
+  "breakdown": [
+   ["na", "Not (contracted with the following vowel to ne-)."],
+   ["ela", "Fault, sin; hence nela \"faultless\". Also appears as anela with the a- form of the negative."]
+  ],
+  "forms": ["anela"]
+ },
+ "nela/anela": {
+  "meaning": "blameless, faultless; without sin",
+  "gram": "adjective (two equivalent negated forms)",
+  "note": "uncertain: this glossary row duplicates the entry nela; nela and anela are the same negated adjective with alternative negative prefixes. See nela."
+ },
+ "nemittikatā": {
+  "meaning": "hinting; insinuation (an improper way of seeking gains)",
+  "gram": "feminine abstract noun (from nemittika)",
+  "breakdown": [
+   ["nimitta", "Sign, hint (ni + √mā)."],
+   ["-ika", "Adjectival suffix: one who gives signs or hints."],
+   ["-tā", "Abstract noun suffix: the practice of hinting."]
+  ]
+ },
+ "nesaṁ": {
+  "meaning": "their; of these, to these",
+  "gram": "pronoun, genitive/dative plural of ta (alternative form)"
+ },
+ "nesohamasmi": {
+  "meaning": "I am not this; this I am not",
+  "summary": "This is a sandhi fusion of four words, part of the formula \"netaṁ mama, nesohamasmi, na meso attā\" — \"this is not mine, this I am not, this is not my self\".",
+  "gram": "sandhi fusion: indeclinable + pronoun + pronoun + verb",
+  "breakdown": [
+   ["na", "Not."],
+   ["eso", "This (masculine nominative singular)."],
+   ["ahaṁ", "I."],
+   ["asmi", "Am (1st person singular of √as \"to be\")."]
+  ],
+  "goenka": "This phrase belongs to the canonical formula of insight into anattā: of each aggregate the meditator understands, in line with reality, \"this is not mine, this I am not, this is not my self\". In the tradition this is not a philosophical assertion to be believed but an understanding to be verified directly through the experience of the arising and passing away of mind and matter."
+ },
+ "nesā": {
+  "meaning": "not this; this (feminine) is not",
+  "gram": "sandhi fusion: indeclinable + pronoun (na + esā, feminine)",
+  "breakdown": [
+   ["na", "Not."],
+   ["esā", "This (feminine nominative singular)."]
+  ]
+ },
+ "nesādakule": {
+  "meaning": "in a family of hunters; in a hunter clan",
+  "gram": "neuter noun, compound, locative singular",
+  "breakdown": [
+   ["nesāda", "Hunter."],
+   ["kula", "Family, clan."],
+   ["-e", "Locative singular ending: \"in\"."]
+  ]
+ },
+ "netaṁ": {
+  "meaning": "not this; this is not",
+  "gram": "sandhi fusion: indeclinable + pronoun (na + etaṁ)",
+  "breakdown": [
+   ["na", "Not."],
+   ["etaṁ", "This (neuter nominative/accusative singular)."]
+  ]
+ },
+ "nete": {
+  "meaning": "not these",
+  "gram": "sandhi fusion: indeclinable + pronoun (na + ete, masculine plural)",
+  "breakdown": [
+   ["na", "Not."],
+   ["ete", "These (masculine nominative plural)."]
+  ]
+ },
+ "nevajjhagā": {
+  "meaning": "did not thus attain; not thus obtained",
+  "gram": "sandhi fusion: indeclinable + indeclinable + aorist verb",
+  "breakdown": [
+   ["na", "Not."],
+   ["eva", "Thus, indeed (emphatic particle)."],
+   ["ajjhagā", "Attained, obtained (aorist of adhigacchati). (The doubled jj is sandhi doubling.)"]
+  ]
+ },
+ "nibbattate": {
+  "meaning": "arises; becomes, gets produced",
+  "gram": "verb, 3rd person singular present, middle voice of nibbattati (ni + √vatt)",
+  "breakdown": [
+   ["ni(r)-", "Prefix: out, forth. (The doubled bb arises by assimilation of nir + v.)"],
+   ["√vatt", "To turn, proceed; nibbattati means to arise, come into being."],
+   ["-te", "Middle-voice (attanopada) 3rd person singular ending."]
+  ]
+ },
+ "nibbattati": {
+  "meaning": "springs up; is born, is produced, grows, arises",
+  "gram": "verb, 3rd person singular present (ni + √vatt)",
+  "breakdown": [
+   ["ni(r)-", "Prefix: out, forth. (The doubled bb arises by assimilation of nir + v.)"],
+   ["√vatt", "To turn, proceed; nibbattati means to spring up, be produced, arise."]
+  ]
+ },
+ "nibbattissati": {
+  "meaning": "will be reborn; will spring up, will arise",
+  "gram": "verb, 3rd person singular future of nibbattati (ni + √vatt)",
+  "breakdown": [
+   ["nibbattati", "To spring up, be born, arise (ni + √vatt)."],
+   ["-issati", "Future tense ending: \"will ...\"."]
+  ]
+ },
+ "nibbedhikā": {
+  "meaning": "penetrating; piercing, discriminating (penetration, discrimination)",
+  "gram": "adjective (from nibbedha \"penetration\"), feminine form",
+  "breakdown": [
+   ["ni(r)-", "Prefix: out, through. (The doubled bb arises by assimilation of nir + v.)"],
+   ["√vidh", "To pierce; nibbedha means penetration, piercing through."],
+   ["-ika", "Adjectival suffix: penetrating, discriminative."]
+  ]
+ },
+ "nibbedhikāya": {
+  "meaning": "piercing, penetrating, discriminating (dative/genitive: of or for penetrating insight)",
+  "gram": "adjective, feminine dative/genitive singular of nibbedhika",
+  "breakdown": [
+   ["nibbedhika", "Penetrating, discriminative (nir + √vidh + ika)."],
+   ["-āya", "Feminine dative/genitive singular ending."]
+  ],
+  "forms": ["nibbedhika"]
+ }
+}

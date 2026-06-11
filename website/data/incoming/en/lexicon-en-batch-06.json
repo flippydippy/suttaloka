@@ -1,0 +1,417 @@
+{
+ "antalikkhe": {
+  "meaning": "in the sky, in the air; celestial",
+  "gram": "neuter noun antalikkha, locative singular",
+  "breakdown": [
+   ["antara", "Interval, in between (becoming antali- in the compound)."],
+   ["kha", "Space, sky."]
+  ]
+ },
+ "antamaso": {
+  "meaning": "even, at least, down to",
+  "gram": "indeclinable (adverb, ablative of antama \"the last\")"
+ },
+ "antara": {
+  "meaning": "within, across, beyond; interval, in between",
+  "gram": "adjective/preposition (from anta)",
+  "breakdown": [
+   ["anta", "End, limit."],
+   ["-ra", "Adjectival suffix."]
+  ]
+ },
+ "antaradhāna": {
+  "meaning": "disappearance, vanishing",
+  "gram": "neuter action noun (from antaradhāyati)",
+  "breakdown": [
+   ["antara", "In between (here: \"out of sight\")."],
+   ["dhāna", "Placing (√dhā); antaradhāna = \"disappearance\"."]
+  ]
+ },
+ "antaradhāyati": {
+  "meaning": "to vanish, to disappear",
+  "gram": "verb, 3rd person singular present, compound verb",
+  "breakdown": [
+   ["antara", "In between (here: \"out of sight\")."],
+   ["dhāyati", "Places (√dhā); the compound means \"to disappear\"."]
+  ]
+ },
+ "antarahito": {
+  "meaning": "disappeared, vanished, passed away (from sight)",
+  "gram": "past participle of antaradhāyati, masculine nominative singular",
+  "breakdown": [
+   ["antara", "In between (here: \"out of sight\")."],
+   ["hita", "Placed (past participle of dahati, √dhā)."]
+  ]
+ },
+ "antaritattā": {
+  "meaning": "because of being hidden or concealed",
+  "gram": "abstract noun (antarita + -tta), ablative singular",
+  "breakdown": [
+   ["antarita", "Hidden, concealed (past participle, \"placed in between\")."],
+   ["-ttā", "Abstract suffix in the ablative, \"because of the state of\"."]
+  ]
+ },
+ "antarā": {
+  "meaning": "in between; meanwhile, on the way",
+  "gram": "indeclinable (adverb/preposition, from antara)"
+ },
+ "antarā + antarā": {
+  "meaning": "in between, from time to time",
+  "gram": "adverbial phrase (repetition of antarā \"in between\")"
+ },
+ "antarāpaccatthikā": {
+  "meaning": "hidden enemies; opponents within (enemies in the guise of friends)",
+  "gram": "masculine compound noun, plural",
+  "breakdown": [
+   ["antara", "Inner, within."],
+   ["a-", "Negative element in the lexicon's analysis (\"not [openly] an opponent\")."],
+   ["paccatthika", "Opponent, enemy."]
+  ],
+  "note": "uncertain: the lexicon analyses this as antara + a + paccatthikā, \"inner + not + opponent\" — an enemy who does not appear as one; DPD reads simply antarā + paccatthika, \"hidden enemy\"."
+ },
+ "antarāsapattā": {
+  "meaning": "hidden rivals; foes within (rivals in the guise of friends)",
+  "gram": "masculine compound noun, plural",
+  "breakdown": [
+   ["antara", "Inner, within."],
+   ["a-", "Negative element in the lexicon's analysis (\"not [openly] a rival\")."],
+   ["sapatta", "Rival, foe."]
+  ],
+  "note": "uncertain: the lexicon analyses this as antara + a + sapattā, \"inner + not + rival\"; DPD reads antarā + sapatta, \"hidden foe\"."
+ },
+ "antarāvadhakā": {
+  "meaning": "hidden murderers; killers within (murderers in the guise of friends)",
+  "gram": "masculine compound noun, plural",
+  "breakdown": [
+   ["antara", "Inner, within."],
+   ["a-", "Negative element in the lexicon's analysis (\"not [openly] a killer\")."],
+   ["vadhaka", "Killer, murderer."]
+  ],
+  "note": "uncertain: the lexicon analyses this as antara + a + vadhakā, \"inner + not + killer\"; DPD reads antarā + vadhaka, \"hidden murderer\"."
+ },
+ "antavā": {
+  "meaning": "finite, having an end (opposite: anantavā, infinite)",
+  "gram": "adjective (anta + -vant)",
+  "breakdown": [
+   ["anta", "End, limit."],
+   ["-vant", "Possessive suffix: \"having an end\"."]
+  ]
+ },
+ "antevāsikavāso": {
+  "meaning": "living as a pupil; the state of one dwelling with a teacher",
+  "gram": "masculine compound noun, nominative singular",
+  "breakdown": [
+   ["antevāsika", "Pupil, apprentice (one dwelling \"within\", ante + vāsa)."],
+   ["vāsa", "Dwelling, living."]
+  ]
+ },
+ "antevāsinā": {
+  "meaning": "by an apprentice, student, pupil",
+  "gram": "masculine agent noun antevāsī, instrumental singular",
+  "breakdown": [
+   ["ante", "Within, near (locative of anta)."],
+   ["vāsī", "Dweller (√vas); a pupil dwelling with the teacher."],
+   ["-nā", "Instrumental singular ending."]
+  ]
+ },
+ "antobhājane": {
+  "meaning": "inside the vessel, within the pot",
+  "gram": "neuter noun, locative singular with prefix anto-",
+  "breakdown": [
+   ["anto", "Inside, inner."],
+   ["bhājana", "Vessel, pot."],
+   ["-e", "Locative singular ending."]
+  ]
+ },
+ "antoparisoko": {
+  "meaning": "inner severe grief; deep mourning within",
+  "gram": "masculine abstract compound noun, nominative singular",
+  "breakdown": [
+   ["anto", "Inner, inside."],
+   ["pari-", "Intensifying prefix, \"all around, severe\"."],
+   ["soka", "Grief, sorrow."]
+  ]
+ },
+ "antosoko": {
+  "meaning": "inner grief; sorrow within",
+  "gram": "masculine abstract compound noun, nominative singular",
+  "breakdown": [
+   ["anto", "Inner, inside."],
+   ["soka", "Grief, sorrow."]
+  ]
+ },
+ "antā": {
+  "meaning": "ends, extremes",
+  "gram": "masculine noun anta, nominative plural"
+ },
+ "anu": {
+  "meaning": "after, following, like, behind (prefix)",
+  "gram": "prefix/preposition",
+  "forms": ["anu-"]
+ },
+ "anubandhanavasena": {
+  "meaning": "on account of what follows; by way of pursuing",
+  "gram": "compound noun, instrumental singular used adverbially",
+  "breakdown": [
+   ["anubandhana", "Following after, pursuing (anu + √bandh)."],
+   ["vasena", "On account of, by way of (instrumental of vasa \"power, influence\")."]
+  ]
+ },
+ "anubodhañāṇaṁ": {
+  "meaning": "knowledge of understanding; knowledge arising from perception and comprehension",
+  "gram": "neuter compound noun, nominative/accusative singular",
+  "breakdown": [
+   ["anubodha", "Perception, understanding, awakening to (anu + √budh)."],
+   ["ñāṇa", "Knowledge."]
+  ]
+ },
+ "anucchavikattā": {
+  "meaning": "because of suitability; the state of being fit, proper, worthy",
+  "gram": "neuter abstract noun (anucchavika + -tta), ablative singular",
+  "breakdown": [
+   ["anucchavika", "Suitable, fit, proper (anu + chavi + -ka)."],
+   ["-ttā", "Abstract suffix in the ablative, \"because of the state of\"."]
+  ]
+ },
+ "anucchavikā": {
+  "meaning": "suitable, appropriate",
+  "gram": "adjective, plural or feminine form",
+  "breakdown": [
+   ["anu-", "Prefix \"according to\"."],
+   ["chavi", "Skin, surface; anucchavika = \"fitting, suitable\"."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "anuddayataṁ": {
+  "meaning": "compassion, sympathy with",
+  "gram": "feminine abstract noun anuddayatā, accusative singular",
+  "breakdown": [
+   ["anu-", "Prefix \"towards\"."],
+   ["√day", "Root \"to sympathise\"; anuddayā = compassion."],
+   ["-tā", "Abstract noun suffix."]
+  ]
+ },
+ "anuddhatā": {
+  "meaning": "calm, not agitated, not conceited",
+  "gram": "past participle of na uddhata, plural or feminine form",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["uddhata", "Agitated, puffed up (ud + √dhar + -ta)."]
+  ]
+ },
+ "anudhammacārino": {
+  "meaning": "walking in accordance with the Dhamma; acting in conformity with the teaching",
+  "gram": "adjective, compound, plural or genitive singular",
+  "breakdown": [
+   ["anu-", "Prefix \"in accordance with\"."],
+   ["dhamma", "The teaching, the law of nature."],
+   ["cārī", "Walking, practising, acting (√car)."]
+  ]
+ },
+ "anugacchati": {
+  "meaning": "to follow",
+  "gram": "verb, 3rd person singular present (anu + √gam)",
+  "breakdown": [
+   ["anu-", "Prefix \"after\"."],
+   ["√gam", "Root \"to go\" (present stem gaccha-)."]
+  ]
+ },
+ "anugata": {
+  "meaning": "accompanied by; followed",
+  "gram": "past participle of anugacchati",
+  "breakdown": [
+   ["anu-", "Prefix \"after\"."],
+   ["√gam", "Root \"to go\" + past participle suffix -ta."]
+  ]
+ },
+ "anugatī": {
+  "meaning": "adherence to, dependence on",
+  "gram": "feminine noun",
+  "breakdown": [
+   ["anu-", "Prefix \"after, following\"."],
+   ["gati", "Going, course (√gam)."]
+  ]
+ },
+ "anuggāhakā": {
+  "meaning": "patronising, helping, fostering; one who supports",
+  "gram": "adjective/agent noun (from anuggaṇhāti, √gah), plural",
+  "breakdown": [
+   ["anu-", "Prefix \"towards, in favour of\"."],
+   ["√gah", "Root \"to take\"; anuggaṇhāti = \"to help, support\"."],
+   ["-aka", "Agent suffix."]
+  ]
+ },
+ "anugāma": {
+  "meaning": "following after",
+  "gram": "masculine noun (anu + √gam)",
+  "breakdown": [
+   ["anu-", "Prefix \"after\"."],
+   ["√gam", "Root \"to go\"."]
+  ]
+ },
+ "anugāmika": {
+  "meaning": "accompanying; resulting from, following (one to the next world)",
+  "gram": "adjective (anu + √gam + -ika)",
+  "breakdown": [
+   ["anu-", "Prefix \"after\"."],
+   ["√gam", "Root \"to go\"."],
+   ["-ika", "Adjectival suffix."]
+  ]
+ },
+ "anugāmin": {
+  "meaning": "following, attending to, going along with",
+  "gram": "adjective/noun (anu + √gam + -in)",
+  "breakdown": [
+   ["anu-", "Prefix \"after\"."],
+   ["√gam", "Root \"to go\"."],
+   ["-in", "Possessive/agent suffix."]
+  ]
+ },
+ "anujānāmi": {
+  "meaning": "I consent to, I grant, I allow",
+  "gram": "verb, 1st person singular present of anujānāti (anu + √ñā)",
+  "breakdown": [
+   ["anu-", "Prefix \"along, in favour of\"."],
+   ["√ñā", "Root \"to know\" (stem jānā-); anujānāti = \"to permit, grant\"."],
+   ["-mi", "Present ending, 1st person singular."]
+  ]
+ },
+ "anulomaṁ": {
+  "meaning": "in natural order; with the grain",
+  "gram": "adjective/adverb (anu + loma), accusative singular",
+  "breakdown": [
+   ["anu-", "Prefix \"along, according to\"."],
+   ["loma", "Hair of the body; anuloma = \"with the hair\", in natural order."]
+  ]
+ },
+ "anulometi": {
+  "meaning": "to correspond to, to be in accordance with",
+  "gram": "verb, 3rd person singular present (denominative of anuloma)",
+  "breakdown": [
+   ["anuloma", "In natural order, conforming."],
+   ["-eti", "Denominative verb ending."]
+  ]
+ },
+ "anunnatena": {
+  "meaning": "not exalted, not haughty; with an unconceited (mind)",
+  "gram": "past participle of na unnamati, instrumental singular",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["unnata", "Raised, high, lofty (ud + √nam + -ta)."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "anupadajjeyyāsi": {
+  "meaning": "you should support, encourage; you should hand over",
+  "gram": "verb, 2nd person singular optative of anuppadeti (irregular)",
+  "breakdown": [
+   ["anu-", "Prefix \"along, in addition\"."],
+   ["pa-", "Prefix \"forth\"."],
+   ["√dā", "Root \"to give\" (irregular optative stem dajja-)."],
+   ["-eyyāsi", "Optative ending, 2nd person singular."]
+  ]
+ },
+ "anupaddave": {
+  "meaning": "unharmed, safe, undamaged",
+  "gram": "adjective, locative singular or plural form",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["upaddava", "Harm, misfortune, danger (upa + √du)."]
+  ]
+ },
+ "anupagamma": {
+  "meaning": "not going to, not resorting to; not to be followed",
+  "gram": "gerund of na upagacchati",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["upa-", "Prefix \"towards\"."],
+   ["√gam", "Root \"to go\" + gerund suffix -ya (giving -gamma)."]
+  ]
+ },
+ "anupaggamma": {
+  "meaning": "not succumbing, not going over to",
+  "gram": "gerund of na upagacchati (with gg doubling)",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["upa-", "Prefix \"towards\"."],
+   ["√gam", "Root \"to go\" + gerund suffix -ya (giving -gamma)."]
+  ]
+ },
+ "anupahacca": {
+  "meaning": "not spoiling, not hurting, not impairing",
+  "gram": "gerund of na upahanati (√han)",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["upa-", "Prefix \"towards\"."],
+   ["√han", "Root \"to strike, injure\" + gerund suffix -tya (giving -hacca)."]
+  ]
+ },
+ "anuparidhāvanti": {
+  "meaning": "they run around following, they circle round after",
+  "gram": "verb, 3rd person plural present of anuparidhāvati",
+  "breakdown": [
+   ["anu-", "Prefix \"after, following\"."],
+   ["pari-", "Prefix \"around\"."],
+   ["√dhāv", "Root \"to run\"."],
+   ["-anti", "Present ending, 3rd person plural."]
+  ]
+ },
+ "anuparigamma": {
+  "meaning": "having walked round and round",
+  "gram": "gerund of anuparigacchati",
+  "breakdown": [
+   ["anu-", "Prefix \"after, along\"."],
+   ["pari-", "Prefix \"around\"."],
+   ["√gam", "Root \"to go\" + gerund suffix -ya (giving -gamma)."]
+  ]
+ },
+ "anuparivattanti": {
+  "meaning": "they revolve following, they keep turning around after",
+  "gram": "verb, 3rd person plural present of anuparivattati",
+  "breakdown": [
+   ["anu-", "Prefix \"after, following\"."],
+   ["pari-", "Prefix \"around\"."],
+   ["√vatt", "Root \"to turn, roll\"."],
+   ["-anti", "Present ending, 3rd person plural."]
+  ]
+ },
+ "anuppadassāmīti": {
+  "meaning": "\"I will give out, I will hand over\" (with quotation marker ti)",
+  "gram": "verb, 1st person singular future of anuppadeti + quotation particle ti",
+  "breakdown": [
+   ["anu-", "Prefix \"along, in addition\"."],
+   ["pa-", "Prefix \"forth\" (with pp doubling)."],
+   ["√dā", "Root \"to give\" (future stem dassa-)."],
+   ["-āmi", "Future ending, 1st person singular (lengthened before ti)."],
+   ["ti", "Quotation marker (iti)."]
+  ]
+ },
+ "anuppadetu": {
+  "meaning": "may (he) give, bestow",
+  "gram": "verb, 3rd person singular imperative of anuppadeti",
+  "breakdown": [
+   ["anu-", "Prefix \"along, in addition\"."],
+   ["pa-", "Prefix \"forth\" (with pp doubling)."],
+   ["√dā", "Root \"to give\" (stem de-)."],
+   ["-tu", "Imperative ending, 3rd person singular."]
+  ]
+ },
+ "anuppadāta": {
+  "meaning": "one who supports, administers, bestows",
+  "gram": "masculine agent noun (anuppadātā, from anuppadāti)",
+  "breakdown": [
+   ["anu-", "Prefix \"along, in addition\"."],
+   ["pa-", "Prefix \"forth\" (with pp doubling)."],
+   ["√dā", "Root \"to give\"."],
+   ["-tar", "Agent suffix, \"one who gives\"."]
+  ]
+ },
+ "anuppannā": {
+  "meaning": "not arisen, not yet come into being",
+  "gram": "past participle of na uppajjati, plural or feminine form",
+  "breakdown": [
+   ["an-", "Negative prefix \"not\" (before a vowel)."],
+   ["uppanna", "Arisen (past participle of uppajjati, ud + √pad)."]
+  ]
+ }
+}

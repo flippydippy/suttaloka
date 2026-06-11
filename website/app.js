@@ -6,7 +6,45 @@
   const $$ = (s, el) => Array.from((el || document).querySelectorAll(s));
 
   const SUTTAS = window.SUTTAS || [];
-  const DICT = window.PALI_DICT || {};
+  // Full generated lexicon underneath, hand-curated entries on top.
+  const DICT = Object.assign({}, window.PALI_LEXICON_EN || {}, window.PALI_DICT || {});
+
+  /* ───────── translation languages ───────── */
+
+  const LANGS = {
+    en: { label: "English", native: "English", rtl: false },
+    fa: { label: "Persian", native: "فارسی", rtl: true },
+    hi: { label: "Hindi", native: "हिन्दी", rtl: false },
+  };
+
+  // Per-language definition overlays. fa/hi lexicons are big, so they are
+  // fetched only when the reader first switches to that language.
+  const OVERLAYS = { en: null };
+  const overlayLoading = {};
+  function overlayFor(lang) {
+    if (lang === "fa")
+      return Object.assign({}, window.PALI_LEXICON_FA || {}, window.PALI_DICT_FA || {});
+    if (lang === "hi") return Object.assign({}, window.PALI_LEXICON_HI || {});
+    return null;
+  }
+  function ensureLang(lang, done) {
+    if (lang === "en" || window["PALI_LEXICON_" + lang.toUpperCase()]) {
+      OVERLAYS[lang] = OVERLAYS[lang] || overlayFor(lang);
+      done();
+      return;
+    }
+    if (overlayLoading[lang]) { overlayLoading[lang].push(done); return; }
+    overlayLoading[lang] = [done];
+    const sc = document.createElement("script");
+    sc.src = "data/lexicon-" + lang + ".js";
+    sc.onload = () => {
+      OVERLAYS[lang] = overlayFor(lang);
+      overlayLoading[lang].forEach((f) => f());
+      delete overlayLoading[lang];
+    };
+    sc.onerror = () => { overlayLoading[lang].forEach((f) => f()); delete overlayLoading[lang]; };
+    document.head.appendChild(sc);
+  }
 
   const COLLECTION_COLORS = {
     "Majjhima Nikāya": "#a85a32",
@@ -360,10 +398,15 @@
   function renderSutta(s) {
     current = s;
     $("#crumbRef").textContent = s.ref;
-    $("#langSeg").hidden = !s.hasFa;
-    if (!s.hasFa) setLang("en");
 
     const lang = document.body.dataset.lang;
+    // Sutta translations exist in en/fa; for other languages the text falls
+    // back to English while word definitions follow the chosen language.
+    const transNote = lang !== "en" && !(lang === "fa" && s.hasFa)
+      ? `<p class="trans-note">${lang === "fa"
+          ? "ترجمه‌ی متن این سوتا هنوز فارسی نشده است — متن انگلیسی است؛ معنیِ واژه‌ها فارسی باز می‌شود."
+          : "इस सुत्त का अनुवाद अभी हिन्दी में नहीं है — पाठ अंग्रेज़ी में है; शब्द-अर्थ हिन्दी में खुलेंगे।"}</p>`
+      : "";
     const segs = s.segments.map((g, i) => {
       const trans = lang === "fa" && g.fa ? g.fa : g.trans;
       const rtl = lang === "fa" && g.fa ? ' dir="rtl"' : "";
@@ -398,6 +441,20 @@
         <ol class="notes-list">${notesList.map((n) => `<li>${n}</li>`).join("")}</ol>
       </section>` : "";
 
+    // one-time hint: the Pāli text is tappable
+    const HINT_L10N = {
+      en: ["Tap any <span class=\"w demo\">Pāli word</span> in the text to open its meaning, word-structure, and Goenka-tradition context.", "Got it"],
+      fa: ["روی هر <span class=\"w demo\">واژه‌ی پالی</span> در متن بزنید تا معنی، ساختار واژه و توضیح سنت گوئنکا باز شود.", "متوجه شدم"],
+      hi: ["पाठ में किसी भी <span class=\"w demo\">पालि शब्द</span> पर टैप करें — उसका अर्थ, शब्द-विश्लेषण और गोयन्का परम्परा का संदर्भ खुलेगा।", "समझ गया"],
+    };
+    const hl = HINT_L10N[lang] || HINT_L10N.en;
+    const hint = localStorage.getItem("sl-taphint") ? "" : `
+      <div class="tap-hint"${lang === "fa" ? ' dir="rtl" lang="fa"' : ""}>
+        <span class="tap-ic" aria-hidden="true">☝︎</span>
+        <p>${hl[0]}</p>
+        <button id="hintDismiss">${hl[1]}</button>
+      </div>`;
+
     $("#page").innerHTML = `
       <div class="title-block">
         <span class="t-ref">${esc(s.collection)} · ${esc(s.ref)}</span>
@@ -405,6 +462,7 @@
         <div class="t-pali">${esc(s.paliTitle)}</div>
       </div>
       <div class="rule-orn"><span>❁</span></div>
+      ${hint}${transNote}
       <div class="segs">${segs}</div>
       <div class="end-orn">✦ ✦ ✦</div>
       ${gloss}${notes}`;
@@ -413,6 +471,13 @@
     $$(".w", $("#page")).forEach((el) =>
       el.addEventListener("click", (ev) => { ev.stopPropagation(); openSheetFor(el); })
     );
+    const hintBtn = $("#hintDismiss");
+    if (hintBtn) hintBtn.addEventListener("click", () => {
+      localStorage.setItem("sl-taphint", "1");
+      const h = $(".tap-hint", $("#page"));
+      h.classList.add("bye");
+      setTimeout(() => h.remove(), 300);
+    });
     $$(".gloss-item", $("#page")).forEach((el) =>
       el.addEventListener("click", () => openSheetForWord(el.dataset.w))
     );
@@ -423,12 +488,11 @@
   const sheet = $("#sheet");
   let sheetSeq = 0;
 
-  const DICT_FA = window.PALI_DICT_FA || {};
-
   // sheet UI labels per language
   const SHEET_L10N = {
     en: { hw: "headword:", bd: "Morphological breakdown", gx: "Goenka tradition context", gl: "In this sutta's glossary" },
     fa: { hw: "سرواژه:", bd: "ساختار واژه", gx: "در سنت گوئنکا", gl: "در واژه‌نامه‌ی این سوتا" },
+    hi: { hw: "मूल शब्द:", bd: "शब्द-विश्लेषण", gx: "गोयन्का परम्परा का संदर्भ", gl: "इस सुत्त की शब्दावली में" },
   };
 
   // Wrap Latin/Pāli runs (incl. √ roots and references like "AN 10.60") in
@@ -439,16 +503,18 @@
 
   function renderEntryHTML(res) {
     const { token, headword, glossHit } = res;
-    const isFa = document.body.dataset.lang === "fa";
-    // in Farsi mode, overlay the Persian translation of the entry (per-field
-    // fallback to English for anything not yet translated)
-    const faEntry = isFa && headword ? DICT_FA[headword] : null;
-    const entry = res.entry && faEntry ? Object.assign({}, res.entry, faEntry) : res.entry;
-    const useFa = !!faEntry || (isFa && !res.entry);
-    const L = SHEET_L10N[useFa ? "fa" : "en"];
+    const lang = document.body.dataset.lang;
+    // in fa/hi mode, overlay that language's entry (per-field fallback to
+    // English for anything not yet translated)
+    const ov = lang !== "en" && OVERLAYS[lang] && headword ? OVERLAYS[lang][headword] : null;
+    const entry = res.entry && ov ? Object.assign({}, res.entry, ov) : res.entry;
+    const useL = ov ? lang : (lang === "fa" && !res.entry ? "fa" : "en");
+    const isFa = useL === "fa";
+    const L = SHEET_L10N[useL];
     // the whole sheet renders in ONE direction so labels, text, and bullets
     // line up the same way the English sheet does — Pāli stays LTR via <bdi>
-    const text = useFa ? faText : esc;
+    const text = isFa ? faText : esc;
+    const useFa = isFa; // RTL wrapper applies to Persian only (Hindi is LTR)
 
     let html = `<h3 class="sheet-word"><bdi dir="ltr">${esc(token)}</bdi>`;
     if (headword && fold(headword) !== fold(token))
@@ -473,7 +539,7 @@
     // show the sutta's own gloss when it adds something: a different headword,
     // or (in Farsi mode without a translated entry) the Farsi rendering
     if (glossHit && (!entry || fold(glossHit.word) !== fold(headword || "") ||
-        (isFa && !faEntry))) {
+        (lang !== "en" && !ov))) {
       html += `<p class="sheet-glossnote">${L.gl} — <b><bdi dir="ltr">${esc(glossHit.word)}</bdi></b>: ${glossHit.gloss}${glossHit.goenka ? ` <span class="g-gx">${glossHit.goenka}</span>` : ""}</p>`;
     }
 
@@ -485,7 +551,7 @@
         (glossHit.goenka ? `<p class="sheet-sec">${L.gx}</p><p class="sheet-gx">${glossHit.goenka}</p>` : "");
     }
 
-    return `<div class="entry${useFa ? " fa" : ""}"${useFa ? ' dir="rtl" lang="fa"' : ""}>${html}</div>`;
+    return `<div class="entry${useFa ? " fa" : ""}${useL === "hi" ? " hi" : ""}"${useFa ? ' dir="rtl" lang="fa"' : useL === "hi" ? ' lang="hi"' : ""}>${html}</div>`;
   }
 
   function openSheetFor(el) {
@@ -495,13 +561,17 @@
     // highlight this word + identical tokens
     $$(".w.hl").forEach((w) => w.classList.remove("hl"));
     const key = fold(cleanToken(el.dataset.w));
-    $$(".w").forEach((w) => { if (fold(cleanToken(w.dataset.w)) === key) w.classList.add("hl"); });
+    $$(".w").forEach((w) => { if (w.dataset.w && fold(cleanToken(w.dataset.w)) === key) w.classList.add("hl"); });
 
     let html;
     if (!res.found) {
-      const nf = document.body.dataset.lang === "fa"
+      const lang = document.body.dataset.lang;
+      const nf = lang === "fa"
         ? `<p class="sheet-nf" dir="rtl" lang="fa">این واژه هنوز در واژه‌نامه نیست. واژه‌های پالی صرف‌های فراوان دارند —
            واژه‌ای کوتاه‌تر و هم‌خانواده را لمس کنید، یا واژه‌نامه‌ی پایین متن را ببینید.</p>`
+        : lang === "hi"
+        ? `<p class="sheet-nf" lang="hi">यह शब्द अभी शब्दकोश में नहीं है। पालि शब्दों के अनेक रूप होते हैं —
+           कोई छोटा, मिलता-जुलता शब्द टैप करें, या पाठ के नीचे की शब्दावली देखें।</p>`
         : `<p class="sheet-nf">Not in the dictionary yet. Pāli words are heavily inflected —
            try tapping a shorter, related word, or check the sutta's glossary below the text.</p>`;
       html = `<h3 class="sheet-word">${esc(res.token)}</h3>` + nf;
@@ -549,14 +619,29 @@
     })
   );
 
+  const langList = $("#langList"), langBtn = $("#langBtn");
   function setLang(l) {
+    if (!LANGS[l]) l = "en";
     document.body.dataset.lang = l;
-    $$("#langSeg button").forEach((x) => x.classList.toggle("on", x.dataset.lang === l));
+    $("#langLabel").textContent = LANGS[l].native;
+    $$("#langList button").forEach((x) => x.classList.toggle("on", x.dataset.lang === l));
     localStorage.setItem("sl-lang", l);
+    // fetch the language's lexicon if needed, then re-render so glossaries,
+    // open sheets, and notes follow the new language
+    ensureLang(l, () => { if (current) renderSutta(current); });
   }
-  $$("#langSeg button").forEach((b) =>
-    b.addEventListener("click", () => { setLang(b.dataset.lang); if (current) renderSutta(current); })
+  function toggleLangList(open) {
+    const o = open === undefined ? langList.hidden : open;
+    langList.hidden = !o;
+    langBtn.setAttribute("aria-expanded", String(o));
+  }
+  langBtn.addEventListener("click", (e) => { e.stopPropagation(); toggleLangList(); });
+  $$("#langList button").forEach((b) =>
+    b.addEventListener("click", () => { toggleLangList(false); setLang(b.dataset.lang); })
   );
+  document.addEventListener("click", (e) => {
+    if (!langList.hidden && !e.target.closest(".lang-menu")) toggleLangList(false);
+  });
 
   let reading = parseFloat(localStorage.getItem("sl-size")) || 18.5;
   const applySize = () => document.documentElement.style.setProperty("--reading", reading + "px");

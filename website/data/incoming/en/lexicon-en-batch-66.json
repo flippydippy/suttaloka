@@ -1,0 +1,442 @@
+{
+  "vitakkasaṅkhārasaṇṭhānaṁ": {
+    "meaning": "the stilling of the thought-conditioning; the formation (and settling) of the conditioning that causes thoughts",
+    "summary": "This compound names the composition or settling of the saṅkhāra (conditioning) underlying thought.",
+    "gram": "neuter compound noun, accusative singular",
+    "breakdown": [
+      ["vitakka", "Thought, reflection."],
+      ["saṅkhāra", "Mental conditioning; the conditioned cause or formation underlying the thought."],
+      ["saṇṭhāna", "Formation, composition; settling, configuration."]
+    ],
+    "forms": ["vitakkasaṅkhārasaṇṭhānaṃ"]
+  },
+  "vitakkasuttaṁ": {
+    "meaning": "the Vitakka Sutta, the “Discourse on Thought”",
+    "gram": "proper noun (title of a sutta); neuter compound",
+    "breakdown": [
+      ["vitakka", "Thought, reflection."],
+      ["sutta", "Discourse of the Buddha."]
+    ],
+    "forms": ["Vitakkasuttaṃ"]
+  },
+  "vitakkentā": {
+    "meaning": "thinking; while thinking",
+    "gram": "present participle of vitakketi, masculine nominative plural",
+    "breakdown": [
+      ["vi-", "Prefix: intensive, distinctly."],
+      ["√takk", "Root: to think, reason."],
+      ["-enta (-entā)", "Present participle: “thinking”."]
+    ]
+  },
+  "vitakkeyyātha": {
+    "meaning": "you should think; you might think",
+    "gram": "verb, 2nd person plural optative of vitakketi (vi + √takk)",
+    "breakdown": [
+      ["vi-", "Prefix: intensive."],
+      ["√takk", "Root: to think, reason."],
+      ["-eyyātha", "2nd person plural optative ending: “you should...”."]
+    ]
+  },
+  "vitiṇṇaparalokassa": {
+    "meaning": "of one who has overcome (given up) the other world; of one who has abandoned concern for the world beyond",
+    "gram": "adjective compound, genitive singular",
+    "breakdown": [
+      ["vitiṇṇa", "Crossed over, overcome; removed (past participle of vitarati)."],
+      ["para", "Other, next."],
+      ["loka", "World. paraloka: the next world, the world beyond."]
+    ]
+  },
+  "vitiṇṇaparalokassāti": {
+    "meaning": "“of one who has overcome the other world” (with quotation marker)",
+    "gram": "adjective compound, genitive singular + quotation particle ti",
+    "breakdown": [
+      ["vitiṇṇa", "Removed, overcome (past participle of vitarati)."],
+      ["paralokassa", "Of the next world (genitive)."],
+      ["ti", "Quotation particle (iti); the preceding final vowel lengthens by sandhi (-assa + ti > -assāti)."]
+    ]
+  },
+  "vittamanusocati": {
+    "meaning": "bewails his wealth; grieves over lost possessions",
+    "gram": "verb phrase (compound verb), 3rd person singular present",
+    "breakdown": [
+      ["vitta", "Possessions, wealth (vittaṁ, accusative)."],
+      ["anusocati", "Bewails, grieves over (anu + √suc, to grieve)."]
+    ]
+  },
+  "vittaṁ": {
+    "meaning": "wealth, possessions, property",
+    "gram": "neuter noun, nominative/accusative singular",
+    "breakdown": [
+      ["√vid", "Root: to find, acquire. vitta: what is acquired — wealth."]
+    ],
+    "forms": ["vittaṃ"]
+  },
+  "vitthārena": {
+    "meaning": "in detail; for expounding fully, at length",
+    "gram": "masculine noun, instrumental singular used adverbially",
+    "breakdown": [
+      ["vi-", "Prefix: out, apart."],
+      ["√thar", "Root: to spread. vitthāra: expansion, detail."],
+      ["-ena", "Instrumental singular ending: “by way of detail”, in full."]
+    ]
+  },
+  "vitti": {
+    "meaning": "joy, happiness; prosperity",
+    "gram": "feminine abstract noun (√vid, to find)",
+    "breakdown": [
+      ["√vid", "Root: to find, experience."],
+      ["-ti", "Feminine abstract-noun suffix: the experiencing — joy, gladness."]
+    ]
+  },
+  "vittilābhañca": {
+    "meaning": "and the gain of joy; and the attainment of prosperity",
+    "gram": "masculine compound noun, accusative singular + enclitic ca",
+    "breakdown": [
+      ["vitti", "Joy, prosperity."],
+      ["lābha", "Gain, attainment."],
+      ["ca", "And (the -ñ- is sandhi: lābhaṁ + ca > lābhañca)."]
+    ]
+  },
+  "vitudati": {
+    "meaning": "strikes, stings; pierces, goads",
+    "gram": "verb, 3rd person singular present (vi + √tud)",
+    "breakdown": [
+      ["vi-", "Prefix: intensive."],
+      ["√tud", "Root: to strike, prick."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "vivajjaye": {
+    "meaning": "should shun, should avoid, should keep away from",
+    "gram": "verb, 3rd person singular optative of vivajjeti (vi + √vajj)",
+    "breakdown": [
+      ["vi-", "Prefix: away."],
+      ["√vajj", "Root: to avoid."],
+      ["-aye", "Optative ending: “should...”."]
+    ]
+  },
+  "vivarati": {
+    "meaning": "uncovers; opens, reveals",
+    "gram": "verb, 3rd person singular present (vi + √var)",
+    "breakdown": [
+      ["vi-", "Prefix: apart, un-."],
+      ["√var", "Root: to cover. vi + √var: to uncover, open."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "vivareyya": {
+    "meaning": "would get uncovered; should open, would reveal",
+    "gram": "verb, 3rd person singular optative of vivarati",
+    "breakdown": [
+      ["vi-", "Prefix: apart, un-."],
+      ["√var", "Root: to cover; vivarati, to uncover."],
+      ["-eyya", "3rd person singular optative ending: “would, should”."]
+    ]
+  },
+  "vivaritvā": {
+    "meaning": "having uncovered; having opened",
+    "gram": "gerund (absolutive) of vivarati (vi + √var)",
+    "breakdown": [
+      ["vi-", "Prefix: apart, un-."],
+      ["√var", "Root: to cover."],
+      ["-itvā", "Gerund (absolutive) ending: “having done”."]
+    ]
+  },
+  "vivekamanubrūhayaṁ": {
+    "meaning": "cultivating seclusion; devoting oneself to solitude",
+    "gram": "present participle phrase, masculine nominative singular (vivekaṁ + anubrūhayaṁ)",
+    "breakdown": [
+      ["viveka", "Seclusion, solitude, detachment (accusative vivekaṁ; the -m- before a- is sandhi)."],
+      ["anubrūhaya", "Cultivating, fostering, devoting oneself to (anu + √brūh, to increase)."],
+      ["-aṁ", "Present participle ending, nominative singular."]
+    ],
+    "forms": ["vivekamanubrūhayaṃ"]
+  },
+  "vivekanissitaṁ": {
+    "meaning": "based on seclusion; given to detachment",
+    "gram": "adjective compound, accusative singular",
+    "breakdown": [
+      ["viveka", "Seclusion, solitude, detachment."],
+      ["nissita", "Based on, depending on, given to (past participle of nissayati)."]
+    ],
+    "forms": ["vivekanissitaṃ"]
+  },
+  "vivicceva": {
+    "meaning": "quite secluded from; having become separated, indeed",
+    "summary": "A sandhi fusion (vivicca + eva) familiar from the jhāna formula: “quite secluded from sense pleasures...”.",
+    "gram": "gerund of viviccati + emphatic particle eva (sandhi fusion)",
+    "breakdown": [
+      ["vivicca", "Having separated, having secluded oneself (gerund of viviccati; vi + √vic)."],
+      ["eva", "Emphatic particle: just, indeed (vivicca + eva > vivicceva)."]
+    ]
+  },
+  "viññugarahitā": {
+    "meaning": "blamed by the wise; censured by intelligent people",
+    "gram": "adjective compound, feminine nominative singular or masculine plural",
+    "breakdown": [
+      ["viññū", "The wise, an intelligent person."],
+      ["garahita", "Blamed, censured (past participle of garahati)."]
+    ]
+  },
+  "viññuppasatthā": {
+    "meaning": "praised by the wise",
+    "gram": "adjective compound, feminine nominative singular or masculine plural",
+    "breakdown": [
+      ["viññū", "The wise, an intelligent person."],
+      ["pasattha", "Praised (past participle of pasaṁsati; the pp doubling is junction doubling)."]
+    ]
+  },
+  "viññāpani": {
+    "meaning": "instructive, informing; making known",
+    "gram": "adjective (viññāpana), feminine form",
+    "breakdown": [
+      ["vi-", "Prefix: distinctly."],
+      ["√ñā", "Root: to know. Causative ñāpe: to make known."],
+      ["-ana", "Adjectival/action suffix: that which makes known, instructive."]
+    ]
+  },
+  "viññāpetukāmassa": {
+    "meaning": "of one desiring to make understood; of one wishing to inform",
+    "gram": "adjective compound, genitive singular",
+    "breakdown": [
+      ["viññāpetu(ṁ)", "To make known, to give to understand (infinitive of viññāpeti)."],
+      ["kāma", "Desiring, wishing (here genitive kāmassa)."]
+    ]
+  },
+  "viññātasārāni": {
+    "meaning": "whose essence is understood; things whose innermost meaning has been perceived",
+    "gram": "adjective compound, neuter nominative/accusative plural",
+    "breakdown": [
+      ["viññāta", "Understood, perceived (past participle of vijānāti)."],
+      ["sāra", "Essence, the innermost; heartwood."]
+    ]
+  },
+  "viññū": {
+    "meaning": "the wise; a wise, intelligent person",
+    "gram": "adjective used as noun, from vijānāti (vi + √ñā)",
+    "breakdown": [
+      ["vi-", "Prefix: distinctly."],
+      ["√ñā", "Root: to know."],
+      ["-ū", "Agent suffix: one who knows — the wise."]
+    ]
+  },
+  "viññū the": {
+    "meaning": "viññū: the wise; a wise person",
+    "summary": "A glossary fragment; the entry is simply the word viññū, “the wise”.",
+    "gram": "adjective used as noun (glossary fragment)",
+    "breakdown": [
+      ["viññū", "The wise, an intelligent person (vi + √ñā + ū)."]
+    ]
+  },
+  "viññūhi": {
+    "meaning": "by the wise; by any intelligent person",
+    "gram": "adjective used as noun, instrumental plural of viññū",
+    "breakdown": [
+      ["viññū", "The wise (vi + √ñā + ū)."],
+      ["-hi", "Instrumental plural ending: by."]
+    ]
+  },
+  "vodānapakkhaṁ": {
+    "meaning": "on the side of purity; the faction of purification (conducing to it)",
+    "gram": "masculine compound noun, accusative singular",
+    "breakdown": [
+      ["vodāna", "Purity, purification; cleansing."],
+      ["pakkha", "Side, party, faction; that which conduces to."]
+    ],
+    "forms": ["vodānapakkhaṃ"]
+  },
+  "vodāpanaṁ": {
+    "meaning": "purification; cleansing",
+    "gram": "neuter noun, nominative/accusative singular",
+    "breakdown": [
+      ["vodāpana", "Causing to be cleansed, purification (causative action noun related to vodāna)."]
+    ],
+    "forms": ["vodāpanaṃ"]
+  },
+  "voharati": {
+    "meaning": "expresses, defines; decides; uses (a term), designates",
+    "gram": "verb, 3rd person singular present (vi + ava + √har)",
+    "breakdown": [
+      ["vi + ava (vo-)", "Prefixes contracted to vo-: apart + down."],
+      ["√har", "Root: to carry. voharati: to use in speech, express, designate; also to do business, decide."],
+      ["-ati", "3rd person singular present ending."]
+    ]
+  },
+  "vohārasamucchedo": {
+    "meaning": "the giving up of business; the complete abolishing of trade dealings",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["vohāra", "Business, trade; common usage, dealings."],
+      ["samuccheda", "Complete cutting off, giving up, abolishing (saṁ + ud + √chid)."]
+    ]
+  },
+  "vohārasamucchedāya": {
+    "meaning": "for the giving up of business; for the abolishing of trade dealings",
+    "gram": "masculine compound noun, dative singular",
+    "breakdown": [
+      ["vohāra", "Business, trade; dealings."],
+      ["samuccheda", "Complete cutting off, abolishing."],
+      ["-āya", "Dative singular ending: for."]
+    ]
+  },
+  "vohārasam­": {
+    "meaning": "for the giving up of business (first part of vohārasamucchedāya, broken across a line)",
+    "summary": "A typographic line-break fragment of vohārasamucchedāya, “for the abolishing of trade dealings”.",
+    "gram": "fragment of a masculine compound noun, dative singular",
+    "breakdown": [
+      ["vohāra", "Business, trade; dealings."],
+      ["samuccheda", "Complete cutting off, abolishing (the remainder -ucchedāya completes the word)."]
+    ],
+    "note": "uncertain: this headword is a hyphenation fragment from the printed source; the full word is vohārasamucchedāya."
+  },
+  "vohāro": {
+    "meaning": "common use, ordinary usage; current designation; business, trade",
+    "gram": "masculine noun, nominative singular (vi + ava + √har)",
+    "breakdown": [
+      ["vi + ava (vo-)", "Prefixes contracted to vo-."],
+      ["√har", "Root: to carry. vohāra: usage, current expression; also trade, dealings."]
+    ]
+  },
+  "voropesiṁ": {
+    "meaning": "I deprived (of life); I took away",
+    "gram": "verb, 1st person singular aorist of voropeti (vi + ava + √ruh, causative)",
+    "breakdown": [
+      ["vi + ava (vo-)", "Prefixes contracted to vo-: down, away."],
+      ["√ruh", "Root; causative rope: to take down. voropeti: to deprive, take away (especially life)."],
+      ["-esiṁ", "1st person singular aorist ending."]
+    ],
+    "forms": ["voropesiṃ"]
+  },
+  "voropeyya": {
+    "meaning": "would deprive of; should take away (life)",
+    "gram": "verb, 3rd person singular optative of voropeti",
+    "breakdown": [
+      ["vi + ava (vo-)", "Prefixes contracted to vo-: down, away."],
+      ["√ruh", "Root; causative rope. voropeti: to deprive, take away."],
+      ["-eyya", "3rd person singular optative ending: “would, should”."]
+    ]
+  },
+  "vossaggapariṇāmiṁ": {
+    "meaning": "ripening in relinquishment; maturing in letting go and handing over",
+    "gram": "adjective compound, accusative singular",
+    "breakdown": [
+      ["vossagga", "Relinquishing, giving up, letting go."],
+      ["pariṇāmī", "Ripening into, maturing towards; handing over."]
+    ],
+    "forms": ["vossaggapariṇāmiṃ"]
+  },
+  "vuccati": {
+    "meaning": "is called, is said; is spoken of",
+    "gram": "verb, 3rd person singular present passive of vacati (√vac)",
+    "breakdown": [
+      ["√vac", "Root: to speak. Passive stem vucca: to be said, to be called."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "vuccatānanda": {
+    "meaning": "is called, Ānanda; it is said, Ānanda",
+    "gram": "verb (passive, 3rd person singular) + vocative, sandhi fusion",
+    "breakdown": [
+      ["vuccati", "Is called, is said (passive of vacati/vatti)."],
+      ["ānanda", "Vocative: Ānanda (the Buddha's attendant). Sandhi: vuccati + ānanda > vuccatānanda."]
+    ]
+  },
+  "vusitavanto": {
+    "meaning": "having fulfilled, accomplished (the holy life); one who has lived (the life)",
+    "gram": "adjective (vusitavant), masculine nominative singular/plural",
+    "breakdown": [
+      ["vusita", "Fulfilled, lived, accomplished (past participle of vivasati; vi + √vas, to dwell)."],
+      ["-vant (-vanto)", "Possessive suffix: one possessing — one who has fulfilled."]
+    ]
+  },
+  "vusitavā": {
+    "meaning": "one who has fulfilled, perfected (the holy life)",
+    "gram": "adjective (vusitavant), masculine nominative singular",
+    "breakdown": [
+      ["vusita", "Fulfilled, lived (past participle of vivasati)."],
+      ["-vā", "Nominative singular of the possessive suffix -vant."]
+    ]
+  },
+  "vusitaṁ": {
+    "meaning": "fulfilled, lived (as in “the holy life has been lived”)",
+    "gram": "past participle of vivasati (vi + √vas), neuter nominative/accusative singular",
+    "breakdown": [
+      ["vi-", "Prefix: through, fully."],
+      ["√vas", "Root: to dwell, live. vusita: lived through, fulfilled."],
+      ["-ita", "Past participle suffix."]
+    ],
+    "forms": ["vusitaṃ"]
+  },
+  "vuttappakārena": {
+    "meaning": "in the manner that has been said; by the explanation already stated",
+    "summary": "In context this refers to the conduct and practice of the bhikkhus and bhikkhunīs as depicted by Phussa Thera in his verses.",
+    "gram": "masculine compound noun, instrumental singular",
+    "breakdown": [
+      ["vutta", "What has been said (past participle of vatti/vuccati)."],
+      ["pakāra", "Manner, way; explanation (the pp doubling is junction doubling)."],
+      ["-ena", "Instrumental singular ending: by, in the manner of."]
+    ]
+  },
+  "vuttassevatthassa": {
+    "meaning": "of the very meaning that was spoken; indeed of the sense already stated",
+    "gram": "sandhi phrase, genitive singular (vuttassa + eva + atthassa)",
+    "breakdown": [
+      ["vutta", "Said, spoken (past participle; here genitive vuttassa)."],
+      ["eva", "Emphatic particle: indeed, the very."],
+      ["attha", "Meaning, sense (genitive atthassa)."]
+    ]
+  },
+  "vuttañhetaṁ": {
+    "meaning": "for this was said; this indeed has been spoken",
+    "gram": "sandhi fusion: past participle + particle + pronoun (vuttaṁ + hi + etaṁ)",
+    "breakdown": [
+      ["vutta", "Said (past participle of vuccati; vuttaṁ)."],
+      ["hi", "For, indeed (the -ñh- is sandhi: vuttaṁ + hi)."],
+      ["etaṁ", "This (demonstrative pronoun)."]
+    ],
+    "forms": ["vuttañhetaṃ"]
+  },
+  "vuttā": {
+    "meaning": "said, spoken; it is said (of things stated)",
+    "gram": "past participle of vuccati/vatti, feminine singular or masculine plural",
+    "breakdown": [
+      ["√vac", "Root: to speak. vutta: said, spoken."],
+      ["-ā", "Feminine nominative singular or masculine nominative plural ending."]
+    ]
+  },
+  "vuttā it is": {
+    "meaning": "vuttā: it is said; said, spoken",
+    "summary": "A glossary fragment; the entry is simply the word vuttā, “(it is) said”.",
+    "gram": "past participle (glossary fragment)",
+    "breakdown": [
+      ["vuttā", "Said, spoken (past participle of vuccati)."]
+    ]
+  },
+  "vuṭṭhito": {
+    "meaning": "arisen from, emerged from (e.g. from seclusion or meditation)",
+    "gram": "past participle of vuṭṭhāti, masculine nominative singular",
+    "breakdown": [
+      ["vi + ud (vuṭ-)", "Prefixes: out, up."],
+      ["√ṭhā", "Root: to stand. vuṭṭhāti: to rise out of, emerge."],
+      ["-ita", "Past participle suffix."]
+    ]
+  },
+  "vuṭṭhā": {
+    "meaning": "having dwelt, lived or spent (time)",
+    "gram": "past participle of vasati (√vas, to dwell); also spelled vutthā",
+    "breakdown": [
+      ["√vas", "Root: to dwell, live."],
+      ["-ta (-ṭṭhā/-tthā)", "Past participle suffix; vas + ta > vuṭṭha/vuttha, “dwelt, spent”."]
+    ],
+    "forms": ["vutthā"]
+  },
+  "vuṭṭhā/vutthā": {
+    "meaning": "having dwelt, lived or spent (time)",
+    "summary": "A glossary entry giving both spellings of the same past participle of vasati.",
+    "gram": "past participle of vasati (√vas), variant spellings",
+    "breakdown": [
+      ["√vas", "Root: to dwell, live."],
+      ["-ta", "Past participle suffix; the cluster appears as either -ṭṭh- or -tth-."]
+    ]
+  }
+}

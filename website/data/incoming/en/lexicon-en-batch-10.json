@@ -1,0 +1,384 @@
+{
+ "asamāhito": {
+  "meaning": "not concentrated; not tranquil, not composed",
+  "gram": "past participle, nominative singular masculine, of na samādahati (na + saṁ + ā + √dhā)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["samāhito", "Concentrated, composed, collected; past participle of samādahati."]
+  ]
+ },
+ "asantassa": {
+  "meaning": "of one who is not good; of non-peaceful character",
+  "gram": "present participle / adjective, genitive singular of asanta (na + santa)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["santassa", "Genitive singular of santa “good, true, peaceful” (present participle of atthi)."]
+  ]
+ },
+ "asapattā": {
+  "meaning": "without enemies; not hostile; free from rivals",
+  "gram": "adjective (na + sapatta)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sapattā", "Hostile; a rival, foe."]
+  ]
+ },
+ "asataṁ": {
+  "meaning": "of those who are not good; the wicked; not being",
+  "gram": "masculine, genitive/dative plural (or accusative singular) of asanta (na + santa)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sataṁ", "Oblique form of santa “good, true, existing” (present participle of atthi)."]
+  ],
+  "forms": ["asataṃ"]
+ },
+ "asatiamanasikāro āpajjitabbo": {
+  "meaning": "one should undergo the effort to not remember and not give attention",
+  "gram": "phrase",
+  "breakdown": [
+   ["asati", "Non-remembering (a- “not” + sati “remembering, awareness”)."],
+   ["amanasikāro", "Non-attention (a- “not” + manasikāra “giving attention”)."],
+   ["āpajjitabbo", "Should be undertaken, should be entered upon; potential participle of āpajjati."]
+  ]
+ },
+ "asaṅgati": {
+  "meaning": "non-meeting; absence of intercourse or union",
+  "gram": "feminine abstract noun (na + saṁ + √gam)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["saṅgati", "Meeting, association, union; from saṅgacchati."]
+  ]
+ },
+ "asaṅkheyye": {
+  "meaning": "incalculable; literally “not to be calculated”; an immensely long period of time",
+  "gram": "neuter noun / potential participle of na saṅkhāti (na + saṁ + √khā), locative singular",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["saṅkheyya", "To be calculated, calculable; potential participle of saṅkhāti “to reckon”."]
+  ]
+ },
+ "asecanakattāya": {
+  "meaning": "deliciousness; the quality of needing no addition",
+  "gram": "neuter abstract noun, dative singular (na + secanaka + -tta)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["secanaka", "Needing sprinkling or admixture; from √sic “to sprinkle”."],
+   ["-ttāya", "Abstract suffix -tta in the dative singular: “for the state of”."]
+  ]
+ },
+ "asesako": {
+  "meaning": "all, entire; without remainder",
+  "gram": "adjective (a + sesa + ka, “leaving nothing out”)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sesa", "Remainder, what is left over."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "asesavacanametaṁ, nissesavacanametaṁ, nippariyāyavacanametaṁ": {
+  "meaning": "this is a saying without remainder, a complete saying, an unchangeable saying",
+  "gram": "phrase",
+  "breakdown": [
+   ["asesa", "Without remainder, entire."],
+   ["nissesa", "Complete, entire."],
+   ["nippariyāya", "Unchangeable, not to be turned; direct, without figurative qualification."],
+   ["vacanaṁ", "Saying, statement."],
+   ["etaṁ", "This (vacanaṁ + etaṁ fuses to vacanametaṁ)."]
+  ]
+ },
+ "asesavirāganirodho": {
+  "meaning": "the entire fading away and cessation; complete dispassion and extinction",
+  "summary": "This compound describes the cessation of craving in the Third Noble Truth: its complete fading away and extinction without remainder.",
+  "gram": "masculine noun, compound (asesa + virāga + nirodha)",
+  "breakdown": [
+   ["asesa", "Entire, all, without remainder."],
+   ["virāga", "Absence of desire, dispassion, fading away."],
+   ["nirodho", "Extinction, cessation."]
+  ],
+  "goenka": "This phrase appears in the Dhammacakkappavattana Sutta's statement of the Noble Truth of the Cessation of Suffering: it is the complete fading away and cessation of this very craving (taṇhā), forsaking it and giving it up, the liberation from it, leaving no place for it. The cessation is asesa — without any remainder — pointing to the total eradication of craving, not its mere suppression."
+ },
+ "asevanā": {
+  "meaning": "non-association with; avoidance",
+  "gram": "feminine abstract noun (na + √sev)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sevanā", "Association with, frequenting; from sevati “to associate, serve”."]
+  ]
+ },
+ "asitāvantikāpi": {
+  "meaning": "and the eighty from Avanti",
+  "gram": "sandhi compound (asita + avantika + api)",
+  "breakdown": [
+   ["asita", "Eighty (variant of asīti)."],
+   ["avantika", "Belonging to Avanti, the western region."],
+   ["api", "And, also (the final vowels coalesce in sandhi)."]
+  ]
+ },
+ "asokaṁ": {
+  "meaning": "free from sorrow; sorrowless",
+  "gram": "adjective (na + soka, from socati “to grieve”)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["soka", "Sorrow, grief; from √suc."]
+  ],
+  "forms": ["asokaṃ"]
+ },
+ "assavanatā": {
+  "meaning": "with attention, in attention",
+  "gram": "feminine abstract noun (savana + -tā)",
+  "breakdown": [
+   ["savana", "Hearing, listening; from √su “to hear”."],
+   ["-tā", "Abstract noun suffix: “the state of”."]
+  ],
+  "note": "divergence: the lexicon glosses “with attention, in attention”; DPD analyses the form as na + savana + tā, “the state of not listening”. The lexicon gloss is followed here."
+ },
+ "assavanatā with": {
+  "meaning": "assavanatā: with attention, in attention",
+  "gram": "feminine abstract noun",
+  "note": "uncertain: this headword is a glossary-row artifact; the entry is assavanatā with the gloss “with attention, in attention”. See assavanatā."
+ },
+ "assaṁ": {
+  "meaning": "I would be; if I were to be",
+  "gram": "verb, optative 1st person singular of atthi (√as), irregular",
+  "forms": ["assaṃ"]
+ },
+ "asso": {
+  "meaning": "horse",
+  "gram": "masculine noun, nominative singular"
+ },
+ "asso bhadro kasāmivā": {
+  "meaning": "like a good horse touched by the whip; as a fine horse avoids the whip",
+  "summary": "A simile from the Dhammapada: as a good horse responds before the whip falls, an alert person gives no occasion for blame.",
+  "gram": "phrase",
+  "breakdown": [
+   ["asso", "Horse."],
+   ["bhadro", "Good, excellent, fine."],
+   ["kasāmivā", "As (iva) by the whip (kasā); “like [a horse touched] by the whip”."]
+  ]
+ },
+ "assādayamānā": {
+  "meaning": "enjoying, relishing",
+  "gram": "present participle (middle voice, -māna) of assādeti",
+  "breakdown": [
+   ["assādaya", "Stem of assādeti “to taste, relish, enjoy” (ā + √sād)."],
+   ["-mānā", "Present participle suffix (middle voice)."]
+  ]
+ },
+ "assādeti": {
+  "meaning": "to taste; to relish, enjoy",
+  "gram": "verb, present tense, 3rd person singular (ā + √sād + e + ti)",
+  "breakdown": [
+   ["ā", "Verbal prefix."],
+   ["√sād", "Root “to taste”."],
+   ["-eti", "Causative/denominative present ending."]
+  ]
+ },
+ "assāma": {
+  "meaning": "we would be",
+  "gram": "verb, optative 1st person plural of atthi (√as), irregular"
+ },
+ "asuropo": {
+  "meaning": "malice; abruptness",
+  "gram": "masculine noun, nominative singular"
+ },
+ "asuñño": {
+  "meaning": "not empty; not devoid",
+  "gram": "adjective, nominative singular masculine (na + suñña)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["suñño", "Empty, devoid."]
+  ]
+ },
+ "asādhāraṇo": {
+  "meaning": "special, peculiar, unique; not shared in common",
+  "gram": "adjective, nominative singular masculine (na + sādhāraṇa)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sādhāraṇa", "Common, shared, general; from sa + ā + √dhar."]
+  ]
+ },
+ "asāhasena": {
+  "meaning": "not by violence; without violence",
+  "gram": "instrumental singular, used adverbially (na + sāhasa)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sāhasena", "By violence, by force; instrumental singular of sāhasa, from √sah."]
+  ]
+ },
+ "asātattāya": {
+  "meaning": "disagreeableness; to disagreeableness",
+  "gram": "neuter abstract noun, dative singular (na + sāta + -tta)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sāta", "Pleasant, agreeable."],
+   ["-ttāya", "Abstract suffix -tta in the dative singular: “to the state of”."]
+  ]
+ },
+ "asātaṁ": {
+  "meaning": "disagreeable; unpleasant",
+  "gram": "past participle / adjective (na + √san)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sāta", "Pleasant, agreeable; from √san."]
+  ],
+  "forms": ["asātaṃ"]
+ },
+ "atacchaṁ": {
+  "meaning": "not true; untrue",
+  "gram": "adjective (na + taccha, from tathā “so, real”)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["taccha", "True, real; from tatha + ya."]
+  ],
+  "forms": ["atacchaṃ"]
+ },
+ "atakkāvacaro": {
+  "meaning": "beyond the range of thought; unthinkable; not in the sphere of reasoning",
+  "gram": "adjective, nominative singular masculine, compound (na + takka + avacara)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["takka", "Thinking, reasoning, logic."],
+   ["avacaro", "Sphere, realm, range (takka + avacara coalesces to takkāvacara)."]
+  ]
+ },
+ "atha": {
+  "meaning": "and then; then (copulative)",
+  "gram": "indeclinable particle"
+ },
+ "athenena": {
+  "meaning": "not by theft; not as a thief",
+  "gram": "instrumental singular of athena (na + thena “thief”)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["thenena", "Instrumental singular of thena “thief”; from √then “to steal”."]
+  ]
+ },
+ "athopi": {
+  "meaning": "and then also; and moreover",
+  "gram": "indeclinable, sandhi fusion (atho + api)"
+ },
+ "athāhaṁ": {
+  "meaning": "then I",
+  "gram": "sandhi fusion, indeclinable + pronoun (atha + ahaṁ)",
+  "forms": ["athāhaṃ"]
+ },
+ "athāparaṁ": {
+  "meaning": "then further; and moreover",
+  "gram": "sandhi fusion, indeclinable + adverb (atha + aparaṁ)",
+  "forms": ["athāparaṃ"]
+ },
+ "athāyaṁ": {
+  "meaning": "and then this; then this very",
+  "gram": "sandhi fusion, indeclinable + pronoun (atha + ayaṁ)",
+  "forms": ["athāyaṃ"]
+ },
+ "ati": {
+  "meaning": "beyond, over, across; excessively, more",
+  "gram": "prefix"
+ },
+ "aticaritā": {
+  "meaning": "one who transgresses; one who commits adultery",
+  "gram": "masculine agent noun (aticaritar); the lexicon also treats it as a participle of aticarati",
+  "breakdown": [
+   ["ati", "Prefix: beyond, over."],
+   ["caritā", "Goer, one who conducts himself; agent noun from carati “to move, behave”."]
+  ]
+ },
+ "atichātosmīti": {
+  "meaning": "“I am too hungry” (with quotation marker)",
+  "gram": "sandhi phrase (ati + chāto + asmi + ti)",
+  "breakdown": [
+   ["ati", "Prefix: too, excessively."],
+   ["chāto", "Hungry."],
+   ["asmi", "I am (1st person singular of atthi)."],
+   ["-ti", "Quotation marker, fused by sandhi (asmi + ti > asmīti)."]
+  ]
+ },
+ "aticiraṁ": {
+  "meaning": "for too long; extremely long",
+  "gram": "adverb, accusative singular of aticira (ati + cira)",
+  "breakdown": [
+   ["ati", "Prefix: too, excessively."],
+   ["ciraṁ", "Long, a long time."]
+  ],
+  "forms": ["aticiraṃ"]
+ },
+ "atidāruṇa": {
+  "meaning": "extremely harsh; very cruel, severe",
+  "gram": "adjective, compound (ati + dāruṇa)",
+  "breakdown": [
+   ["ati", "Prefix: extremely, exceedingly."],
+   ["dāruṇa", "Harsh, cruel, severe."]
+  ]
+ },
+ "atigacchati": {
+  "meaning": "to overcome; to conquer",
+  "gram": "verb, present tense, 3rd person singular (ati + √gam)",
+  "breakdown": [
+   ["ati", "Prefix: beyond, over."],
+   ["gacchati", "Goes; from √gam “to go”; hence “goes beyond, overcomes”."]
+  ]
+ },
+ "atikkama": {
+  "meaning": "transgressing; going beyond, surpassing",
+  "gram": "masculine noun (ati + √kam, from atikkamati)",
+  "breakdown": [
+   ["ati", "Prefix: beyond, over (with sandhi doubling of the k)."],
+   ["kama", "Going, stepping; from √kam “to step”."]
+  ]
+ },
+ "atikkameyya": {
+  "meaning": "would transgress; would surpass",
+  "gram": "verb, optative 3rd person singular of atikkamati",
+  "breakdown": [
+   ["ati", "Prefix: beyond, over (with sandhi doubling of the k)."],
+   ["kameyya", "Optative of kamati “to step, go”."]
+  ]
+ },
+ "atikkantamānusakena": {
+  "meaning": "surpassing the human; superhuman (instrumental)",
+  "gram": "adjective, instrumental singular, compound (atikkanta + mānusaka)",
+  "breakdown": [
+   ["atikkanta", "Surpassed, gone beyond; past participle of atikkamati."],
+   ["mānusakena", "Human; instrumental singular of mānusaka."]
+  ]
+ },
+ "atikkantamānusak­": {
+  "meaning": "surpassing the human; superhuman",
+  "gram": "adjective, compound",
+  "note": "uncertain: this headword is a line-break fragment of atikkantamānusakena in the source vocabulary; see that entry.",
+  "forms": ["atikkantamānusakena"]
+ },
+ "atimaññeti": {
+  "meaning": "to despise; to be arrogant towards",
+  "gram": "verb, present tense, 3rd person singular, causative of atimaññati (ati + √man)",
+  "breakdown": [
+   ["ati", "Prefix: beyond, over."],
+   ["maññeti", "Thinks (causative form); from √man “to think”; “to think oneself above”, hence to despise."]
+  ]
+ },
+ "atimānī": {
+  "meaning": "conceited, arrogant, proud",
+  "gram": "adjective (from atimaññati; ati + māna + -ī)",
+  "breakdown": [
+   ["ati", "Prefix: beyond, excessive."],
+   ["mānī", "Having conceit; from māna “pride, conceit”."]
+  ]
+ },
+ "atipharusena": {
+  "meaning": "with exceeding harshness; very cruelly",
+  "gram": "adjective, instrumental singular, compound (ati + pharusa)",
+  "breakdown": [
+   ["ati", "Prefix: exceedingly, more."],
+   ["pharusena", "Harsh, rough, cruel; instrumental singular of pharusa."]
+  ]
+ },
+ "atipāto": {
+  "meaning": "destruction; slaying, killing",
+  "gram": "masculine noun, nominative singular (from atipāteti; ati + √pat)",
+  "breakdown": [
+   ["ati", "Prefix: beyond, over."],
+   ["pāto", "Causing to fall; from √pat “to fall”; hence striking down, slaying (as in pāṇātipāta, killing living beings)."]
+  ]
+ }
+}

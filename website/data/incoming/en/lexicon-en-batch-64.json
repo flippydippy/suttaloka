@@ -1,0 +1,436 @@
+{
+  "vibhaṅga": {
+    "meaning": "classification, distinction; analysis",
+    "gram": "masculine noun (from vibhañjati)",
+    "breakdown": [
+      ["vi", "Prefix: apart."],
+      ["√bhañj", "Root: to break, divide; vibhaṅga “division, analysis”."]
+    ]
+  },
+  "vibhaṅgasuttaṁ": {
+    "meaning": "the Vibhaṅga Sutta, “the Analysis” (a discourse title)",
+    "gram": "proper noun (sutta title), neuter",
+    "breakdown": [
+      ["vibhaṅga", "Classification, distinction, elaboration."],
+      ["sutta", "Discourse."]
+    ],
+    "forms": ["Vibhaṅgasuttaṃ"]
+  },
+  "vibhāvayanti": {
+    "meaning": "they clearly understand; they make clear",
+    "gram": "verb, 3rd person plural present, causative (of vibhāvayati, vi + √bhū)",
+    "breakdown": [
+      ["vi", "Prefix: apart, clearly."],
+      ["bhāvaya", "Causative stem of √bhū: to make become, make clear."],
+      ["-nti", "3rd person plural ending."]
+    ]
+  },
+  "vibhāvayanti clearly": {
+    "meaning": "they clearly understand (duplicate listing of vibhāvayanti)",
+    "gram": "verb, 3rd person plural present",
+    "note": "uncertain: the key includes the stray English word “clearly” from the source layout; the Pāli lemma is vibhāvayanti."
+  },
+  "vibhūsanaṭṭhānā": {
+    "meaning": "from occasions of embellishment; (abstaining) from adornment and decoration",
+    "gram": "neuter noun, ablative singular (compound)",
+    "breakdown": [
+      ["vi", "Prefix: intensifying."],
+      ["bhūsana", "Decoration, embellishment."],
+      ["ṭhāna", "Place, occasion (with sandhi doubling of ṭ)."]
+    ]
+  },
+  "vicakkhaṇo": {
+    "meaning": "alert, sensible, wise; discerning",
+    "gram": "adjective, masculine nominative singular",
+    "breakdown": [
+      ["vi", "Prefix: apart, clearly."],
+      ["√cakkh", "Root: to see; vicakkhaṇa “clear-sighted, discerning”."],
+      ["-aṇa", "Adjectival suffix."]
+    ]
+  },
+  "vicariṁ": {
+    "meaning": "I walked, went about; wandered",
+    "gram": "verb, aorist 1st person singular of vicarati",
+    "breakdown": [
+      ["vi", "Prefix: about, around."],
+      ["√car", "Root: to move, walk."],
+      ["-iṁ", "Aorist 1st person singular ending."]
+    ],
+    "forms": ["vicariṃ"]
+  },
+  "vicikicchitaṁ": {
+    "meaning": "doubt; what is doubted",
+    "gram": "neuter noun (past participle of vicikicchati)",
+    "breakdown": [
+      ["vi", "Prefix: apart."],
+      ["cikiccha", "Doubting stem (reduplicated desiderative of √cit)."],
+      ["-ita", "Past participle suffix."]
+    ],
+    "forms": ["vicikicchitaṃ"]
+  },
+  "vicikicchitaṁ doubt vijjati": {
+    "meaning": "doubt is found; doubt exists (run-together listing of vicikicchitaṁ and vijjati)",
+    "gram": "phrase fragment",
+    "note": "uncertain: this key runs together the lemma vicikicchitaṁ “doubt”, its English gloss, and vijjati “is found” from the source layout."
+  },
+  "vidhānavā": {
+    "meaning": "methodical; possessing (good) arrangement",
+    "gram": "adjective, masculine nominative singular (of vidhānavant)",
+    "breakdown": [
+      ["vidhāna", "Arrangement, ordering (vi + √dhā)."],
+      ["-vant", "Possessive suffix: “possessing”."]
+    ]
+  },
+  "viditadhammo": {
+    "meaning": "one who has known the Dhamma; having found the teaching",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vidita", "Known, found (past participle of vindati/vidati)."],
+      ["dhamma", "The Dhamma, the teaching."]
+    ]
+  },
+  "viditaṁ": {
+    "meaning": "known, found out",
+    "gram": "past participle of vidati (√vid), accusative/neuter singular",
+    "breakdown": [
+      ["√vid", "Root: to know, find."],
+      ["-ita", "Past participle suffix."]
+    ],
+    "forms": ["viditaṃ"]
+  },
+  "vigacchati": {
+    "meaning": "departs; decreases, goes away",
+    "gram": "verb, 3rd person singular present (vi + √gam)",
+    "breakdown": [
+      ["vi", "Prefix: away."],
+      ["gacchati", "Goes (√gam)."]
+    ]
+  },
+  "vigarahitvā": {
+    "meaning": "having reproached, rebuked, censured",
+    "gram": "absolutive (gerund) of vigarahati",
+    "breakdown": [
+      ["vi", "Prefix: intensifying."],
+      ["√garah", "Root: to blame, censure."],
+      ["-itvā", "Absolutive ending: “having …-ed”."]
+    ]
+  },
+  "vigata": {
+    "meaning": "ceased; gone away, free from",
+    "gram": "past participle of vigacchati",
+    "breakdown": [
+      ["vi", "Prefix: away."],
+      ["√gam", "Root: to go."],
+      ["-ta", "Past participle suffix."]
+    ]
+  },
+  "vigatakathaṅkatho": {
+    "meaning": "with doubt gone; free from perplexity",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vigata", "Gone, departed."],
+      ["kathaṅkathā", "Doubt, perplexity (literally “saying ‘how? how?’”)."]
+    ]
+  },
+  "vigatamalamaccherena": {
+    "meaning": "with (a mind) free from the stain of stinginess",
+    "gram": "adjective, instrumental singular (compound)",
+    "breakdown": [
+      ["vigata", "Free from, gone."],
+      ["mala", "Stain, impurity."],
+      ["macchera", "Stinginess, avarice, miserliness."],
+      ["-ena", "Instrumental singular ending."]
+    ]
+  },
+  "vigatamiddho": {
+    "meaning": "free from drowsiness; one who is awake",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vigata", "Free from, gone."],
+      ["middha", "Drowsiness, torpor."]
+    ]
+  },
+  "vigatapaccayo": {
+    "meaning": "disappearance condition (a conditional relation in the Paṭṭhāna)",
+    "gram": "masculine noun, nominative singular (compound)",
+    "breakdown": [
+      ["vigata", "Disappeared, gone."],
+      ["paccaya", "Condition, supporting cause."]
+    ]
+  },
+  "vigatābhijjho": {
+    "meaning": "with covetousness gone; free from greed",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vigata", "Gone, departed."],
+      ["abhijjhā", "Covetousness, greed (the initial a merges with the preceding a: vigatā-)."]
+    ]
+  },
+  "vigatāsava": {
+    "meaning": "free from the taints; one whose mental defilements are gone — a saint",
+    "gram": "adjective (compound)",
+    "breakdown": [
+      ["vigata", "Gone, free from."],
+      ["āsava", "Taint, mental defilement, depravity."]
+    ]
+  },
+  "vigatūpakkilesā": {
+    "meaning": "with the defilements completely gone; free from the minor defilements",
+    "gram": "adjective, nominative plural (compound)",
+    "breakdown": [
+      ["vigata", "Completely gone (vi + gata; the final a merges with the following u: vigatū-)."],
+      ["upakkilesa", "Defilement, corruption of the mind."]
+    ]
+  },
+  "vigayha": {
+    "meaning": "having plunged into; having entered, experienced",
+    "gram": "gerund (absolutive) of vigāhati (vi + √gāh)",
+    "breakdown": [
+      ["vi", "Prefix: into, apart."],
+      ["√gāh", "Root: to plunge, enter."],
+      ["-ya", "Gerund formation."]
+    ]
+  },
+  "viggayha": {
+    "meaning": "having quarrelled, having disputed; having taken hold of",
+    "gram": "gerund (absolutive) of viggaṇhāti (vi + √gah)",
+    "breakdown": [
+      ["vi", "Prefix: apart (with sandhi doubling of g)."],
+      ["√gah", "Root: to seize; viggaṇhāti “to quarrel, dispute”."],
+      ["-ya", "Gerund formation."]
+    ]
+  },
+  "vighātapakkhiko": {
+    "meaning": "siding with vexation; leading to distress and opposition",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vighāta", "Obstruction, annoyance, distress."],
+      ["pakkhika", "Siding with, belonging to the party of, leading to."]
+    ]
+  },
+  "vighātapariḷāhā": {
+    "meaning": "distress and fever; annoyance and burning grief",
+    "gram": "noun, nominative plural (compound)",
+    "breakdown": [
+      ["vighāta", "Annoyance, distress."],
+      ["pariḷāha", "Fever, burning, grief."]
+    ]
+  },
+  "vihangama": {
+    "meaning": "moving through the air, flying; a bird",
+    "gram": "adjective/masculine noun (compound)",
+    "breakdown": [
+      ["viha", "The sky, the air."],
+      ["gama", "Going (from √gam)."]
+    ]
+  },
+  "vihaññati": {
+    "meaning": "is vexed, grieved, annoyed",
+    "gram": "verb, 3rd person singular, passive of vihanati (vi + √han)",
+    "breakdown": [
+      ["vi", "Prefix: apart, intensifying."],
+      ["√han", "Root: to strike; passive hañña- “to be afflicted”."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "viheṭhakajātiko": {
+    "meaning": "of a harassing nature; aggressive by character",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["viheṭhaka", "Harassing, aggressive (from viheṭheti)."],
+      ["jātika", "Having the nature of, of the character of (from jāti)."]
+    ]
+  },
+  "viheṭhayanto": {
+    "meaning": "harassing, annoying",
+    "gram": "present participle of viheṭhayati, masculine nominative singular",
+    "breakdown": [
+      ["vi", "Prefix: intensifying."],
+      ["√heṭh", "Root: to harass."],
+      ["-anta", "Present participle suffix."]
+    ]
+  },
+  "viheṭheti": {
+    "meaning": "harasses, annoys, harms",
+    "gram": "verb, 3rd person singular present (vi + √heṭh)",
+    "breakdown": [
+      ["vi", "Prefix: intensifying."],
+      ["√heṭh", "Root: to harass."],
+      ["-eti", "3rd person singular ending."]
+    ]
+  },
+  "vihiṁsasaññī": {
+    "meaning": "perceiving (with thoughts of) cruelty; aware of injuring",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vihiṁsā", "Cruelty, injury, violence."],
+      ["saññī", "Having perception, aware (from saññā)."]
+    ],
+    "forms": ["vihiṃsasaññī"]
+  },
+  "vihāramidhamāhu": {
+    "meaning": "this they have called the dwelling here",
+    "gram": "sandhi fusion (vihāraṁ + idhaṁ + āhu)",
+    "breakdown": [
+      ["vihāraṁ", "The dwelling, abode (accusative)."],
+      ["idhaṁ", "Here (with connecting m)."],
+      ["āhu", "They have said (perfect of √ah)."]
+    ]
+  },
+  "vijahati": {
+    "meaning": "forsakes, relinquishes; abandons",
+    "gram": "verb, 3rd person singular present (vi + √hā)",
+    "breakdown": [
+      ["vi", "Prefix: away."],
+      ["√hā", "Root: to leave, abandon (reduplicated present stem jaha-)."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "vijite": {
+    "meaning": "in the realm; in the conquered land, in the country",
+    "gram": "neuter noun (past participle of vijināti), locative singular",
+    "breakdown": [
+      ["vi", "Prefix: intensifying."],
+      ["√ji", "Root: to conquer; vijita “what has been conquered — the realm”."],
+      ["-e", "Locative singular ending."]
+    ]
+  },
+  "vijjati": {
+    "meaning": "is found; exists, is",
+    "gram": "verb, 3rd person singular, passive of vindati (√vid)",
+    "breakdown": [
+      ["√vid", "Root: to find; passive vijja- “to be found, exist”."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "vijjācaraṇasampanno": {
+    "meaning": "endowed with knowledge and conduct (an epithet of the Buddha)",
+    "summary": "One of the nine standard epithets of the Buddha in the Buddhānussati formula.",
+    "gram": "adjective, masculine nominative singular (compound)",
+    "breakdown": [
+      ["vijjā", "Knowledge, higher knowledge."],
+      ["caraṇa", "Conduct, virtuous behaviour."],
+      ["sampanna", "Endowed with, possessed of (saṁ + panna, past participle)."]
+    ],
+    "note": "uncertain: the lexicon row carries a stray gloss from an adjacent entry (“carriage maker + clan”); the meaning given here follows the morphological breakdown vijjā + caraṇa + sampanna."
+  },
+  "vikiraṇiṁ": {
+    "meaning": "scattering, sprinkling (one who scatters)",
+    "gram": "feminine agent noun, accusative singular (of vikiraṇī)",
+    "breakdown": [
+      ["vi", "Prefix: apart, about."],
+      ["√kir", "Root: to scatter."],
+      ["-aṇī", "Feminine agent suffix."]
+    ],
+    "forms": ["vikiraṇiṃ"]
+  },
+  "vikkhambheti": {
+    "meaning": "extirpates, rejects, discards; suppresses",
+    "gram": "verb, 3rd person singular present, causative (vi + √khambh)",
+    "breakdown": [
+      ["vi", "Prefix: apart, away (with sandhi doubling of k)."],
+      ["√khambh", "Root: to prop, obstruct; vikkhambheti “to suppress, discard”."],
+      ["-eti", "3rd person singular causative ending."]
+    ]
+  },
+  "vikālabhojanā": {
+    "meaning": "from eating at the wrong time; (abstaining) from meals at improper hours",
+    "gram": "neuter noun, ablative singular (compound)",
+    "breakdown": [
+      ["vi", "Prefix: wrong, improper."],
+      ["kāla", "Time (vikāla: the wrong time, after midday)."],
+      ["bhojana", "Meal, eating."]
+    ]
+  },
+  "vikālavisikhācariyānuyogo": {
+    "meaning": "the habit of roaming the streets at unseemly hours",
+    "gram": "masculine noun, nominative singular (compound)",
+    "breakdown": [
+      ["vikāla", "Untimely, the wrong time."],
+      ["visikhā", "Street."],
+      ["cariyā", "Walking about, wandering."],
+      ["anuyoga", "Habit, devotion to, practice of."]
+    ]
+  },
+  "vilepana": {
+    "meaning": "cosmetics; ointment, unguent",
+    "gram": "neuter noun (from vilepeti)",
+    "breakdown": [
+      ["vi", "Prefix: about, over."],
+      ["√lip", "Root: to smear."],
+      ["-ana", "Action-noun suffix."]
+    ]
+  },
+  "vimhāpanaṁ": {
+    "meaning": "deceiving, astonishing; disappointing (by trickery)",
+    "gram": "neuter noun (√mhi)",
+    "breakdown": [
+      ["vi", "Prefix: intensifying."],
+      ["√mhi", "Root: to smile, be amazed; vimhāpana “causing astonishment, deception”."],
+      ["-ana", "Action-noun suffix."]
+    ],
+    "forms": ["vimhāpanaṃ"]
+  },
+  "vimutti": {
+    "meaning": "liberation; release, deliverance",
+    "gram": "feminine abstract noun (from vimuñcati)",
+    "breakdown": [
+      ["vi", "Prefix: away, completely."],
+      ["√muc", "Root: to release."],
+      ["-ti", "Abstract-noun suffix."]
+    ],
+    "goenka": "Vimutti is liberation — the release of the mind from craving and defilement which is the goal of the path. Full deliverance is realized through one's own practice and experience, culminating in vimuttiñāṇadassana, the knowledge and vision of liberation."
+  },
+  "vimuttiñāṇadassanasāraṁ": {
+    "meaning": "having the knowledge and vision of liberation as its essence",
+    "gram": "adjective/noun, accusative singular (compound)",
+    "breakdown": [
+      ["vimutti", "Liberation."],
+      ["ñāṇa", "Knowledge."],
+      ["dassana", "Seeing, vision."],
+      ["sāra", "Essence, core."]
+    ],
+    "forms": ["vimuttiñāṇadassanasāraṃ"]
+  },
+  "vimutto": {
+    "meaning": "liberated, freed",
+    "gram": "past participle of vimuccati, masculine nominative singular",
+    "breakdown": [
+      ["vi", "Prefix: away, completely."],
+      ["√muc", "Root: to release."],
+      ["-ta", "Past participle suffix."]
+    ]
+  },
+  "vinassati": {
+    "meaning": "perishes, is destroyed",
+    "gram": "verb, 3rd person singular present (vi + √nas)",
+    "breakdown": [
+      ["vi", "Prefix: away, completely."],
+      ["√nas", "Root: to perish."],
+      ["-ti", "3rd person singular ending."]
+    ]
+  },
+  "vinayadharānaṁ": {
+    "meaning": "of those who bear the Vinaya; of the upholders of the discipline",
+    "gram": "masculine agent noun, genitive plural (compound)",
+    "breakdown": [
+      ["vinaya", "The Vinaya, the monastic discipline."],
+      ["dhara", "Holding up, bearing (from √dhar)."],
+      ["-ānaṁ", "Genitive plural ending."]
+    ],
+    "forms": ["vinayadharānaṃ"]
+  },
+  "vinayadharānaṁ holding": {
+    "meaning": "of those who bear the Vinaya (duplicate listing of vinayadharānaṁ)",
+    "gram": "masculine agent noun, genitive plural",
+    "note": "uncertain: the key includes the stray English word “holding” from the source layout; the Pāli lemma is vinayadharānaṁ."
+  },
+  "vinayapurekkhāratā": {
+    "meaning": "deference to the Vinaya; putting the discipline first",
+    "gram": "feminine abstract noun (compound)",
+    "breakdown": [
+      ["vinaya", "The Vinaya, the monastic discipline."],
+      ["purekkhāratā", "The state of placing before, deference to (from purekkhāra)."]
+    ]
+  }
+}

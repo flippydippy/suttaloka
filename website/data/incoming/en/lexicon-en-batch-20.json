@@ -1,0 +1,428 @@
+{
+  "dutiyachiggaḷayugasuttaṁ": {
+    "meaning": "the Second Chiggaḷayuga Sutta, the Second Discourse on the Yoke with a Hole",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dutiya", "Second."],
+      ["chiggaḷa", "Hole, opening."],
+      ["yuga", "Yoke."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dutiyachiggaḷayugasuttaṁ"]
+  },
+  "dutiyamasāmaññasuttaṁ": {
+    "meaning": "the Second Sāmañña Sutta, the Second Discourse on the State of the Recluse",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dutiya(ma)", "Second (with junction -m-)."],
+      ["sāmañña", "The state of a recluse, true asceticism."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dutiyamasāmaññasuttaṁ"]
+  },
+  "dutiyaparisuddhasuttaṁ": {
+    "meaning": "the Second Parisuddha Sutta, the Second Discourse on the All-Round Pure",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dutiya", "Second."],
+      ["pari", "All around, completely."],
+      ["suddha", "Pure."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dutiyaparisuddhasuttaṁ"]
+  },
+  "dutiyapaṭipadāsuttaṁ": {
+    "meaning": "the Second Paṭipadā Sutta, the Second Discourse on the Way of Practice",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dutiya", "Second."],
+      ["paṭipadā", "Way of practice, path, mode of progress."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dutiyapaṭipadāsuttaṁ"]
+  },
+  "dutiyasaṁgīti, mahāvaṁsapāḷi.": {
+    "meaning": "the Second Council (Dutiyasaṁgīti), as recorded in the Mahāvaṁsa Pāli (the Great Chronicle)",
+    "gram": "phrase; two proper nouns",
+    "breakdown": [
+      ["dutiyasaṁgīti", "The second communal recitation, the Second Council (dutiya, second + saṁgīti, chanting together)."],
+      ["mahāvaṁsapāḷi", "The Mahāvaṁsa, the Great Chronicle of Sri Lanka, in its Pāli text."]
+    ],
+    "forms": ["Dutiyasaṁgīti", "Mahāvaṁsapāḷi"]
+  },
+  "dutiyo": {
+    "meaning": "the second",
+    "gram": "ordinal numeral of dvi (two), masculine nominative singular"
+  },
+  "duvidhakoṭṭhāse": {
+    "meaning": "divided into two parts; in a twofold division",
+    "gram": "compound noun, locative singular or accusative plural",
+    "breakdown": [
+      ["du", "Two (combining form of dvi)."],
+      ["vidha", "Kind, fold: duvidha = twofold."],
+      ["koṭṭhāse", "Part, portion, division."]
+    ]
+  },
+  "duṭṭho": {
+    "meaning": "full of ill will; corrupted by hatred",
+    "gram": "past participle of dussati (√dus), masculine nominative singular",
+    "breakdown": [
+      ["√dus", "Root meaning to spoil, offend, hate."],
+      ["-ta", "Past participle suffix: dus + ta > duṭṭha, spoilt, malevolent."]
+    ]
+  },
+  "dvayaṁdvayasamāpattimethunappaṭisevanā": {
+    "meaning": "engaging in sexual intercourse, the coupling of two and two",
+    "gram": "feminine compound noun",
+    "breakdown": [
+      ["dvayaṁdvaya", "Two by two, in pairs (dvaya, a pair, doubled)."],
+      ["samāpatti", "Entering upon, attainment, union."],
+      ["methuna", "Sexual intercourse, coupling."],
+      ["paṭisevanā", "Practising, indulging in (the doubled pp is sandhi doubling)."]
+    ]
+  },
+  "dvayaṁdvayasamāpattiṁ": {
+    "meaning": "the union of couples; sexual intercourse entered upon two by two",
+    "gram": "feminine abstract compound noun, accusative singular",
+    "breakdown": [
+      ["dvayaṁdvaya", "Two by two, in pairs."],
+      ["samāpattiṁ", "Entering upon, union, attainment (accusative)."]
+    ],
+    "forms": ["dvayaṁdvayasamāpattiṁ"]
+  },
+  "dvedhāvitakkasuttaṁ": {
+    "meaning": "the Dvedhāvitakka Sutta, the Discourse on the Two Kinds of Thought",
+    "gram": "neuter noun, compound sutta title",
+    "breakdown": [
+      ["dvedhā", "In two, twofold; divided into two."],
+      ["vitakka", "Thought, thinking."],
+      ["suttaṁ", "Discourse, sutta."]
+    ],
+    "forms": ["Dvedhāvitakkasuttaṁ"]
+  },
+  "dveme": {
+    "meaning": "these two",
+    "gram": "sandhi fusion: numeral + demonstrative pronoun",
+    "breakdown": [
+      ["dve", "Two."],
+      ["ime", "These (masculine nominative plural). Sandhi: dve + ime > dveme."]
+    ]
+  },
+  "dvinnaṁ": {
+    "meaning": "of two; for two",
+    "gram": "cardinal numeral, genitive/dative plural of dve",
+    "forms": ["dvinnaṁ"]
+  },
+  "dvādasākāraṁ": {
+    "meaning": "having twelve modes; the twelvefold aspect",
+    "gram": "masculine compound noun, accusative singular",
+    "breakdown": [
+      ["dvādasa", "Twelve (dvā, two + dasa, ten)."],
+      ["ākāraṁ", "Mode, aspect, making. Sandhi: dvādasa + ākāra > dvādasākāra."]
+    ],
+    "forms": ["dvādasākāraṁ"]
+  },
+  "dāliddiyaṁ": {
+    "meaning": "poverty",
+    "gram": "neuter abstract noun, nominative/accusative singular, from dalidda",
+    "breakdown": [
+      ["dalidda", "Poor, destitute (lengthened to dālidda-)."],
+      ["-iya", "Abstract noun suffix: the state of being poor."]
+    ],
+    "forms": ["dāliddiyaṁ"]
+  },
+  "dānasaṁvibhāgarato": {
+    "meaning": "delighting in giving and sharing",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["dāna", "Gift, giving, generosity."],
+      ["saṁvibhāga", "Distribution, sharing out."],
+      ["rato", "Enjoying, delighting in (past participle of ramati)."]
+    ],
+    "forms": ["dānasaṁvibhāgarato"]
+  },
+  "dāni": {
+    "meaning": "now",
+    "gram": "indeclinable adverb (shortened form of idāni)",
+    "forms": ["idāni"]
+  },
+  "dāni, idāni": {
+    "meaning": "now",
+    "gram": "indeclinable adverb (dāni is the shortened form of idāni)"
+  },
+  "dānāhaṁ": {
+    "meaning": "from now on I; now I",
+    "gram": "sandhi fusion: adverb + 1st person pronoun",
+    "breakdown": [
+      ["dāni", "Now (shortened from idāni)."],
+      ["ahaṁ", "I. Sandhi: dāni + ahaṁ > dānāhaṁ."]
+    ],
+    "forms": ["dānāhaṁ"]
+  },
+  "dārabharaṇāyā": {
+    "meaning": "for the support of a wife; for maintaining a family",
+    "gram": "compound noun, dative singular",
+    "breakdown": [
+      ["dārā", "Wife."],
+      ["bharaṇa", "Support, maintenance (√bhar, to bear)."],
+      ["-āya", "Dative singular ending: for the sake of."]
+    ]
+  },
+  "dāsidāsapaṭiggahaṇā": {
+    "meaning": "(abstaining) from accepting female and male slaves",
+    "gram": "neuter compound action noun, ablative singular",
+    "breakdown": [
+      ["dāsi", "Female slave."],
+      ["dāsa", "Male slave."],
+      ["paṭiggahaṇā", "Accepting, receiving (paṭi + √gah); ablative: from accepting."]
+    ]
+  },
+  "dātā": {
+    "meaning": "giver; donor",
+    "gram": "masculine agent noun (dātar), nominative singular, from dadāti (√dā)",
+    "breakdown": [
+      ["√dā", "Root meaning to give."],
+      ["-tar (-tā)", "Agent noun suffix: the one who gives."]
+    ]
+  },
+  "dāyādo": {
+    "meaning": "heir; kinsman",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["dāya", "Gift, inheritance, what is given."],
+      ["āda", "Taking, receiving (ā + √dā): the one who takes the inheritance."]
+    ]
+  },
+  "dīgha nikāya,": {
+    "meaning": "the Dīgha Nikāya, the Collection of Long Discourses",
+    "gram": "proper noun; name of a canonical collection",
+    "goenka": "The Dīgha Nikāya is the Collection of Long Discourses of the Sutta Piṭaka. A shorter version of the passage referred to in the source, recited also as a paritta (protective) chanting, is recited on day one during a regular 10-day course by S. N. Goenka.",
+    "forms": ["Dīgha Nikāya"]
+  },
+  "dīghamaddhānaṁ": {
+    "meaning": "for a long period; a long stretch of time",
+    "gram": "neuter compound noun, accusative singular (adverbial)",
+    "breakdown": [
+      ["dīgha", "Long; -ṁ > -m- before the vowel."],
+      ["addhānaṁ", "Period, stretch of time, journey."]
+    ],
+    "forms": ["dīghamaddhānaṁ"]
+  },
+  "dīgharattaṁ": {
+    "meaning": "for a long time",
+    "gram": "neuter compound noun used adverbially, accusative singular",
+    "breakdown": [
+      ["dīgha", "Long."],
+      ["rattaṁ", "Night; by extension a span of time: for a long time."]
+    ],
+    "forms": ["dīgharattaṁ"]
+  },
+  "dīghā": {
+    "meaning": "long",
+    "gram": "adjective, plural or feminine form of dīgha"
+  },
+  "dīghāyukasaṁvattanikā": {
+    "meaning": "conducive to long life",
+    "gram": "compound adjective, plural or feminine form",
+    "breakdown": [
+      ["dīgha", "Long."],
+      ["āyuka", "Having a life(span). Sandhi: dīgha + āyuka > dīghāyuka."],
+      ["saṁvattanikā", "Conducive to, leading to (saṁ + √vat)."]
+    ],
+    "forms": ["dīghāyukasaṁvattanikā"]
+  },
+  "dūramaṁ": {
+    "meaning": "far; distant",
+    "gram": "adjective, accusative singular",
+    "breakdown": [
+      ["dūra", "Far, distant."],
+      ["-aṁ", "Accusative singular ending (with junction -m-)."]
+    ],
+    "forms": ["dūramaṁ"]
+  },
+  "dūrangama": {
+    "meaning": "going far; far-ranging (said of the mind)",
+    "gram": "compound adjective",
+    "breakdown": [
+      ["dūraṁ", "Far (accusative used adverbially)."],
+      ["gama", "Going (√gam)."]
+    ]
+  },
+  "dūrato": {
+    "meaning": "in the distance; from afar",
+    "gram": "adjective with ablative suffix -to, used adverbially",
+    "breakdown": [
+      ["dūra", "Far, distant (√dū)."],
+      ["-to", "Ablative suffix: from."]
+    ]
+  },
+  "dūratova": {
+    "meaning": "from afar indeed; even from a distance",
+    "gram": "adverb + emphatic particle, fused by sandhi",
+    "breakdown": [
+      ["dūrato", "From afar (dūra + ablative -to)."],
+      ["va (eva)", "Just, indeed (emphatic enclitic)."]
+    ]
+  },
+  "dūraṅgamā": {
+    "meaning": "going far; far-ranging",
+    "gram": "compound adjective, plural or feminine form",
+    "breakdown": [
+      ["dūraṁ", "Far (accusative used adverbially; -ṁ > -ṅ- before g)."],
+      ["gamā", "Going (√gam)."]
+    ]
+  },
+  "dūre": {
+    "meaning": "far; at a distance",
+    "gram": "adjective, locative singular, used adverbially",
+    "breakdown": [
+      ["dūra", "Far, distant (√dū)."],
+      ["-e", "Locative singular ending."]
+    ]
+  },
+  "dūrā": {
+    "meaning": "from far away",
+    "gram": "adjective, ablative singular, used adverbially",
+    "breakdown": [
+      ["dūra", "Far, distant (√dū)."],
+      ["-ā", "Ablative singular ending: from."]
+    ]
+  },
+  "dūteyyapahiṇagamanānuyogā": {
+    "meaning": "(abstaining) from the practice of going on errands and carrying messages",
+    "gram": "masculine compound noun, ablative singular",
+    "breakdown": [
+      ["dūteyya", "Carrying messages, the office of a messenger (from dūta, messenger)."],
+      ["pahiṇa", "Sending, being sent."],
+      ["gamana", "Going."],
+      ["anuyogā", "Practice, application; ablative: from the practice of. Sandhi: gamana + anuyoga > gamanānuyoga."]
+    ]
+  },
+  "ehambho": {
+    "meaning": "come now, you!; hey there!",
+    "gram": "sandhi fusion: imperative + exclamatory particle",
+    "breakdown": [
+      ["ehi", "Come! (imperative of eti, to go/come)."],
+      ["ambho", "Hello! hey! (exclamation of address). Sandhi: ehi + ambho > ehambho."]
+    ]
+  },
+  "ehipassavidhiṁ": {
+    "meaning": "the \"come and see\" method",
+    "gram": "compound noun, accusative singular",
+    "breakdown": [
+      ["ehi", "Come! (imperative of eti)."],
+      ["passa", "See! (imperative of passati)."],
+      ["vidhiṁ", "Method, way, manner (accusative)."]
+    ],
+    "forms": ["ehipassavidhiṁ"]
+  },
+  "ehipassiko": {
+    "meaning": "inviting one to come and see (a quality of the Dhamma)",
+    "gram": "compound adjective, masculine nominative singular",
+    "breakdown": [
+      ["ehi", "Come! (imperative of eti)."],
+      ["passa", "See! (imperative of passati)."],
+      ["-ika", "Adjective suffix: of the come-and-see kind."]
+    ],
+    "goenka": "Ehipassiko is one of the qualities of the Dhamma recollected in the traditional formula: the Dhamma invites everyone to come and see — to verify it directly for oneself rather than accept it on faith. The teaching is open to direct experiential examination by each meditator."
+  },
+  "ekabhattaṁ": {
+    "meaning": "one meal (a day)",
+    "gram": "neuter compound noun, nominative/accusative singular",
+    "breakdown": [
+      ["eka", "One."],
+      ["bhattaṁ", "Meal, food."]
+    ],
+    "forms": ["ekabhattaṁ"]
+  },
+  "ekacchiggaḷaṁ": {
+    "meaning": "having a single hole",
+    "gram": "compound adjective, neuter/accusative singular",
+    "breakdown": [
+      ["eka", "One."],
+      ["chiggaḷaṁ", "Hole, opening (the doubled cch is sandhi doubling)."]
+    ],
+    "forms": ["ekacchiggaḷaṁ"]
+  },
+  "ekadesato": {
+    "meaning": "in part; from one portion",
+    "gram": "masculine compound noun with ablative suffix -to",
+    "breakdown": [
+      ["eka", "One."],
+      ["desa", "Part, portion, region."],
+      ["-to", "Ablative suffix: from, by way of."]
+    ]
+  },
+  "ekadivasaṁ": {
+    "meaning": "one day; on a certain day",
+    "gram": "masculine compound noun, accusative singular (adverbial)",
+    "breakdown": [
+      ["eka", "One."],
+      ["divasaṁ", "Day (accusative used adverbially)."]
+    ],
+    "forms": ["ekadivasaṁ"]
+  },
+  "ekaggacittā": {
+    "meaning": "with one-pointed mind; of well-directed, unified mind",
+    "gram": "compound adjective, plural or feminine form",
+    "breakdown": [
+      ["ekagga", "One-pointed (eka, one + agga, point/top; the doubled gg is sandhi doubling)."],
+      ["cittā", "Mind: having the mind gathered to a single point."]
+    ]
+  },
+  "ekamantaṁ": {
+    "meaning": "to one side; at a respectful distance",
+    "gram": "indeclinable adverb (accusative of ekamanta)",
+    "breakdown": [
+      ["ekaṁ", "One (-ṁ > -m- before a vowel)."],
+      ["antaṁ", "End, side: to one side."]
+    ],
+    "forms": ["ekamantaṁ"]
+  },
+  "ekantaakusalacittasamuṭṭhānattā": {
+    "meaning": "because of originating exclusively from an unwholesome mind",
+    "gram": "compound abstract noun, ablative singular (because of)",
+    "breakdown": [
+      ["ekanta", "Exclusively, one-sidedly, absolutely."],
+      ["akusala", "Unwholesome (a- negative + kusala, wholesome)."],
+      ["citta", "Mind."],
+      ["samuṭṭhāna", "Origination, arising (saṁ + uṭṭhāna)."],
+      ["-ttā", "Abstract suffix in ablative sense: because of being so."]
+    ]
+  },
+  "ekapuggalavaggo": {
+    "meaning": "the Ekapuggala Vagga, the Chapter on the One Person",
+    "gram": "masculine compound noun, section title",
+    "breakdown": [
+      ["eka", "One."],
+      ["puggala", "Person, individual."],
+      ["vaggo", "Section, chapter."]
+    ],
+    "forms": ["Ekapuggalavaggo"]
+  },
+  "ekapuggalo": {
+    "meaning": "one person; a single individual",
+    "gram": "masculine compound noun, nominative singular",
+    "breakdown": [
+      ["eka", "One."],
+      ["puggalo", "Person, individual."]
+    ]
+  },
+  "ekaputtamanurakkhe": {
+    "meaning": "would protect (as) an only child",
+    "gram": "verb phrase fused by sandhi; accusative compound + 3rd person singular optative",
+    "breakdown": [
+      ["eka", "One, only."],
+      ["puttaṁ", "Child, son (accusative); -ṁ > -m- before a vowel."],
+      ["anurakkhe", "Would protect, guard (optative of anurakkhati: anu + √rakkh)."]
+    ]
+  },
+  "ekato": {
+    "meaning": "on one side; together",
+    "gram": "adjective/adverb with ablative suffix -to",
+    "breakdown": [
+      ["eka", "One."],
+      ["-to", "Ablative suffix: from, on (one) side."]
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+ "pasatthā": {
+  "meaning": "praised; commended",
+  "gram": "past participle of pasaṁsati (pa + √saṁs + ta), here nominative plural/feminine",
+  "breakdown": [
+   ["pa-", "Intensifying prefix, “forth, thoroughly”."],
+   ["√saṁs", "Root meaning “to praise, to proclaim”."],
+   ["-ta", "Past participle suffix (saṁs + ta > sattha)."]
+  ]
+ },
+ "pasatthā praised passa": {
+  "meaning": "seeing",
+  "gram": "glossary artifact; passa is an imperative/stem of passati (“see!”)",
+  "summary": "This key is a run-together glossary line covering two words: pasatthā “praised” and passa “seeing, see”.",
+  "breakdown": [
+   ["pasatthā", "Praised (past participle of pasaṁsati)."],
+   ["passa", "See, seeing (from passati “to see”)."]
+  ],
+  "note": "uncertain: the headword fuses two adjacent glossary entries (pasatthā “praised” and passa “seeing”); the gloss “seeing” belongs to passa."
+ },
+ "pasavati": {
+  "meaning": "gives birth to; begets; produces",
+  "gram": "verb, 3rd person singular present (pa + √su)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√su", "Root meaning “to flow, to generate”."],
+   ["-ati", "Present tense, 3rd person singular ending."]
+  ]
+ },
+ "pasayha": {
+  "meaning": "by force; with violence; forcibly",
+  "gram": "gerund of pasahati, used adverbially (pa + √sah + ya)",
+  "breakdown": [
+   ["pa-", "Intensifying prefix."],
+   ["√sah", "Root meaning “to overcome, to subdue”."],
+   ["-ya", "Gerund (absolutive) suffix; literally “having overpowered”, hence “forcibly”."]
+  ]
+ },
+ "pasaṁsati": {
+  "meaning": "praises; commends",
+  "gram": "verb, 3rd person singular present (pa + √saṁs)",
+  "breakdown": [
+   ["pa-", "Intensifying prefix."],
+   ["√saṁs", "Root meaning “to praise, to proclaim”."],
+   ["-ati", "Present tense, 3rd person singular ending."]
+  ],
+  "forms": ["pasaṃsati"]
+ },
+ "pasusaṁvāsaññeva": {
+  "meaning": "just living together like cattle; mere animal-like cohabitation",
+  "gram": "masculine noun in compound, accusative singular + emphatic particle",
+  "summary": "This is a compound meaning “just cohabitation like cattle”.",
+  "breakdown": [
+   ["pasu", "Cattle, animal."],
+   ["saṁvāsaṁ", "Living together, cohabitation (accusative)."],
+   ["yeva", "Emphatic particle “just, only”; the ñ + y assimilates to ññ at the boundary."]
+  ],
+  "forms": ["pasusaṃvāsaññeva"]
+ },
+ "pasādāya": {
+  "meaning": "for joy; for satisfaction; for gladdening, allayment",
+  "gram": "masculine noun pasāda, dative singular (pa + √sad)",
+  "breakdown": [
+   ["pa-", "Prefix “forth, thoroughly”."],
+   ["√sad", "Root meaning “to settle, to become clear”; pasāda is settling of the mind — clarity, gladness, confidence."],
+   ["-āya", "Dative singular ending, “for the sake of”."]
+  ]
+ },
+ "pathavilekhūpamo": {
+  "meaning": "like a line drawn on earth; the simile of writing on earth",
+  "gram": "adjective, compound, nominative masculine singular",
+  "summary": "This is a compound meaning “having the simile of a line scratched in earth”.",
+  "breakdown": [
+   ["pathavi", "Earth, ground."],
+   ["lekha", "Writing, line, scratch."],
+   ["upamo", "Simile, comparison; lekha + upama coalesces to lekhūpama."]
+  ]
+ },
+ "patilomaṁ": {
+  "meaning": "in reverse order; backwards",
+  "gram": "adverb / accusative used adverbially",
+  "forms": ["patilomaṃ"]
+ },
+ "patirūpadesavāso": {
+  "meaning": "dwelling in a suitable region; residence in a proper country",
+  "gram": "masculine noun, compound, nominative singular",
+  "summary": "This is a compound meaning “residence in a suitable region”, one of the highest welfares (maṅgala).",
+  "breakdown": [
+   ["patirūpa", "Suitable, proper, fitting."],
+   ["desa", "Region, country, place."],
+   ["vāso", "Dwelling, residence."]
+  ]
+ },
+ "patissayamānarūpā": {
+  "meaning": "appearing to lean upon, as if relying on support",
+  "gram": "adjective, compound, nominative plural",
+  "breakdown": [
+   ["pati-", "Prefix “back to, towards” (also written paṭi-)."],
+   ["ssayamāna", "Present participle of √si/√śri “leaning on, being supported”; the double ss is sandhi doubling."],
+   ["rūpā", "Here a suffix “-like, having the appearance of”."]
+  ],
+  "note": "uncertain: the lexicon's breakdown is telegraphic; the parse follows DPD (patissayamāna + rūpa, adjectival compound)."
+ },
+ "patiṭṭhitā": {
+  "meaning": "established; founded; firmly set up",
+  "gram": "past participle of patiṭṭhahati (pati + √ṭhā + ita), nominative plural/feminine",
+  "breakdown": [
+   ["pati-", "Prefix “onto, firmly”."],
+   ["√ṭhā", "Root meaning “to stand”."],
+   ["-ita", "Past participle suffix: “made to stand”, hence “established”."]
+  ]
+ },
+ "patiṭṭhā": {
+  "meaning": "resting place; foothold; support, strength",
+  "gram": "feminine noun (pati + √ṭhā)",
+  "breakdown": [
+   ["pati-", "Prefix “onto, firmly”."],
+   ["√ṭhā", "Root meaning “to stand”; literally “a standing-place”, hence support."]
+  ]
+ },
+ "patiṭṭhāpetha": {
+  "meaning": "you should establish; cause to be established",
+  "gram": "verb, causative of patiṭṭhāti, 2nd person plural imperative/optative",
+  "breakdown": [
+   ["pati-", "Prefix “onto, firmly”."],
+   ["ṭhāpe", "Causative stem of √ṭhā “to stand”: “cause to stand, establish”."],
+   ["-tha", "2nd person plural ending."]
+  ]
+ },
+ "patiṭṭhīyati": {
+  "meaning": "is obdurate; is obstinate; shows stubborn resistance",
+  "gram": "verb, 3rd person singular present passive (pati + √thī)",
+  "breakdown": [
+   ["pati-", "Prefix “against, back”."],
+   ["ṭhīya", "Passive stem from √thī; “to stand against”, hence to be obstinate."],
+   ["-ti", "Present tense, 3rd person singular ending."]
+  ]
+ },
+ "patodalaṭṭhi": {
+  "meaning": "goad stick; driving stick (for horses or cattle)",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["patoda", "Goad, prick (instrument for driving animals)."],
+   ["laṭṭhi", "Stick, staff."]
+  ]
+ },
+ "patta": {
+  "meaning": "leaf; (also) bowl; (also) attained",
+  "gram": "noun (neuter in the sense “leaf”; masculine in other senses)",
+  "summary": "Several distinct words share this form: patta “leaf”, patta “alms-bowl”, and patta “attained” (past participle of pāpuṇāti).",
+  "breakdown": [
+   ["patta", "In the lesson vocabulary glossed “leaf”; as a separate word it is the monk's alms-bowl, and as a past participle it means “attained”."]
+  ],
+  "note": "divergence: the lexicon glosses this occurrence as “leave” (i.e. “leaf”); DPD lists ten homonym headwords for patta."
+ },
+ "pattabbaṁ": {
+  "meaning": "to be gained; to be obtained; attainable",
+  "gram": "future passive participle of pāpuṇāti (pa + √ap + tabba), neuter/accusative singular",
+  "breakdown": [
+   ["pa-", "Prefix “forth, fully”."],
+   ["√ap", "Root meaning “to reach, to obtain”."],
+   ["-tabba", "Future passive participle suffix, “to be …-ed”."]
+  ],
+  "forms": ["pattabbaṃ"]
+ },
+ "pattacīvaramādāya": {
+  "meaning": "having taken bowl and robe",
+  "gram": "sandhi phrase: two nouns + gerund (pattaṁ + cīvaraṁ + ādāya)",
+  "summary": "A stock phrase describing a monk setting out on alms round, “taking his bowl and (upper) robe”.",
+  "breakdown": [
+   ["patta", "Alms-bowl."],
+   ["cīvara", "Robe, upper garment."],
+   ["m", "Sandhi consonant joining cīvaraṁ to the following vowel."],
+   ["ādāya", "Having taken (gerund of ādāti)."]
+  ]
+ },
+ "pattakalla": {
+  "meaning": "reached the proper state; opportune, fit and proper",
+  "gram": "neuter noun / adjective, compound",
+  "breakdown": [
+   ["patta", "Attained, reached (past participle of pāpuṇāti)."],
+   ["kalla", "Proper, sound, suitable."]
+  ]
+ },
+ "pattapariyāpannamattampi": {
+  "meaning": "even the mere amount contained in a bowl",
+  "gram": "neuter noun, compound, accusative singular + emphatic particle",
+  "breakdown": [
+   ["patta", "Bowl; (the lexicon line also reads it as “obtained”)."],
+   ["pariyāpanna", "Included in, belonging to, contained in."],
+   ["mattam", "Mere measure, amount."],
+   ["pi", "Emphatic particle “even, also”."]
+  ],
+  "note": "uncertain: the lexicon's gloss line is telegraphic and runs into the next entry; the compound most naturally means “even as much as is contained in the bowl”."
+ },
+ "patthagu": {
+  "meaning": "being near; attending to",
+  "gram": "adjective (best guess from gloss; not in DPD)",
+  "note": "uncertain: form not found in DPD; gloss follows the lexicon."
+ },
+ "patthanā": {
+  "meaning": "wish; desire; aspiration",
+  "gram": "feminine noun (pa + √atth + anā; DPD also lists neuter patthana)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√atth", "Root meaning “to wish, to pray for”."],
+   ["-anā", "Action-noun suffix: the act of wishing."]
+  ]
+ },
+ "patthayati/pattheti": {
+  "meaning": "longs for; desires; craves; aspires to",
+  "gram": "verb, 3rd person singular present (two alternative stems of the same verb)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√atth", "Root meaning “to wish, to pray for”."],
+   ["-ayati / -eti", "Alternative present stem endings of the same verb."]
+  ]
+ },
+ "patthayāno": {
+  "meaning": "aspiring; wishing; longing for",
+  "gram": "present participle of patthayati, nominative masculine singular",
+  "breakdown": [
+   ["patthaya", "Present stem of patthayati “to wish for”."],
+   ["-āna", "Middle present participle suffix."]
+  ]
+ },
+ "patthitā": {
+  "meaning": "wished for; desired",
+  "gram": "past participle of pattheti (pa + √atth + ita)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√atth", "Root meaning “to wish, to pray for”."],
+   ["-ita", "Past participle suffix."]
+  ]
+ },
+ "pattā": {
+  "meaning": "attained; gained; having reached",
+  "gram": "past participle of pāpuṇāti, nominative plural (or feminine singular)",
+  "breakdown": [
+   ["pa-", "Prefix “fully”."],
+   ["√ap", "Root meaning “to reach, to obtain” (pa + āp + ta > patta)."],
+   ["-ta", "Past participle suffix."]
+  ],
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (pada paramo); only “attained, gained” belongs to pattā."
+ },
+ "pavasati": {
+  "meaning": "lives abroad; dwells away from home",
+  "gram": "verb, 3rd person singular present (pa + √vas)",
+  "breakdown": [
+   ["pa-", "Prefix “away, forth”."],
+   ["√vas", "Root meaning “to dwell”."],
+   ["-ati", "Present tense, 3rd person singular ending."]
+  ]
+ },
+ "pavatta": {
+  "meaning": "that which goes on; ongoing, proceeding; the continuing round (of existence)",
+  "gram": "past participle of pavattati, used as noun/adjective",
+  "breakdown": [
+   ["pa-", "Prefix “forth, onward”."],
+   ["√vatt", "Root meaning “to turn, to go on”."],
+   ["-ta", "Past participle suffix: literally “that which goes on”."]
+  ]
+ },
+ "pavattamaṁsaṁ": {
+  "meaning": "raw flesh; fresh meat",
+  "gram": "neuter noun, compound, nominative/accusative singular",
+  "breakdown": [
+   ["pavatta", "Naturally occurring, “as it goes on”, hence raw, fresh."],
+   ["maṁsaṁ", "Flesh, meat."]
+  ],
+  "forms": ["pavattamaṃsaṃ"]
+ },
+ "pavattanasamattha": {
+  "meaning": "able to set in motion; capable of moving forward",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["pavattana", "Setting in motion, moving forward (action noun of pavattati)."],
+   ["samattha", "Strong, able, capable."]
+  ]
+ },
+ "pavattati": {
+  "meaning": "proceeds; moves forward; goes on, continues",
+  "gram": "verb, 3rd person singular present (pa + √vatt)",
+  "breakdown": [
+   ["pa-", "Prefix “forth, onward”."],
+   ["√vatt", "Root meaning “to turn, to go on”."],
+   ["-ati", "Present tense, 3rd person singular ending."]
+  ]
+ },
+ "pavattittha": {
+  "meaning": "was set moving; proceeded, went on",
+  "gram": "aorist of pavattati (the lexicon marks it from causative pavatteti)",
+  "breakdown": [
+   ["pavatt", "Stem of pavattati “to proceed, go on”."],
+   ["-ittha", "Aorist (middle) ending."]
+  ],
+  "note": "uncertain: the lexicon labels the form pavatteti (pp.) while DPD reads an aorist of pavattati; the sense “was set moving, proceeded” is common to both."
+ },
+ "pavattoti": {
+  "meaning": "founded on; relating to; “goes on” (with quotation marker)",
+  "gram": "past participle pavatto + quotation particle ti",
+  "breakdown": [
+   ["pavatto", "Past participle of pavattati: gone on, proceeding; founded on."],
+   ["ti", "Quotation marker; o + ti fuse at the boundary."]
+  ],
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (pavissa/pavisitvā “enter”); only “founded on, relating to” belongs to pavattoti."
+ },
+ "pavattā": {
+  "meaning": "one who sets rolling; one who points out (the Dhamma)",
+  "gram": "masculine agent noun (or past participle pavatta, nominative plural)",
+  "breakdown": [
+   ["pa-", "Prefix “forth, onward”."],
+   ["√vatt", "Root meaning “to turn, to go on”; the agent noun means “one who sets (the wheel) turning, who points out”."]
+  ]
+ },
+ "pavaḍḍhissati": {
+  "meaning": "will grow; will increase",
+  "gram": "verb, 3rd person singular future of pavaḍḍhati (pa + √vaḍḍh)",
+  "breakdown": [
+   ["pa-", "Intensifying prefix."],
+   ["√vaḍḍh", "Root meaning “to grow, to increase”."],
+   ["-issati", "Future tense, 3rd person singular ending."]
+  ],
+  "note": "uncertain: the lexicon's gloss line runs into the next entries (pavatta, pavattati); only “grow, increase” belongs to pavaḍḍhissati."
+ },
+ "pavecchasi": {
+  "meaning": "you bestow; you give",
+  "gram": "verb, 2nd person singular present of pavecchati",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["veccha", "Present stem (DPD relates it to √yam “to offer”)."],
+   ["-si", "2nd person singular ending."]
+  ]
+ },
+ "pavedeti": {
+  "meaning": "utters; tells; makes known, proclaims",
+  "gram": "verb, 3rd person singular present, causative of pa + √vid",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√vid", "Root meaning “to know”; the causative means “to make known”."],
+   ["-eti", "Causative present ending."]
+  ]
+ },
+ "pavedhatī": {
+  "meaning": "trembles; quakes",
+  "gram": "verb, 3rd person singular present, irregular form of pavedhati (with lengthened final vowel, metri causa)",
+  "breakdown": [
+   ["pa-", "Intensifying prefix."],
+   ["√vedh", "Root meaning “to tremble”."],
+   ["-tī", "Present 3rd person singular ending with lengthened vowel (verse form)."]
+  ]
+ },
+ "paveseyyā": {
+  "meaning": "would make enter; should cause to enter",
+  "gram": "verb, optative of the causative paveseti (pa + √vis)",
+  "breakdown": [
+   ["pa-", "Prefix “into, forth”."],
+   ["vese", "Causative stem of √vis “to enter”: “cause to enter”."],
+   ["-eyyā", "Optative ending."]
+  ]
+ },
+ "pavivekakathā": {
+  "meaning": "talk on solitude; conversation about seclusion",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["pa-", "Intensifying prefix."],
+   ["viveka", "Solitude, seclusion."],
+   ["kathā", "Talk, speech, conversation."]
+  ]
+ },
+ "paviṭṭhānaṁ": {
+  "meaning": "of those who have entered; entered, gone into",
+  "gram": "past participle of pavisati (pa + √vis + ta), genitive/dative plural",
+  "breakdown": [
+   ["pa-", "Prefix “into”."],
+   ["√vis", "Root meaning “to enter”."],
+   ["-ṭa", "Past participle suffix (vis + ta > viṭṭha)."],
+   ["-ānaṁ", "Genitive/dative plural ending."]
+  ],
+  "forms": ["paviṭṭhānaṃ"]
+ },
+ "pavuttaṁ": {
+  "meaning": "thrown; sown; (as pp. of pavuccati) spoken, declared",
+  "gram": "past participle, neuter/accusative singular",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√vac", "DPD derives the form from √vac “to speak” (pa + vuc + ta), “spoken, declared”; the lexicon glosses this occurrence “thrown” (i.e. sown, as seed)."],
+   ["-ta", "Past participle suffix."]
+  ],
+  "forms": ["pavuttaṃ"],
+  "note": "divergence: the lexicon glosses “thrown” (seed sown), while DPD parses the same form as pp. of pavuccati “spoken”; follow the lexicon for the sutta context."
+ },
+ "pavāraṇa": {
+  "meaning": "Pavāraṇā (the invitation ceremony concluding the rains retreat, on which monks invite correction from fellow monks)",
+  "gram": "neuter/feminine noun; ceremonial term",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√var", "Root meaning “to choose, to invite”; pavāraṇā is the formal mutual invitation at the end of the vassa retreat."]
+  ],
+  "forms": ["Pavāraṇa"],
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (katthaci “anywhere”); only the ceremony name belongs to pavāraṇa."
+ },
+ "pavāreti": {
+  "meaning": "invites; offers; satisfies (with food)",
+  "gram": "verb, 3rd person singular present (pa + √var)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√var", "Root meaning “to choose, to invite”."],
+   ["-eti", "Present tense ending (causative formation)."]
+  ],
+  "note": "uncertain: the lexicon's gloss line runs into the next entries (pavecchasi, pavedeti); only “invite, offer” belongs to pavāreti."
+ },
+ "pavāretuṁ": {
+  "meaning": "to invite; to offer",
+  "gram": "infinitive of pavāreti",
+  "breakdown": [
+   ["pavāre", "Stem of pavāreti “to invite, offer”."],
+   ["-tuṁ", "Infinitive ending."]
+  ],
+  "forms": ["pavāretuṃ"]
+ },
+ "payatapāṇi": {
+  "meaning": "with pure (open) hands; generous in giving",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["payata", "Pure, restrained, outstretched."],
+   ["pāṇi", "Hand."]
+  ],
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (payojaye “engaged in”); only “pure hand: generous in giving” belongs to payatapāṇi."
+ },
+ "payojaye": {
+  "meaning": "engaged in; would employ, apply",
+  "gram": "verb, optative of payojayati (causative of payuñjati, pa + √yuj)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["√yuj", "Root meaning “to yoke, to engage”."],
+   ["-aye", "Optative ending of the causative stem."]
+  ]
+ },
+ "payojehi": {
+  "meaning": "conduct!; perform, carry out",
+  "gram": "verb, 2nd person singular imperative of payojeti (causative of payuñjati)",
+  "breakdown": [
+   ["pa-", "Prefix “forth”."],
+   ["yoje", "Causative stem of √yuj “to yoke, to engage”."],
+   ["-hi", "2nd person singular imperative ending."]
+  ]
+ },
+ "pañcavassasahassaparimāṇakālaṁ": {
+  "meaning": "a period measuring five thousand years",
+  "gram": "masculine noun, compound, accusative singular",
+  "summary": "This is a long compound meaning “a time of the measure of five thousand years”.",
+  "breakdown": [
+   ["pañca", "Five."],
+   ["vassa", "Year (literally “rains”)."],
+   ["sahassa", "Thousand."],
+   ["parimāṇa", "Measure, extent."],
+   ["kālaṁ", "Time, period (accusative)."]
+  ],
+  "forms": ["pañcavassasahassaparimāṇakālaṃ"]
+ }
+}

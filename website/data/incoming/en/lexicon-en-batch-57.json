@@ -1,0 +1,428 @@
+{
+  "sātthaṁ": {
+    "meaning": "with meaning; meaningful",
+    "gram": "adjective (accusative/neuter form of sāttha)",
+    "breakdown": [
+      ["sa-", "Prefix meaning “with, possessing”."],
+      ["attha", "Meaning, sense, purpose (from √ar)."]
+    ]
+  },
+  "sāvako": {
+    "meaning": "disciple; pupil; hearer (of the teaching)",
+    "gram": "masculine noun, nominative singular (of sāvaka)",
+    "breakdown": [
+      ["sāvaka", "Agent noun from √su “to hear”: one who hears — a disciple who listens to and follows the teaching."]
+    ]
+  },
+  "sāveti": {
+    "meaning": "makes hear; announces, proclaims",
+    "gram": "verb, 3rd person singular, causative of suṇāti (√su)",
+    "breakdown": [
+      ["sāve", "Causative stem of √su “to hear”: to cause to hear."],
+      ["-ti", "3rd person singular present ending."]
+    ]
+  },
+  "sāvetvā": {
+    "meaning": "having made (someone) hear; having announced",
+    "gram": "absolutive (gerund), causative of suṇāti",
+    "breakdown": [
+      ["sāve", "Causative stem of √su “to hear”."],
+      ["-tvā", "Absolutive (gerund) ending: “having …-ed”."]
+    ]
+  },
+  "sāyanhasamayaṁ": {
+    "meaning": "in the evening; at evening time",
+    "gram": "masculine noun, accusative singular (compound, used adverbially)",
+    "breakdown": [
+      ["sāyanha", "Evening (sāyaṁ “evening” + anha “part of the day”)."],
+      ["samaya", "Time, occasion."]
+    ],
+    "forms": ["sāyanhasamayaṃ"]
+  },
+  "sāyaṁ": {
+    "meaning": "in the evening",
+    "gram": "adverb (indeclinable)"
+  },
+  "sīla": {
+    "meaning": "morality; moral conduct; the moral principles",
+    "gram": "neuter noun",
+    "breakdown": [
+      ["√sīl", "Root meaning “to practise, to be accustomed to”; sīla is settled, habitual good conduct."],
+      ["-a", "Noun-forming suffix."]
+    ],
+    "goenka": "Sīla — morality, moral conduct — is the first of the three trainings (sīla, samādhi, paññā) and the indispensable foundation of the path. Within the usual presentation of the Noble Eightfold Path, sīla comprises sammāvācā (right speech), sammākammanto (right action) and sammā-ājīvo (right livelihood); when the teaching is described in its triad of sīla, samādhi and paññā, the sīlakkhandha precedes the other two, stressing the fundamental importance of a wholesome ethical base. For lay practitioners this base is the five precepts, pañca sīla. In this tradition sīla is rendered “morality” or “moral conduct” — not mere “ethics” or external “rules”: it is the deliberate restraint of bodily and vocal action that makes concentration and insight possible.",
+    "note": "divergence: the tradition avoids rendering sīla as “ethics”, “rules”, or bare “precepts” (pañca sīla = the five precepts)."
+  },
+  "sīlabbataṁ": {
+    "meaning": "morality and observances; rules and rituals",
+    "gram": "neuter noun (compound)",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["vata", "Vow, religious observance, rite. (The double bb is sandhi doubling of v after sīla.)"]
+    ],
+    "forms": ["sīlabbataṃ"]
+  },
+  "sīlamevidha": {
+    "meaning": "morality indeed here; just morality in this world",
+    "gram": "sandhi fusion (sīlaṁ + eva + idha)",
+    "breakdown": [
+      ["sīlaṁ", "Morality (nominative/accusative singular)."],
+      ["eva", "Emphatic particle: “just, indeed”."],
+      ["idha", "Here, in this world."]
+    ]
+  },
+  "sīlasampadāya": {
+    "meaning": "through the attainment of morality; by accomplishment in moral conduct",
+    "gram": "feminine noun, instrumental singular (compound)",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["sampadā", "Attainment, accomplishment, acquisition."]
+    ]
+  },
+  "sīlavantassa": {
+    "meaning": "of the virtuous one; of one who keeps up morality",
+    "gram": "adjective, genitive singular of sīlavant",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["-vant", "Possessive suffix: “possessing, endowed with”."],
+      ["-assa", "Genitive singular ending."]
+    ]
+  },
+  "sīlavantānisaṁsā": {
+    "meaning": "the benefits of one who is virtuous; advantages of being established in sīla",
+    "summary": "This is a compound meaning “the benefits (ānisaṁsā) of the virtuous person (sīlavant)”.",
+    "gram": "feminine noun, plural (compound)",
+    "breakdown": [
+      ["sīlavant", "One possessing sīla, established in morality (vant is a secondary possessive suffix)."],
+      ["ānisaṁsā", "Benefits, advantages, blessings."]
+    ],
+    "note": "uncertain: the VRI Burmese Chaṭṭha Saṅgāyana edition reads sīlavanttaānisaṃsā, which the lexicon judges to be a typo for sīlavant + ānisaṃsā.",
+    "forms": ["Sīlavantānisaṃsā"]
+  },
+  "sīlavato": {
+    "meaning": "of the virtuous one; of one observing morality",
+    "gram": "adjective, genitive/dative singular of sīlavant",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["-vant", "Possessive suffix: “possessing”; sīlavato is an oblique form of sīlavant."]
+    ],
+    "note": "uncertain: the lexicon marks this form as nominative plural; sīlavato is more commonly the genitive/dative singular of sīlavant."
+  },
+  "sīlavatūpapanno": {
+    "meaning": "endowed with morality and observances; furnished with virtue and good practice",
+    "gram": "adjective, nominative singular (compound)",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["vata", "Observance, practice, vow."],
+      ["ūpapanna", "Endowed with, furnished with (past participle of upapajjati; the ū is lengthened in composition)."]
+    ]
+  },
+  "sīlavipattiyā": {
+    "meaning": "through failure in morality; by the loss of moral conduct",
+    "gram": "feminine noun, instrumental/ablative singular (compound)",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["vipatti", "Failure, misfortune, going wrong."]
+    ]
+  },
+  "sīlādiguṇarahite": {
+    "meaning": "deprived of the qualities beginning with morality",
+    "gram": "adjective, locative singular (compound)",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["ādi", "Beginning with, and so on."],
+      ["guṇa", "Quality, virtue."],
+      ["rahita", "Deprived of, without."]
+    ]
+  },
+  "sīlādiguṇasampanne": {
+    "meaning": "endowed with the qualities beginning with morality",
+    "gram": "adjective, locative singular (compound)",
+    "breakdown": [
+      ["sīla", "Morality, moral conduct."],
+      ["ādi", "Beginning with, and so on."],
+      ["guṇa", "Quality, virtue."],
+      ["sampanna", "Endowed with, possessed of (past participle)."]
+    ]
+  },
+  "sīsapāpaṇṇāni": {
+    "meaning": "sīsapā leaves; leaves of the siṁsapā tree",
+    "gram": "neuter noun, nominative/accusative plural (compound)",
+    "breakdown": [
+      ["sīsapā", "The siṁsapā tree (Dalbergia sissoo)."],
+      ["paṇṇa", "Leaf."],
+      ["-āni", "Neuter plural ending."]
+    ]
+  },
+  "sīsapāvane": {
+    "meaning": "in the sīsapā forest; in the grove of siṁsapā trees",
+    "gram": "neuter noun, locative singular (compound)",
+    "breakdown": [
+      ["sīsapā", "The siṁsapā tree (Dalbergia sissoo)."],
+      ["vana", "Forest, grove."]
+    ]
+  },
+  "sītalaghanacchāyanīlavanasaṇḍamaṇḍitaṁ": {
+    "meaning": "adorned with dark-green forest groves of cool, deep shade",
+    "gram": "adjective, accusative/neuter singular (long descriptive compound)",
+    "breakdown": [
+      ["sītala", "Cool."],
+      ["ghanacchāya", "Deep in shade, of dense shade (ghana “thick” + chāyā “shade”)."],
+      ["nīla", "Dark green, dark blue."],
+      ["vanasaṇḍa", "Forest grove, thicket."],
+      ["maṇḍita", "Adorned, decorated (past participle)."]
+    ],
+    "forms": ["sītalaghanacchāyanīlavanasaṇḍamaṇḍitaṃ"]
+  },
+  "sītudakaghaṭasahassaṁ": {
+    "meaning": "a thousand pots of cool water",
+    "gram": "neuter noun, nominative/accusative singular (compound)",
+    "breakdown": [
+      ["sīta", "Cold, cool (sīta + udaka contracts to sītudaka)."],
+      ["udaka", "Water."],
+      ["ghaṭa", "Vessel, pot."],
+      ["sahassa", "Thousand."]
+    ],
+    "forms": ["sītudakaghaṭasahassaṃ"]
+  },
+  "tabbipakkhato": {
+    "meaning": "from its opposite; on the side opposed to that",
+    "gram": "adverb (tad + vipakkha + ablative suffix -to)",
+    "breakdown": [
+      ["tad", "That (the d assimilates, doubling the following consonant: tabbipakkha)."],
+      ["vipakkha", "Opposite side, opposing party."],
+      ["-to", "Ablative adverbial suffix: “from”."]
+    ]
+  },
+  "tadagge": {
+    "meaning": "since then; from that point onwards",
+    "gram": "indeclinable adverb (compound)",
+    "breakdown": [
+      ["tad", "That."],
+      ["agga", "Beginning, point; locative agge: “from that beginning”."]
+    ]
+  },
+  "tadahuposathe": {
+    "meaning": "on that very uposatha day",
+    "gram": "sandhi fusion (tad + aha + uposathe), locative",
+    "breakdown": [
+      ["tad", "That."],
+      ["aha", "Day."],
+      ["uposatha", "The uposatha, the fortnightly observance day."]
+    ]
+  },
+  "tadamināpetaṁ": {
+    "meaning": "and by this (means) this; thus in this way this too",
+    "gram": "sandhi fusion (tad + aminā + api + etaṁ)",
+    "breakdown": [
+      ["tad", "That, thus."],
+      ["aminā", "By this (instrumental pronoun)."],
+      ["api", "Also, and (elided to pe before etaṁ)."],
+      ["etaṁ", "This."]
+    ],
+    "forms": ["tadamināpetaṃ"]
+  },
+  "tadanuggahakāmataṁyeva": {
+    "meaning": "just the desire to help him; only out of the wish to show that compassion",
+    "gram": "feminine noun, accusative singular + emphatic particle (compound)",
+    "breakdown": [
+      ["tad", "That, him."],
+      ["anuggaha", "Help, favour, compassion."],
+      ["kāmatā", "Desire, longing (abstract noun from kāma)."],
+      ["yeva", "Emphatic particle: “just, only”."]
+    ],
+    "forms": ["tadanuggahakāmataṃyeva"]
+  },
+  "tadanugga­": {
+    "meaning": "just the desire to help him (first part of tadanuggahakāmataṁyeva)",
+    "gram": "word fragment (line-break hyphenation)",
+    "note": "uncertain: this is a hyphenated line-break fragment of tadanuggahakāmataṁyeva in the source, not an independent word."
+  },
+  "tadatthavijānananti": {
+    "meaning": "the recognition of its meaning (with quotation marker ti)",
+    "gram": "neuter noun (compound) + quotation particle, sandhi ṁ + ti > nti",
+    "breakdown": [
+      ["tad", "That, its."],
+      ["attha", "Meaning, sense."],
+      ["vijānana", "Recognition, understanding (from vijānāti)."],
+      ["-nti", "Sandhi of the accusative ending -ṁ with the quotation marker ti."]
+    ]
+  },
+  "tadatthikasseva": {
+    "meaning": "just of one in need of that; only for one desirous of that",
+    "gram": "sandhi fusion (tadatthikassa + eva), genitive singular",
+    "breakdown": [
+      ["tad", "That."],
+      ["atthika", "In need of, desirous of."],
+      ["-assa", "Genitive singular ending."],
+      ["eva", "Emphatic particle: “just”."]
+    ]
+  },
+  "tadavasari": {
+    "meaning": "went down to that place; arrived there",
+    "gram": "verb, aorist 3rd person singular (tad + avasarati)",
+    "breakdown": [
+      ["tad", "There, to that place."],
+      ["avasari", "Went down to, arrived at (aorist of avasarati: ava “down” + √sar “to go”)."]
+    ]
+  },
+  "taddiguṇaṁ": {
+    "meaning": "twice that; twofold of that",
+    "gram": "adjective, accusative/neuter singular (compound)",
+    "breakdown": [
+      ["tad", "That (the d assimilates to the following d)."],
+      ["di", "Two."],
+      ["guṇa", "Fold, part, quality."]
+    ],
+    "forms": ["taddiguṇaṃ"]
+  },
+  "tadubhayameva": {
+    "meaning": "just both of these; both of them likewise",
+    "gram": "sandhi fusion (tad + ubhayaṁ + eva)",
+    "breakdown": [
+      ["tad", "That."],
+      ["ubhaya", "Both."],
+      ["eva", "Emphatic particle: “just, even”."]
+    ]
+  },
+  "tadubhayavimuttaparisaṅkitañca": {
+    "meaning": "and suspected with regard to both of these, (not) freed from either",
+    "gram": "adjective (compound) + conjunction ca, with sandhi ṁ + ca > ñca",
+    "breakdown": [
+      ["tad", "That."],
+      ["ubhaya", "Both."],
+      ["vimutta", "Freed, purged (past participle of vimuccati)."],
+      ["parisaṅkita", "Suspected (past participle of parisaṅkati)."],
+      ["ca", "And (the preceding ṁ becomes ñ before c)."]
+    ]
+  },
+  "tadādāyakaupakkamasamuṭṭhāpikā": {
+    "meaning": "occasioned by the undertaking of the one who takes it at that instance",
+    "gram": "feminine adjective, nominative singular (compound)",
+    "breakdown": [
+      ["tadā", "Then, at that instance."],
+      ["ādāyaka", "The one who takes."],
+      ["upakkama", "Approaching, undertaking, effort."],
+      ["samuṭṭhāpikā", "Causing to arise, occasioning (feminine agent adjective)."]
+    ]
+  },
+  "taggha": {
+    "meaning": "indeed, truly, certainly",
+    "gram": "emphatic affirmative particle (indeclinable)"
+  },
+  "tajjo": {
+    "meaning": "suchlike; corresponding to that; arising from that",
+    "gram": "adjective, nominative singular (tad + ya)",
+    "breakdown": [
+      ["tad", "That."],
+      ["-ya", "Adjectival suffix: “belonging to, born of” (tad + ya assimilates to tajja)."]
+    ]
+  },
+  "takkagovacchā": {
+    "meaning": "buttermilk cows; cows kept for buttermilk",
+    "gram": "noun, plural (compound)",
+    "breakdown": [
+      ["takka", "Buttermilk."],
+      ["go", "Cow."],
+      ["vacchā", "Calves, young cattle."]
+    ]
+  },
+  "takkahetu": {
+    "meaning": "on the ground of reasoning; by reason of logic",
+    "gram": "masculine noun used adverbially (compound)",
+    "breakdown": [
+      ["takka", "Reasoning, thinking, logic."],
+      ["hetu", "Cause, reason, ground."]
+    ]
+  },
+  "tama": {
+    "meaning": "darkness (also tamo)",
+    "gram": "neuter/masculine noun (stem tama/tamas)",
+    "note": "uncertain: the lexicon lists the bare stem tama/tamo “darkness”; -tama is also a superlative suffix in other contexts."
+  },
+  "tamaparāyaṇo": {
+    "meaning": "having darkness as destiny; bound for darkness",
+    "gram": "adjective, nominative singular (compound)",
+    "breakdown": [
+      ["tama", "Darkness (stem tamas)."],
+      ["parāyaṇa", "Literally “finding one's support in”; having as destiny, ending in."]
+    ]
+  },
+  "tamenaṁ": {
+    "meaning": "him then; that very one",
+    "gram": "sandhi fusion of two pronouns (taṁ + enaṁ), accusative",
+    "breakdown": [
+      ["taṁ", "Him, that (accusative)."],
+      ["enaṁ", "That very one (accusative; reinforcing pronoun)."]
+    ],
+    "forms": ["tamenaṃ"]
+  },
+  "tamhi": {
+    "meaning": "in that; that indeed",
+    "gram": "pronoun, locative singular of ta",
+    "note": "divergence: the lexicon parses this as taṁ + hi “that + because/indeed”; tamhi is also the regular locative singular of the pronoun ta."
+  },
+  "tamotamasuttaṁ": {
+    "meaning": "Tamotama Sutta, “From Darkness to Darkness” (a discourse title)",
+    "gram": "proper noun (sutta title), neuter",
+    "breakdown": [
+      ["tamo", "Darkness."],
+      ["tama", "Darkness — from one field of misery to another."],
+      ["sutta", "Discourse."]
+    ],
+    "forms": ["Tamotamasuttaṃ"]
+  },
+  "tanuttā": {
+    "meaning": "because of the reduction; the state of being diminished",
+    "gram": "neuter abstract noun (tanutta), ablative/instrumental form",
+    "breakdown": [
+      ["tanu", "Thin, reduced, slender (from √tan)."],
+      ["-tta", "Abstract-noun suffix: “the state of being”."]
+    ]
+  },
+  "tanuyā": {
+    "meaning": "slender, slim",
+    "gram": "adjective, feminine oblique singular (of tanu)",
+    "breakdown": [
+      ["√tan", "Root meaning “to stretch, extend”."],
+      ["-u", "Adjectival suffix: tanu “thin, slender”."]
+    ]
+  },
+  "tasmātiha": {
+    "meaning": "therefore; accordingly (thus surely here)",
+    "gram": "indeclinable sandhi fusion (tasmā + [t] + iha)",
+    "breakdown": [
+      ["tasmā", "Therefore (ablative of ta)."],
+      ["iha", "Here (a connecting t bridges the two words)."]
+    ]
+  },
+  "tassāyeva": {
+    "meaning": "of that very one; just of this",
+    "gram": "pronoun, genitive singular + emphatic particle",
+    "breakdown": [
+      ["tassa", "Of that, of him (genitive singular of ta; lengthened in sandhi)."],
+      ["yeva", "Emphatic particle: “just, even”."]
+    ]
+  },
+  "tasā": {
+    "meaning": "movable; trembling (of beings, in contrast to the still, thāvara)",
+    "gram": "adjective, nominative plural (of tasa)",
+    "breakdown": [
+      ["√tas", "Root meaning “to tremble, to be frightened”."],
+      ["-a", "Adjectival suffix: tasa “trembling, movable”."]
+    ]
+  },
+  "tathattāya": {
+    "meaning": "to such a state; for the state of being thus",
+    "gram": "neuter abstract noun, dative singular",
+    "breakdown": [
+      ["tathā", "Thus, so."],
+      ["-tta", "Abstract-noun suffix: “the state of being”."],
+      ["-āya", "Dative singular ending."]
+    ]
+  },
+  "tathā": {
+    "meaning": "thus, so, in that way",
+    "gram": "indeclinable adverb"
+  }
+}

@@ -1,0 +1,450 @@
+{
+ "sampādako": {
+  "meaning": "one who accomplishes, who brings about; (in the negative context cited) one who does not obtain",
+  "gram": "adjective/agent noun (nominative singular), from sampādeti (√pad)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√pad", "Root meaning “to go, attain”; causative sampādeti: to accomplish, procure."],
+   ["-aka", "Agent suffix: one who does."]
+  ],
+  "note": "uncertain: the lexicon's note reads “not attain: he does not obtain”, glossing a negated context (asampādako); the word itself means “one who accomplishes/procures”."
+ },
+ "sampādetha": {
+  "meaning": "strive!; accomplish (your aim) with diligence!",
+  "summary": "Famous from the Buddha's last words: appamādena sampādetha — “strive on diligently”.",
+  "gram": "verb, imperative 2nd person plural (causative of sampajjati, √pad)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pādeti", "Causes to attain, accomplishes (causative of √pad)."],
+   ["-tha", "2nd person plural imperative ending."]
+  ]
+ },
+ "sampāpaka": {
+  "meaning": "leading to; causing to reach or obtain",
+  "gram": "adjective, from sampāpeti (causative of saṁ + √ap)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["pāpeti", "Causes to reach (causative of pāpuṇāti, √ap)."],
+   ["-aka", "Agent/adjectival suffix: that which causes to reach."]
+  ]
+ },
+ "samucchindissanti": {
+  "meaning": "they will break off completely; they will extirpate",
+  "gram": "verb, future 3rd person plural of samucchindati (saṁ + ud + √chid)",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["ud-", "Prefix: up, out."],
+   ["√chid", "Root meaning “to cut”. Together: to cut off entirely, uproot."],
+   ["-issanti", "Future 3rd person plural ending."]
+  ]
+ },
+ "samudayasaccaniddeso": {
+  "meaning": "the exposition of the truth of arising (of suffering)",
+  "gram": "masculine noun, compound (section title)",
+  "breakdown": [
+   ["samudaya", "Arising, origin, source (saṁ + udaya)."],
+   ["sacca", "Truth."],
+   ["niddesa", "Exposition, detailed explanation."]
+  ]
+ },
+ "samuddakasuttaṁ": {
+  "meaning": "the Ocean Sutta (Samuddakasutta)",
+  "gram": "proper noun, neuter (title of a discourse)",
+  "breakdown": [
+   ["samudda", "Ocean, sea."],
+   ["-ka", "Adjectival suffix."],
+   ["sutta", "Discourse."]
+  ]
+ },
+ "samuddharaṇāyā’ti": {
+  "meaning": "“…for the pulling out, the lifting up” (end of quotation)",
+  "gram": "feminine action noun (dative singular) + quotation particle ti",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["uddharaṇa", "Pulling out, lifting, raising (ud + √har)."],
+   ["-āya", "Dative singular ending: “for the sake of”."],
+   ["’ti", "Quotation-closing particle (iti), fused with the lengthened final vowel."]
+  ]
+ },
+ "samudācaratha": {
+  "meaning": "you should behave towards; you should address",
+  "gram": "verb, 2nd person plural (imperative/optative) of samudācarati (saṁ + ud + ā + √car)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ud-", "Prefix: up."],
+   ["ā + √car", "Root “to move, conduct oneself”: to behave towards, address."],
+   ["-tha", "2nd person plural ending."]
+  ]
+ },
+ "samudācarissati": {
+  "meaning": "will occur to; will befall; will be current",
+  "gram": "verb, future 3rd person singular of samudācarati",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ud-", "Prefix: up."],
+   ["ā + √car", "Root “to move”: to occur, arise habitually."],
+   ["-issati", "Future 3rd person singular ending."]
+  ]
+ },
+ "samuggacchati": {
+  "meaning": "arises; comes into existence",
+  "gram": "verb, present tense 3rd person singular (saṁ + ud + √gam)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ud-", "Prefix: up."],
+   ["gacchati", "Goes (√gam). Together: rises up, arises."]
+  ]
+ },
+ "samugghāṭayamānā": {
+  "meaning": "removing; abolishing; uprooting",
+  "gram": "present participle (middle voice, nominative plural) of samugghāṭeti",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["ugghāṭa", "Removal, abolishing (ud + √ghaṭ)."],
+   ["-yamāna", "Middle present participle suffix."]
+  ]
+ },
+ "samuppannānaṁ": {
+  "meaning": "of (things) arisen; of what has been produced",
+  "gram": "past participle of samuppajjati (genitive/dative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ud-", "Prefix: up."],
+   ["√pad + na", "Root “to go” with past participle suffix: arisen, produced (uppanna)."],
+   ["-ānaṁ", "Genitive/dative plural ending."]
+  ]
+ },
+ "samusseyya": {
+  "meaning": "should raise up; would lift up",
+  "gram": "verb, optative 3rd person singular of samusseti (saṁ + ud + √si)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ud-", "Prefix: up."],
+   ["√si (seti)", "Root: to raise, erect."],
+   ["-eyya", "Optative ending."]
+  ]
+ },
+ "samuttejetvā": {
+  "meaning": "having inspired; having excited, stirred, filled with delight",
+  "gram": "gerund of samuttejeti (saṁ + ud + √tij)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ud-", "Prefix: up."],
+   ["√tij (tejeti)", "Root “to sharpen”: causative, to incite, inspire."],
+   ["-tvā", "Gerund ending: “having …-ed”."]
+  ]
+ },
+ "samācare": {
+  "meaning": "should perform; would practise, conduct oneself",
+  "gram": "verb, optative 3rd person singular of samācarati (saṁ + ā + √car)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ā + √car", "Root “to move, conduct”: to behave, perform."],
+   ["-e", "Optative ending."]
+  ]
+ },
+ "samādapeti": {
+  "meaning": "causes to take up; incites, encourages (in the good)",
+  "gram": "verb, present tense 3rd person singular (causative of samādiyati, √ādā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ādapeti", "Causes to take (causative of ādāti “takes”)."]
+  ]
+ },
+ "samādapetvā": {
+  "meaning": "having encouraged; having instigated, aroused",
+  "gram": "gerund of samādapeti",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ādapeti", "Causes to take, incites."],
+   ["-tvā", "Gerund ending: “having …-ed”."]
+  ]
+ },
+ "samādhi": {
+  "meaning": "concentration; mental concentration; collectedness of mind",
+  "summary": "The second of the three trainings of the path, between sīla and paññā.",
+  "gram": "masculine abstract noun, from samādahati (saṁ + ā + √dhā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together, fully."],
+   ["ā-", "Prefix: towards."],
+   ["√dhā", "Root meaning “to place, put”. Samādhi: placing the mind together, collectedness."]
+  ],
+  "goenka": "Samādhi is concentration — gaining control of the mind through the practice of mental concentration. It is the second of the three trainings of the path: established in sīla (morality), the meditator develops samādhi, mastery over the mind, which becomes the base for paññā, experiential wisdom. In this tradition samādhi is cultivated through ānāpāna, observing the natural breath. The volumes describe accomplished meditators as “firmly fixed in concentration” (thirasamādhiyuttena cetasā), which proves their accomplishment in samādhi."
+ },
+ "samādhijaṁ": {
+  "meaning": "born of concentration; arising from samādhi",
+  "gram": "adjective, compound (accusative singular)",
+  "breakdown": [
+   ["samādhi", "Concentration."],
+   ["-ja", "Suffix meaning “born of, produced from” (√jan)."]
+  ]
+ },
+ "samādhimānantarikaññamāhu": {
+  "meaning": "“and the concentration which they call immediate (in result)”",
+  "gram": "sandhi fusion: noun + adjective + pronoun + verb (samādhiṁ + ānantarikaṁ + yaṁ + āhu)",
+  "breakdown": [
+   ["samādhiṁ", "Concentration (accusative singular)."],
+   ["ānantarikaṁ", "Immediately following, bearing immediate fruit (from anantara “without interval”)."],
+   ["yaṁ", "Which (relative pronoun; yaṁ + … gives -aññam- in sandhi)."],
+   ["āhu", "They call, they have declared (perfect of √ah)."]
+  ]
+ },
+ "samādinnaṁ": {
+  "meaning": "undertaken; taken upon oneself",
+  "gram": "past participle of samādiyati (accusative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√ādā + na", "Root “to take” with past participle suffix: taken up, undertaken."]
+  ]
+ },
+ "samādinnena": {
+  "meaning": "by what has been undertaken; through what is taken upon oneself",
+  "gram": "past participle of samādiyati (instrumental singular)",
+  "breakdown": [
+   ["samādinna", "Undertaken (saṁ + √ādā + na)."],
+   ["-ena", "Instrumental singular ending."]
+  ]
+ },
+ "samādinnā": {
+  "meaning": "taken up; undertaken (plural)",
+  "gram": "past participle of samādiyati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√ādā + na", "Root “to take” with past participle suffix: taken up."]
+  ]
+ },
+ "samādiyitabbaṁ": {
+  "meaning": "to be undertaken; that should be taken upon oneself",
+  "gram": "potential participle of samādiyati (nominative/accusative singular neuter)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ādiya", "Taking (from √ādā)."],
+   ["-itabba", "Potential participle suffix: “to be …-ed”."]
+  ]
+ },
+ "samādānahetu": {
+  "meaning": "by reason of undertaking; because of taking up (a practice or vow)",
+  "gram": "indeclinable adverbial compound",
+  "breakdown": [
+   ["samādāna", "Undertaking, taking upon oneself (saṁ + ādāna)."],
+   ["hetu", "Cause, reason; at the end of a compound: “by reason of”."]
+  ]
+ },
+ "samādāya": {
+  "meaning": "having undertaken; acting in accordance with; having taken up",
+  "gram": "gerund of samādāti (saṁ + √ādā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["√ādā", "Root meaning “to take”."],
+   ["-ya", "Gerund ending: “having taken”."]
+  ]
+ },
+ "samādāyeva": {
+  "meaning": "having just undertaken; taking up precisely (these rules)",
+  "gram": "gerund of samādāti + emphatic particle eva (sandhi fusion)",
+  "breakdown": [
+   ["samādāya", "Having undertaken, having taken up."],
+   ["eva", "Just, only (emphatic enclitic; the final -a and e- merge in sandhi)."]
+  ]
+ },
+ "samāgacchati": {
+  "meaning": "meets together; assembles; associates with",
+  "gram": "verb, present tense 3rd person singular (saṁ + ā + √gam)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["ā + gacchati", "Comes (√gam). Together: comes together, assembles."]
+  ]
+ },
+ "samāgama": {
+  "meaning": "meeting; coming together; association",
+  "gram": "masculine noun, from samāgacchati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["ā + √gam + a", "Root “to come” with noun suffix: a coming together."]
+  ]
+ },
+ "samāgamo": {
+  "meaning": "union; meeting; coming together",
+  "gram": "masculine noun (nominative singular), from samāgacchati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["āgama", "Coming. Together: a coming together, union."]
+  ]
+ },
+ "samāgatāni": {
+  "meaning": "gathered; assembled (of beings or things)",
+  "gram": "past participle of samāgacchati (nominative/accusative plural neuter)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["āgata", "Come (past participle of āgacchati). Together: come together, gathered."],
+   ["-āni", "Neuter plural ending."]
+  ]
+ },
+ "samāgatāni are": {
+  "meaning": "are gathered; assembled",
+  "gram": "past participle (nominative plural neuter)",
+  "note": "uncertain: this key is a glossary parsing artifact — the English word “are” from the gloss “are gathered” was attached to the headword samāgatāni; see the entry samāgatāni."
+ },
+ "samānasukhadukkho": {
+  "meaning": "sharing equally in happiness and sorrow; an equal in joy and pain (said of a true friend)",
+  "gram": "adjective, compound (nominative singular)",
+  "breakdown": [
+   ["samāna", "Equal, same."],
+   ["sukha", "Happiness, pleasure."],
+   ["dukkha", "Unhappiness, suffering."]
+  ]
+ },
+ "samāpajjati": {
+  "meaning": "enters upon; attains to (a meditative state); undergoes",
+  "gram": "verb, present tense 3rd person singular (saṁ + ā + √pad)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together, fully."],
+   ["ā + pajjati", "Goes to (√pad). Together: enters upon, attains."]
+  ]
+ },
+ "samāpatti": {
+  "meaning": "attainment; meditative attainment",
+  "gram": "feminine abstract noun, from samāpajjati",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["ā + √pad + ti", "Root “to go, attain” with abstract suffix: attainment, entering upon."]
+  ]
+ },
+ "samāpattiyā": {
+  "meaning": "of/in the (meditative) attainment",
+  "gram": "feminine noun (genitive/dative/locative singular)",
+  "breakdown": [
+   ["samāpatti", "Attainment, meditative attainment (saṁ + ā + √pad + ti)."],
+   ["-yā", "Oblique singular ending."]
+  ]
+ },
+ "samūhanitvā": {
+  "meaning": "having abolished; having removed completely",
+  "gram": "gerund of samūhanati (saṁ + ud + √han)",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["ud- (> ū)", "Prefix: up, out."],
+   ["√han", "Root meaning “to strike”: to remove, abolish."],
+   ["-itvā", "Gerund ending: “having …-ed”."]
+  ]
+ },
+ "samūhanti": {
+  "meaning": "abolishes; removes completely",
+  "gram": "verb, present tense 3rd person singular of samūhanati",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["ud- (> ū)", "Prefix: up, out."],
+   ["√han", "Root meaning “to strike”: to remove, uproot."]
+  ]
+ },
+ "samūhatā": {
+  "meaning": "removed; abolished; uprooted",
+  "gram": "past participle of samūhanati (nominative plural)",
+  "breakdown": [
+   ["saṁ-", "Prefix: completely."],
+   ["ud- (> ū)", "Prefix: up, out."],
+   ["√han + ta", "Root “to strike” with past participle suffix: struck out, abolished."]
+  ]
+ },
+ "sandassetvā": {
+  "meaning": "having instructed; having pointed out, taught, explained",
+  "gram": "gerund of sandasseti (saṁ + √dis, causative)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["dasseti", "Shows, points out (causative of √dis “to see”)."],
+   ["-tvā", "Gerund ending: “having …-ed”."]
+  ]
+ },
+ "sandhi": {
+  "meaning": "union; junction; joining (of words or things)",
+  "summary": "As a grammatical term, sandhi names the sound changes where words join.",
+  "gram": "masculine noun, from sandahati (saṁ + √dhā)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√dhā (dadhāti)", "Root meaning “to put, join”. Literally: a putting together."]
+  ]
+ },
+ "sandhiyatimeva": {
+  "meaning": "is joined together thus; is just being connected",
+  "gram": "verb, present passive 3rd person singular of sandahati + emphatic eva",
+  "breakdown": [
+   ["sandhiyati", "Is put together, is joined (passive of sandahati, saṁ + √dhā)."],
+   ["-m-", "Euphonic consonant inserted in sandhi."],
+   ["eva", "Just, precisely (emphatic enclitic)."]
+  ]
+ },
+ "sandissamānaṁ": {
+  "meaning": "being seen together; agreeing with, corresponding (used of comparing and verifying)",
+  "gram": "present participle (passive) of sandissati (accusative singular)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["dissa", "Being seen (passive stem of √dis)."],
+   ["-māna", "Middle present participle suffix."]
+  ]
+ },
+ "sandississanti": {
+  "meaning": "they will be seen (together); will be found, will appear",
+  "gram": "verb, future 3rd person plural of sandissati (passive of saṁ + √dis)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["dissa", "Being seen (passive stem of √dis)."],
+   ["-issanti", "Future 3rd person plural ending."]
+  ]
+ },
+ "sandiṭṭhiko": {
+  "meaning": "to be experienced directly; visible here and now",
+  "summary": "One of the classic epithets of the Dhamma: its results are seen for oneself in this very life.",
+  "gram": "adjective, from sandiṭṭha (saṁ + √dis)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully, by oneself."],
+   ["diṭṭhi", "Seeing (from √dis “to see”)."],
+   ["-ka", "Adjectival suffix: belonging to what is seen."]
+  ],
+  "goenka": "Sandiṭṭhiko is one of the qualities of the Dhamma recited in the traditional formula: the Dhamma is to be experienced directly, visible here and now. The teaching is not to be accepted on faith or speculation about the future; the meditator verifies it personally, within the framework of his own body, in this very life. Each step of the path gives its result here and now, to be seen for oneself."
+ },
+ "sangama": {
+  "meaning": "meeting; intercourse; sexual intercourse",
+  "gram": "masculine noun (saṁ + √gam)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√gam + a", "Root “to go” with noun suffix: a coming together."]
+  ],
+  "note": "uncertain: the headword appears with stripped diacritics in the source glossary; the standard IAST form is saṅgama."
+ },
+ "sangati": {
+  "meaning": "meeting; association; coming together",
+  "gram": "feminine noun (saṁ + √gam + ti)",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["√gam + ti", "Root “to go” with abstract suffix: a coming together."]
+  ],
+  "note": "uncertain: the headword appears with stripped diacritics in the source glossary; the standard IAST form is saṅgati."
+ },
+ "sankhangata": {
+  "meaning": "is called; is reckoned as, designated",
+  "gram": "adjective/past participle compound (saṅkhaṁ gata “gone to the reckoning of”)",
+  "breakdown": [
+   ["saṅkhā", "Reckoning, designation (saṁ + √khyā)."],
+   ["gata", "Gone (past participle of gacchati). Together: come to be reckoned as, called."]
+  ],
+  "note": "uncertain: the headword appears with stripped diacritics in the source glossary; the standard IAST form is saṅkhaṅgata (saṅkhaṁ gata)."
+ },
+ "sanniggaṇhāmi": {
+  "meaning": "I restrain; I hold in check",
+  "gram": "verb, present tense 1st person singular (saṁ + niggaṇhāti)",
+  "breakdown": [
+   ["saṁ-", "Prefix: fully."],
+   ["niggaṇhāti", "Restrains, rebukes (ni + √gah “to seize”)."],
+   ["-āmi", "1st person singular ending."]
+  ]
+ },
+ "sannipātā": {
+  "meaning": "congregation; assembly; gathering",
+  "gram": "masculine noun (nominative plural / ablative singular), from sannipatati",
+  "breakdown": [
+   ["saṁ-", "Prefix: together."],
+   ["ni-", "Prefix: down."],
+   ["√pat + a", "Root “to fall, alight” with noun suffix: a falling together, assembly."]
+  ]
+ }
+}

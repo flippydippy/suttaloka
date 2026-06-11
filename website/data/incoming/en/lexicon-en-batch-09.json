@@ -1,0 +1,414 @@
+{
+ "appavattaṁ": {
+  "meaning": "non-occurrence; standstill, stagnancy; not rolling on",
+  "summary": "This is a negated participle meaning “not rolling on”, i.e. coming to a standstill.",
+  "gram": "neuter noun / past participle (na + pa + √vatt)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following p)."],
+   ["pavatta", "Rolled on, occurring; from pa + √vatt “to turn, proceed”."]
+  ],
+  "forms": ["appavattaṃ"]
+ },
+ "appaṭibhayo": {
+  "meaning": "free from fear; without terror",
+  "gram": "adjective, nominative singular masculine (na + paṭi + √bhī)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following p)."],
+   ["paṭibhaya", "Fear, terror; from paṭi + √bhī “to fear”."]
+  ]
+ },
+ "appaṭivedhā": {
+  "meaning": "non-comprehension; non-penetration",
+  "gram": "masculine noun (na + paṭi + √vidh)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following p)."],
+   ["paṭivedha", "Penetration, comprehension; piercing through to the truth; from paṭi + √vidh “to pierce”."]
+  ]
+ },
+ "appaṭivijjhanto": {
+  "meaning": "not piercing through; not penetrating",
+  "gram": "present participle, nominative singular masculine, of na paṭivijjhati",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following p)."],
+   ["paṭi", "Prefix: towards, against, through."],
+   ["vijjhanto", "Piercing; present participle of vijjhati, from √vidh “to pierce”."]
+  ]
+ },
+ "appesakkhasaṁvattanikā": {
+  "meaning": "conducive to little influence; leading to little power",
+  "summary": "This is a compound meaning “conducive to having little influence”.",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["appesakkha", "Of little influence, of little power (appa “little” + esakkha)."],
+   ["saṁvattanikā", "Conducive to, leading to; from saṁ + √vatt."]
+  ],
+  "forms": ["appesakkhasaṃvattanikā"]
+ },
+ "appesakkhasaṁvat­": {
+  "meaning": "conducive to little influence; leading to little power",
+  "gram": "adjective, compound",
+  "note": "uncertain: this headword is a line-break fragment of appesakkhasaṁvattanikā in the source vocabulary; see that entry.",
+  "forms": ["appesakkhasaṁvattanikā"]
+ },
+ "appesakkho": {
+  "meaning": "of little influence; of little power",
+  "gram": "adjective, nominative singular masculine",
+  "breakdown": [
+   ["appa", "Little, few."],
+   ["esakkha", "Influence, standing; the lexicon parses the compound literally as “few friends”."]
+  ],
+  "note": "divergence: the lexicon parses literally as appa + sakkha (“few + friends”); DPD derives the compound from appa + yasas + ka (“little fame/influence”). Both yield the sense “of little influence”."
+ },
+ "appicchatā": {
+  "meaning": "fewness of wishes; contentedness; having few wants",
+  "gram": "feminine abstract noun (appa + icchā + -tā)",
+  "breakdown": [
+   ["appa", "Little, few."],
+   ["icchā", "Wish, desire."],
+   ["-tā", "Abstract noun suffix: “the state of”."]
+  ]
+ },
+ "appiya": {
+  "meaning": "unpleasant, disagreeable; not dear, unwelcome",
+  "gram": "adjective (na + piya)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following p)."],
+   ["piya", "Dear, pleasant, beloved; from √pī."]
+  ]
+ },
+ "appiyehi": {
+  "meaning": "with those who are disagreeable; with the unloved",
+  "gram": "adjective, instrumental/ablative plural of appiya (na + piya)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not” (with sandhi doubling of the following p)."],
+   ["piyehi", "Instrumental/ablative plural of piya “dear, pleasant”."]
+  ]
+ },
+ "appossukkatāya": {
+  "meaning": "with little eagerness; inactivity, unconcern",
+  "gram": "feminine abstract noun, instrumental/dative singular (appa + ussukka + -tā)",
+  "breakdown": [
+   ["appa", "Little, few (appa + u- coalesces to appo-)."],
+   ["ussukka", "Energy, eagerness, exertion."],
+   ["-tāya", "Abstract noun suffix -tā in the instrumental/dative singular."]
+  ]
+ },
+ "appātaṅko": {
+  "meaning": "having little sickness; free from affliction",
+  "gram": "adjective, nominative singular masculine (appa + ātaṅka)",
+  "breakdown": [
+   ["appa", "Little, few."],
+   ["ātaṅka", "Sickness, affliction."]
+  ]
+ },
+ "appāyukasaṁvattanikā": {
+  "meaning": "conducive to a short life span",
+  "summary": "This is a compound meaning “leading to short life”.",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["appa", "Little, short."],
+   ["āyuka", "Having a life span; from āyu “life”."],
+   ["saṁvattanikā", "Conducive to, leading to."]
+  ],
+  "forms": ["appāyukasaṃvattanikā"]
+ },
+ "apuññāyatanaṁ": {
+  "meaning": "occasion of demerit; sphere of demerit",
+  "gram": "neuter noun, compound (na + puñña + āyatana)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["puñña", "Merit, wholesome action."],
+   ["āyatanaṁ", "Sphere, occasion, base (puñña + āyatana coalesces to puññāyatana)."]
+  ]
+ },
+ "apārutagharā": {
+  "meaning": "with open house; whose house stands open",
+  "gram": "adjective, compound (apāruta + ghara)",
+  "breakdown": [
+   ["apāruta", "Open, opened; past participle of apāpurati “to open”."],
+   ["gharā", "House."]
+  ]
+ },
+ "apārutā": {
+  "meaning": "open, opened",
+  "gram": "past participle of apāpurati (apa + ā + √var)",
+  "breakdown": [
+   ["apa + ā", "Verbal prefixes."],
+   ["√var", "Root “to cover, obstruct”; the negated-opening sense gives “opened, uncovered”."],
+   ["-ta", "Past participle suffix."]
+  ]
+ },
+ "apārā": {
+  "meaning": "not beyond; this side, the near shore",
+  "gram": "noun/adjective, plural (na + pāra)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["pāra", "The far shore, the beyond."]
+  ]
+ },
+ "apāya": {
+  "meaning": "state of woe; lower world of existence; loss, ruin",
+  "gram": "masculine noun (apa + √i “to go away”)",
+  "breakdown": [
+   ["apa", "Prefix: away, down."],
+   ["√i", "Root “to go”; literally “going away”, hence downfall, state of woe."]
+  ],
+  "goenka": "In the suttas apāya denotes the states of woe — the lower fields of existence into which beings arise after death through the ripening of unwholesome actions. Wrong view and unwholesome kamma are said to lead to apāya, duggati, vinipāta and niraya — states of woe, downfall, the lower fields and hell — while right view and wholesome conduct lead to happy states. The word also carries the everyday sense of loss or ruin, as in the causes of dissipating one's wealth."
+ },
+ "apāyamukhāni": {
+  "meaning": "causes of ruin; ways of diminishing one’s wealth (literally “mouths of loss”)",
+  "gram": "neuter noun, plural, compound (apāya + mukha)",
+  "breakdown": [
+   ["apāya", "Loss, ruin."],
+   ["mukhāni", "Mouths, openings; figuratively the channels through which wealth drains away."]
+  ]
+ },
+ "apāyasahāyo": {
+  "meaning": "companion in ruin; friend who leads to loss",
+  "gram": "masculine noun, compound (apāya + sahāya)",
+  "breakdown": [
+   ["apāya", "Loss, misfortune, ruin."],
+   ["sahāyo", "Companion, friend."]
+  ]
+ },
+ "apāyaṁ": {
+  "meaning": "state of woe; going away, downfall (accusative)",
+  "gram": "masculine noun, accusative singular of apāya",
+  "breakdown": [
+   ["apa", "Prefix: away, down."],
+   ["√i", "Root “to go”; literally “going away”, hence state of woe."]
+  ],
+  "forms": ["apāyaṃ"]
+ },
+ "apāyaṁ going": {
+  "meaning": "apāyaṁ: going away; state of woe",
+  "gram": "masculine noun, accusative singular of apāya",
+  "note": "uncertain: this headword is a glossary-row artifact; the entry is apāyaṁ with the gloss “going away, state of woe”. See apāyaṁ."
+ },
+ "arahattaphalaṁ": {
+  "meaning": "the fruit of arahantship; the fruition of full liberation",
+  "gram": "neuter noun, compound (arahatta + phala)",
+  "breakdown": [
+   ["arahatta", "Arahantship; the state of an arahant, a fully liberated one."],
+   ["phalaṁ", "Fruit, fruition, result."]
+  ],
+  "forms": ["arahattaphalaṃ"]
+ },
+ "arahaṁ": {
+  "meaning": "a worthy one; an Arahant",
+  "gram": "masculine noun, nominative singular of arahant (irregular; from arahati “to be worthy”)",
+  "breakdown": [
+   ["√arah", "Root “to be worthy, to deserve”."],
+   ["-ant", "Present participle stem; arahant is “one who is worthy”."]
+  ],
+  "goenka": "Arahaṁ is the nominative singular of arahant, “a worthy one” — one of the foremost epithets of the Buddha and of every fully liberated being. An Arahant has walked the path to its end and eradicated all mental impurities; in the tradition such a one is also called khīṇāsavo, whose mind is freed from all four mental obsessions: desire for sensuality, desire for living, attachment to philosophical speculations, and ignorance.",
+  "forms": ["arahaṃ", "arahant"]
+ },
+ "arakajātakavaṇṇanā": {
+  "meaning": "the commentary on the Araka Jātaka, which relates that the Bodhisatta was once born as the brahmin Araka",
+  "gram": "proper noun, feminine (commentary title)",
+  "forms": ["Arakajātakavaṇṇanā"]
+ },
+ "arakasuttaṁ": {
+  "meaning": "the Araka Sutta, a discourse named after the teacher Araka",
+  "gram": "proper noun, neuter (sutta title; Araka + suttaṁ)",
+  "forms": ["Arakasuttaṃ"]
+ },
+ "araññasuttavaṇṇanā, sagāthāvagga-aṭṭhakathā, saṁyuttanikāye.": {
+  "meaning": "the commentary on the Arañña Sutta, in the Sagāthāvagga commentary of the Saṁyutta Nikāya",
+  "gram": "phrase (textual citation)"
+ },
+ "araññasuttaṁ": {
+  "meaning": "the Arañña Sutta, the “Forest” discourse (arañña: forest, woods)",
+  "gram": "proper noun, neuter (sutta title)",
+  "forms": ["Araññasuttaṃ"]
+ },
+ "araññe": {
+  "meaning": "in the forest",
+  "gram": "neuter noun, locative singular of arañña",
+  "breakdown": [
+   ["arañña", "Forest, wilderness; from √ar."],
+   ["-e", "Locative singular ending: “in”."]
+  ]
+ },
+ "araññe in the": {
+  "meaning": "araññe: in the forest",
+  "gram": "neuter noun, locative singular of arañña",
+  "note": "uncertain: this headword is a glossary-row artifact; the entry is araññe with the gloss “in the forest”. See araññe."
+ },
+ "ariyamaggadhammaṁ": {
+  "meaning": "the Dhamma of the Noble Path; the teaching that is the noble path",
+  "gram": "masculine/neuter noun, accusative singular, compound (ariya + magga + dhamma)",
+  "breakdown": [
+   ["ariya", "Noble."],
+   ["magga", "Path."],
+   ["dhammaṁ", "Teaching, law, Dhamma."]
+  ],
+  "note": "uncertain: the lexicon entry is fragmentary (“‘not this Dhamma’: is the noble path of”); the meaning is reconstructed from the compound members.",
+  "forms": ["ariyamaggadhammaṃ"]
+ },
+ "ariyamaggaphalasampayuttā": {
+  "meaning": "connected with the noble path and its fruit; resulting from the noble path and fruition",
+  "gram": "adjective, compound (ariyamagga + phala + sampayutta)",
+  "breakdown": [
+   ["ariyamagga", "The noble path."],
+   ["phala", "Fruit, fruition."],
+   ["sampayuttā", "Connected with, associated with; resulting from."]
+  ]
+ },
+ "ariyamaggasamaṅgino": {
+  "meaning": "endowed with the Noble Path; possessing the noble path",
+  "gram": "adjective, genitive singular (or nominative plural) of ariyamaggasamaṅgī, compound",
+  "breakdown": [
+   ["ariya", "Noble."],
+   ["magga", "Path."],
+   ["samaṅgino", "Possessing, endowed with; from samaṅgī."]
+  ]
+ },
+ "ariyasaccakathā, mahāparinibbānasuttaṁ, dīghanikāyo.": {
+  "meaning": "the “Discussion of the Noble Truths” section of the Mahāparinibbāna Sutta in the Dīgha Nikāya",
+  "gram": "phrase (textual citation)"
+ },
+ "ariyasaccānadassanaṁ": {
+  "meaning": "seeing the Noble Truths; witnessing the Noble Truths",
+  "gram": "neuter noun, compound (ariyasaccānaṁ + dassana)",
+  "breakdown": [
+   ["ariya", "Noble."],
+   ["saccāna", "Of the truths (genitive plural saccānaṁ, shortened in the compound)."],
+   ["dassanaṁ", "Seeing, witnessing, vision; from √dis “to see”."]
+  ],
+  "forms": ["ariyasaccānadassanaṃ"]
+ },
+ "ariyāyatane": {
+  "meaning": "in the region of the Ariyas; in the sphere of the noble ones",
+  "gram": "neuter noun, locative singular, compound (ariya + āyatana)",
+  "breakdown": [
+   ["ariya", "Noble; a noble one."],
+   ["āyatane", "Region, sphere, base; locative singular (ariya + āyatana coalesces to ariyāyatana)."]
+  ]
+ },
+ "aruṇuggaṁ": {
+  "meaning": "sunrise; the rising of dawn",
+  "gram": "neuter noun, compound (aruṇa + ugga)",
+  "breakdown": [
+   ["aruṇa", "Dawn; the rising sun."],
+   ["uggaṁ", "Rising; from ud + √gam."]
+  ],
+  "forms": ["aruṇuggaṃ"]
+ },
+ "asabbhā": {
+  "meaning": "low, vile; uncultured, not fit for the assembly",
+  "gram": "adjective (na + sabhā “assembly”)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sabbha", "Befitting the assembly (sabhā), cultured; hence asabbha “unworthy of decent society, vile”."]
+  ]
+ },
+ "asaddhammappaṭisevanaṭṭhānavītikkamacetanā": {
+  "meaning": "the volition of transgression consisting in indulging in unrighteous practice in a wrong place",
+  "summary": "This is a long technical compound: unrighteous + practising + (wrong) place + transgression + volition.",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["asaddhamma", "The untrue, unrighteous practice (a- “not” + saddhamma “true teaching/right conduct”)."],
+   ["paṭisevana", "Practising, indulging in (with sandhi doubling of the p)."],
+   ["aṭṭhāna", "Wrong place, improper occasion."],
+   ["vītikkama", "Transgression, overstepping."],
+   ["cetanā", "Volition, intention."]
+  ]
+ },
+ "asaddhammādhippāyena": {
+  "meaning": "with unrighteous intention; with a sinful wish",
+  "gram": "masculine noun, instrumental singular, compound (asaddhamma + adhippāya)",
+  "breakdown": [
+   ["asaddhamma", "Sinful, unrighteous; the opposite of saddhamma, the true teaching."],
+   ["adhippāyena", "With intention, with wish; instrumental singular of adhippāya."]
+  ]
+ },
+ "asallīnaṁ": {
+  "meaning": "not sluggish; unshaken, alert",
+  "gram": "past participle of na sallīyati (na + saṁ + √lī)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sallīna", "Sluggish, cowering, shrunk back; saṁ + √lī “to cling, stick”."]
+  ],
+  "forms": ["asallīnaṃ"]
+ },
+ "asambhuṇanto": {
+  "meaning": "not being able; not adequate to",
+  "gram": "present participle, nominative singular masculine, of na sambhuṇāti",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sambhuṇanto", "Being able, being adequate; present participle of sambhuṇāti/sambhavati."]
+  ]
+ },
+ "asambādhaṁ": {
+  "meaning": "unobstructed; without crowding, unconfined",
+  "gram": "adjective (na + saṁ + √bādh)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sambādha", "Obstruction, crowding, confinement; from saṁ + √bādh “to oppress”."]
+  ],
+  "forms": ["asambādhaṃ"]
+ },
+ "asammosāya": {
+  "meaning": "for the absence of confusion; for non-bewilderment",
+  "gram": "masculine noun, dative singular of asammosa (na + saṁ + √mus)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sammosa", "Confusion, forgetting, bewilderment; from saṁ + √mus."],
+   ["-āya", "Dative singular ending: “for”."]
+  ]
+ },
+ "asammuṭṭhā": {
+  "meaning": "not originating, not rising; not forgotten, unconfused",
+  "gram": "past participle of na sammussati (na + saṁ + √mus)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sammuṭṭhā", "Forgotten, confused; past participle of sammussati."]
+  ],
+  "note": "divergence: the lexicon glosses “not + originating, rising”; DPD analyses the form as the past participle of na sammussati, “not forgotten”. The lexicon gloss is given first."
+ },
+ "asammūḷho": {
+  "meaning": "not bewildered; not foolish, unconfused",
+  "gram": "past participle, nominative singular masculine, of na sammuyhati (na + saṁ + √muh)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sammūḷho", "Bewildered, infatuated; past participle of sammuyhati (mūḍha > mūḷha)."]
+  ]
+ },
+ "asamodhānaṁ": {
+  "meaning": "non-combination; absence of collocation or conjunction",
+  "gram": "neuter noun (na + saṁ + ava + √dhā)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["samodhāna", "Collocation, combination, putting together; from saṁ + ava + √dhā."]
+  ],
+  "forms": ["asamodhānaṃ"]
+ },
+ "asampakampiyo": {
+  "meaning": "that cannot be shaken; unshakeable",
+  "gram": "potential participle, nominative singular masculine, of na sampakampati (na + saṁ + pa + √kamp)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["sampakampiya", "To be shaken; potential participle of sampakampati “to shake, tremble”."]
+  ]
+ },
+ "asamādhisaṁvattanikā": {
+  "meaning": "not conducive to concentration",
+  "gram": "adjective, compound (na + samādhi + saṁvattanika)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["samādhi", "Concentration; mastery over the mind."],
+   ["saṁvattanikā", "Conducive to, leading to, proceeding towards."]
+  ],
+  "forms": ["asamādhisaṃvattanikā"]
+ },
+ "asamāgamo": {
+  "meaning": "non-meeting; absence of union",
+  "gram": "masculine noun (na + saṁ + ā + √gam)",
+  "breakdown": [
+   ["a-", "Negative prefix meaning “not”."],
+   ["samāgamo", "Meeting, union, coming together; from saṁ + ā + √gam “to go”."]
+  ]
+ }
+}

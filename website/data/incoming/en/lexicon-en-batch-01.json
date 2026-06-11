@@ -1,0 +1,443 @@
+{
+ "3.4.9 kosambiyasuttaṁ -": {
+  "meaning": "the Kosambiya Sutta (lesson 3.4.9), \"Quarrel Breeds Disharmony\"",
+  "summary": "This is the title of a sutta, named after the town of Kosambī where it was delivered.",
+  "gram": "proper noun (sutta title)"
+ },
+ "abbhantarāni": {
+  "meaning": "interior, internal",
+  "gram": "adjective, neuter plural (from antara)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix; before a vowel it becomes abbh-."],
+   ["antara", "Inside, interior, in between."]
+  ]
+ },
+ "abbhatthaṁ": {
+  "meaning": "declining, perishing, reducing; disappearance, setting",
+  "gram": "neuter noun (from attha), often adverbial accusative",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, over\"; before a vowel it becomes abbh-."],
+   ["attha", "Setting, disappearance (as of the sun); home, end."]
+  ]
+ },
+ "abbhokāsagatassa": {
+  "meaning": "gone into the open, staying in the open air",
+  "summary": "This is a compound meaning \"gone (gata) to the open space (abbhokāsa)\".",
+  "gram": "adjective, compound; genitive/dative singular",
+  "breakdown": [
+   ["abbhokāsa", "Open air, open space, the open sky."],
+   ["gata", "Gone, gone to (past participle of gacchati)."],
+   ["-ssa", "Genitive/dative singular ending."]
+  ]
+ },
+ "abbhokāse": {
+  "meaning": "in the open air, under the open sky",
+  "gram": "masculine noun, locative singular of abbhokāsa",
+  "breakdown": [
+   ["abhi-", "Prefix; before a vowel it becomes abbh-."],
+   ["avakāsa/okāsa", "Space, open space, opportunity (ava + √kās \"to shine, appear\")."]
+  ]
+ },
+ "abbhokāso": {
+  "meaning": "open air, open sky; open space",
+  "gram": "masculine noun, nominative singular",
+  "breakdown": [
+   ["abhi-", "Prefix; before a vowel it becomes abbh-."],
+   ["okāsa", "Space, open space (ava + √kās \"to shine, appear\")."]
+  ],
+  "note": "divergence: the lexicon's breakdown gives abbha (\"sky, cloud\") + okāsa (\"space\"); DPD derives it as abhi + ava + √kās. Both analyses circulate; the sense \"open air, open sky\" is the same."
+ },
+ "abbhuggacchati": {
+  "meaning": "to go forth, go out; to rise into (the air); to spread abroad",
+  "gram": "verb, 3rd person singular present (abhi + ud + √gam)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, over\"; before a vowel it becomes abbh-."],
+   ["ud-", "Prefix \"up, out\", assimilated to ugg-."],
+   ["√gam", "Root \"to go\" (present stem gaccha-)."]
+  ]
+ },
+ "abbhuggamana": {
+  "meaning": "going out over, rising over",
+  "gram": "neuter action noun (from abbhuggacchati)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, over\"; before a vowel it becomes abbh-."],
+   ["ud-", "Prefix \"up, out\"."],
+   ["√gam", "Root \"to go\"."],
+   ["-ana", "Suffix forming action nouns."]
+  ]
+ },
+ "abbhuggata": {
+  "meaning": "gone forth, gone out, risen; spread abroad",
+  "gram": "past participle of abbhuggacchati",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, over\"; before a vowel it becomes abbh-."],
+   ["ud-", "Prefix \"up, out\"."],
+   ["√gam", "Root \"to go\" + past participle suffix -ta."]
+  ]
+ },
+ "abbhāgamana": {
+  "meaning": "coming, arrival, approach",
+  "gram": "neuter action noun (from abbhāgacchati)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"; before a vowel it becomes abbh-."],
+   ["ā-", "Prefix \"to, towards\"."],
+   ["√gam", "Root \"to go\"."],
+   ["-ana", "Suffix forming action nouns."]
+  ]
+ },
+ "abbhāgata": {
+  "meaning": "having arrived, having come; a guest, a stranger",
+  "gram": "adjective/past participle; as a noun, masculine",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"; before a vowel it becomes abbh-."],
+   ["ā-", "Prefix \"to, towards\"."],
+   ["√gam", "Root \"to go\" + past participle suffix -ta."]
+  ]
+ },
+ "abbuhe": {
+  "meaning": "to pull out, draw out",
+  "summary": "A form of the verb abbuhati/abbahati \"to pull out\"; the related gerund is abbuyha \"having drawn out\".",
+  "gram": "verb form of abbuhati/abbahati (ā + √buh)",
+  "breakdown": [
+   ["ā-", "Prefix \"to, towards\" (doubled consonant by sandhi: abb-)."],
+   ["√buh", "Root \"to pull, draw out\"."]
+  ]
+ },
+ "abbuhe/abbuyha": {
+  "meaning": "to pull out, draw out; (abbuyha) having drawn out",
+  "gram": "verb forms of abbuhati/abbahati; abbuyha is the gerund",
+  "breakdown": [
+   ["ā-", "Prefix \"to, towards\" (doubled consonant by sandhi: abb-)."],
+   ["√buh", "Root \"to pull, draw out\"."],
+   ["-ya", "Gerund suffix (in abbuyha, \"having drawn out\")."]
+  ]
+ },
+ "abhabbaṁ": {
+  "meaning": "not likely, impossible; incapable",
+  "gram": "adjective (potential participle of na bhavati), neuter/accusative singular",
+  "breakdown": [
+   ["a-", "Negative prefix \"not\"."],
+   ["bhabba", "Able, capable, possible (potential participle of bhavati, √bhū)."]
+  ]
+ },
+ "abhabbo": {
+  "meaning": "incapable, unable; one for whom something is impossible",
+  "gram": "adjective (potential participle of na bhavati), masculine nominative singular",
+  "breakdown": [
+   ["a-", "Negative prefix \"not\"."],
+   ["bhabba", "Able, capable, possible (potential participle of bhavati, √bhū)."]
+  ]
+ },
+ "abhabbābhāsaṁ": {
+  "meaning": "having the appearance of being incapable; seeming incapable",
+  "summary": "This is a compound meaning \"the appearance (ābhāsa) of one incapable (abhabba)\".",
+  "gram": "adjective, compound; accusative singular",
+  "breakdown": [
+   ["a-", "Negative prefix \"not\"."],
+   ["bhabba", "Able, capable."],
+   ["ābhāsa", "Appearance, radiance, semblance."]
+  ]
+ },
+ "abhavissa": {
+  "meaning": "he would be, it would have been",
+  "gram": "verb, 3rd person singular conditional of bhavati (√bhū)",
+  "breakdown": [
+   ["a-", "Augment marking the conditional/past."],
+   ["bhava", "Present stem of bhavati \"to be, become\" (√bhū)."],
+   ["-issa", "Conditional ending, 3rd person singular."]
+  ]
+ },
+ "abhavissaṁsu": {
+  "meaning": "they would be, they would have been",
+  "gram": "verb, 3rd person plural conditional of bhavati (√bhū)",
+  "breakdown": [
+   ["a-", "Augment marking the conditional/past."],
+   ["bhava", "Present stem of bhavati \"to be, become\" (√bhū)."],
+   ["-issaṁsu", "Conditional ending, 3rd person plural."]
+  ]
+ },
+ "abhi": {
+  "meaning": "towards, about, against; over, fully (intensifying prefix)",
+  "gram": "prefix",
+  "forms": ["abhi-"]
+ },
+ "abhibhosmi": {
+  "meaning": "I am the conqueror, I am the one who has overcome",
+  "summary": "A sandhi fusion of abhibhū \"conqueror, master\" and asmi \"I am\".",
+  "gram": "sandhi compound: masculine noun + verb, 1st person singular present",
+  "breakdown": [
+   ["abhibhū", "Overcomer, conqueror, master (abhi + √bhū)."],
+   ["asmi", "\"I am\", 1st person singular of atthi. (The fusion ū + a → o.)"]
+  ]
+ },
+ "abhibhūto": {
+  "meaning": "overpowered, overwhelmed",
+  "gram": "past participle of abhibhavati, masculine nominative singular",
+  "breakdown": [
+   ["abhi-", "Prefix \"over, against\"."],
+   ["bhūta", "Past participle of bhavati (√bhū); abhibhūta = \"overcome\"."]
+  ]
+ },
+ "abhigacchati": {
+  "meaning": "to go forward, to approach",
+  "gram": "verb, 3rd person singular present (abhi + √gam)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"."],
+   ["√gam", "Root \"to go\" (present stem gaccha-)."]
+  ]
+ },
+ "abhigamanīya": {
+  "meaning": "to be approached, accessible",
+  "gram": "future passive participle (abhi + √gam + anīya)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"."],
+   ["√gam", "Root \"to go\"."],
+   ["-anīya", "Suffix of the future passive participle, \"to be ...-ed\"."]
+  ]
+ },
+ "abhihāsanaṁ": {
+  "meaning": "deep mirth, great joy",
+  "gram": "neuter noun (abhi + √has)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix, \"deeply, greatly\"."],
+   ["hāsa", "Mirth, joy, laughter (√has)."],
+   ["-ana", "Noun-forming suffix."]
+  ]
+ },
+ "abhijjhā": {
+  "meaning": "greed, desire; covetousness",
+  "gram": "feminine noun, abstract (abhi + √jhā)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, over\"."],
+   ["√jhā", "Root \"to think, brood\"; abhijjhā is literally \"brooding over\" what others have."]
+  ],
+  "goenka": "Abhijjhā, covetousness or greed, is listed among the ten unwholesome actions (akusala kamma): in the Sammādiṭṭhi-sutta it stands alongside ill will and wrong view as one of the unwholesome states a Noble Disciple learns to understand and abandon. Its opposite, anabhijjhā (freedom from covetousness), is correspondingly wholesome. In the satipaṭṭhāna context the meditator practises \"having removed abhijjhā and domanassa (covetousness and aversion) with regard to the world\"."
+ },
+ "abhijjhādomanassaṁ": {
+  "meaning": "covetousness and discontent; craving and aversion",
+  "summary": "A compound pairing the two poles of mental reaction: abhijjhā (covetousness) and domanassa (discontent, distress).",
+  "gram": "compound noun, accusative singular",
+  "breakdown": [
+   ["abhijjhā", "Covetousness, greed, desire."],
+   ["domanassa", "Discontent, distress, mental displeasure."]
+  ],
+  "goenka": "This pair appears in the refrain of the Satipaṭṭhāna-sutta: the meditator dwells observing body, sensations, mind and mental contents \"vineyya loke abhijjhādomanassaṁ\" — having removed covetousness and discontent with regard to the world. In the tradition's understanding these are the two basic reactions of craving and aversion that the practice of equanimous observation dissolves."
+ },
+ "abhijjhālu": {
+  "meaning": "covetous, full of greed",
+  "gram": "adjective (from abhijjhā)",
+  "breakdown": [
+   ["abhijjhā", "Covetousness, greed."],
+   ["-ālu", "Possessive suffix, \"full of, given to\"."]
+  ]
+ },
+ "abhijjhāyantā": {
+  "meaning": "coveting, filled with covetousness",
+  "gram": "present participle of abhijjhāyati, plural",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, over\"."],
+   ["jhāya", "Present stem \"to brood, dwell on\" (√jhā)."],
+   ["-nta", "Present participle suffix."]
+  ]
+ },
+ "abhikkantavaṇṇā": {
+  "meaning": "of surpassing beauty, of excellent appearance",
+  "summary": "A compound describing devas: abhikkanta \"surpassing, excellent\" + vaṇṇa \"beauty, complexion\".",
+  "gram": "adjective, compound; feminine/plural ending -ā",
+  "breakdown": [
+   ["abhikkanta", "Surpassing, excellent (past participle of abhikkamati)."],
+   ["vaṇṇa", "Beauty, complexion, appearance."]
+  ]
+ },
+ "abhikkantaṁ": {
+  "meaning": "excellent, supreme; wonderful (as an exclamation of approval)",
+  "gram": "past participle of abhikkamati, neuter/accusative singular",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["√kam", "Root \"to step, advance\" + past participle suffix -ta (with kk doubling)."]
+  ]
+ },
+ "abhikkantāya": {
+  "meaning": "advanced, far gone (of the night: \"when the night was far advanced\")",
+  "gram": "past participle of abhikkamati, feminine locative/instrumental singular",
+  "breakdown": [
+   ["abhi-", "Prefix \"onwards\"."],
+   ["√kam", "Root \"to step, advance\" + past participle suffix -ta."],
+   ["-āya", "Feminine oblique singular ending."
+   ]
+  ]
+ },
+ "abhinibbatti": {
+  "meaning": "birth, rebirth, becoming; arising into existence",
+  "gram": "feminine abstract noun (from abhinibbattati)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"."],
+   ["nibbatti", "Arising, coming into existence (ni + √vatt + i)."]
+  ]
+ },
+ "abhinikkhamanato": {
+  "meaning": "from the going forth; from retiring from the world to devote oneself to the ascetic life",
+  "gram": "neuter action noun with ablative suffix -to",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, out\"."],
+   ["nikkhamana", "Going out, departure, renunciation (ni + √kam)."],
+   ["-to", "Ablative suffix, \"from\"."]
+  ]
+ },
+ "abhinippīḷayato": {
+  "meaning": "crushing, subduing; of one who crushes",
+  "gram": "present participle of abhinippīḷayati, genitive/dative singular",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["ni-", "Prefix \"down\" (with pp doubling)."],
+   ["√pīḷ", "Root \"to press, oppress\"."],
+   ["-ayato", "Present participle, genitive/dative singular."]
+  ]
+ },
+ "abhiniropanā": {
+  "meaning": "firm planting (of the mind); mental fixity; application of the mind, fixing one's mind",
+  "gram": "feminine abstract noun (from abhiniropeti)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix, \"firmly\"."],
+   ["ni-", "Prefix \"down, onto\"."],
+   ["ropanā", "Planting, fixing (causative of √ruh \"to grow\")."]
+  ]
+ },
+ "abhinivajjetvā": {
+  "meaning": "having avoided, having got rid of",
+  "gram": "gerund (absolutive) of abhinivajjeti",
+  "breakdown": [
+   ["abhi-", "Prefix \"away, aside\"."],
+   ["ni-", "Prefix \"down\"."],
+   ["√vajj", "Root \"to avoid, shun\"."],
+   ["-etvā", "Gerund suffix, \"having ...-ed\"."]
+  ]
+ },
+ "abhinivajjeyyāsi": {
+  "meaning": "you should get rid of, you should avoid, turn back from, desist",
+  "gram": "verb, 2nd person singular optative of abhinivajjeti",
+  "breakdown": [
+   ["abhi-", "Prefix \"away, aside\"."],
+   ["ni-", "Prefix \"down\"."],
+   ["√vajj", "Root \"to avoid, shun\"."],
+   ["-eyyāsi", "Optative ending, 2nd person singular."]
+  ]
+ },
+ "abhinivissa": {
+  "meaning": "having adhered to, having clung to",
+  "gram": "gerund of abhinivisati",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, onto\"."],
+   ["ni-", "Prefix \"down, into\"."],
+   ["√vis", "Root \"to enter, settle\" + gerund suffix -ya (giving -vissa)."]
+  ]
+ },
+ "abhinīto": {
+  "meaning": "brought to, led to; obliged by",
+  "gram": "past participle of abhineti, masculine nominative singular",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"."],
+   ["√nī", "Root \"to lead\" + past participle suffix -ta."]
+  ]
+ },
+ "abhirūpo": {
+  "meaning": "of perfect form, very handsome",
+  "gram": "adjective, masculine nominative singular",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix, \"exceedingly\"."],
+   ["rūpa", "Form, appearance, body."]
+  ]
+ },
+ "abhisajjati": {
+  "meaning": "to be angry, to scold; to take offence",
+  "gram": "verb, 3rd person singular present (abhi + √saj)",
+  "breakdown": [
+   ["abhi-", "Prefix \"against\"."],
+   ["√saj", "Root \"to cling, stick\"; with abhi-, \"to get stuck on, take offence, be angry\"."]
+  ]
+ },
+ "abhisambujjhati": {
+  "meaning": "to understand fully, to become fully enlightened",
+  "gram": "verb, 3rd person singular present (abhi + saṁ + √budh)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix, \"fully\"."],
+   ["saṁ-", "Prefix \"completely, together\"."],
+   ["√budh", "Root \"to awaken, understand\" (present stem bujjha-)."]
+  ]
+ },
+ "abhisamecca": {
+  "meaning": "having attained, having fully realized; would attain",
+  "gram": "gerund of abhisameti",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["saṁ-", "Prefix \"completely\"."],
+   ["√i", "Root \"to go\"; abhisameti = \"to attain, realize\" + gerund suffix -tya (giving -ecca)."]
+  ]
+ },
+ "abhisameti": {
+  "meaning": "to realize, to comprehend, to attain",
+  "gram": "verb, 3rd person singular present (abhi + saṁ + √i)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["saṁ-", "Prefix \"completely\"."],
+   ["√i", "Root \"to go\"; with the prefixes, \"to come at, realize fully\"."]
+  ],
+  "forms": ["abhisametvā"]
+ },
+ "abhisametvā": {
+  "meaning": "having realized, having comprehended",
+  "gram": "gerund (absolutive) of abhisameti",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["saṁ-", "Prefix \"completely\"."],
+   ["√i", "Root \"to go\"."],
+   ["-tvā", "Gerund suffix, \"having ...-ed\"."]
+  ]
+ },
+ "abhisamparāyañca": {
+  "meaning": "and the next existence; and the state after death",
+  "gram": "masculine noun, accusative singular + conjunction ca",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards\"."],
+   ["samparāya", "The next world, the state after death (saṁ + parā + √i)."],
+   ["-ñca", "= ca \"and\", with sandhi ṁ + c → ñc."]
+  ]
+ },
+ "abhisamāgacchati": {
+  "meaning": "to come to understand completely, to grasp fully",
+  "gram": "verb, 3rd person singular present (abhi + saṁ + ā + √gam)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["saṁ-", "Prefix \"completely\"."],
+   ["ā-", "Prefix \"to, towards\"."],
+   ["√gam", "Root \"to go\" (present stem gaccha-)."]
+  ]
+ },
+ "abhisantāpayato": {
+  "meaning": "tormenting, afflicting, constraining; of one who torments",
+  "gram": "present participle of abhisantāpayati (causative), genitive/dative singular",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["saṁ-", "Prefix \"completely\"."],
+   ["√tap", "Root \"to burn, heat\"; causative stem tāpaya- \"to cause to burn, torment\"."],
+   ["-ato", "Present participle, genitive/dative singular."]
+  ]
+ },
+ "abhivadanti": {
+  "meaning": "they declare, they speak out",
+  "gram": "verb, 3rd person plural present of abhivadati (abhi + √vad)",
+  "breakdown": [
+   ["abhi-", "Prefix \"towards, out\"."],
+   ["√vad", "Root \"to speak\"."],
+   ["-anti", "Present ending, 3rd person plural."]
+  ]
+ },
+ "abhivaḍḍhati": {
+  "meaning": "to increase, to grow",
+  "gram": "verb, 3rd person singular present (abhi + √vaḍḍh)",
+  "breakdown": [
+   ["abhi-", "Intensifying prefix."],
+   ["√vaḍḍh", "Root \"to grow, increase\"."]
+  ]
+ }
+}

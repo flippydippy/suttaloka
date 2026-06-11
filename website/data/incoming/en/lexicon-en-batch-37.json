@@ -1,0 +1,439 @@
+{
+ "pa": {
+  "meaning": "out, away; forth (verbal prefix)",
+  "gram": "prefix, used in compounds"
+ },
+ "pabbajitena": {
+  "meaning": "by one gone forth; by someone who has left the householder's life",
+  "gram": "past participle of pabbajati used as a noun, instrumental singular",
+  "breakdown": [
+   ["pa", "Prefix: forth, out."],
+   ["√vaj", "To go; pabbajati means to go forth from home into homelessness."],
+   ["-ita", "Past participle suffix; pabbajita is \"one gone forth\", a renunciate."],
+   ["-ena", "Instrumental singular ending: \"by\"."]
+  ],
+  "forms": ["pabbajita"]
+ },
+ "pabbajito": {
+  "meaning": "one gone forth; someone who has left the householder's life",
+  "gram": "past participle of pabbajati used as a masculine noun, nominative singular",
+  "breakdown": [
+   ["pa", "Prefix: forth, out."],
+   ["√vaj", "To go; pabbajati means to go forth into homelessness."],
+   ["-ita", "Past participle suffix."]
+  ],
+  "forms": ["pabbajita"]
+ },
+ "pabbajja": {
+  "meaning": "going forth; leaving the world, adopting the life of an ascetic, getting ordained",
+  "gram": "gerund of pabbajati (pa + √vaj); also the stem of the noun pabbajjā",
+  "breakdown": [
+   ["pa", "Prefix: forth, out."],
+   ["√vaj", "To go; the going forth from household life."]
+  ]
+ },
+ "pabbajjā": {
+  "meaning": "the going forth; leaving the world to live as an ascetic or recluse, ordination",
+  "gram": "feminine noun (from pabbajati, pa + √vaj)",
+  "breakdown": [
+   ["pa", "Prefix: forth, out."],
+   ["√vaj", "To go."],
+   ["-yā", "Feminine noun suffix (with assimilation: -jjā)."]
+  ]
+ },
+ "pabbatavisamaṁ": {
+  "meaning": "mountainous rough ground; uneven mountain terrain",
+  "gram": "masculine noun, compound, accusative singular",
+  "breakdown": [
+   ["pabbata", "Mountain."],
+   ["visama", "Uneven, rough, dangerous ground."]
+  ]
+ },
+ "pabhinnapaṭisambhide": {
+  "meaning": "developed in analytical insight; one in whom the analytical knowledges have unfolded",
+  "gram": "adjective, compound, locative or vocative form",
+  "breakdown": [
+   ["pabhinna", "Burst open, unfolded, developed (past participle of pabhindati)."],
+   ["paṭisambhidā", "Analytical insight, discriminating knowledge."]
+  ]
+ },
+ "pabujjhasi": {
+  "meaning": "you wake up; you awaken",
+  "gram": "verb, 2nd person singular present of pabujjhati (pa + √budh)",
+  "breakdown": [
+   ["pa", "Prefix: forth."],
+   ["√budh", "To awaken; pabujjhati means to wake up."],
+   ["-asi", "Second person singular ending: \"you ...\"."]
+  ]
+ },
+ "paccakkhāya": {
+  "meaning": "rejecting; having abandoned, having renounced",
+  "gram": "gerund of paccakkhāti (paṭi + √akkh)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: against, back (paty- assimilates to pacc- before a vowel)."],
+   ["√akkh", "To declare; paccakkhāti means to reject, give up, disavow."],
+   ["-āya", "Gerund ending."]
+  ]
+ },
+ "paccantimesu": {
+  "meaning": "in the border (regions); among the outlying, neighbouring (districts)",
+  "gram": "adjective, locative plural of paccantima",
+  "breakdown": [
+   ["paccanta", "Border region, frontier (paṭi + anta \"edge\")."],
+   ["-ima", "Superlative/adjectival suffix: outermost."],
+   ["-esu", "Locative plural ending."]
+  ],
+  "forms": ["paccantima"]
+ },
+ "paccanubhossasī": {
+  "meaning": "you will undergo; you will experience",
+  "gram": "verb, 2nd person singular future of paccanubhavati (paṭi + anu + √bhū)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards, in return."],
+   ["anu", "Prefix: along, after."],
+   ["√bhū", "To be; anubhavati means to experience, undergo."],
+   ["-ossasi", "Second person singular future ending."]
+  ]
+ },
+ "paccassosuṁ": {
+  "meaning": "they replied; they assented, they agreed",
+  "gram": "verb, 3rd person plural aorist of paṭissuṇāti (paṭi + √su)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, in return."],
+   ["√su", "To hear; paṭissuṇāti means to answer, assent."],
+   ["-suṁ", "Third person plural aorist ending."]
+  ]
+ },
+ "paccattaṁ": {
+  "meaning": "individually; for oneself, each for himself",
+  "gram": "adjective used adverbially, accusative singular (paṭi + atta)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards, with reference to."],
+   ["atta", "Self; paccattaṁ means \"with reference to oneself\", individually."]
+  ],
+  "goenka": "Paccattaṁ carries the experiential emphasis central to the tradition: the Dhamma is paccattaṁ veditabbo viññūhi, to be experienced directly by the wise, each for oneself. Truth is not accepted on another's authority but verified individually, within one's own mind and body."
+ },
+ "paccavekkhaṇattho": {
+  "meaning": "for the purpose of reviewing; the aim of looking at (reflecting upon)",
+  "gram": "adjective/noun, compound, masculine nominative singular",
+  "breakdown": [
+   ["paccavekkhaṇa", "Reviewing, looking at, reflection (paṭi + ava + √ikkh \"to see\")."],
+   ["attha", "Purpose, aim, meaning."]
+  ]
+ },
+ "paccavekkhitabbāni": {
+  "meaning": "to be contemplated; to be looked upon, to be considered",
+  "gram": "future passive participle of paccavekkhati (paṭi + ava + √ikkh), neuter plural",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, over."],
+   ["ava", "Prefix: down."],
+   ["√ikkh", "To see; paccavekkhati means to review, contemplate."],
+   ["-itabba", "Future passive participle suffix: \"to be ...-ed\"."]
+  ]
+ },
+ "paccavekkhitvā": {
+  "meaning": "having considered; having contemplated, having reviewed",
+  "gram": "gerund (absolutive) of paccavekkhati (paṭi + ava + √ikkh)",
+  "breakdown": [
+   ["paccavekkhati", "To review, contemplate, consider (paṭi + ava + √ikkh)."],
+   ["-itvā", "Gerund ending: \"having ...-ed\"."]
+  ]
+ },
+ "paccayadānasaññājanakaṁ": {
+  "meaning": "producing the idea of giving requisites; giving rise to the perception that requisites should be offered",
+  "gram": "adjective, compound, accusative/neuter singular",
+  "breakdown": [
+   ["paccaya", "Requisite; the material supports of a monk's life."],
+   ["dāna", "Giving, gift."],
+   ["saññā", "Perception, idea, sign."],
+   ["janaka", "Producing, generating (from √jan \"to beget\")."]
+  ]
+ },
+ "paccayapaṭisaṁyuttakathā": {
+  "meaning": "talk connected with requisites",
+  "gram": "feminine noun, compound",
+  "breakdown": [
+   ["paccaya", "Requisite, material support."],
+   ["paṭisaṁyutta", "Connected with, bound up with (past participle of paṭi + saṁ + √yuj)."],
+   ["kathā", "Talk, conversation."]
+  ]
+ },
+ "paccayapaṭisevana": {
+  "meaning": "use of the requisites (in the source context explained as paccaya + paṭisedhana, refusal of requisites)",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["paccaya", "Requisite, material support."],
+   ["paṭisevana", "Using, partaking of (paṭi + √sev \"to use, frequent\")."]
+  ],
+  "note": "uncertain: the lexicon notes that in its source passage the word stands for paccaya + paṭisedhana, \"requisites + refusal\"."
+ },
+ "paccayiko": {
+  "meaning": "trustworthy; reliable",
+  "gram": "adjective, masculine nominative singular (from paccaya \"ground, confidence\")",
+  "breakdown": [
+   ["paccaya", "Ground, reason; confidence, trust (paṭi + √i \"to go back to\")."],
+   ["-ika", "Adjectival suffix: worthy of trust."]
+  ]
+ },
+ "paccaññāsiṁ": {
+  "meaning": "I acknowledged; I agreed, I admitted",
+  "gram": "verb, 1st person singular aorist of paṭijānāti (paṭi + √ñā)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, in return."],
+   ["√ñā", "To know; paṭijānāti means to acknowledge, admit, profess."],
+   ["-siṁ", "First person singular aorist ending."]
+  ]
+ },
+ "pacchimo": {
+  "meaning": "western; last, hindmost",
+  "gram": "adjective, masculine nominative singular (superlative of pacchā)",
+  "breakdown": [
+   ["pacchā", "After, behind, west."],
+   ["-ima", "Superlative suffix: hindmost, last, western."]
+  ]
+ },
+ "pacchimā": {
+  "meaning": "last; behind; western; lowest",
+  "gram": "adjective, feminine nominative singular or masculine plural of pacchima",
+  "breakdown": [
+   ["pacchā", "After, behind, west."],
+   ["-ima", "Superlative suffix."]
+  ]
+ },
+ "pacchimābhimukhā": {
+  "meaning": "facing west; turned towards the west",
+  "gram": "adjective, compound, plural or feminine form",
+  "breakdown": [
+   ["pacchima", "Western, west."],
+   ["abhimukha", "Facing towards, turned to (abhi + mukha \"face\"). (The long ā at the junction arises by vowel coalescence.)"]
+  ]
+ },
+ "pacchābhattaṁ": {
+  "meaning": "after the meal; in the afternoon",
+  "gram": "indeclinable adverb, compound (accusative singular of pacchābhatta)",
+  "breakdown": [
+   ["pacchā", "After."],
+   ["bhatta", "Meal, food."]
+  ]
+ },
+ "paccuggacchati": {
+  "meaning": "goes out to meet; leaves, goes out",
+  "gram": "verb, 3rd person singular present (paṭi + ud + √gam)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards, in return."],
+   ["ud", "Prefix: up, out."],
+   ["√gam", "To go."]
+  ]
+ },
+ "paccuggamana": {
+  "meaning": "going out to meet; meeting, receiving (a guest)",
+  "gram": "neuter action noun (from paccuggacchati)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards."],
+   ["ud", "Prefix: up, out."],
+   ["√gam", "To go."],
+   ["-ana", "Action-noun suffix."]
+  ]
+ },
+ "paccupaṭṭhapethāti": {
+  "meaning": "\"arrange, provide!\"; have it made ready, wait upon (quoted command)",
+  "gram": "verb, 2nd person plural imperative, causative of paccupaṭṭhahati, with quotation marker ti",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards."],
+   ["upa", "Prefix: near."],
+   ["√ṭhā", "To stand; the causative means to set up, provide, wait upon."],
+   ["-etha + ti", "Second person plural ending followed by the quotation marker ti (with vowel lengthening at the boundary)."]
+  ]
+ },
+ "paccupaṭṭhitaṁ": {
+  "meaning": "present; ready, imminent (literally \"made to stand in front\")",
+  "gram": "past participle of paccupaṭṭhāti, accusative/neuter singular",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards."],
+   ["upa", "Prefix: near."],
+   ["√ṭhā", "To stand; paccupaṭṭhita means standing ready, present."]
+  ]
+ },
+ "paccupaṭṭhitā": {
+  "meaning": "provided; offered, at one's disposal",
+  "gram": "past participle of paccupaṭṭhahati, plural or feminine form",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards."],
+   ["upa", "Prefix: near."],
+   ["√ṭhā", "To stand; set up, made available."]
+  ]
+ },
+ "paccuppannena": {
+  "meaning": "the present (literally \"what has just arisen\"); with the present moment",
+  "gram": "past participle of paccuppajjati used as a noun, instrumental singular",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards, back."],
+   ["ud", "Prefix: up."],
+   ["√pad", "To go; uppanna means arisen; paccuppanna is what has presently arisen, the present."],
+   ["-ena", "Instrumental singular ending."]
+  ],
+  "forms": ["paccuppanna"]
+ },
+ "paccuṭṭheti": {
+  "meaning": "rises out of respect; stands up to greet",
+  "gram": "verb, 3rd person singular present, causative of paccuṭṭhāti (paṭi + ud + √ṭhā)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards."],
+   ["ud", "Prefix: up."],
+   ["√ṭhā", "To stand; to rise up before someone as a mark of respect."]
+  ]
+ },
+ "paccāgacchati": {
+  "meaning": "goes back to; returns",
+  "gram": "verb, 3rd person singular present (paṭi + ā + √gam)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back."],
+   ["ā", "Prefix: towards."],
+   ["√gam", "To go."]
+  ]
+ },
+ "paccājāti": {
+  "meaning": "rebirth; being reborn, coming to a new existence",
+  "gram": "feminine abstract noun (from paccājāyati, paṭi + ā + √jan)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, again."],
+   ["ā", "Prefix: towards."],
+   ["√jan", "To be born."],
+   ["-ti", "Abstract noun suffix."]
+  ]
+ },
+ "paccājāto": {
+  "meaning": "reborn; come into a new existence",
+  "gram": "past participle of paccājāyati, masculine nominative singular",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, again."],
+   ["ā", "Prefix: towards."],
+   ["√jan", "To be born; paccājāta means born again, come into existence."]
+  ]
+ },
+ "paccājāyanti": {
+  "meaning": "they are reborn; they come into a new existence",
+  "gram": "verb, 3rd person plural present of paccājāyati",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, again."],
+   ["ā", "Prefix: towards."],
+   ["√jan", "To be born."],
+   ["-anti", "Third person plural ending."]
+  ]
+ },
+ "paccājāyati": {
+  "meaning": "is reborn; is born into the next existence",
+  "gram": "verb, 3rd person singular present (paṭi + ā + √jan)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: back, again."],
+   ["ā", "Prefix: towards."],
+   ["√jan", "To be born; jāyati \"is born\"."]
+  ]
+ },
+ "paccāsīsati": {
+  "meaning": "hopes for; expects",
+  "gram": "verb, 3rd person singular present (paṭi + āsīsati/āsiṁsati, √siṁs)",
+  "breakdown": [
+   ["paṭi > pacc-", "Prefix: towards, in return."],
+   ["āsīsati", "To hope for, wish, expect (also written āsiṁsati; ā + √siṁs)."]
+  ]
+ },
+ "pacurā": {
+  "meaning": "many; abundant",
+  "gram": "adjective, plural or feminine form of pacura"
+ },
+ "pada paramo": {
+  "meaning": "one for whom words are the utmost; one who grasps no more than the words",
+  "summary": "This is the term padaparama, the last of the four types of persons classified by their capacity to understand the teaching.",
+  "gram": "masculine noun phrase (pada + parama)",
+  "breakdown": [
+   ["pada", "Word, phrase; text."],
+   ["parama", "Utmost, highest; padaparama is literally \"one for whom the words are the utmost\"."]
+  ],
+  "goenka": "The study material explains padaparama literally as \"one for whom words are utmost\": of the four kinds of listeners, the one who, however much he hears, learns and recites, gets no further than the words of the teaching in this life — in contrast to those of quick or unfolding understanding who penetrate the meaning. The classification underscores the tradition's emphasis that the words of the Dhamma are a vehicle; the goal is direct realization beyond them."
+ },
+ "padahati": {
+  "meaning": "strives; exerts oneself, puts forth energy",
+  "gram": "verb, 3rd person singular present (pa + √dhā)",
+  "breakdown": [
+   ["pa", "Prefix: forth."],
+   ["√dhā", "To put; padahati means to apply oneself, strive."]
+  ]
+ },
+ "padajāta": {
+  "meaning": "various kinds of footprints",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["pada", "Foot, footprint."],
+   ["jāta", "Kind, sort; collection (literally \"born, become\")."]
+  ]
+ },
+ "padakkhiṇaṁ": {
+  "meaning": "with the right side towards; circumambulation keeping one's right side to a person or object of respect",
+  "gram": "adjective, accusative singular, used adverbially (pa + dakkhiṇa)",
+  "breakdown": [
+   ["pa", "Prefix: forth."],
+   ["dakkhiṇa", "Right (side); the respectful circuit is made keeping the right side towards the one honoured."]
+  ]
+ },
+ "padakkhiṇaṁ katvā": {
+  "meaning": "having circumambulated with the right side towards; having paid respect by keeping one's right side to a person or object",
+  "gram": "idiom: accusative + gerund of karoti",
+  "breakdown": [
+   ["padakkhiṇaṁ", "With the right side towards (pa + dakkhiṇa \"right\")."],
+   ["katvā", "Having done (gerund of karoti, √kar)."]
+  ]
+ },
+ "padaṁ": {
+  "meaning": "state; place, footing; word, verse-line; track",
+  "gram": "neuter noun, nominative/accusative singular (from pajjati, √pad)",
+  "breakdown": [
+   ["√pad", "To go, step; pada is the step, footing, place — and by extension the word or line as a \"step\" of text."]
+  ],
+  "forms": ["pada"]
+ },
+ "padhāniyaṅga": {
+  "meaning": "factor of endeavour; one of the five qualities required for successful striving",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["padhāniya", "Connected with exertion, fit for striving (from padhāna \"exertion\")."],
+   ["aṅga", "Factor, limb, constituent."]
+  ],
+  "goenka": "The study material lists the five padhāniyaṅgas, factors of endeavour, as saddho, appābādho, asaṭho, āraddhaviriyo, paññavā — faith, good health, honesty, tireless effort and wisdom. Klaus Nothnagel points to the Introduction to lesson 1.4.3, Dhajaggasuttaṁ — Verses for Protection, for further detail. These are the supports a meditator needs to work patiently and persistently on the path."
+ },
+ "paduṭṭhena": {
+  "meaning": "impure; corrupt, spoilt (instrumental: with a corrupted mind)",
+  "gram": "past participle of padussati (pa + √dus), instrumental singular",
+  "breakdown": [
+   ["pa", "Prefix: forth, intensive."],
+   ["√dus", "To spoil, corrupt; paduṭṭha means corrupted, defiled."],
+   ["-ena", "Instrumental singular ending."]
+  ],
+  "goenka": "The word opens the Dhammapada's first verse, cited in the study material: manasā ce paduṭṭhena bhāsati vā karoti vā — if one speaks or acts with an impure, corrupted mind, suffering follows like the wheel follows the foot of the ox. Purity and impurity of mind, not outward form, determine the result of action (kamma)."
+ },
+ "paggayha": {
+  "meaning": "stretching forth; taking up, exerting",
+  "gram": "gerund of paggaṇhāti (pa + √gah)",
+  "breakdown": [
+   ["pa", "Prefix: forth. (The doubled gg arises by assimilation.)"],
+   ["√gah", "To take, seize; paggaṇhāti means to stretch forth, take up."],
+   ["-ya", "Gerund ending."]
+  ]
+ },
+ "paggaṇhāti": {
+  "meaning": "takes up; stretches forth, holds up; supports",
+  "gram": "verb, 3rd person singular present (pa + √gah)",
+  "breakdown": [
+   ["pa", "Prefix: forth. (The doubled gg arises by assimilation.)"],
+   ["√gah", "To take, seize."]
+  ]
+ },
+ "pahitattā": {
+  "meaning": "of resolute will; energetic, with self applied (to the goal)",
+  "gram": "adjective, compound (pahita + atta), masculine nominative singular or plural",
+  "breakdown": [
+   ["pahita", "Applied, directed, resolute (past participle of padahati \"to strive\")."],
+   ["atta", "Self; pahitatta is \"one whose self is applied\", resolute."]
+  ]
+ }
+}

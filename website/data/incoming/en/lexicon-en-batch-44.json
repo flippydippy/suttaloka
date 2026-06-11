@@ -1,0 +1,412 @@
+{
+ "pharusa vācā harsh": {
+  "meaning": "harsh speech",
+  "gram": "glossary artifact; phrase: adjective + feminine noun",
+  "note": "uncertain: the headword is a run-on glossary line for pharusa vācā “harsh speech”."
+ },
+ "pharusā": {
+  "meaning": "harsh; rough",
+  "gram": "adjective pharusa, feminine nominative singular (agreeing with vācā)",
+  "breakdown": [
+   ["pharusa", "Harsh, rough, coarse."],
+   ["-ā", "Feminine nominative singular ending."]
+  ]
+ },
+ "pharusāya": {
+  "meaning": "of/from harsh (speech)",
+  "gram": "adjective pharusa, feminine dative/genitive/ablative singular (with vācāya)",
+  "breakdown": [
+   ["pharusa", "Harsh, rough."],
+   ["-āya", "Feminine oblique singular ending."]
+  ]
+ },
+ "phoṭṭhabbā": {
+  "meaning": "touches; tangible objects",
+  "gram": "neuter noun phoṭṭhabba (future passive participle of phusati), nominative plural",
+  "breakdown": [
+   ["√phus", "Root meaning “to touch”."],
+   ["-tabba", "Future passive participle suffix: “what is to be touched”, the tangible."]
+  ]
+ },
+ "phusanā": {
+  "meaning": "touching; attaining, reaching",
+  "gram": "neuter/feminine action noun from phusati",
+  "breakdown": [
+   ["√phus", "Root meaning “to touch, to attain”."],
+   ["-anā", "Action-noun suffix."]
+  ]
+ },
+ "phussattheragāthā": {
+  "meaning": "the Verses of the Elder Phussa (Phussattheragāthā)",
+  "gram": "proper noun (text title), feminine plural",
+  "breakdown": [
+   ["Phussa", "Name of the elder (thera)."],
+   ["t", "Sandhi doubling at the compound boundary."],
+   ["thera", "Elder monk."],
+   ["gāthā", "Verses."]
+  ],
+  "forms": ["Phussattheragāthā"]
+ },
+ "phussattheragāthāvaṇṇanā.": {
+  "meaning": "the commentary on the Verses of the Elder Phussa",
+  "gram": "proper noun (commentary title), feminine singular",
+  "breakdown": [
+   ["Phussattheragāthā", "The Verses of the Elder Phussa."],
+   ["vaṇṇanā", "Explanation, commentary."]
+  ],
+  "forms": ["Phussattheragāthāvaṇṇanā"]
+ },
+ "phussitagge": {
+  "meaning": "blossomed at the top; with flowering crowns (of trees)",
+  "gram": "adjective phussitagga, locative singular (or nominative plural)",
+  "breakdown": [
+   ["phussita", "Touched, attained; (of trees) burst into blossom."],
+   ["agge", "At the top (locative of agga)."]
+  ]
+ },
+ "phuṭṭha": {
+  "meaning": "touched; affected by",
+  "gram": "past participle of phusati (√phus + ta)",
+  "breakdown": [
+   ["√phus", "Root meaning “to touch”."],
+   ["-ṭa", "Past participle suffix (phus + ta > phuṭṭha)."]
+  ]
+ },
+ "phāsu": {
+  "meaning": "at ease; comfortable",
+  "gram": "adjective (from √phus)",
+  "breakdown": [
+   ["√phus", "Root meaning “to touch”; phāsu describes what touches pleasantly — comfort, ease."]
+  ]
+ },
+ "phāsuka": {
+  "meaning": "pleasant; comfortable",
+  "gram": "adjective (phāsu + ka)",
+  "breakdown": [
+   ["phāsu", "Comfort, ease."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "phāsukakāmā": {
+  "meaning": "desiring comfort; wishing for ease",
+  "gram": "adjective, compound, nominative plural",
+  "breakdown": [
+   ["phāsuka", "Pleasant, comfortable."],
+   ["kāmā", "Desiring, wishing (plural)."]
+  ]
+ },
+ "phāsumhā": {
+  "meaning": "comfortable, at ease + alas (run-together phrase phāsuṁ + hā)",
+  "gram": "phrase: adjective (accusative) + exclamation",
+  "breakdown": [
+   ["phāsuṁ", "Comfortable, at ease (accusative)."],
+   ["hā", "Exclamation “alas”."]
+  ],
+  "note": "uncertain: parse follows the lexicon's division phāsuṁ + hā; the form could also be an ablative of phāsu."
+ },
+ "phāsuṁ": {
+  "meaning": "comfortable; pleasant; at ease",
+  "gram": "adjective phāsu, accusative singular (often adverbial: “comfortably”)",
+  "forms": ["phāsuṃ"]
+ },
+ "pidaheyya": {
+  "meaning": "would cover; would close, guard",
+  "gram": "verb, optative of pidahati ((a)pi + √dhā)",
+  "breakdown": [
+   ["pi-", "Prefix (shortened api) “over, onto”."],
+   ["√dhā", "Root meaning “to place”: “to place over”, cover, close."],
+   ["-eyya", "Optative ending."]
+  ]
+ },
+ "pilotikaṁ paribbājaka": {
+  "meaning": "Pilotika the wanderer (a paribbājaka, one who wanders about as a mendicant)",
+  "gram": "proper noun + masculine noun",
+  "breakdown": [
+   ["Pilotikaṁ", "Pilotika, name of a wanderer (accusative as cited)."],
+   ["paribbājaka", "Wandering ascetic, from paribbajati “to wander about”."]
+  ],
+  "forms": ["Pilotikaṃ paribbājaka"]
+ },
+ "pipāsā": {
+  "meaning": "thirst; desire to drink; craving",
+  "gram": "feminine noun (desiderative formation from √pā “to drink”)",
+  "breakdown": [
+   ["√pā", "Root meaning “to drink”; the reduplicated desiderative stem pipāsa means “wanting to drink”, thirst."]
+  ]
+ },
+ "pisuṇa": {
+  "meaning": "backbiting; malicious, slanderous (especially of speech, pisuṇa vācā)",
+  "gram": "adjective (√pis + uṇa)",
+  "breakdown": [
+   ["√pis", "Root associated with crushing, grinding: speech that breaks friendships."],
+   ["-uṇa", "Adjectival suffix."]
+  ]
+ },
+ "pisuṇa vācā": {
+  "meaning": "backbiting; malicious, divisive speech",
+  "gram": "phrase: adjective + feminine noun",
+  "breakdown": [
+   ["pisuṇa", "Malicious, slanderous."],
+   ["vācā", "Speech, words."]
+  ],
+  "goenka": "Pisuṇā vācā, backbiting or slanderous speech, is one of the four kinds of wrong speech abandoned in sammāvācā (right speech), together with lying, harsh words and idle chatter. Giving up divisive talk is part of the foundation of sīla on which the meditator's samādhi and paññā are developed."
+ },
+ "pisuṇā": {
+  "meaning": "malicious; slanderous",
+  "gram": "adjective pisuṇa, feminine nominative singular (agreeing with vācā)",
+  "breakdown": [
+   ["pisuṇa", "Malicious, backbiting."],
+   ["-ā", "Feminine nominative singular ending."]
+  ]
+ },
+ "pisuṇāvācādināmameva": {
+  "meaning": "just the designation “malicious speech and the like”",
+  "gram": "compound + emphatic particle",
+  "breakdown": [
+   ["pisuṇā", "Malicious."],
+   ["vācā", "Speech."],
+   ["ādi", "And so forth, suchlike."],
+   ["nāmam", "Name, designation (accusative)."],
+   ["eva", "Emphatic particle “just, only”."]
+  ]
+ },
+ "pisuṇāya": {
+  "meaning": "of/from malicious speech; backbiting",
+  "gram": "adjective pisuṇa, feminine dative/genitive singular (with vācāya)",
+  "breakdown": [
+   ["pisuṇa", "Malicious, backbiting."],
+   ["-āya", "Feminine oblique singular ending."]
+  ]
+ },
+ "pitaraṁ": {
+  "meaning": "father (accusative)",
+  "gram": "masculine noun pitā (r-stem), accusative singular",
+  "forms": ["pitaraṃ"]
+ },
+ "pitā": {
+  "meaning": "father",
+  "gram": "masculine noun (r-stem), nominative singular",
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (mātā “mother”); only “father” belongs to pitā."
+ },
+ "piyacakkhūhi": {
+  "meaning": "with affectionate eyes; with kindly eyes",
+  "gram": "neuter noun, compound, instrumental plural",
+  "breakdown": [
+   ["piya", "Dear, pleasing, affectionate."],
+   ["cakkhūhi", "With eyes (instrumental plural of cakkhu)."]
+  ]
+ },
+ "piyakamyatāya": {
+  "meaning": "out of desire to be liked; through wanting to be dear",
+  "gram": "feminine abstract noun, compound, instrumental/dative singular",
+  "breakdown": [
+   ["piya", "Dear, beloved."],
+   ["kamyatā", "Desire, wishing-for (abstract noun)."],
+   ["-āya", "Instrumental/dative singular ending."]
+  ]
+ },
+ "piyarūpaṁ": {
+  "meaning": "of pleasant form; a dear and agreeable object",
+  "gram": "adjective/neuter noun, compound, nominative/accusative singular",
+  "breakdown": [
+   ["piya", "Pleasant, dear."],
+   ["rūpaṁ", "Form, appearance, object."]
+  ],
+  "forms": ["piyarūpaṃ"],
+  "goenka": "In the Mahāsatipaṭṭhāna Sutta, taṇhā is said to arise and take root wherever in the world there is piyarūpaṁ sātarūpaṁ — whatever is pleasant and agreeable. The meditator learns by direct observation that craving springs up towards pleasant objects and sensations, and that it ceases to take root when these are observed with equanimity and the understanding of anicca."
+ },
+ "piyataramattanā": {
+  "meaning": "dearer than oneself",
+  "gram": "sandhi phrase: comparative adjective (accusative) + instrumental/ablative of attā",
+  "breakdown": [
+   ["piyataraṁ", "Dearer (comparative of piya, accusative)."],
+   ["m", "The niggahīta joins the following vowel as m."],
+   ["attanā", "Than oneself (instrumental/ablative of attā)."]
+  ]
+ },
+ "piyatarasuttaṁ": {
+  "meaning": "the Piyatara Sutta (“Discourse on What Is Dearer”)",
+  "gram": "proper noun (sutta title), neuter singular",
+  "breakdown": [
+   ["piya", "Dear."],
+   ["tara", "Comparative suffix “more”."],
+   ["suttaṁ", "Discourse, sutta."]
+  ],
+  "forms": ["Piyatarasuttaṃ"]
+ },
+ "piyataro": {
+  "meaning": "dearer; more beloved",
+  "gram": "comparative adjective of piya, nominative masculine singular",
+  "breakdown": [
+   ["piya", "Dear, beloved (from √pī “to please”)."],
+   ["-tara", "Comparative suffix “-er, more”."]
+  ]
+ },
+ "piyaṁvadā": {
+  "meaning": "affable; speaking pleasantly, kindly spoken",
+  "gram": "adjective, compound, nominative singular/plural",
+  "breakdown": [
+   ["piyaṁ", "What is pleasant, dear (accusative)."],
+   ["vadā", "Speaking (from vadati “to speak”)."]
+  ],
+  "forms": ["piyaṃvadā"]
+ },
+ "piyehi": {
+  "meaning": "from those who are dear; from the agreeable, liked",
+  "gram": "adjective piya, ablative/instrumental plural",
+  "breakdown": [
+   ["piya", "Dear, agreeable, liked."],
+   ["-ehi", "Ablative/instrumental plural ending."]
+  ]
+ },
+ "piṇḍapātapaṭikkanto": {
+  "meaning": "returned from the alms round",
+  "gram": "adjective, compound, nominative masculine singular",
+  "breakdown": [
+   ["piṇḍa", "Lump of food, alms food."],
+   ["pāta", "What falls (into the bowl): piṇḍapāta is the alms food / alms round."],
+   ["paṭikkanto", "Returned, come back (past participle of paṭikkamati)."]
+  ]
+ },
+ "piṇḍāya": {
+  "meaning": "for alms; for alms food",
+  "gram": "masculine noun piṇḍa, dative singular"
+ },
+ "piṇḍāya for": {
+  "meaning": "for alms",
+  "gram": "glossary artifact; masculine noun piṇḍa, dative singular",
+  "note": "uncertain: the headword is a run-on glossary line for piṇḍāya “for alms”."
+ },
+ "piṭakasampadānena": {
+  "meaning": "on the authority of the scriptures; according to the tradition of the texts (piṭaka)",
+  "gram": "neuter noun, compound, instrumental singular",
+  "breakdown": [
+   ["piṭaka", "Basket; collection of scriptures (as in Tipiṭaka)."],
+   ["sampadāna", "Handing on, tradition, authority."],
+   ["-ena", "Instrumental singular ending."]
+  ],
+  "goenka": "This phrase occurs in the Kālāma Sutta's list of insufficient grounds for accepting a teaching: not by oral tradition, not by lineage, not piṭakasampadānena — on the authority of texts. The tradition emphasises this teaching strongly: truth must be realised by direct experience within oneself, not accepted out of scriptural authority or blind faith."
+ },
+ "pokkharaṇirāmaṇeyyakaṁ": {
+  "meaning": "the loveliness of lotus ponds; delightful lotus ponds",
+  "gram": "neuter noun, compound, accusative singular",
+  "breakdown": [
+   ["pokkharaṇi", "Lotus pond."],
+   ["rāmaṇeyyakaṁ", "Delightfulness, loveliness."]
+  ],
+  "forms": ["pokkharaṇirāmaṇeyyakaṃ"]
+ },
+ "ponobbhavikā": {
+  "meaning": "leading to renewed existence; productive of rebirth",
+  "gram": "adjective, compound (from punabbhava), feminine nominative singular",
+  "breakdown": [
+   ["pono", "From puna “again” (strengthened form)."],
+   ["bbhavikā", "Relating to bhava, existence; sandhi doubling of b: leading again to becoming."]
+  ],
+  "goenka": "Ponobbhavikā describes taṇhā in the Second Noble Truth: yāyaṁ taṇhā ponobbhavikā — “that craving which leads to renewed existence”. Each reaction of craving generates new saṅkhāra and keeps the wheel of becoming turning; by observing sensations with equanimity the meditator stops generating this rebirth-producing craving."
+ },
+ "porī": {
+  "meaning": "polite; urbane, courteous (of speech)",
+  "gram": "adjective (from pura “town”), feminine",
+  "breakdown": [
+   ["pura", "Town, city: porī is town-bred, hence refined, courteous talk."],
+   ["-ī", "Feminine adjectival ending."]
+  ]
+ },
+ "porī vācā": {
+  "meaning": "polite speech; urbane, courteous talk",
+  "gram": "phrase: adjective + feminine noun",
+  "breakdown": [
+   ["porī", "Polite, urbane."],
+   ["vācā", "Speech, words."]
+  ]
+ },
+ "posehi": {
+  "meaning": "feed!; nourish, support",
+  "gram": "verb, 2nd person singular imperative of poseti",
+  "breakdown": [
+   ["pose", "Stem of poseti “to feed, to nourish”."],
+   ["-hi", "2nd person singular imperative ending."]
+  ],
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (pharusa vācā “harsh speech”); only “feed, nourish” belongs to posehi."
+ },
+ "pothujjaniko": {
+  "meaning": "belonging to ordinary people; worldly, of the common worldling",
+  "gram": "adjective (from puthujjana), nominative masculine singular",
+  "breakdown": [
+   ["puthujjana", "Ordinary person, worldling (puthu “common, many” + jana “person”)."],
+   ["-ika", "Adjectival suffix “belonging to”."]
+  ]
+ },
+ "potthakesu": {
+  "meaning": "in books",
+  "gram": "masculine noun potthaka, locative plural",
+  "breakdown": [
+   ["potthaka", "Book, manuscript."],
+   ["-esu", "Locative plural ending."]
+  ]
+ },
+ "pubbanimittaṁ": {
+  "meaning": "foregoing sign; omen, portent",
+  "gram": "neuter noun, compound, nominative/accusative singular",
+  "breakdown": [
+   ["pubba", "Before, previous."],
+   ["nimittaṁ", "Sign, mark."]
+  ],
+  "forms": ["pubbanimittaṃ"]
+ },
+ "pubbapetakathaṁ": {
+  "meaning": "talk about departed relatives; tales of the former dead",
+  "gram": "feminine noun, compound, accusative singular",
+  "breakdown": [
+   ["pubba", "Former, previous."],
+   ["peta", "Departed one, ghost."],
+   ["kathaṁ", "Talk (accusative); one item in the stock list of frivolous talk (tiracchānakathā) a meditator avoids."]
+  ],
+  "forms": ["pubbapetakathaṃ"]
+ },
+ "pubbaṇhasamayaṁ": {
+  "meaning": "in the forenoon; during the morning time",
+  "gram": "masculine noun, compound, accusative singular (adverbial)",
+  "breakdown": [
+   ["pubbaṇha", "Forenoon, morning (pubba “early” + aṇha “part of day”)."],
+   ["samayaṁ", "Time, occasion (accusative)."]
+  ],
+  "forms": ["pubbaṇhasamayaṃ"],
+  "note": "uncertain: the lexicon's gloss line runs into the next entry (puratthimo “eastern”); only “forenoon time” belongs to this headword."
+ },
+ "pubbupakāritāya": {
+  "meaning": "because of being a former benefactor; on account of earlier help given",
+  "gram": "feminine abstract noun, compound, instrumental/dative singular",
+  "breakdown": [
+   ["pubba", "Former, earlier."],
+   ["upakāri", "Benefactor, helper."],
+   ["-tāya", "Abstract noun suffix -tā with oblique ending: “the state of being”."]
+  ]
+ },
+ "pubbuṭṭhāyino": {
+  "meaning": "rising before (others); getting up first",
+  "gram": "adjective pubbuṭṭhāyī, nominative plural (or genitive singular)",
+  "breakdown": [
+   ["pubba", "Before, earlier (pubbe + u coalesce to pubbu-)."],
+   ["uṭṭhāyī", "One who rises, gets up (from uṭṭhahati)."]
+  ]
+ },
+ "pucchāmi": {
+  "meaning": "I ask",
+  "gram": "verb, 1st person singular present of pucchati (√pucch)",
+  "breakdown": [
+   ["√pucch", "Root meaning “to ask”."],
+   ["-āmi", "1st person singular ending."]
+  ]
+ },
+ "puggalavaggo": {
+  "meaning": "the Puggala Vagga (“Chapter on Persons”), a section presenting details about the individuals discussed",
+  "gram": "proper noun (chapter title), masculine nominative singular",
+  "breakdown": [
+   ["puggala", "Person, individual."],
+   ["vaggo", "Chapter, section, group."]
+  ],
+  "forms": ["Puggalavaggo"]
+ }
+}

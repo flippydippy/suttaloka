@@ -1,0 +1,405 @@
+{
+ "kamman­": {
+  "meaning": "work and arrangement (first part of kammantasaṁvidhānena, \"by the arrangement of work\")",
+  "summary": "This is a line-break fragment: kamman-tasaṁvidhānena is the single compound kammantasaṁvidhānena split across lines in the source.",
+  "gram": "fragment of a neuter compound noun (kammanta + saṁvidhāna, instrumental singular)",
+  "breakdown": [
+   ["kammanta", "Work, occupation, business."],
+   ["saṁvidhāna", "Appointing, arrangement, organisation."]
+  ],
+  "note": "uncertain: the headword is a hyphenation fragment from the source text; see kammantasaṁvidhānena for the full word."
+ },
+ "kammapaṭisaraṇo": {
+  "meaning": "having kamma as one's refuge; kamma as one's reconciliation",
+  "summary": "From the reflection on kamma: \"kamma is my reconciliation (refuge)\".",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["paṭisaraṇa", "Refuge, support, act of reconciliation."]
+  ]
+ },
+ "kammaseṭṭhassa": {
+  "meaning": "of the doer of the highest work",
+  "gram": "compound (genitive singular)",
+  "breakdown": [
+   ["kamma", "Work, action."],
+   ["seṭṭha", "Highest, best."],
+   ["-assa", "Genitive singular ending: \"of\"."]
+  ]
+ },
+ "kammasocanaṁ": {
+  "meaning": "sorrowing over one's action; bewailing a deed",
+  "gram": "neuter noun, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["kamma", "Action, deed."],
+   ["socana", "Sorrow, bewailing, grieving."]
+  ]
+ },
+ "kammassakatāñāṇaṁ": {
+  "meaning": "the knowledge that kamma is one's own possession",
+  "gram": "neuter noun, compound (nominative/accusative singular)",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["sakatā", "The state of being one's own. (The doubling ss is junction doubling.)"],
+   ["ñāṇa", "Knowledge."]
+  ]
+ },
+ "kammassako": {
+  "meaning": "having kamma as one's own possession",
+  "summary": "The opening term of the reflection \"kamma is my only possession\"; its opposite assaka/appassaka means having little or nothing of one's own.",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["saka", "One's own. (The doubling ss is junction doubling.)"]
+  ]
+ },
+ "kammassakomhi": {
+  "meaning": "I am the owner of my kamma; kamma is my own possession",
+  "gram": "idiom: adjective + verb (kammassako + amhi \"I am\", fused by sandhi)",
+  "breakdown": [
+   ["kammassaka", "Having kamma as one's own possession."],
+   ["amhi", "I am (1st person singular of atthi). (The final -o fuses with a-: kammassako + amhi → kammassakomhi.)"]
+  ]
+ },
+ "kammavaṭṭavipākavaṭṭavasena": {
+  "meaning": "on account of the round of kamma and the round of its results",
+  "gram": "compound noun (instrumental singular used adverbially)",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["vaṭṭa", "Round, cycle."],
+   ["vipāka", "Result, ripened fruit."],
+   ["vasena", "On account of, by way of (instrumental of vasa)."]
+  ]
+ },
+ "kammavisuddhimattano": {
+  "meaning": "the purity of one's own deeds",
+  "gram": "sandhi fusion: noun + noun + genitive pronoun (kamma + visuddhiṁ + attano)",
+  "breakdown": [
+   ["kamma", "Deed, action."],
+   ["visuddhi", "Purity, cleanness."],
+   ["m", "Junction consonant (sandhi insertion)."],
+   ["attano", "Of oneself, one's own (genitive of attā)."]
+  ]
+ },
+ "kammayoni": {
+  "meaning": "born from one's kamma; having kamma as one's womb",
+  "summary": "From the reflection on kamma: \"I am born from my kamma\".",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kamma", "Volitional action."],
+   ["yoni", "Womb, origin."]
+  ]
+ },
+ "kammaṭṭhānena": {
+  "meaning": "by means of action; through the base of action",
+  "gram": "neuter noun, compound (instrumental singular)",
+  "breakdown": [
+   ["kamma", "Action."],
+   ["ṭhāna", "Place, base, means. (The doubling ṭṭh is junction doubling.)"]
+  ]
+ },
+ "kammāsampī": {
+  "meaning": "even the blemished one; though variegated, stained",
+  "gram": "adjective (kammāsa) + enclitic particle api, fused by sandhi",
+  "breakdown": [
+   ["kammāsa", "Blemished, spotted, variegated."],
+   ["api", "Even, also. (Fused: kammāsam + api → kammāsampī with the vowel lengthened in verse.)"]
+  ]
+ },
+ "kampati": {
+  "meaning": "trembles; shakes",
+  "gram": "verb, 3rd person singular present (√kamp)",
+  "breakdown": [
+   ["√kamp", "Root: to tremble, to shake."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "kantā": {
+  "meaning": "pleasing; charming; lovely",
+  "gram": "past participle of kāmeti (√kam), here feminine/plural form",
+  "breakdown": [
+   ["√kam", "Root: to desire, to love (kāmeti)."],
+   ["-ta", "Past participle suffix: loved, hence pleasing, charming."]
+  ]
+ },
+ "kappa": {
+  "meaning": "an aeon; a fixed period of individual or cosmic life",
+  "summary": "A simile compares a kappa to a period not exhausted even if someone removed one seed every hundred years from a granary one yojana (about seven miles) in length, breadth and height, filled with tiny mustard seeds.",
+  "gram": "masculine noun",
+  "breakdown": [
+   ["√kapp", "Root: to be fit, to arrange (kappati)."],
+   ["-a", "Noun suffix; kappa is literally a fitting or fixed ordering, hence a fixed span of time."]
+  ]
+ },
+ "kappati": {
+  "meaning": "to be fit, proper, suitable; to be allowable",
+  "gram": "verb, 3rd person singular present (√kapp)",
+  "breakdown": [
+   ["√kapp", "Root: to be fit, suitable."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "kappeti": {
+  "meaning": "to make; to carry on; to arrange",
+  "gram": "verb, 3rd person singular present, causative of kappati",
+  "breakdown": [
+   ["√kapp", "Root: to be fit, to arrange."],
+   ["-e-", "Causative stem sign."],
+   ["-ti", "3rd person singular present ending."]
+  ]
+ },
+ "karaṇaṁ": {
+  "meaning": "doing; making; the act or instrument of doing",
+  "gram": "neuter action noun from karoti (nominative/accusative singular)",
+  "breakdown": [
+   ["√kar", "Root: to do, to make (karoti)."],
+   ["-aṇa", "Action-noun suffix."]
+  ],
+  "note": "uncertain: the lexicon's gloss line for this row is garbled (it runs together with a neighbouring row about \"restrained + in consequence of\"); the meaning given follows the standard sense supported by the DPD analysis."
+ },
+ "karaṇīya": {
+  "meaning": "something that should be done; a duty",
+  "gram": "potential participle of karoti (√kar + -aṇīya)",
+  "breakdown": [
+   ["√kar", "Root: to do, to make (karoti)."],
+   ["-aṇīya", "Potential participle suffix: \"that ought to be done\"."]
+  ]
+ },
+ "karaṇīyametta suttaṁ": {
+  "meaning": "the Karaṇīyamettasutta, the Discourse on What Ought to Be Done (the Mettā Sutta)",
+  "gram": "phrase: proper noun (title of a sutta)",
+  "breakdown": [
+   ["karaṇīya", "What ought to be done."],
+   ["mettā", "Loving kindness, goodwill."],
+   ["sutta", "Discourse."]
+  ],
+  "forms": ["Karaṇīyametta Suttaṁ"]
+ },
+ "karaṇīyaṁ": {
+  "meaning": "what ought to be done",
+  "gram": "potential participle of karoti, neuter nominative/accusative singular",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-aṇīya", "Potential participle suffix: \"that ought to be done\"."]
+  ]
+ },
+ "karaṇīyo": {
+  "meaning": "what ought to be done; duty, obligation",
+  "gram": "potential participle of karoti, masculine nominative singular",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-aṇīya", "Potential participle suffix: \"that ought to be done\"."]
+  ]
+ },
+ "karissāmi": {
+  "meaning": "I will perform; I will do",
+  "gram": "verb, 1st person singular future of karoti",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-issā-", "Future stem sign."],
+   ["-mi", "1st person singular ending."]
+  ]
+ },
+ "karontenapi": {
+  "meaning": "even while doing; and by one doing",
+  "gram": "present participle of karoti (instrumental singular) + enclitic particle pi",
+  "breakdown": [
+   ["karonta", "Doing (present participle of karoti)."],
+   ["-ena", "Instrumental singular ending."],
+   ["pi", "Enclitic particle: \"and, even, also\"."]
+  ]
+ },
+ "karotha": {
+  "meaning": "you should make; do! (addressed to several people)",
+  "gram": "verb, 2nd person plural imperative of karoti",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-otha", "2nd person plural imperative ending."]
+  ]
+ },
+ "kasigorakkhe": {
+  "meaning": "farming and cattle-keeping; farmer and cowherd",
+  "gram": "masculine compound (here locative/plural form)",
+  "breakdown": [
+   ["kasi", "Ploughing, farming."],
+   ["gorakkha", "Cattle-keeping, cowherding (go \"cow\" + rakkha \"protecting\")."]
+  ]
+ },
+ "kasiravuttike": {
+  "meaning": "finding it hard to support oneself; of difficult livelihood",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kasira", "Hard, difficult, miserable."],
+   ["vutti", "Livelihood, mode of life."],
+   ["-ka", "Adjectival suffix."]
+  ]
+ },
+ "kasirena": {
+  "meaning": "with difficulty",
+  "gram": "adjective kasira in the instrumental singular, used adverbially",
+  "breakdown": [
+   ["kasira", "Hard, difficult."],
+   ["-ena", "Instrumental singular ending: \"with, by\"."]
+  ]
+ },
+ "kasmā": {
+  "meaning": "why?; from what?; of what sort?",
+  "gram": "interrogative pronoun, ablative singular of ka/ko (\"who, what\")"
+ },
+ "kasāmivā": {
+  "meaning": "like a whip",
+  "gram": "noun + comparison particle (kasaṁ + iva, fused in verse)",
+  "breakdown": [
+   ["kasā", "Whip."],
+   ["iva", "Like, as (comparison particle; vowel lengthened in verse)."]
+  ]
+ },
+ "katabhāvajānanañāṇaṁ": {
+  "meaning": "the knowledge that understands what development has been done",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["kata", "Done (past participle of karoti)."],
+   ["bhāva", "Development, state."],
+   ["jānana", "Understanding, knowing."],
+   ["ñāṇa", "Knowledge."]
+  ]
+ },
+ "katakaraṇīyo": {
+  "meaning": "one who has done what ought to be done",
+  "summary": "A stock description of the Arahant: the task is fulfilled.",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kata", "Done (past participle of karoti)."],
+   ["karaṇīya", "What ought to be done (potential participle of karoti)."]
+  ]
+ },
+ "katakaraṇīyā": {
+  "meaning": "those who have done what ought to be done",
+  "gram": "adjective, compound (plural form of katakaraṇīya)",
+  "breakdown": [
+   ["kata", "Done (past participle of karoti)."],
+   ["karaṇīya", "What ought to be done (potential participle of karoti)."]
+  ]
+ },
+ "katama": {
+  "meaning": "what?; which?",
+  "gram": "interrogative pronoun (ka + -tama)"
+ },
+ "katamo": {
+  "meaning": "which one?",
+  "gram": "interrogative pronoun, masculine nominative singular (ka + -tama)"
+ },
+ "katapurebhattakicco": {
+  "meaning": "having fulfilled the duties of the morning (before the meal)",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kata", "Fulfilled, done."],
+   ["pure", "Earlier, before."],
+   ["bhatta", "Meal, food."],
+   ["kicca", "Obligation, duty."]
+  ]
+ },
+ "katapuññatā": {
+  "meaning": "the merit of past good deeds; having done meritorious deeds",
+  "gram": "feminine abstract noun, compound (from katapuñña)",
+  "breakdown": [
+   ["kata", "Done (past participle of karoti)."],
+   ["puñña", "Merit, wholesome deed."],
+   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "katapuñño": {
+  "meaning": "one who has done meritorious deeds",
+  "gram": "adjective, compound (masculine nominative singular)",
+  "breakdown": [
+   ["kata", "Done (past participle of karoti)."],
+   ["puñña", "Merit, wholesome deed."]
+  ]
+ },
+ "katavedī": {
+  "meaning": "grateful; literally, understanding what has been done for oneself",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kata", "What has been done (past participle of karoti)."],
+   ["vedī", "Understanding, knowing, feeling."]
+  ]
+ },
+ "kataññutā": {
+  "meaning": "gratefulness; gratitude",
+  "gram": "feminine abstract noun (from kataññū)",
+  "breakdown": [
+   ["kata", "What has been done (past participle of karoti)."],
+   ["-ññū", "Knowing (from jānāti)."],
+   ["-tā", "Abstract-noun suffix: \"the state of\"."]
+  ]
+ },
+ "kataññū": {
+  "meaning": "grateful; literally, knowing what has been done for oneself",
+  "gram": "adjective, compound",
+  "breakdown": [
+   ["kata", "What has been done (past participle of karoti)."],
+   ["-ññū", "Knowing (from jānāti; kata + ñū with junction doubling)."]
+  ]
+ },
+ "kathaṁ": {
+  "meaning": "how?; in what way?",
+  "gram": "interrogative adverb",
+  "note": "uncertain: the lexicon's gloss line for this row is garbled (it runs together with the neighbouring kappa and kappati rows); the meaning given is the standard interrogative sense \"how?\"."
+ },
+ "kathāvatthu": {
+  "meaning": "the Kathāvatthu (\"Points of Controversy\"), a book of the Abhidhamma; subject of talk",
+  "gram": "neuter noun, compound; also a proper noun (title)",
+  "breakdown": [
+   ["kathā", "Talk, discourse."],
+   ["vatthu", "Subject, substance, basis."]
+  ],
+  "forms": ["Kathāvatthu"]
+ },
+ "katipayā": {
+  "meaning": "few; some; several",
+  "gram": "adjective (here nominative plural)"
+ },
+ "kattabbakiccajānanañāṇaṁ": {
+  "meaning": "the knowledge that understands the duty that should be done",
+  "gram": "neuter noun, compound",
+  "breakdown": [
+   ["kattabba", "That should be done (potential participle of karoti)."],
+   ["kicca", "Obligation, duty."],
+   ["jānana", "Understanding, knowing."],
+   ["ñāṇa", "Knowledge."]
+  ]
+ },
+ "kattabbaṁ": {
+  "meaning": "what should be done",
+  "gram": "potential participle of karoti (√kar + -tabba), neuter nominative/accusative singular",
+  "breakdown": [
+   ["√kar", "Root: to do, to make."],
+   ["-tabba", "Potential participle suffix: \"that should be done\"."]
+  ]
+ },
+ "kattha": {
+  "meaning": "where?; where to, whither?",
+  "gram": "interrogative adverb, indeclinable (from ka)"
+ },
+ "katthaci": {
+  "meaning": "anywhere; somewhere",
+  "gram": "indeclinable adverb (kattha \"where\" + indefinite -ci)"
+ },
+ "kattikapavāraṇadivase": {
+  "meaning": "on the day of the Pavāraṇā ceremony in the month of Kattika",
+  "gram": "compound noun (locative singular)",
+  "breakdown": [
+   ["kattika", "The month of Kattika (October–November), the close of the rains retreat."],
+   ["pavāraṇā", "The Pavāraṇā, the ceremony of mutual invitation that ends the rains retreat."],
+   ["divasa", "Day."]
+  ]
+ },
+ "kattukāmo": {
+  "meaning": "desirous of doing; wanting to perform",
+  "gram": "adjective, compound (infinitive kattuṁ + kāma; masculine nominative singular)",
+  "breakdown": [
+   ["kattuṁ", "To do (infinitive of karoti)."],
+   ["kāma", "Desiring, wishing."]
+  ]
+ }
+}
